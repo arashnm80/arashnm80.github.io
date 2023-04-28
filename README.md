@@ -15,11 +15,11 @@
 - [SCRIBD Audiobooks](https://t.me/SCRIBD_Audiobooks)
 
 ### Telegram bots:
-- [Spot Seek | Spotify Music Downloader](https://t.me/SpotSeekBot) - [source](https://github.com/arashnm80/spot-seek-bot)
+- [Spot Seek , Spotify Music Downloader](https://t.me/SpotSeekBot) - [source](https://github.com/arashnm80/spot-seek-bot)
 - [nm80 dictionary bot](https://t.me/nm80_dictionary_bot) - [source](https://github.com/arashnm80/nm80-dictionary-bot)
 
 ### Code Practice:
-- [Quera | Answer to contests & problems (Persian)](https://github.com/arashnm80/quera)
+- [Quera , Answer to contests & problems (Persian)](https://github.com/arashnm80/quera)
 
 ### Other Works:
 - [Python Tutorial for Research Center Students (Persian)](https://github.com/arashnm80/python-tutorial)
