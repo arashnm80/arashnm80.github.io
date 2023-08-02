@@ -8,16 +8,6 @@ Arash Nemat Zadeh, teacher & programmer
 
 [GitHub](https://github.com/Arashnm80) • [YouTube](https://www.youtube.com/@Arashnm80) • [LinkedIn](https://www.linkedin.com/in/Arashnm80) • [Twitter](https://twitter.com/Arashnm80)
 
-
-### About me:
-<!--
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arashnm80&show_icons=true)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arashnm80&repo=public-arash)](https://github.com/anuraghazra/github-readme-stats)
--->
-**Pull requests are welcome in all of my projects, in case you found an error or want to improve sth.**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arashnm80)](https://github.com/arashnm80?tab=repositories)
-
 ### <a href="https://github.com/arashnm80#telegram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/7ec05081dcb25f30e71cd7200fcd360f5daf1111/src/images/icons/Social/telegram.svg" alt="Telegram Channels" height="30" width="40" /></a> Telegram:
 - **Channels**
   - **[Arashnm80 Channel](https://t.me/Arashnm80_Channel) (main channel)**
@@ -33,7 +23,7 @@ Arash Nemat Zadeh, teacher & programmer
 - [Arashnm80](https://www.youtube.com/@Arashnm80) -> [source](https://github.com/arashnm80/youtube)
 - [Arashnm80 Persian](https://www.youtube.com/@Arashnm80_Persian) -> [source](https://github.com/arashnm80/youtube-persian)
 
-### <a href="https://github.com/arashnm80#classes"><img align="center" src="https://github.com/arashnm80/arashnm80/blob/main/src/icons/Google_Classroom_Logo.svg" alt="Classes" height="30" width="40" /></a> Classes:
+### <a href="https://github.com/arashnm80#classes"><img align="center" src="https://raw.githubusercontent.com/arashnm80/arashnm80/main/src/icons/Google_Classroom_Logo.svg" alt="Classes" height="30" width="40" /></a> Classes:
 - [Python Tutorial](https://github.com/arashnm80/python-tutorial) (Persian)
 - [Programmers Club](https://github.com/arashnm80/programmers-club) (Persian)
 
@@ -44,6 +34,6 @@ Arash Nemat Zadeh, teacher & programmer
 - telegram: [t.me/arashnm80](https://t.me/arashnm80)
 - email: arashnm80@gmail.com
 
-### <a href="https://github.com/arashnm80#give-me-energy-with-coffee"><img align="center" src="https://github.com/arashnm80/arashnm80/blob/main/src/icons/Coffee_cup_icon.svg" alt="Give me energy with coffee" height="30" width="40" /></a> Give me energy with coffee😉☕:
+### <a href="https://github.com/arashnm80#give-me-energy-with-coffee"><img align="center" src="https://raw.githubusercontent.com/arashnm80/arashnm80/main/src/icons/Coffee_cup_icon.svg" alt="Give me energy with coffee" height="30" width="40" /></a> Give me energy with coffee😉☕:
 - [BuyMeACoffee](https://www.buymeacoffee.com/Arashnm80) (US $)
 - [Coffeete](https://www.coffeete.ir/Arashnm80) (IR ريال)
