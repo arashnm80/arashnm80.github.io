@@ -12,7 +12,7 @@ permalink: /donate/
 - [Patreon](https://www.patreon.com/Arashnm80) (US $)
 - [HamiBash](https://hamibash.com/Arashnm80) (IR ريال)
 
-### Cryptocurrency wallets:
+### Donation via crypto:
 
 | Coin | Wallet Address |
 | --- | --- |
