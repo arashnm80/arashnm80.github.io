@@ -3,10 +3,11 @@ layout: page
 title: Donate & Support
 permalink: /donate/
 ---
+You can donate & support to help me continue and improve my projects. This page contains all possible methods.
 
 ### Give me energy with coffee:
 - [BuyMeACoffee](https://www.buymeacoffee.com/Arashnm80) (US $)
-- [Coffeete](https://www.coffeete.ir/Arashnm80) (IR ريال)
+- [Coffeete](https://www.coffeete.ir/Arashnm80) (🇮🇷IR ريال)
 
 ### Continuous monthly support:
 - [Patreon](https://www.patreon.com/Arashnm80) (US $)
