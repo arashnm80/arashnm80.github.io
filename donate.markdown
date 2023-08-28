@@ -14,7 +14,7 @@ permalink: /donate/
 
 ### Cryptocurrency Wallets:
 | Coin | Wallet Address |
-| --- | --- |
+|-------|--------|
 | Bitcoin (BTC) | `bc1qanustkjm7s9ap9lkqmn9d50z0sertz0lwk7cw3` |
 | Litecoin (LTC) | `ltc1qzyumeuzy5fcqesjq92j6g89u7p904hj96akz6y` |
 | Ethereum (ETH) | `0x3D7445EfB7a565D237E8afa2f6cBD7D29cb836EE` |
