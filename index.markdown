@@ -2,9 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
-
-# to remove posts from home:
-list_title: ' '
+layout: page
 ---
 hello world
+how are you home
