@@ -3,6 +3,9 @@ layout: post
 title:  "First Post"
 date:   2000-08-27 13:19:00 +0000
 categories: MyPosts
+
+# my test
+page_excerpts: true
 ---
 Hello, welcome to my website. \
 I'm Arash.
