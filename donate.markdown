@@ -8,11 +8,11 @@ permalink: /donate/
 - [BuyMeACoffee](https://www.buymeacoffee.com/Arashnm80) (US $)
 - [Coffeete](https://www.coffeete.ir/Arashnm80) (IR ريال)
 
-### Continuous Monthly Support:
+### Continuous monthly support:
 - [Patreon](https://www.patreon.com/Arashnm80) (US $)
 - [HamiBash](https://hamibash.com/Arashnm80) (IR ريال)
 
-### Cryptocurrency Wallets:
+### Cryptocurrency wallets:
 
 | Coin | Wallet Address |
 | --- | --- |
