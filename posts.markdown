@@ -4,5 +4,8 @@
 
 layout: home
 title: Posts
-permalink: /posts-test/
+permalink: /posts/
 ---
+
+hello world
+how are you posts
