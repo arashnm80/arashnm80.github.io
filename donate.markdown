@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Donate
+# title: Donate
 permalink: /donate/
 ---
 hello world (no empty line)
+
+
 **You can donate & support to help me continue and improve my projects. This page contains all possible methods.**
 
 ### Give me energy with coffee:
