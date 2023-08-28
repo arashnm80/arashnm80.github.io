@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Donate & Support
+title: Donate
 permalink: /donate/
 ---
 **You can donate & support to help me continue and improve my projects. This page contains all possible methods.**
