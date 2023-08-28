@@ -4,7 +4,7 @@ title: Donate & Support
 permalink: /donate/
 ---
 
-### <a href="https://github.com/arashnm80#give-me-energy-with-coffee"><img align="center" src="https://raw.githubusercontent.com/arashnm80/arashnm80/main/src/icons/Coffee_cup_icon.svg" alt="Give me energy with coffee" height="30" width="40" /></a> Give me energy with coffee😉☕:
+### Give me energy with coffee:
 - [BuyMeACoffee](https://www.buymeacoffee.com/Arashnm80) (US $)
 - [Coffeete](https://www.coffeete.ir/Arashnm80) (IR ريال)
 
@@ -15,7 +15,7 @@ permalink: /donate/
 ### Cryptocurrency Wallets:
 
 | Coin | Wallet Address |
-|---|---|
+| --- | --- |
 | Bitcoin (BTC) | `bc1qanustkjm7s9ap9lkqmn9d50z0sertz0lwk7cw3` |
 | Litecoin (LTC) | `ltc1qzyumeuzy5fcqesjq92j6g89u7p904hj96akz6y` |
 | Ethereum (ETH) | `0x3D7445EfB7a565D237E8afa2f6cBD7D29cb836EE` |
