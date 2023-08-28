@@ -8,6 +8,3 @@ permalink: /posts/
 # I don't need to specify title because it will be duplicated
 # title: Posts
 ---
-
-hello world
-how are you posts
