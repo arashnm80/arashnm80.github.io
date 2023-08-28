@@ -13,6 +13,7 @@ permalink: /donate/
 - [HamiBash](https://hamibash.com/Arashnm80) (IR ريال)
 
 ### Cryptocurrency Wallets:
+
 | Coin | Wallet Address |
 |-------|--------|
 | Bitcoin (BTC) | `bc1qanustkjm7s9ap9lkqmn9d50z0sertz0lwk7cw3` |
