@@ -3,15 +3,15 @@ layout: page
 title: Donate & Support
 permalink: /donate/
 ---
-You can donate & support to help me continue and improve my projects. This page contains all possible methods.
+**You can donate & support to help me continue and improve my projects. This page contains all possible methods.**
 
 ### Give me energy with coffee:
-- [BuyMeACoffee](https://www.buymeacoffee.com/Arashnm80) (US $)
-- [Coffeete](https://www.coffeete.ir/Arashnm80) (🇮🇷IR ريال)
+- [BuyMeACoffee](https://www.buymeacoffee.com/Arashnm80) (🇺🇸 $)
+- [Coffeete](https://www.coffeete.ir/Arashnm80) (🇮🇷 ريال)
 
 ### Continuous monthly support:
-- [Patreon](https://www.patreon.com/Arashnm80) (US $)
-- [HamiBash](https://hamibash.com/Arashnm80) (IR ريال)
+- [Patreon](https://www.patreon.com/Arashnm80) (🇺🇸 $)
+- [HamiBash](https://hamibash.com/Arashnm80) (🇮🇷 ريال)
 
 ### Donation via crypto:
 
