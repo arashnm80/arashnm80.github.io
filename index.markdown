@@ -4,5 +4,5 @@
 
 layout: page
 ---
-hello world
-how are you home
+
+hello world (1 empty line)
