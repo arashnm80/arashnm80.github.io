@@ -7,7 +7,7 @@ permalink: /donate/
 
 ### Give me energy with coffee:
 - [BuyMeACoffee](https://www.buymeacoffee.com/Arashnm80) (🇺🇸 $)
-- ~~[Coffeete](https://www.coffeete.ir/Arashnm80) (🇮🇷 ريال)~~ -> Will be available soon
+- [Coffeete](https://www.coffeete.ir/Arashnm80) (🇮🇷 ريال)
 
 ### Continuous monthly support:
 - [Patreon](https://www.patreon.com/Arashnm80) (🇺🇸 $)
