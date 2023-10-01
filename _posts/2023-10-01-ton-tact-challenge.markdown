@@ -40,7 +40,7 @@ Join the contest: https://t.me/toncontests_bot
 
 # Sources to learn
 
-Tact Documentation: https://docs.tact-lang.org/
+Tact Documentation: [https://docs.tact-lang.org/](https://docs.tact-lang.org/)
 
 Tact Hello World: https://tact-by-example.org/
 

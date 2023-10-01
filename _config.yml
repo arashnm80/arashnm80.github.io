@@ -56,5 +56,5 @@ plugins:
 
 
 # my modifications:
-timezone: IR
+# timezone: IR
 page_excerpts: true
