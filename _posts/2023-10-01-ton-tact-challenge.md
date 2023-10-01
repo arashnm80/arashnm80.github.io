@@ -5,9 +5,12 @@ date:   2023-10-01
 categories: posts
 
 # my test
-page_excerpts: true
+# page_excerpts: true
+excerpt_separator: <!--more-->
 ---
 A challenge for both seasoned pros and curious newcomers with $30,000 prize pool.
+
+excerpt_separator: <!--more-->
 
 ![TON Tact Challenge](https://storage.googleapis.com/ton-strapi/Image_b052e8e0da/Image_b052e8e0da.png)
 
