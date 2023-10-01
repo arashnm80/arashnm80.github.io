@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 
 - Website: [https://tactchallenge.com/](https://tactchallenge.com/)
 - Join the contest: [https://t.me/toncontests_bot](https://t.me/toncontests_bot)
-s
+
 Sources to learn:
 - Tact Documentation: [https://docs.tact-lang.org/](https://docs.tact-lang.org/)
 - Tact Hello World: [https://tact-by-example.org/](https://tact-by-example.org/)
@@ -27,5 +27,7 @@ Sources to learn:
 - Join: [https://t.me/hacktonberfest_bot](https://t.me/hacktonberfest_bot)
 
 # NFT Standard Challenge
+![NFT Standard Challenge](https://ximg.magic.store/aLNY8LDdiHeJv4rmKypADGO3yQ1imWMvFuyGQbb8h54/rs:fill-down:1400:642:0/dpr:1/g:ce/f:webp/q:60/czM6Ly9wcm9kLW1hZ2ljLXN0b3JlLWltYWdlcy9kNDNiMGY5ZS1kMjUwLTQ5ZDktOTY0MS0wNjM2NGUwN2Y4MjM)
+
 - Official post in telegram: [https://t.me/toncontests/139](https://t.me/toncontests/139)
 - TON NFT Marketplace [https://getgems.io/](https://getgems.io/)
