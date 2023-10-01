@@ -36,6 +36,8 @@ The total prize might change depending on the number of participants.
 
 Join the contest: [https://t.me/toncontests_bot](https://t.me/toncontests_bot)
 
+©️ Official Website: [https://tactchallenge.com/](https://tactchallenge.com/)
+
 ---
 
 # Sources to learn
