@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TON Tact Challenge"
-date:   2023-10-01 17:23:00
+date:   2023-10-01
 categories: posts
 
 # my test
