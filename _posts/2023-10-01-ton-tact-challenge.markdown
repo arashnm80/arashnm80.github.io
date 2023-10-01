@@ -8,6 +8,7 @@ categories: posts
 page_excerpts: true
 ---
 A challenge for both seasoned pros and curious newcomers with $30,000 prize pool.
+
 ![TON Tact Challenge](https://storage.googleapis.com/ton-strapi/Image_b052e8e0da/Image_b052e8e0da.png)
 
 # About the contest
@@ -26,9 +27,21 @@ Winners of the contest will receive prizes denominated in Toncoin, the native cr
 Each task can bring you a max of 6 points. You get 5 points for solving a task. You get an extra point if you solve it without using any gas.
 
 ### Prizes:
-The top 15% of participants share $10,000 in TON
-The middle 30% of participants share $10,000 in TON
-The bottom 55% of participants share $10,000 in TON
+The top 15% of participants share $10,000 in TON \
+The middle 30% of participants share $10,000 in TON \
+The bottom 55% of participants share $10,000 in TON \
 Each prize pool is shared equally among the participants in that group. In total, we're giving away $30,000 in TON prizes.
 
 The total prize might change depending on the number of participants.
+
+Join the contest: https://t.me/toncontests_bot
+
+---
+
+# Sources to learn
+
+Tact Documentation: https://docs.tact-lang.org/
+
+Tact Hello World: https://tact-by-example.org/
+
+Tact Discussion Group: https://t.me/tactlang
