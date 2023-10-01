@@ -34,7 +34,7 @@ Each prize pool is shared equally among the participants in that group. In total
 
 The total prize might change depending on the number of participants.
 
-Join the contest: https://t.me/toncontests_bot
+Join the contest: [https://t.me/toncontests_bot](https://t.me/toncontests_bot)
 
 ---
 
@@ -42,6 +42,6 @@ Join the contest: https://t.me/toncontests_bot
 
 Tact Documentation: [https://docs.tact-lang.org/](https://docs.tact-lang.org/)
 
-Tact Hello World: [https://tact-by-example.org/]
+Tact Hello World: [https://tact-by-example.org/](https://tact-by-example.org/)
 
-Tact Discussion Group: https://t.me/tactlang
+Tact Discussion Group: [https://t.me/tactlang](https://t.me/tactlang)
