@@ -42,6 +42,6 @@ Join the contest: https://t.me/toncontests_bot
 
 Tact Documentation: [https://docs.tact-lang.org/](https://docs.tact-lang.org/)
 
-Tact Hello World: https://tact-by-example.org/
+Tact Hello World: [https://tact-by-example.org/]
 
 Tact Discussion Group: https://t.me/tactlang
