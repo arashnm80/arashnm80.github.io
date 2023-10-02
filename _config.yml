@@ -56,5 +56,6 @@ plugins:
 
 
 # my modifications:
+permalink: pretty
 # timezone: IR
 # page_excerpts: true
