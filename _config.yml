@@ -60,3 +60,6 @@ permalink: pretty # to remove .html from the end
 show_excerpts: true
 # excerpt_separator: "<!--more-->" # global excerpt separator for the blog posts
 # timezone: IR
+
+header_pages:
+  - works.markdown
