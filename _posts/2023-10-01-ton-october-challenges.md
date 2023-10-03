@@ -8,6 +8,9 @@ categories: posts
 # page_excerpts: true
 excerpt_separator: <!--more-->
 ---
+latest TON related challenges and contests in October
+<!--more-->
+
 # TON Tact Challenge
 ![TON Tact Challenge](https://storage.googleapis.com/ton-strapi/Image_b052e8e0da/Image_b052e8e0da.png)
 
