@@ -6,11 +6,10 @@ categories: posts
 excerpt_separator: <!--more-->
 ---
 latest TON related challenges and contests in October
-
+<!--more-->
 
 # TON Tact Challenge
 ![TON Tact Challenge](https://storage.googleapis.com/ton-strapi/Image_b052e8e0da/Image_b052e8e0da.png)
-<!--more-->
 
 - Website: [https://tactchallenge.com/](https://tactchallenge.com/)
 - Join the contest: [https://t.me/toncontests_bot](https://t.me/toncontests_bot)
