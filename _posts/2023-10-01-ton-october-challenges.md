@@ -10,6 +10,7 @@ latest TON related challenges and contests in October
 
 # TON Tact Challenge
 ![TON Tact Challenge](https://storage.googleapis.com/ton-strapi/Image_b052e8e0da/Image_b052e8e0da.png)
+<!--more-->
 
 - Website: [https://tactchallenge.com/](https://tactchallenge.com/)
 - Join the contest: [https://t.me/toncontests_bot](https://t.me/toncontests_bot)
@@ -18,8 +19,6 @@ Sources to learn:
 - Tact Documentation: [https://docs.tact-lang.org/](https://docs.tact-lang.org/)
 - Tact Hello World: [https://tact-by-example.org/](https://tact-by-example.org/)
 - Tact Discussion Group: [https://t.me/tactlang](https://t.me/tactlang)
-
-<!--more-->
 
 # HACK-TON-BERFEST 2023
 ![HACK-TON-BERFEST 2023](https://storage.googleapis.com/ton-strapi/Hack_TON_berfest_1_aafca75349/Hack_TON_berfest_1_aafca75349.png)
