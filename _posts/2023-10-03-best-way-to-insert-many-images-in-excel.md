@@ -4,6 +4,8 @@ title:  "Best way to insert many images in excel"
 date:   2023-10-03
 categories: posts
 ---
+If you've ever tried to insert multiple images in an excel file you know that excel's default method isn't very practical. Instead I present my vba method so you'll be able to add as many files as you want.
+
 ## Steps
 1. create a macro-enabled file with `.xlsm` extension
 2. put all your images in a folder called `png` beside the main excel file
