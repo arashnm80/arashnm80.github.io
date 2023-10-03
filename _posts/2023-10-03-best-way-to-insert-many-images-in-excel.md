@@ -6,7 +6,8 @@ categories: posts
 ---
 ## Steps
 1. create a macro-enabled file with `.xlsm` extension
-2. create a module and write this vba code in it:
+2. put all your images in a folder called `png` beside the main excel file
+3. create a module and write this vba code in it:
 ```
 Sub open_hyperlink()
     extension = "png"
@@ -18,8 +19,10 @@ Sub open_hyperlink()
     End If
 End Sub
 ```
-3. optional: you can set a keyboard shortcut for it
+4. you can set a keyboard shortcut to make it easier e.g. `ctrl + h`
+
+You can do the same thing with any format that you want, the only needed thing is to use your desired format instead of `png` in the above steps.
 
 ## video guide in youtube
-- English:
+- English: [https://youtu.be/W8qwcFdJG10](https://youtu.be/W8qwcFdJG10)
 - Persian: [https://youtu.be/mEYojInQNCc](https://youtu.be/mEYojInQNCc)
