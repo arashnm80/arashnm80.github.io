@@ -5,6 +5,8 @@ date:   2023-10-01
 categories: posts
 excerpt_separator: <!--more-->
 ---
+![image](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/60b1d90f-824c-461f-b5a4-981304cff242)
+
 latest TON related challenges and contests in October
 <!--more-->
 
