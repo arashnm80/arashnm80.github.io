@@ -62,4 +62,4 @@ show_excerpts: true
 # timezone: IR
 
 header_pages:
-  - works.markdown
+  - works.md
