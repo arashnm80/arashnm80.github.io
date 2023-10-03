@@ -6,10 +6,11 @@ categories: posts
 ---
 vba code:
 ```
-Sub open_png()
-    Name = ActiveCell.Value
-    folder = "png images"
-    Path = ThisWorkbook.Path & "\" & folder & "\" & Name & ".png"
+Sub open_hyperlink()
+    extension = "png"
+
+    folder = extension
+    Path = ThisWorkbook.Path & "\" & folder & "\" & ActiveCell.Value & "." & extension
     If Dir(Path) <> "" Then
         ActiveWorkbook.FollowHyperlink (Path)
     End If
