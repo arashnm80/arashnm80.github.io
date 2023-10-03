@@ -29,7 +29,6 @@ github_username:  Arashnm80
 
 # Build settings
 theme: minima
-show_excerpts: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -57,6 +56,7 @@ plugins:
 
 
 # my modifications:
-permalink: pretty
+permalink: pretty # to remove .html from the end
+show_excerpts: true
 # timezone: IR
 # page_excerpts: true
