@@ -4,10 +4,6 @@ title: Works
 permalink: /works/
 ---
 
-Arash Nemat Zadeh, teacher & programmer
-
-[GitHub](https://github.com/Arashnm80) • [YouTube](https://www.youtube.com/@Arashnm80) • [LinkedIn](https://www.linkedin.com/in/Arashnm80) • [Twitter](https://twitter.com/Arashnm80)
-
 ### <a href="https://github.com/arashnm80#telegram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/7ec05081dcb25f30e71cd7200fcd360f5daf1111/src/images/icons/Social/telegram.svg" alt="Telegram Channels" height="30" width="40" /></a> Telegram:
 - **Channels**
   - **[Arashnm80 Channel](https://t.me/Arashnm80_Channel) (main channel)**
