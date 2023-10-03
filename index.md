@@ -12,5 +12,5 @@ I'm Arash, welcome to my website. Here is table of contents:
 - [Posts](https://arashnm80.com/posts)
 
 
-Me in every media:
+Me in every media: \
 [GitHub](https://github.com/Arashnm80) • [YouTube](https://www.youtube.com/@Arashnm80) • [Telegram](https://t.me/Arashnm80_Channel) • [LinkedIn](https://www.linkedin.com/in/Arashnm80) • [Twitter](https://twitter.com/Arashnm80)
