@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ML Competition 2023"
-date:   2023-10-06
+# date:   2023-10-06
 categories: posts
 ---
 🏆 Telegram ML Competition
