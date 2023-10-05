@@ -9,7 +9,7 @@ categories: posts
 Prize fund: $40,000 – from which the 1st place winner will receive $15,000 if any submissions qualify for 1st place. \
 Deadline: 23:59 on October 15th (Dubai time) \
 Who can participate: Everyone \
-Results: October 29th, 2023 \
+Results: October 29th, 2023
 
 Telegram is hosting a competition for ML engineers to identify programming and markup languages in code snippets. 
 
