@@ -1,17 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-08-01T15:57:49+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2023/08/01/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-08-01T15:57:01+00:00</published><updated>2023-08-01T15:57:01+00:00</updated><id>http://localhost:4000/jekyll/update/2023/08/01/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/08/01/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-10-05T23:00:14+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Arash Nemat Zadeh</title><subtitle>teacher &amp; programmer</subtitle><entry><title type="html">ML Competition 2023</title><link href="http://localhost:4000/posts/2023/10/05/ml-competition-2023/" rel="alternate" type="text/html" title="ML Competition 2023" /><published>2023-10-05T00:00:00+00:00</published><updated>2023-10-05T00:00:00+00:00</updated><id>http://localhost:4000/posts/2023/10/05/ml-competition-2023</id><content type="html" xml:base="http://localhost:4000/posts/2023/10/05/ml-competition-2023/"><![CDATA[<p>🏆 Telegram ML Competition</p>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+<p>Prize fund: $40,000 – from which the 1st place winner will receive $15,000 if any submissions qualify for 1st place. <br />
+Deadline: 23:59 on October 15th (Dubai time) <br />
+Who can participate: Everyone <br />
+Results: October 29th, 2023</p>
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+<p>Telegram is hosting a competition for ML engineers to identify programming and markup languages in code snippets.</p>
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<p>The Task: implement a library that detects the programming and markup language of code snippets from message text. You can use any publicly available data to train your solution.</p>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<p>Details: <a href="https://contest.com/docs/ML-Competition-2023">https://contest.com/docs/ML-Competition-2023</a>.</p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+<p><a href="https://t.me/ContestBot">@ContestBot</a> will begin accepting submissions at a later date. We will further clarify the submission instructions closer to the deadline.</p>]]></content><author><name></name></author><category term="posts" /><summary type="html"><![CDATA[🏆 Telegram ML Competition]]></summary></entry><entry><title type="html">Best way to insert many images in excel</title><link href="http://localhost:4000/posts/2023/10/03/best-way-to-insert-many-images-in-excel/" rel="alternate" type="text/html" title="Best way to insert many images in excel" /><published>2023-10-03T00:00:00+00:00</published><updated>2023-10-03T00:00:00+00:00</updated><id>http://localhost:4000/posts/2023/10/03/best-way-to-insert-many-images-in-excel</id><content type="html" xml:base="http://localhost:4000/posts/2023/10/03/best-way-to-insert-many-images-in-excel/"><![CDATA[<p>If you’ve ever tried to insert multiple images in an excel file you know that excel’s default method isn’t very practical. Instead I present my vba method so you’ll be able to add as many files as you want.</p>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+<h2 id="steps">Steps</h2>
+<ol>
+  <li>create a macro-enabled file with <code class="language-plaintext highlighter-rouge">.xlsm</code> extension</li>
+  <li>put all your images in a folder called <code class="language-plaintext highlighter-rouge">png</code> beside the main excel file</li>
+  <li>create a module and write this vba code in it:
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Sub open_hyperlink()
+ extension = "png"
+
+ folder = extension
+ Path = ThisWorkbook.Path &amp; "\" &amp; folder &amp; "\" &amp; ActiveCell.Value &amp; "." &amp; extension
+ If Dir(Path) &lt;&gt; "" Then
+     ActiveWorkbook.FollowHyperlink (Path)
+ End If
+End Sub
+</code></pre></div>    </div>
+  </li>
+  <li>you can set a keyboard shortcut to make it easier e.g. <code class="language-plaintext highlighter-rouge">ctrl + h</code></li>
+</ol>
+
+<p>You can do the same thing with any format that you want, the only needed thing is to use your desired format instead of <code class="language-plaintext highlighter-rouge">png</code> in the above steps.</p>
+
+<h2 id="video-guide-in-youtube">video guide in youtube</h2>
+<h3 id="english">English</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W8qwcFdJG10?si=Kq8qwwrUJGqFrGhd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+<h3 id="persian">Persian</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mEYojInQNCc?si=2oejIUy_xjtrdtEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content><author><name></name></author><category term="posts" /><summary type="html"><![CDATA[If you’ve ever tried to insert multiple images in an excel file you know that excel’s default method isn’t very practical. Instead I present my vba method so you’ll be able to add as many files as you want.]]></summary></entry><entry><title type="html">TON October Challenges</title><link href="http://localhost:4000/posts/2023/10/01/ton-october-challenges/" rel="alternate" type="text/html" title="TON October Challenges" /><published>2023-10-01T00:00:00+00:00</published><updated>2023-10-01T00:00:00+00:00</updated><id>http://localhost:4000/posts/2023/10/01/ton-october-challenges</id><content type="html" xml:base="http://localhost:4000/posts/2023/10/01/ton-october-challenges/"><![CDATA[<p>latest TON related challenges and contests in October
+<!--more--></p>
+
+<h1 id="ton-tact-challenge">TON Tact Challenge</h1>
+<p><img src="https://github.com/arashnm80/arashnm80.github.io/assets/20334281/60b1d90f-824c-461f-b5a4-981304cff242" alt="TON Tact Challenge" /></p>
+
+<ul>
+  <li>Website: <a href="https://tactchallenge.com/">https://tactchallenge.com/</a></li>
+  <li>Join the contest: <a href="https://t.me/toncontests_bot">https://t.me/toncontests_bot</a></li>
+</ul>
+
+<p>Sources to learn:</p>
+<ul>
+  <li>Tact Documentation: <a href="https://docs.tact-lang.org/">https://docs.tact-lang.org/</a></li>
+  <li>Tact Hello World: <a href="https://tact-by-example.org/">https://tact-by-example.org/</a></li>
+  <li>Tact Discussion Group: <a href="https://t.me/tactlang">https://t.me/tactlang</a></li>
+</ul>
+
+<h1 id="hack-ton-berfest-2023">HACK-TON-BERFEST 2023</h1>
+<p><img src="https://github.com/arashnm80/arashnm80.github.io/assets/20334281/18d24656-c175-45a0-b004-08532f2c5f9f" alt="HACK-TON-BERFEST 2023" /></p>
+
+<ul>
+  <li>Website: <a href="https://society.ton.org/hack-ton-berfest-2023">https://society.ton.org/hack-ton-berfest-2023</a></li>
+  <li>Projects: <a href="https://github.com/alefmanvladimir/HACK-TON-BERFEST-2023/blob/main/PROJECTS.md">https://github.com/alefmanvladimir/HACK-TON-BERFEST-2023/blob/main/PROJECTS.md</a></li>
+  <li>Join: <a href="https://t.me/hacktonberfest_bot">https://t.me/hacktonberfest_bot</a></li>
+</ul>
+
+<h1 id="nft-standard-challenge">NFT Standard Challenge</h1>
+<p><img src="https://github.com/arashnm80/arashnm80.github.io/assets/20334281/ab6857fa-fd15-4ce5-85a4-6f8031557f45" alt="NFT Standard Challenge" /></p>
+
+<ul>
+  <li>Official post in telegram: <a href="https://t.me/toncontests/139">https://t.me/toncontests/139</a></li>
+  <li>TON NFT Marketplace <a href="https://getgems.io/">https://getgems.io/</a></li>
+</ul>]]></content><author><name></name></author><category term="posts" /><summary type="html"><![CDATA[latest TON related challenges and contests in October]]></summary></entry></feed>

@@ -35,5 +35,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 
 
-# my addings
-gem: jekyll-sitemap # https://victor2code.github.io/blog/2019/07/04/jekyll-github-pages-appear-on-Google.html
+# my addings:
+
+# https://github.com/jekyll/jekyll-sitemap
+gem 'jekyll-sitemap'
