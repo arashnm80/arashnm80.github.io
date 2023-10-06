@@ -62,3 +62,7 @@ show_excerpts: true
 # excerpt_separator: "<!--more-->" # global excerpt separator for the blog posts
 timezone: Asia/Tehran
 google_analytics: G-C32LDMX65L
+header_pages:
+  - works.md
+  - posts.md
+  - donate.md
