@@ -45,3 +45,4 @@ P.S. For further references, clipping mask samples (for non-direct versions of t
 
 ## Attachments
 - [Android Icon Sample.zip](https://t.me/designers/222)
+- [Telegram's Creative Director Channel](https://t.me/ohuenko)
