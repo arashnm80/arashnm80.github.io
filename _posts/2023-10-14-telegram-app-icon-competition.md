@@ -27,15 +27,15 @@ Using Telegram's official sticker and emoji packs is **allowed** for references 
 ## App Icon Guidelines
 
 ### Android
-• Follows the [Android UI Guidelines](https://developer.android.com/develop/ui/views/launch/icon_design_adaptive)
-• Contains a PNG of 432x432px for each icon *(you must also provide the following resolutions: 324х324px, 216х216px, 162х162px and 108х108px – each is used for different screen pixel densities)*. The icon must contain separate background and foreground layers
+• Follows the [Android UI Guidelines](https://developer.android.com/develop/ui/views/launch/icon_design_adaptive) \
+• Contains a PNG of 432x432px for each icon *(you must also provide the following resolutions: 324х324px, 216х216px, 162х162px and 108х108px – each is used for different screen pixel densities)*. The icon must contain separate background and foreground layers \
 • Includes source files
 
 P.S. For further references, clipping mask samples (for non-direct versions of the app we apply the masks from the archive), other icon resolutions and the suggested structure check the provided archive below this message.
 
 ### iOS
-• Follows the [Apple Design Guidelines](https://developer.apple.com/design/human-interface-guidelines/app-icons)
-• Contains a non-transparent PNG of 1024x1024px for each icon *(make sure it looks correct when resized to 270x270px, 180x180px or 120x120px, otherwise provide separate images for each resolution)*
+• Follows the [Apple Design Guidelines](https://developer.apple.com/design/human-interface-guidelines/app-icons) \
+• Contains a non-transparent PNG of 1024x1024px for each icon *(make sure it looks correct when resized to 270x270px, 180x180px or 120x120px, otherwise provide separate images for each resolution)* \
 • Includes source files
 
 ## Submissions and Evaluation
