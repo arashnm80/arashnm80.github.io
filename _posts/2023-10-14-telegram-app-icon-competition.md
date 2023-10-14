@@ -3,6 +3,8 @@ layout: post
 title:  "Telegram App Icon Competition"
 categories: posts
 ---
+![Telegram App Icon Competition](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/2e3a2401-42bf-4628-ae7c-d863ea34be63)
+
 Telegram is hosting a competition for artists to draw new icons for Telegram's Android and iOS apps. The best icons may be later offered to users in addition to the default sets currently presented in both apps. 
 
 Prize fund: $10,000 \
