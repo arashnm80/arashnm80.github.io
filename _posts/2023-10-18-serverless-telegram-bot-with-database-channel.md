@@ -6,7 +6,8 @@ excerpt_separator: <!--more-->
 ---
 In this video I teach you how to create a telegram bot without programming and buying servers. We just use a cloudflare worker to answer users based on contents of a database channel.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mE3yc4STGL8?si=cK0v5VI-QQJvwOMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![Serverless Telegram Bot With Database Channel](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/5c281ec4-94ac-44fc-8cdd-cc433a045aff)
+
 
 <!--more-->
 
@@ -21,3 +22,5 @@ In this video I teach you how to create a telegram bot without programming and b
 - Finally edit the `commands` in worker's code like the given template. commands can be with or without slashes and in any language. In front of each command write a number which is the message Id of the response in your database channel. (If you don't know Id of a message you can simply copy the link of message and the check it, the last number after slash is the message Id)
 - If it's the first time that you are running the bot add `registerWebhook` to the end of worker address and click on `send`. after that point, every time that you decide to edit commands a simple `Save and Deploy` will be sufficient.
 
+## My video guide in youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mE3yc4STGL8?si=cK0v5VI-QQJvwOMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
