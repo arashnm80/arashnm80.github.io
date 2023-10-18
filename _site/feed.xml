@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-10-14T20:20:18+03:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Arash Nemat Zadeh</title><subtitle>teacher &amp; programmer</subtitle><entry><title type="html">Telegram App Icon Competition</title><link href="http://localhost:4000/posts/2023/10/14/telegram-app-icon-competition/" rel="alternate" type="text/html" title="Telegram App Icon Competition" /><published>2023-10-14T00:00:00+03:30</published><updated>2023-10-14T00:00:00+03:30</updated><id>http://localhost:4000/posts/2023/10/14/telegram-app-icon-competition</id><content type="html" xml:base="http://localhost:4000/posts/2023/10/14/telegram-app-icon-competition/"><![CDATA[<p>Telegram is hosting a competition for artists to draw new icons for Telegram’s Android and iOS apps. <strong>The best icons</strong> may be later offered to users <em>in addition</em> to the default sets currently presented in both apps.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-10-19T01:40:59+03:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Arash Nemat Zadeh</title><subtitle>teacher &amp; programmer</subtitle><entry><title type="html">Serverless Telegram Bot With Database Channel</title><link href="http://localhost:4000/posts/2023/10/18/serverless-telegram-bot-with-database-channel/" rel="alternate" type="text/html" title="Serverless Telegram Bot With Database Channel" /><published>2023-10-18T00:00:00+03:30</published><updated>2023-10-18T00:00:00+03:30</updated><id>http://localhost:4000/posts/2023/10/18/serverless-telegram-bot-with-database-channel</id><content type="html" xml:base="http://localhost:4000/posts/2023/10/18/serverless-telegram-bot-with-database-channel/"><![CDATA[<p>In this video I teach you how to create a telegram bot without programming and buying servers. We just use a cloudflare worker to answer users based on contents of a database channel.</p>
+
+<!--more-->
+
+<h2 id="my-video-guide-in-youtube">My Video guide in youtube</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mE3yc4STGL8?si=cK0v5VI-QQJvwOMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+<h2 id="steps">Steps</h2>
+<ul>
+  <li>create an account in <a href="https://www.cloudflare.com/">cloudflare.com</a>. Don’t worry it’s free.</li>
+  <li>Go to <code class="language-plaintext highlighter-rouge">your dashboard in cloudflare</code> &gt; <code class="language-plaintext highlighter-rouge">Workers &amp; Pages</code> &gt; <code class="language-plaintext highlighter-rouge">Create application</code> &gt; <code class="language-plaintext highlighter-rouge">Create Worker</code> &gt; choose any name and click on <code class="language-plaintext highlighter-rouge">Deploy</code></li>
+  <li>Click on <code class="language-plaintext highlighter-rouge">Edit code</code></li>
+  <li>Delete the default codes and paste my codes from <a href="https://github.com/arashnm80/worker-telegram-bot-with-database-channel/blob/main/worker.js">here</a> instead</li>
+  <li>Create a new bot in telegram via <a href="https://t.me/BotFather">@BotFather</a>. Get the <code class="language-plaintext highlighter-rouge">HTTP API</code> from BotFather and paste it in <code class="language-plaintext highlighter-rouge">TOKEN</code> value of worker’s code.</li>
+  <li>Create a database channel for yourself and make your bot an admin of it. Put the channel’s username with beginning <code class="language-plaintext highlighter-rouge">@</code> in the <code class="language-plaintext highlighter-rouge">databaseChannel</code> value of the worker’s code.</li>
+  <li>Write some random text made up from letters and numbers in the <code class="language-plaintext highlighter-rouge">SECRET</code> value of worker’s code. this secret’s job is to make your bot safe.</li>
+  <li>Finally edit the <code class="language-plaintext highlighter-rouge">commands</code> in worker’s code like the given template. commands can be with or without slashes and in any language. In front of each command write a number which is the message Id of the response in your database channel. (If you don’t know Id of a message you can simply copy the link of message and the check it, the last number after slash is the message Id)</li>
+  <li>If it’s the first time that you are running the bot add <code class="language-plaintext highlighter-rouge">registerWebhook</code> to the end of worker address and click on <code class="language-plaintext highlighter-rouge">send</code>. after that point, every time that you decide to edit commands a simple <code class="language-plaintext highlighter-rouge">Save and Deploy</code> will be sufficient.</li>
+</ul>]]></content><author><name></name></author><category term="posts" /><summary type="html"><![CDATA[In this video I teach you how to create a telegram bot without programming and buying servers. We just use a cloudflare worker to answer users based on contents of a database channel.]]></summary></entry><entry><title type="html">Telegram App Icon Competition</title><link href="http://localhost:4000/posts/2023/10/14/telegram-app-icon-competition/" rel="alternate" type="text/html" title="Telegram App Icon Competition" /><published>2023-10-14T00:00:00+03:30</published><updated>2023-10-14T00:00:00+03:30</updated><id>http://localhost:4000/posts/2023/10/14/telegram-app-icon-competition</id><content type="html" xml:base="http://localhost:4000/posts/2023/10/14/telegram-app-icon-competition/"><![CDATA[<p>Telegram is hosting a competition for artists to draw new icons for Telegram’s Android and iOS apps. <strong>The best icons</strong> may be later offered to users <em>in addition</em> to the default sets currently presented in both apps.
 <img src="https://github.com/arashnm80/arashnm80.github.io/assets/20334281/2e3a2401-42bf-4628-ae7c-d863ea34be63" alt="Telegram App Icon Competition" /></p>
 
 <!--more-->
@@ -19,15 +37,15 @@
 <h2 id="app-icon-guidelines">App Icon Guidelines</h2>
 
 <h3 id="android">Android</h3>
-<p>• Follows the <a href="https://developer.android.com/develop/ui/views/launch/icon_design_adaptive">Android UI Guidelines</a>
-• Contains a PNG of 432x432px for each icon <em>(you must also provide the following resolutions: 324х324px, 216х216px, 162х162px and 108х108px – each is used for different screen pixel densities)</em>. The icon must contain separate background and foreground layers
+<p>• Follows the <a href="https://developer.android.com/develop/ui/views/launch/icon_design_adaptive">Android UI Guidelines</a> <br />
+• Contains a PNG of 432x432px for each icon <em>(you must also provide the following resolutions: 324х324px, 216х216px, 162х162px and 108х108px – each is used for different screen pixel densities)</em>. The icon must contain separate background and foreground layers <br />
 • Includes source files</p>
 
 <p>P.S. For further references, clipping mask samples (for non-direct versions of the app we apply the masks from the archive), other icon resolutions and the suggested structure check the provided archive below this message.</p>
 
 <h3 id="ios">iOS</h3>
-<p>• Follows the <a href="https://developer.apple.com/design/human-interface-guidelines/app-icons">Apple Design Guidelines</a>
-• Contains a non-transparent PNG of 1024x1024px for each icon <em>(make sure it looks correct when resized to 270x270px, 180x180px or 120x120px, otherwise provide separate images for each resolution)</em>
+<p>• Follows the <a href="https://developer.apple.com/design/human-interface-guidelines/app-icons">Apple Design Guidelines</a> <br />
+• Contains a non-transparent PNG of 1024x1024px for each icon <em>(make sure it looks correct when resized to 270x270px, 180x180px or 120x120px, otherwise provide separate images for each resolution)</em> <br />
 • Includes source files</p>
 
 <h2 id="submissions-and-evaluation">Submissions and Evaluation</h2>
@@ -36,7 +54,9 @@
 
 <h2 id="attachments">Attachments</h2>
 <ul>
+  <li><a href="https://t.me/designers/221">Contest info in official channel</a></li>
   <li><a href="https://t.me/designers/222">Android Icon Sample.zip</a></li>
+  <li><a href="https://t.me/ohuenko">Telegram’s Creative Director Channel</a></li>
 </ul>]]></content><author><name></name></author><category term="posts" /><summary type="html"><![CDATA[Telegram is hosting a competition for artists to draw new icons for Telegram’s Android and iOS apps. The best icons may be later offered to users in addition to the default sets currently presented in both apps.]]></summary></entry><entry><title type="html">ML Competition 2023</title><link href="http://localhost:4000/posts/2023/10/06/ml-competition-2023/" rel="alternate" type="text/html" title="ML Competition 2023" /><published>2023-10-06T00:00:00+03:30</published><updated>2023-10-06T00:00:00+03:30</updated><id>http://localhost:4000/posts/2023/10/06/ml-competition-2023</id><content type="html" xml:base="http://localhost:4000/posts/2023/10/06/ml-competition-2023/"><![CDATA[<p>🏆 Telegram ML Competition</p>
 
 <p>Prize fund: $40,000 – from which the 1st place winner will receive $15,000 if any submissions qualify for 1st place. <br />

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Serverless Telegram Bot With Database Channel | Arash Nemat Zadeh</title>
+<meta name="generator" content="Jekyll v4.3.2" />
+<meta property="og:title" content="Serverless Telegram Bot With Database Channel" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="In this video I teach you how to create a telegram bot without programming and buying servers. We just use a cloudflare worker to answer users based on contents of a database channel." />
+<meta property="og:description" content="In this video I teach you how to create a telegram bot without programming and buying servers. We just use a cloudflare worker to answer users based on contents of a database channel." />
+<link rel="canonical" href="http://localhost:4000/posts/2023/10/18/serverless-telegram-bot-with-database-channel/" />
+<meta property="og:url" content="http://localhost:4000/posts/2023/10/18/serverless-telegram-bot-with-database-channel/" />
+<meta property="og:site_name" content="Arash Nemat Zadeh" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-10-18T00:00:00+03:30" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Serverless Telegram Bot With Database Channel" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-10-18T00:00:00+03:30","datePublished":"2023-10-18T00:00:00+03:30","description":"In this video I teach you how to create a telegram bot without programming and buying servers. We just use a cloudflare worker to answer users based on contents of a database channel.","headline":"Serverless Telegram Bot With Database Channel","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/2023/10/18/serverless-telegram-bot-with-database-channel/"},"url":"http://localhost:4000/posts/2023/10/18/serverless-telegram-bot-with-database-channel/"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Arash Nemat Zadeh" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Arash Nemat Zadeh</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/works/">Works</a><a class="page-link" href="/posts/">Posts</a><a class="page-link" href="/donate/">Donate</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Serverless Telegram Bot With Database Channel</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2023-10-18T00:00:00+03:30" itemprop="datePublished">Oct 18, 2023
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>In this video I teach you how to create a telegram bot without programming and buying servers. We just use a cloudflare worker to answer users based on contents of a database channel.</p>
+
+<!--more-->
+
+<h2 id="my-video-guide-in-youtube">My Video guide in youtube</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mE3yc4STGL8?si=cK0v5VI-QQJvwOMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+<h2 id="steps">Steps</h2>
+<ul>
+  <li>create an account in <a href="https://www.cloudflare.com/">cloudflare.com</a>. Don’t worry it’s free.</li>
+  <li>Go to <code class="language-plaintext highlighter-rouge">your dashboard in cloudflare</code> &gt; <code class="language-plaintext highlighter-rouge">Workers &amp; Pages</code> &gt; <code class="language-plaintext highlighter-rouge">Create application</code> &gt; <code class="language-plaintext highlighter-rouge">Create Worker</code> &gt; choose any name and click on <code class="language-plaintext highlighter-rouge">Deploy</code></li>
+  <li>Click on <code class="language-plaintext highlighter-rouge">Edit code</code></li>
+  <li>Delete the default codes and paste my codes from <a href="https://github.com/arashnm80/worker-telegram-bot-with-database-channel/blob/main/worker.js">here</a> instead</li>
+  <li>Create a new bot in telegram via <a href="https://t.me/BotFather">@BotFather</a>. Get the <code class="language-plaintext highlighter-rouge">HTTP API</code> from BotFather and paste it in <code class="language-plaintext highlighter-rouge">TOKEN</code> value of worker’s code.</li>
+  <li>Create a database channel for yourself and make your bot an admin of it. Put the channel’s username with beginning <code class="language-plaintext highlighter-rouge">@</code> in the <code class="language-plaintext highlighter-rouge">databaseChannel</code> value of the worker’s code.</li>
+  <li>Write some random text made up from letters and numbers in the <code class="language-plaintext highlighter-rouge">SECRET</code> value of worker’s code. this secret’s job is to make your bot safe.</li>
+  <li>Finally edit the <code class="language-plaintext highlighter-rouge">commands</code> in worker’s code like the given template. commands can be with or without slashes and in any language. In front of each command write a number which is the message Id of the response in your database channel. (If you don’t know Id of a message you can simply copy the link of message and the check it, the last number after slash is the message Id)</li>
+  <li>If it’s the first time that you are running the bot add <code class="language-plaintext highlighter-rouge">registerWebhook</code> to the end of worker address and click on <code class="language-plaintext highlighter-rouge">send</code>. after that point, every time that you decide to edit commands a simple <code class="language-plaintext highlighter-rouge">Save and Deploy</code> will be sufficient.</li>
+</ul>
+
+
+  </div><a class="u-url" href="/posts/2023/10/18/serverless-telegram-bot-with-database-channel/" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Arash Nemat Zadeh</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Arash Nemat Zadeh</li><li><a class="u-email" href="mailto:Arashnm80@gmail.com">Arashnm80@gmail.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/Arashnm80"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">Arashnm80</span></a></li><li><a href="https://www.twitter.com/Arashnm80"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">Arashnm80</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>teacher &amp; programmer</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
