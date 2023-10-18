@@ -2,7 +2,6 @@
 layout: post
 title:  "Telegram App Icon Competition"
 categories: posts
-
 excerpt_separator: <!--more-->
 ---
 Telegram is hosting a competition for artists to draw new icons for Telegram's Android and iOS apps. **The best icons** may be later offered to users *in addition* to the default sets currently presented in both apps.
