@@ -6,12 +6,9 @@ excerpt_separator: <!--more-->
 ---
 In this video I teach you how to create a telegram bot without programming and buying servers. We just use a cloudflare worker to answer users based on contents of a database channel.
 
-![serverless telegram bot with database](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/300fc148-6124-4093-a5a3-842f7dd17deb)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mE3yc4STGL8?si=cK0v5VI-QQJvwOMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!--more-->
-
-## My Video guide in youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mE3yc4STGL8?si=cK0v5VI-QQJvwOMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Steps
 - create an account in [cloudflare.com](https://www.cloudflare.com/). Don't worry it's free.

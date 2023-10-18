@@ -49,17 +49,16 @@
   <div class="post-content e-content" itemprop="articleBody">
     <p>In this video I teach you how to create a telegram bot without programming and buying servers. We just use a cloudflare worker to answer users based on contents of a database channel.</p>
 
-<!--more-->
-
-<h2 id="my-video-guide-in-youtube">My Video guide in youtube</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mE3yc4STGL8?si=cK0v5VI-QQJvwOMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+<!--more-->
 
 <h2 id="steps">Steps</h2>
 <ul>
   <li>create an account in <a href="https://www.cloudflare.com/">cloudflare.com</a>. Don’t worry it’s free.</li>
   <li>Go to <code class="language-plaintext highlighter-rouge">your dashboard in cloudflare</code> &gt; <code class="language-plaintext highlighter-rouge">Workers &amp; Pages</code> &gt; <code class="language-plaintext highlighter-rouge">Create application</code> &gt; <code class="language-plaintext highlighter-rouge">Create Worker</code> &gt; choose any name and click on <code class="language-plaintext highlighter-rouge">Deploy</code></li>
   <li>Click on <code class="language-plaintext highlighter-rouge">Edit code</code></li>
-  <li>Delete the default codes and paste my codes from <a href="https://github.com/arashnm80/worker-telegram-bot-with-database-channel/blob/main/worker.js">here</a> instead</li>
+  <li>Delete the default codes and paste my codes from <strong><a href="https://github.com/arashnm80/worker-telegram-bot-with-database-channel/blob/main/worker.js">this file</a></strong> instead</li>
   <li>Create a new bot in telegram via <a href="https://t.me/BotFather">@BotFather</a>. Get the <code class="language-plaintext highlighter-rouge">HTTP API</code> from BotFather and paste it in <code class="language-plaintext highlighter-rouge">TOKEN</code> value of worker’s code.</li>
   <li>Create a database channel for yourself and make your bot an admin of it. Put the channel’s username with beginning <code class="language-plaintext highlighter-rouge">@</code> in the <code class="language-plaintext highlighter-rouge">databaseChannel</code> value of the worker’s code.</li>
   <li>Write some random text made up from letters and numbers in the <code class="language-plaintext highlighter-rouge">SECRET</code> value of worker’s code. this secret’s job is to make your bot safe.</li>
