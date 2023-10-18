@@ -6,6 +6,8 @@ excerpt_separator: <!--more-->
 ---
 In this video I teach you how to create a telegram bot without programming and buying servers. We just use a cloudflare worker to answer users based on contents of a database channel.
 
+![serverless telegram bot with database](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/300fc148-6124-4093-a5a3-842f7dd17deb)
+
 <!--more-->
 
 ## My Video guide in youtube
