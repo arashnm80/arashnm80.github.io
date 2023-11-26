@@ -9,7 +9,6 @@ permalink: /works/
   - **[Arashnm80 Channel](https://t.me/Arashnm80_Channel) (main channel)**
   - [bing wallpapers](https://t.me/Bingwalls) -> [source](https://github.com/arashnm80/bing-wallpaper)
   - [GIF Contest Winner](https://t.me/oghlooroghloor)
-  - [Spot Seek Music Database](https://t.me/+wAztHySpQcdkZjk0) -> [source](https://github.com/arashnm80/spot-seek-bot)
   - [SCRIBD Audiobooks](https://t.me/SCRIBD_Audiobooks)
 - **Bots**
   - [Spot Seek &#124; Spotify Music Downloader](https://t.me/SpotSeekBot) -> [source](https://github.com/arashnm80/spot-seek-bot)
@@ -24,8 +23,11 @@ permalink: /works/
 - [Python Tutorial](https://github.com/arashnm80/python-tutorial) (Persian)
 - [Programmers Club](https://github.com/arashnm80/programmers-club) (Persian)
 
-### <a href="https://github.com/arashnm80#contest-wins"><img align="center" src="https://raw.githubusercontent.com/arashnm80/arashnm80/main/src/icons/cup.svg" alt="Classes" height="30" width="40" /></a> Contest Wins:
-- [TON Smart Challenge #4](https://github.com/arashnm80/tsc4)
+### <a href="https://github.com/arashnm80#contest-wins"><img align="center" src="https://raw.githubusercontent.com/arashnm80/arashnm80/main/src/icons/cup.svg" alt="Classes" height="30" width="40" /></a> Contest Wins & Achievements:
+- **TON**
+  - [TON Smart Challenge #4](https://github.com/arashnm80/tsc4)
+  - [TON Tact Challenge](https://github.com/arashnm80/tact-challenge)
+  - [Hack-TON-Berfest 2023](https://society.ton.org/hack-ton-berfest-2023)
 
 ### <a href="https://github.com/arashnm80#other-projects"><img align="center" src="https://raw.githubusercontent.com/arashnm80/arashnm80/main/src/icons/projects.svg" alt="Classes" height="30" width="40" /></a> Other Projects:
 - [Stock and Crypto Prices Analysis](https://github.com/arashnm80/stock-and-crypto-price-analysis)
