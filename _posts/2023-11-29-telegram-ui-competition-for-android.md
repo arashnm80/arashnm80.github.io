@@ -7,12 +7,11 @@ excerpt_separator: <!--more-->
 Telegram is hosting a competition for Android developers to implement a new animation for deleting messages.
 
 
-
 <!--more-->
 
-**Prize fund**: Up to $30,000
-**Deadline**: 23:59 on December 7th (Dubai time)
-**Who can participate**: Everyone
+**Prize fund**: Up to $30,000 \
+**Deadline**: 23:59 on December 7th (Dubai time) \
+**Who can participate**: Everyone \
 **Results**: December 15th, 2023
 
 
@@ -39,3 +38,6 @@ During the evaluation stage, submissions will be tested on a broad range of devi
 Contestants will be able to submit their entries to [@ContestBot](https://t.me/ContestBot) later. We will further clarify the submission instructions closer to the deadline.
 
 **P.S. Winners may be offered a chance to explore further cooperation opportunities with Telegram.**
+
+### Related links
+- post in official telegram contests channel: [https://t.me/contest/350](https://t.me/contest/350)
