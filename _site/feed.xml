@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-29T21:48:30+03:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Arash Nemat Zadeh</title><subtitle>teacher &amp; programmer</subtitle><entry><title type="html">Telegram UI Competition for Android</title><link href="http://localhost:4000/posts/2023/11/29/telegram-ui-competition-for-android/" rel="alternate" type="text/html" title="Telegram UI Competition for Android" /><published>2023-11-29T00:00:00+03:30</published><updated>2023-11-29T00:00:00+03:30</updated><id>http://localhost:4000/posts/2023/11/29/telegram-ui-competition-for-android</id><content type="html" xml:base="http://localhost:4000/posts/2023/11/29/telegram-ui-competition-for-android/"><![CDATA[<p>Telegram is hosting a competition for Android developers to implement a new animation for deleting messages. <br />
-<img src="https://github.com/arashnm80/arashnm80.github.io/assets/20334281/aad45df0-50bc-4bb7-b551-f14e26ae8f40" alt="Untitled Project" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-30T00:28:59+03:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Arash Nemat Zadeh</title><subtitle>teacher &amp; programmer</subtitle><entry><title type="html">Telegram UI Competition for Android</title><link href="http://localhost:4000/posts/2023/11/29/telegram-ui-competition-for-android/" rel="alternate" type="text/html" title="Telegram UI Competition for Android" /><published>2023-11-29T00:00:00+03:30</published><updated>2023-11-29T00:00:00+03:30</updated><id>http://localhost:4000/posts/2023/11/29/telegram-ui-competition-for-android</id><content type="html" xml:base="http://localhost:4000/posts/2023/11/29/telegram-ui-competition-for-android/"><![CDATA[<p>Telegram is hosting a competition for Android developers to implement a new animation for deleting messages. <br />
+<img src="https://github.com/arashnm80/arashnm80.github.io/assets/20334281/aad45df0-50bc-4bb7-b551-f14e26ae8f40" alt="Telegram UI Competition for Android" /></p>
 
 <!--more-->
 
@@ -19,10 +19,10 @@
 <p>Your app <strong>must be free</strong> of <strong>significant flaws</strong> <em>(including crashes, visual glitches, noticeable element blinking, layout errors, and more).</em></p>
 
 <h3 id="devices">Devices:</h3>
-<p>During the evaluation stage, submissions will be tested on a broad range of devices and Android versions (Android 7-13) not limited to the mentioned below:
-• Samsung Galaxy (A12, A32, A51, S22 Ultra)
-• Xiaomi Redmi (9, 9A, Note 8 Pro, Note 11)
-• POCO (X3 Pro)
+<p>During the evaluation stage, submissions will be tested on a broad range of devices and Android versions (Android 7-13) not limited to the mentioned below: <br />
+• Samsung Galaxy (A12, A32, A51, S22 Ultra) <br />
+• Xiaomi Redmi (9, 9A, Note 8 Pro, Note 11) <br />
+• POCO (X3 Pro) <br />
 • Oppo (A54).</p>
 
 <blockquote>
