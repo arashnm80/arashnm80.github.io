@@ -27,10 +27,10 @@ The primary criteria for determining a winner will be the app's **stability and 
 Your app **must be free** of **significant flaws** *(including crashes, visual glitches, noticeable element blinking, layout errors, and more).*
 
 ### Devices:
-During the evaluation stage, submissions will be tested on a broad range of devices and Android versions (Android 7-13) not limited to the mentioned below:
-• Samsung Galaxy (A12, A32, A51, S22 Ultra)
-• Xiaomi Redmi (9, 9A, Note 8 Pro, Note 11)
-• POCO (X3 Pro)
+During the evaluation stage, submissions will be tested on a broad range of devices and Android versions (Android 7-13) not limited to the mentioned below: \
+• Samsung Galaxy (A12, A32, A51, S22 Ultra) \
+• Xiaomi Redmi (9, 9A, Note 8 Pro, Note 11) \
+• POCO (X3 Pro) \
 • Oppo (A54).
 
 > [Telegram for Android](https://github.com/DrKLO/Telegram) utilizes performance classification with `SharedConfig.getDevicePerformanceClass()` – each device is defined as HIGH, AVERAGE or LOW. In order for your app to qualify for a reward, your solution must work flawlessly on HIGH and AVERAGE devices. Introducing a proper implementation for LOW devices will be considered a bonus.
