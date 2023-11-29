@@ -5,6 +5,7 @@ categories: posts
 excerpt_separator: <!--more-->
 ---
 Telegram is hosting a competition for Android developers to implement a new animation for deleting messages.
+![Untitled Project](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/aad45df0-50bc-4bb7-b551-f14e26ae8f40)
 
 
 <!--more-->
