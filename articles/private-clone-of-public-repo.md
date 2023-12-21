@@ -5,3 +5,4 @@ git clone --bare https://github.com/ton-community/tsc5
 cd tsc5.git
 git push --mirror https://github.com/arashnm80/ts5-private
 ```
+you can change the names and follow this routine for your desired repo and your own github account.
