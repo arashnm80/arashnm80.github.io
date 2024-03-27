@@ -32,3 +32,6 @@ Who do I choose to be et que choisis-je de faire maintenant?
 - あなたのトップ500のアイデアは何ですか？
 - Pour combien d'entre elles avez-vous suffisamment de connaissances et de compétences pour les accomplir ?
 - For how many of them have you actually tried so far?
+
+### Porn vs. Sex
+If you have healthy legs don't watch soccer games on TV, go out and fucking play it yourself.
