@@ -1,5 +1,5 @@
-## Arash's Handbook
-I'm gonna write here what's going on in my mind.
+Arash's Handbook: 
+What's going on in my mind.
 
 # C'est ma vie.
 ## Reboot
