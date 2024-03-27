@@ -44,6 +44,15 @@ As long as you're getting your dopamine from previous successes, you can't achie
 ### آدم های سر چشمه
 Suivez les personnes qui sont 10, 100 ou 1000 fois meilleures que vous.
 
+### Good Enough
+[Telegram Post](https://t.me/Arashnm80_Persian/175)
+
+### Maximizing vs Satisficing
+[Telegram Post](https://t.me/edrism_dg/1196)
+
+### خفنه بودن تو این دنیا
+[Telegram](https://t.me/Arashnm80_Persian/841)
+
 ### Porn vs. Sex
 If you have healthy legs don't watch soccer games on TV, go out and fucking play it yourself.
 
