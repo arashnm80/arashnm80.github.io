@@ -62,3 +62,14 @@ If you have healthy legs don't watch soccer games on TV, go out and fucking play
 - 大物は大きな選択をします。
 
 ---
+
+## Longs
+
+### Learning
+
+#### 2 Years old kid
+
+#### Edge
+if you’re not failing you’re not operating at the edge. if you’re not operating at the edge, you’re not learning as much as you can.
+
+---
