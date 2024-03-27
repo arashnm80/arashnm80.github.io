@@ -60,6 +60,7 @@ If you have healthy legs don't watch soccer games on TV, go out and fucking play
 
 ## Shorts
 - 大物は大きな選択をします。
+- Passez du temps avec des personnes qui sont 20% meilleures que vous.
 
 ---
 
