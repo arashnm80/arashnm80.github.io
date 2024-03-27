@@ -10,8 +10,11 @@ Here's gonna be my public handbook. Contents might be from my own mind or others
 
 ### C'est ma vie.
 This can be happy, beau, 平和, منصفانه, easy, excitant, 楽しい, سرراست, lovely and one-time golden chance. \
+
 This can be painful, stressant, 悲しい, مبهم, uncertain, déprimant, 孤独, گیج‌کننده, ephemeral, injuste, 残酷, fucked up and full of shit. \
+
 But whatever this is, これが私の人生です。\
+
 پس بهترین سوالی که میتونم بپرسم اینه که \
 Who do I choose to be et que choisis-je de faire maintenant?
 
