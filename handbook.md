@@ -1,10 +1,9 @@
 ---
 layout: page
-title: ""
+title: Handbook
 ---
 
-### Arash's Handbook
-Here's gonna be my public notebook. Contents might be right or wrong, from my own mind or others, only English or multilingual, neat or messy.
+Here's gonna be my public handbook. Contents might be from my own mind or others, only English or multilingual, neat or messy, transient or permanent.
 
 ## C'est ma vie.
 
