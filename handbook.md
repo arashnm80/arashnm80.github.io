@@ -6,6 +6,7 @@ title: Handbook
 Here's gonna be my public handbook. Contents might be from my own mind or others, only English or multilingual, neat or messy, transient or permanent.
 
 ---
+
 ## Core
 
 ### C'est ma vie.
@@ -19,7 +20,8 @@ But whatever this is, これが私の人生です。
 Who do I choose to be et que choisis-je de faire maintenant?
 
 ---
-## Briefs
+
+## Mediums
 
 ### Reboot
 - What are my main pinciples and beliefs?
@@ -33,5 +35,21 @@ Who do I choose to be et que choisis-je de faire maintenant?
 - Pour combien d'entre elles avez-vous suffisamment de connaissances et de compétences pour les accomplir ?
 - For how many of them have you actually tried so far?
 
+### Leave the past
+> Everyday you wake up, flush yesterday's achievements down the toilet in your mind.
+
+As long as you're getting your dopamine from previous successes, you can't achieve anything bigger. Forget them and get your dopamine from what you're doing right now.
+> "I always want it to be a project that, if successful, will make the rest of my career look like a footnote." - Sam Altman
+
+### آدم های سر چشمه
+Suivez les personnes qui sont 10, 100 ou 1000 fois meilleures que vous.
+
 ### Porn vs. Sex
 If you have healthy legs don't watch soccer games on TV, go out and fucking play it yourself.
+
+---
+
+## Shorts
+- 大物は大きな選択をします。
+
+---
