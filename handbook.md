@@ -72,6 +72,9 @@ If you have healthy legs don't watch soccer games on TV, go out and fucking play
 ### Don't be sorry, be better
 [Telegram](https://t.me/Arashnm80_Persian/697)
 
+### حذف ترجمه خوانی
+Quittez le cercle de sécurité autour de vous そしてあなたの熟練度に関係なく read the original contents.
+
 ---
 
 ## Shorts
@@ -87,8 +90,9 @@ If you have healthy legs don't watch soccer games on TV, go out and fucking play
 ### Life
 
 #### Carpe diem
-- > seize the day boys, make your lives extraordinary. - dead poets society
+> seize the day boys, make your lives extraordinary. - dead poets society
 - La vie commence dès maintenant.
+- Vivez chaque seconde comme si you've deliberately come back from your final breaths to relive この特定の秒.
 
 ### Learning
 
