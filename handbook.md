@@ -49,6 +49,8 @@ As long as you're getting your dopamine from previous successes, you can't achie
 ### Streak
 Most important metric for success are daily, weekly and monthly streaks.
 
+### Cut the crap
+
 ### آدم های سر چشمه
 Suivez les personnes qui sont 10, 100 ou 1000 fois meilleures que vous.
 
