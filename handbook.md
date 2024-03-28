@@ -84,6 +84,7 @@ If you have healthy legs don't watch soccer games on TV, go out and fucking play
 ### Life
 
 #### Carpe diem
+- > seize the day boys, make your lives extraordinary. - dead poets society
 - La vie commence dès maintenant.
 
 ### Learning
