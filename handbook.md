@@ -49,6 +49,9 @@ Most important metric for success are daily, weekly and monthly streaks.
 ### آدم های سر چشمه
 Suivez les personnes qui sont 10, 100 ou 1000 fois meilleures que vous.
 
+### Art of racing in the rain
+> "The scope of one's personality is defined by the magnitude of that problem which is capable of driving a person out of his wits." ― Sigmund Freud
+
 ### Good Enough
 [Telegram Post](https://t.me/Arashnm80_Persian/175)
 
