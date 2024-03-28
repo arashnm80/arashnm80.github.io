@@ -75,6 +75,11 @@ If you have healthy legs don't watch soccer games on TV, go out and fucking play
 
 ## Longs
 
+### Life
+
+#### Now
+- La vie commence dès maintenant.
+
 ### Learning
 
 #### 2 Years old kid
