@@ -80,7 +80,7 @@ If you have healthy legs don't watch soccer games on TV, go out and fucking play
 
 ### Life
 
-#### Now
+#### Carpe diem
 - La vie commence dès maintenant.
 
 ### Learning
