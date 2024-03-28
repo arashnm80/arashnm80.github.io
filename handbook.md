@@ -63,13 +63,16 @@ If you have healthy legs don't watch soccer games on TV, go out and fucking play
 
 ### Multitask
 
+### Don't be sorry, be better
+[Telegram](https://t.me/Arashnm80_Persian/697)
+
 ---
 
 ## Shorts
 - 大物は大きな選択をします。
 - Passez du temps avec des personnes qui sont 20% meilleures que vous.
 - Break the wall of bad habits with sledgehammer of your will. [Telegram](https://t.me/Arashnm80_Persian/930)
-- 
+
 
 ---
 
