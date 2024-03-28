@@ -35,6 +35,9 @@ Who do I choose to be et que choisis-je de faire maintenant?
 - Pour combien d'entre elles avez-vous suffisamment de connaissances et de compétences pour les accomplir ?
 - For how many of them have you actually tried so far?
 
+### Newton's first law
+Any change always faces un soutien minimal et une opposition maximale.
+
 ### Prioritize
 
 ### Leave the past
@@ -93,5 +96,8 @@ If you have healthy legs don't watch soccer games on TV, go out and fucking play
 
 #### Edge
 if you’re not failing you’re not operating at the edge. if you’re not operating at the edge, you’re not learning as much as you can.
+
+### Experience
+- 同じ木を森で通り過ぎたら、you are lost.
 
 ---
