@@ -84,7 +84,7 @@ Quittez le cercle de sécurité autour de vous そしてあなたの熟練度に
 - Passez du temps avec des personnes qui sont 20% meilleures que vous.
 - Break the wall of bad habits with sledgehammer of your will. [Telegram](https://t.me/Arashnm80_Persian/930)
 - The best way to predict the future, それを発明することです。
-
+- Do or do not, there is no try.
 ---
 
 ## Longs
@@ -92,7 +92,7 @@ Quittez le cercle de sécurité autour de vous そしてあなたの熟練度に
 ### Life
 
 #### Carpe diem
-> seize the day boys, make your lives extraordinary. - dead poets society
+- > seize the day boys, make your lives extraordinary. - dead poets society
 - La vie commence dès maintenant.
 - Vivez chaque seconde comme si you've deliberately come back from your final breaths to relive この特定の秒.
 
