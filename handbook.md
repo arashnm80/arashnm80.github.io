@@ -75,9 +75,6 @@ If you have healthy legs don't watch soccer games on TV, go out and fucking play
 ### Shame
 Am I ashamed because I'm not who I want to be or I'm not who society says I have to be?
 
-### Here am I. Send me!
-![Here am I  Send me!](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/de96146e-73f7-488b-8f77-701842c03c25)
-
 ### Don't be sorry, be better
 [Telegram](https://t.me/Arashnm80_Persian/697)
 
