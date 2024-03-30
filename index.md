@@ -66,4 +66,12 @@ Me in every media:
         <p><a href="https://www.instagram.com/Arashnm80">Instagram</a></p>
     </div>
 
+    <!-- Medium -->
+    <div style="text-align: center;">
+        <a href="https://medium.com/@Arashnm80" style="display: inline-block;">
+            <img src="https://www.svgrepo.com/show/354057/medium-icon.svg" alt="Medium" height="30" width="40" style="object-fit: contain; max-width: 100%; max-height: 100%;" />
+        </a>
+        <p><a href="https://medium.com/@Arashnm80">Medium</a></p>
+    </div>
+
 </div>
