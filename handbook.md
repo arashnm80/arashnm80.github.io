@@ -119,4 +119,7 @@ if you’re not failing you’re not operating at the edge. if you’re not oper
 ### Experience
 - 同じ木を森で通り過ぎたら、you are lost.
 
+### Focus
+#### Focus shower
+
 ---
