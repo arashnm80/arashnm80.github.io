@@ -87,6 +87,7 @@ Quittez le cercle de sécurité autour de vous そしてあなたの熟練度に
 - The best way to predict the future, それを発明することです。
 - Do or do not, there is no try.
 - تو یه گلوله طلایی نداری، 100 تا گلوله سربی داری، باید انقدر بزنی تا بخوره به هدف.
+
 ---
 
 ## Longs
