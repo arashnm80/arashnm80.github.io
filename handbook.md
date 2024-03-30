@@ -43,6 +43,10 @@ As long as you're getting your dopamine from previous successes, you can't achie
 ### Streak
 Most important metric for success are daily, weekly and monthly streaks.
 
+### Act
+- Talk is cheap, show me the code.
+![talk is cheap, show me the code](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/249b147c-779d-4a07-a17b-2faf82e57df2)
+
 ### Cut the crap
 
 ### آدم های سر چشمه
