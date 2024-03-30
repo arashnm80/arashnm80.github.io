@@ -90,8 +90,10 @@ Quittez le cercle de sécurité autour de vous そしてあなたの熟練度に
 
 #### Carpe diem
 - > seize the day boys, make your lives extraordinary. - dead poets society
+  > ![carpe diem](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/ca11ddad-34f2-45e0-b7d0-a02b752b0bd7)
 - La vie commence dès maintenant.
 - Vivez chaque seconde comme si you've deliberately come back from your final breaths to relive この特定の秒.
+- مکان مهم نیست، سرعت و جهت مهمن.
 
 ### Learning
 
@@ -99,6 +101,11 @@ Quittez le cercle de sécurité autour de vous そしてあなたの熟練度に
 
 #### Edge
 if you’re not failing you’re not operating at the edge. if you’re not operating at the edge, you’re not learning as much as you can.
+
+### Time
+#### This life, This year, this day, this second.
+![this life, this year, this day, this second](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/e7818334-a530-4c17-9f79-5f76ac0a3526)
+
 
 ### Experience
 - 同じ木を森で通り過ぎたら、you are lost.
