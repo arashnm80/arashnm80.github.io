@@ -10,14 +10,7 @@ Here's gonna be my public handbook. Contents might be from my own mind or others
 ## Core
 
 ### C'est ma vie.
-This can be happy, beau, 平和, منصفانه, easy, excitant, 楽しい, سرراست, lovely and one-time golden chance.
-
-This can be painful, stressant, 悲しい, مبهم, uncertain, déprimant, 孤独, گیج‌کننده, ephemeral, injuste, 残酷, fucked up and full of shit.
-
-But whatever this is, これが私の人生です。
-
-پس بهترین سوالی که میتونم بپرسم اینه که \
-Who do I choose to be et que choisis-je de faire maintenant?
+This can be the worst, This can be the best. This is life. But whatever this is, This is my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?
 
 ---
 
@@ -68,6 +61,9 @@ Suivez les personnes qui sont 10, 100 ou 1000 fois meilleures que vous.
 
 ### Porn vs. Sex
 If you have healthy legs don't watch soccer games on TV, go out and fucking play it yourself.
+
+### Here am I. Send me!
+> Then I heard the voice of the Lord saying, “Whom shall I send? And who will go for us?” And I said, “Here am I. Send me!” - Isaiah 6:8
 
 ### Multitask
 
