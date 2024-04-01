@@ -112,7 +112,8 @@ Quittez le cercle de sécurité autour de vous そしてあなたの熟練度に
 #### 2 Years old kid
 
 #### Edge
-if you’re not failing you’re not operating at the edge. if you’re not operating at the edge, you’re not learning as much as you can.
+- if you’re not failing you’re not operating at the edge. if you’re not operating at the edge, you’re not learning as much as you can.
+- >  “I don't count my sit-ups; I only start counting when it starts hurting because they’re the only ones that count.” ― Muhammad Ali
 
 ### Time
 
