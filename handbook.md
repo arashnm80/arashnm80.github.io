@@ -115,9 +115,12 @@ Quittez le cercle de sécurité autour de vous そしてあなたの熟練度に
 if you’re not failing you’re not operating at the edge. if you’re not operating at the edge, you’re not learning as much as you can.
 
 ### Time
+
 #### This life, This year, this day, this second.
 ![this life, this year, this day, this second](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/e7818334-a530-4c17-9f79-5f76ac0a3526)
 
+#### The Time billionaire
+https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-changed-my-life
 
 ### Experience
 - 同じ木を森で通り過ぎたら、you are lost.
