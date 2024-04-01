@@ -48,6 +48,7 @@ Most important metric for success are daily, weekly and monthly streaks.
 ![talk is cheap, show me the code](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/249b147c-779d-4a07-a17b-2faf82e57df2)
 
 ### Cut the crap
+- to the point
 
 ### انتحاری عمل کن.
 
