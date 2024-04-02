@@ -93,25 +93,6 @@ Am I ashamed because I'm not who I want to be or I'm not who society says I have
 
 ### Detroit: Become Human
 
-### حذف ترجمه خوانی
-Quittez le cercle de sécurité autour de vous そしてあなたの熟練度に関係なく read the original contents.
-
-</details>
-
----
-
-## Shorts
-
-<details markdown=block>
-<summary></summary>
-  
-- 大物は大きな選択をします。
-- Passez du temps avec des personnes qui sont 20% meilleures que vous.
-- Break the wall of bad habits with sledgehammer of your will. [Telegram](https://t.me/Arashnm80_Persian/930)
-- The best way to predict the future, それを発明することです。
-- Do or do not, there is no try.
-- تو یه گلوله طلایی نداری، 100 تا گلوله سربی داری، باید انقدر بزنی تا بخوره به هدف.
-
 </details>
 
 ---
@@ -134,6 +115,9 @@ Quittez le cercle de sécurité autour de vous そしてあなたの熟練度に
 
 #### 2 Years old kid
 
+#### حذف ترجمه خوانی
+Quittez le cercle de sécurité autour de vous そしてあなたの熟練度に関係なく read the original contents.
+
 #### Edge
 - if you’re not failing you’re not operating at the edge. if you’re not operating at the edge, you’re not learning as much as you can.
 - >  “I don't count my sit-ups; I only start counting when it starts hurting because they’re the only ones that count.” ― Muhammad Ali
@@ -151,6 +135,34 @@ https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-change
 
 ### Focus
 #### Focus shower
+
+</details>
+
+---
+
+## Shorts
+
+<details markdown=block>
+<summary></summary>
+  
+- 大物は大きな選択をします。
+- Passez du temps avec des personnes qui sont 20% meilleures que vous.
+- Break the wall of bad habits with sledgehammer of your will. [Telegram](https://t.me/Arashnm80_Persian/930)
+- The best way to predict the future, それを発明することです。
+- Do or do not, there is no try.
+- تو یه گلوله طلایی نداری، 100 تا گلوله سربی داری، باید انقدر بزنی تا بخوره به هدف.
+
+</details>
+
+---
+
+## Words
+
+<details markdown=block>
+<summary></summary>
+  
+### 浮世 – Ukiyo
+[Telegram](https://t.me/Arashnm80_Persian/1018)
 
 </details>
 
