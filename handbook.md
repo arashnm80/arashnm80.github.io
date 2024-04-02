@@ -7,19 +7,10 @@ Here's gonna be my public handbook. Contents might be from my own mind or others
 This page is also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/main/handbook.md) with another font.
 
 <details markdown=block>
-<summary markdown=span>A *Summary*</summary>
+<summary markdown=span>Table of Contents</summary>
 These are the **details** for this item.
-  
 * TOC
 {:toc}
-
-</details>
-
-
-<details>
-  <summary>Table of Contents</summary>
-
-  
 </details>
 
 ---
