@@ -9,14 +9,16 @@ This page is also available in [here](https://github.com/arashnm80/arashnm80.git
 <details markdown=block>
 <summary markdown=span>A *Summary*</summary>
 These are the **details** for this item.
+  
+* TOC
+{:toc}
+
 </details>
 
 
 <details>
   <summary>Table of Contents</summary>
 
-* TOC
-{:toc}
   
 </details>
 
