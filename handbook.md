@@ -21,12 +21,10 @@ This can be the worst, This can be the best. This is life. But whatever this is,
 
 ---
 
-<details markdown=block>
-<summary markdown=span>
-  
 ## Mediums
 
-</summary>
+<details markdown=block>
+<summary></summary>
   
 ### Brain Reboot
 let's clear the cache and start again from scratch.
@@ -61,7 +59,7 @@ Most important metric for success are daily, weekly and monthly streaks.
 ### Cut the crap
 - to the point
 
-### انتحاری عمل کن.
+### انتحاری عمل کن
 
 ### آدم های سر چشمه
 Suivez les personnes qui sont 10, 100 ou 1000 fois meilleures que vous.
@@ -103,6 +101,9 @@ Quittez le cercle de sécurité autour de vous そしてあなたの熟練度に
 ---
 
 ## Shorts
+
+<details markdown=block>
+<summary></summary>
   
 - 大物は大きな選択をします。
 - Passez du temps avec des personnes qui sont 20% meilleures que vous.
@@ -111,9 +112,14 @@ Quittez le cercle de sécurité autour de vous そしてあなたの熟練度に
 - Do or do not, there is no try.
 - تو یه گلوله طلایی نداری، 100 تا گلوله سربی داری، باید انقدر بزنی تا بخوره به هدف.
 
+</details>
+
 ---
 
 ## Longs
+
+<details markdown=block>
+<summary></summary>
 
 ### Life
 
@@ -145,5 +151,7 @@ https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-change
 
 ### Focus
 #### Focus shower
+
+</details>
 
 ---
