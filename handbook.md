@@ -84,7 +84,7 @@ If you have healthy legs don't watch soccer games on TV, go out and fucking play
 ### Multitask
 
 ### Shame
-Am I ashamed because I'm not who I want to be or I'm not who society says I have to be?
+Am I ashamed because I'm not who I want to be or because I'm not who society says I have to be?
 
 ### Don't be sorry, be better
 [Telegram](https://t.me/Arashnm80_Persian/697)
