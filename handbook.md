@@ -82,6 +82,8 @@ Am I ashamed because I'm not who I want to be or I'm not who society says I have
 ### Don't be sorry, be better
 [Telegram](https://t.me/Arashnm80_Persian/697)
 
+### Detroit: Become Human
+
 ### حذف ترجمه خوانی
 Quittez le cercle de sécurité autour de vous そしてあなたの熟練度に関係なく read the original contents.
 
