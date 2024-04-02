@@ -15,7 +15,13 @@ This can be the worst, This can be the best. This is life. But whatever this is,
 
 ---
 
+<details>
+  <summary>
+    
 ## Mediums
+
+  </summary>
+
 
 ### Reboot
 Start again from scratch.
@@ -87,9 +93,18 @@ Am I ashamed because I'm not who I want to be or I'm not who society says I have
 ### حذف ترجمه خوانی
 Quittez le cercle de sécurité autour de vous そしてあなたの熟練度に関係なく read the original contents.
 
+
+</details>
+
 ---
 
+<details>
+  <summary>
+
 ## Shorts
+    
+  </summary>
+  
 - 大物は大きな選択をします。
 - Passez du temps avec des personnes qui sont 20% meilleures que vous.
 - Break the wall of bad habits with sledgehammer of your will. [Telegram](https://t.me/Arashnm80_Persian/930)
@@ -97,9 +112,15 @@ Quittez le cercle de sécurité autour de vous そしてあなたの熟練度に
 - Do or do not, there is no try.
 - تو یه گلوله طلایی نداری، 100 تا گلوله سربی داری، باید انقدر بزنی تا بخوره به هدف.
 
+</details>
+
 ---
+<details>
+  <summary>
 
 ## Longs
+    
+  </summary>
 
 ### Life
 
@@ -131,5 +152,7 @@ https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-change
 
 ### Focus
 #### Focus shower
+
+</details>
 
 ---
