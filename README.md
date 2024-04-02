@@ -11,3 +11,6 @@
 ## how to use in github codespaces
 - install: `bundle install`
 - run: `bundle exec jekyll serve`
+
+## good sources:
+- jekyll table of contents: https://www.seanbuscay.com/blog/jekyll-toc-markdown/
