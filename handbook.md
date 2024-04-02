@@ -28,12 +28,17 @@ This page is also available in [here](https://github.com/arashnm80/arashnm80.git
   
 ### Brain Reboot
 let's clear the cache and start again from scratch.
-- What are my main principles/beliefs/thoughts?
-- What do I want/like/need/love and what I don't?
-- What is the correct list sorted by priorities?
+- What are my main postulates/principles/beliefs/thoughts/rules/goals?
+- What do I want/like/need/love/have and what I don't?
 - 私の現在の状況は何ですか？
-- What are my options? What is the best/worst thing I can do now?
+- Prioritize/evaluate/rate. What are the sorted lists?
+- What are all my options? What are the best ones?
 - Qui vais-je choisir d'être et que vais-je choisir de faire maintenant ?
+
+### Act
+- Talk is cheap, show me the code.
+![talk is cheap, show me the code](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/249b147c-779d-4a07-a17b-2faf82e57df2)
+- تلاش در هر جهت رندومی شرف داره به هیچ تلاشی نکردن.
 
 ### Idea, knowledge, action
 - あなたのトップ500のアイデアは何ですか？
@@ -52,10 +57,6 @@ As long as you're getting your dopamine from previous successes, you can't achie
 ### Streak
 Most important metric for success are daily, weekly and monthly streaks.
 
-### Act
-- Talk is cheap, show me the code.
-![talk is cheap, show me the code](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/249b147c-779d-4a07-a17b-2faf82e57df2)
-
 ### Cut the crap
 - to the point
 
@@ -73,9 +74,6 @@ Suivez les personnes qui sont 10, 100 ou 1000 fois meilleures que vous.
 
 ### Maximizing vs Satisficing
 [Telegram Post](https://t.me/edrism_dg/1196)
-
-### خفنه بودن تو این دنیا
-[Telegram](https://t.me/Arashnm80_Persian/841)
 
 ### Porn vs. Sex
 If you have healthy legs don't watch soccer games on TV, go out and fucking play it yourself.
@@ -114,6 +112,9 @@ Am I ashamed because I'm not who I want to be or I'm not who society says I have
 ### Learning
 
 #### 2 Years old kid
+
+### خفنه بودن تو این دنیا
+[Telegram](https://t.me/Arashnm80_Persian/841)
 
 #### حذف ترجمه خوانی
 Quittez le cercle de sécurité autour de vous そしてあなたの熟練度に関係なく read the original contents.
