@@ -18,10 +18,11 @@ This can be the worst, This can be the best. This is life. But whatever this is,
 ## Mediums
 
 ### Reboot
-- What are my main pinciples and beliefs?
-- What do I want/like/need?
+Start again from scratch.
+- What are my main pinciples/beliefs/thoughts?
+- What do I want/like/need/love and what I don't?
 - 私の現在の状況は何ですか？
-- What is the best thing I can do now?
+- What are my options? What is the best/worst thing I can do now?
 - Qui vais-je choisir d'être et que vais-je choisir de faire maintenant ?
 
 ### Idea, knowledge, action
