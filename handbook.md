@@ -23,8 +23,8 @@ This can be the worst, This can be the best. This is life. But whatever this is,
   </summary>
 
 
-### Reboot
-Start again from scratch.
+### Brain Reboot
+let's clear the cache and start again from scratch.
 - What are my main principles/beliefs/thoughts?
 - What do I want/like/need/love and what I don't?
 - What is the correct list sorted by priorities?
