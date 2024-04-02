@@ -22,7 +22,12 @@ This can be the worst, This can be the best. This is life. But whatever this is,
 ---
 
 <details markdown=block>
-<summary markdown=span>## Mediums</summary>
+<summary markdown=span>
+  
+## Mediums
+
+</summary>
+  
 ### Brain Reboot
 let's clear the cache and start again from scratch.
 - What are my main principles/beliefs/thoughts?
@@ -94,7 +99,6 @@ Am I ashamed because I'm not who I want to be or I'm not who society says I have
 Quittez le cercle de sécurité autour de vous そしてあなたの熟練度に関係なく read the original contents.
 
 </details>
-
 
 ---
 
