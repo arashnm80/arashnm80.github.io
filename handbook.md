@@ -25,7 +25,7 @@ This can be the worst, This can be the best. This is life. But whatever this is,
 
 ### Reboot
 Start again from scratch.
-- What are my main pinciples/beliefs/thoughts?
+- What are my main principles/beliefs/thoughts?
 - What do I want/like/need/love and what I don't?
 - What is the correct list sorted by priorities?
 - 私の現在の状況は何ですか？
