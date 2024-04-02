@@ -21,6 +21,7 @@ This can be the worst, This can be the best. This is life. But whatever this is,
 Start again from scratch.
 - What are my main pinciples/beliefs/thoughts?
 - What do I want/like/need/love and what I don't?
+- What is the correct list sorted by priorities?
 - 私の現在の状況は何ですか？
 - What are my options? What is the best/worst thing I can do now?
 - Qui vais-je choisir d'être et que vais-je choisir de faire maintenant ?
@@ -32,8 +33,6 @@ Start again from scratch.
 
 ### Newton's first law
 Any change always faces un soutien minimal et une opposition maximale.
-
-### Prioritize
 
 ### Leave the past
 > Everyday you wake up, flush yesterday's achievements down the toilet in your mind.
