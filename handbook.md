@@ -4,7 +4,7 @@ title: Handbook
 ---
 
 Here's gonna be my public handbook. Contents might be from my own mind or others, only English or multilingual, neat or messy, transient or permanent. \
-This page is also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/main/handbook.md) with another font.
+This page is also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/main/handbook.md) with another font and style.
 
 <details markdown=block>
 <summary markdown=span>**Table of Contents**</summary>
@@ -17,7 +17,7 @@ This page is also available in [here](https://github.com/arashnm80/arashnm80.git
 ## Core
 
 ### C'est ma vie.
-This can be the worst, This can be the best. This is life. But whatever this is, This is my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?
+**This can be the worst, This can be the best. This is life. But whatever this is, This is my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?**
 
 ---
 
