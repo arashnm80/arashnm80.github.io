@@ -6,8 +6,13 @@ title: Handbook
 Here's gonna be my public handbook. Contents might be from my own mind or others, only English or multilingual, neat or messy, transient or permanent. \
 This page is also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/main/handbook.md) with another font.
 
+<details>
+  <summary>Table of Contents</summary>
+
 * TOC
 {:toc}
+  
+</details>
 
 ---
 
