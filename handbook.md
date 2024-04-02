@@ -32,7 +32,7 @@ let's clear the cache and start again from scratch.
 - What do I want/like/need/love/have and what I don't?
 - 私の現在の状況は何ですか？
 - Prioritize/evaluate/rate. What are the sorted lists?
-- What are all my options? What are the best ones?
+- What are all my options? What is the best one?
 - Qui vais-je choisir d'être et que vais-je choisir de faire maintenant ?
 
 ### Act
