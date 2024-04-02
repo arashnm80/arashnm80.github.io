@@ -8,7 +8,6 @@ This page is also available in [here](https://github.com/arashnm80/arashnm80.git
 
 <details markdown=block>
 <summary markdown=span>Table of Contents</summary>
-These are the **details** for this item.
 * TOC
 {:toc}
 </details>
