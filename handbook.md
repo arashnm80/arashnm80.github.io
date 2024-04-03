@@ -83,6 +83,9 @@ If you have healthy legs don't watch soccer games on TV, go out and fucking play
 
 ### Multitask
 
+### magnet
+- نورخواهی مستعد نور شو
+
 ### Shame
 Am I ashamed because I'm not who I want to be or because I'm not who society says I have to be?
 
