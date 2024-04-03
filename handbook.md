@@ -102,9 +102,10 @@ Am I ashamed because I'm not who I want to be or because I'm not who society say
 
 ### Life
 
-#### Carpe diem
+#### Now
 - > seize the day boys, make your lives extraordinary. - dead poets society
   > ![carpe diem](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/ca11ddad-34f2-45e0-b7d0-a02b752b0bd7)
+- 浮世 – Ukiyo [Telegram](https://t.me/Arashnm80_Persian/1018)
 - Le reste de ma vie commence dès maintenant.
 - Vivez chaque seconde comme si you've deliberately come back from your final breaths to relive この特定の秒.
 - مکان مهم نیست، سرعت و جهت مهمن.
@@ -161,9 +162,9 @@ https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-change
 
 <details markdown=block>
 <summary></summary>
-  
-### 浮世 – Ukiyo
-[Telegram](https://t.me/Arashnm80_Persian/1018)
+
+### 木漏れ日 - Komorebi
+[Telegram](https://t.me/Arashnm80_Persian/857)
 
 </details>
 
