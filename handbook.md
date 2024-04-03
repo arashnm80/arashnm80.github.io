@@ -138,6 +138,12 @@ https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-change
 ### Focus
 #### Focus shower
 
+### Randomness, Chance, Probability
+#### A & B plans: cure to confusion and uncertainty??
+- devise 2 plans: A. simple, elementry, obvious plan (easy to figure out) & B. robust, refined, elaborate plan (needs more thought and time)
+- simultaneously: move by plan A and work on plan B
+- switch point: When plan B became good enough make it the new plan A and repeat.
+
 </details>
 
 ---
