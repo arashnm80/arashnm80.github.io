@@ -134,6 +134,7 @@ https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-change
 
 ### Experience
 - 同じ木を森で通り過ぎたら、you are lost.
+- Don't make the same mistake twice.
 
 ### Focus
 #### Focus shower
