@@ -159,6 +159,7 @@ Start with what I have now and accept this. Go upper (results of this) and lower
 <details markdown=block>
 <summary></summary>
   
+- If you know the right thing, do it.
 - 大物は大きな選択をします。
 - Passez du temps avec des personnes qui sont 20% meilleures que vous.
 - Break the wall of bad habits with sledgehammer of your will. [Telegram](https://t.me/Arashnm80_Persian/930)
