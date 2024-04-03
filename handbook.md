@@ -144,6 +144,8 @@ https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-change
 - devise 2 plans: A. simple, elementry, obvious plan (easy to figure out) & B. robust, refined, elaborate plan (needs more thought and time)
 - simultaneously: move by plan A and work on plan B
 - switch point: When plan B became good enough make it the new plan A and repeat.
+#### Up & Down
+Start with what I have now and accept this. Go upper (results of this) and lower (deeper, why this?) over time.
 
 </details>
 
