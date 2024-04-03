@@ -27,7 +27,7 @@ This page is also available in [here](https://github.com/arashnm80/arashnm80.git
 <summary></summary>
   
 ### Brain Reboot
-let's clear the cache and start again from scratch.
+let's clear the cache and start again from scratch. I am born in this body right now.
 - What are my main postulates/principles/beliefs/thoughts/rules/goals?
 - What do I want/like/need/love/have and what I don't?
 - 私の現在の状況は何ですか？
