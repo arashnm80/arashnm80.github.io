@@ -36,6 +36,7 @@ let's clear the cache and start again from scratch. I am born in this body right
 - Qui vais-je choisir d'être et que vais-je choisir de faire maintenant ?
 
 ### Act
+- talk with your actions.
 - Talk is cheap, show me the code.
 ![talk is cheap, show me the code](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/249b147c-779d-4a07-a17b-2faf82e57df2)
 - تلاش در هر جهت رندومی شرف داره به هیچ تلاشی نکردن.
