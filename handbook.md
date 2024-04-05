@@ -37,6 +37,7 @@ let's clear the cache and start again from scratch. I am born in this body right
 
 ### Act
 - 行動で語る。
+- 行動を通して考え、話す。
 - Keep your actions abreast with your knowledge.
 - Be the executer
 - Talk is cheap, show me the code.
