@@ -37,9 +37,12 @@ let's clear the cache and start again from scratch. I am born in this body right
 
 ### Act
 - 行動で語る。
+- Keep your actions abreast with your knowledge.
+- Be the executer
 - Talk is cheap, show me the code.
 ![talk is cheap, show me the code](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/249b147c-779d-4a07-a17b-2faf82e57df2)
 - تلاش در هر جهت رندومی شرف داره به هیچ تلاشی نکردن.
+- Thinking language: action (?)
 
 ### Idea, knowledge, action
 - あなたのトップ500のアイデアは何ですか？
