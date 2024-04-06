@@ -62,6 +62,10 @@ As long as you're getting your dopamine from previous successes, you can't achie
 ### Streak
 Most important metric for success are daily, weekly and monthly streaks.
 
+### Web Graph Cycle
+- Most are connected
+- Sizes and directions vary
+
 ### Cut the crap
 - to the point
 
