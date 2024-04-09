@@ -153,6 +153,9 @@ Quittez le cercle de sécurité autour de vous そしてあなたの熟練度に
 #### 時の億万長者
 https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-changed-my-life
 
+### Short Window
+Judgment call
+
 ### Experience
 - 同じ木を森で通り過ぎたら、you are lost.
 - Don't make the same mistake twice.
@@ -167,6 +170,9 @@ https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-change
 - switch point: When plan B became good enough make it the new plan A and repeat.
 #### Up & Down
 Start with what I have now and accept this. Go upper (results of this) and lower (deeper, why this?) over time.
+
+### Fight
+#### In the name of father
 
 </details>
 
