@@ -92,6 +92,7 @@ If you have healthy legs don't watch soccer games on TV, go out and fucking play
 > Then I heard the voice of the Lord saying, “Whom shall I send? And who will go for us?” And I said, “Here am I. Send me!” - Isaiah 6:8
 
 ### Multitask
+- I choose to multitask, but first use all my potential in single tasking.
 
 ### magnet
 - نورخواهی مستعد نور شو
