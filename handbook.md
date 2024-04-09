@@ -98,7 +98,7 @@ If you have healthy legs don't watch soccer games on TV, go out and fucking play
 ### Always compare yourself with the best
 - Who practices programming more in each year, you or Linus Torvalds?
 - Who has a healthier diet, you or CR7?
-- Who thinks about more creative solutions, you or a 4 year old kid?
+- Who comes up with more creative solutions, you or a 4-year-old kid?
 
 ### Shame
 Am I ashamed because I'm not who I want to be or because I'm not who society says I have to be?
