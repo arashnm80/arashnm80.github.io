@@ -103,6 +103,8 @@ Am I ashamed because I'm not who I want to be or because I'm not who society say
 
 ### Detroit: Become Human
 
+### First person view
+
 </details>
 
 ---
@@ -175,6 +177,7 @@ Start with what I have now and accept this. Go upper (results of this) and lower
 - The best way to predict the future, それを発明することです。
 - Do or do not, there is no try.
 - تو یه گلوله طلایی نداری، 100 تا گلوله سربی داری، باید انقدر بزنی تا بخوره به هدف.
+- As long as I'm not using all I have, I'm not gonna complain about what I don't.
 
 </details>
 
