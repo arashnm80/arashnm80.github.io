@@ -19,7 +19,7 @@ This page is also available in [here](https://github.com/arashnm80/arashnm80.git
 ### C'est ma vie. [🎵](https://open.spotify.com/track/0r3ORGlp6TvNLxYJH1A7G8)
 **This can be the worst, This can be the best. This is life. But whatever this is, This is my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?**
 ### 時間
-Time is my most precious asset.
+**Time is my most precious asset.**
 
 ---
 
