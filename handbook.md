@@ -98,7 +98,7 @@ If you have healthy legs don't watch soccer games on TV, go out and fucking play
 - نورخواهی مستعد نور شو
 
 ### Always compare yourself with the best
-- Who practices more programming skills each year, you or Linus Torvalds?
+- Who practices more programming skills each day, you or Linus Torvalds?
 - Who has a healthier diet, you or CR7?
 - Who comes up with more creative solutions, you or a 4-year-old kid?
 
