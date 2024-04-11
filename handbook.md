@@ -18,8 +18,6 @@ This page is also available in [here](https://github.com/arashnm80/arashnm80.git
 
 ### C'est ma vie. [🎵](https://open.spotify.com/track/0r3ORGlp6TvNLxYJH1A7G8)
 **This can be the worst, This can be the best. This is life. But whatever this is, This is my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?**
-### 時間
-**Time is my most precious asset.**
 
 ---
 
@@ -151,7 +149,9 @@ Quittez le cercle de sécurité autour de vous そしてあなたの熟練度に
 - if you’re not failing you’re not operating at the edge. if you’re not operating at the edge, you’re not learning as much as you can.
 - >  “I don't count my sit-ups; I only start counting when it starts hurting because they’re the only ones that count.” ― Muhammad Ali
 
-### Time
+### 時間
+
+#### Time is my most precious asset.
 
 #### This life, This year, this day, this second.
 ![this life, this year, this day, this second](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/e7818334-a530-4c17-9f79-5f76ac0a3526)
