@@ -170,7 +170,10 @@ https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-change
 ### Focus
 #### Focus shower
 
-### Randomness, Chance, Probability
+### Fight
+#### In the name of father
+
+### Randomness, Chance, Probability, Uncertainty
 #### A & B plans: cure to confusion and uncertainty??
 - devise 2 plans: A. simple, elementry, obvious plan (easy to figure out) & B. robust, refined, elaborate plan (needs more thought and time)
 - simultaneously: move by plan A and work on plan B
@@ -178,8 +181,10 @@ https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-change
 #### Up & Down
 Start with what I have now and accept this. Go upper (results of this) and lower (deeper, why this?) over time.
 
-### Fight
-#### In the name of father
+### Conspiracy Theory
+
+### Darkness
+What else? knowledge I don't know, Situations I haven't experienced, Ideas I haven't thought about, Paths I haven't walked.
 
 </details>
 
