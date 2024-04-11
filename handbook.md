@@ -47,6 +47,7 @@ let's clear the cache and start again from scratch. I am born in this body right
 ![talk is cheap, show me the code](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/249b147c-779d-4a07-a17b-2faf82e57df2)
 - تلاش در هر جهت رندومی شرف داره به هیچ تلاشی نکردن.
 - Thinking language: action (?)
+- We are defined by our chances and actions.
 
 ### Idea, knowledge, action
 - あなたのトップ500のアイデアは何ですか？
