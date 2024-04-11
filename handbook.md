@@ -153,14 +153,15 @@ Quittez le cercle de sécurité autour de vous そしてあなたの熟練度に
 
 #### Time is my most precious asset.
 
+#### No time for caution. [🎵](https://open.spotify.com/track/5aaXqH8rgKZxg61HjECldi)
+- Short time window
+- Judgement call
+
 #### This life, This year, this day, this second.
 ![this life, this year, this day, this second](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/e7818334-a530-4c17-9f79-5f76ac0a3526)
 
 #### 時の億万長者
 https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-changed-my-life
-
-### Short Window
-Judgment call
 
 ### Experience
 - 同じ木を森で通り過ぎたら、you are lost.
