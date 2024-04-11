@@ -114,6 +114,9 @@ Am I ashamed because I'm not who I want to be or because I'm not who society say
 
 ### First person view
 
+### Perfection
+- As a whole
+
 </details>
 
 ---
