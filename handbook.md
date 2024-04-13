@@ -116,6 +116,8 @@ Am I ashamed because I'm not who I want to be or because I'm not who society say
 ### Perfection
 - As a whole
 
+### Flow
+
 </details>
 
 ---
@@ -203,6 +205,7 @@ What else? knowledge I don't know, Situations I haven't experienced, Ideas I hav
 - Do or do not, there is no try.
 - تو یه گلوله طلایی نداری، 100 تا گلوله سربی داری، باید انقدر بزنی تا بخوره به هدف.
 - As long as I'm not using all I have, I'm not gonna complain about what I don't.
+- Anybody can do it. The question is, who does?
 
 </details>
 
