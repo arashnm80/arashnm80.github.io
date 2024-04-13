@@ -157,7 +157,7 @@ Quittez le cercle de sécurité autour de vous そしてあなたの熟練度に
 
 #### Time is my most precious asset.
 
-#### Your time is limited, so don’t waste it living someone else’s life.
+#### Your time is limited, don’t waste it living someone else’s life.
 
 #### No time for caution. [🎵](https://open.spotify.com/track/5aaXqH8rgKZxg61HjECldi)
 - Short time window
