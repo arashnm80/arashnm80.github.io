@@ -189,8 +189,8 @@ https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-change
 
 ### Randomness, Chance, Probability, Uncertainty
 #### A & B plans: cure to confusion and uncertainty??
-- devise 2 plans: A. simple, elementry, obvious plan (easy to figure out) & B. robust, refined, elaborate plan (needs more thought and time)
-- simultaneously: move by plan A and work on plan B
+- devise 2 plans: A. simple, elementry, obvious, system 1 plan (easy to figure out) & B. robust, refined, elaborate, system 2 plan (needs more thought and time)
+- simultaneously: move by plan A and develop plan B
 - switch point: When plan B became good enough make it the new plan A and repeat.
 
 #### Up & Down
