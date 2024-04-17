@@ -72,16 +72,12 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ### Good Enough
 
 ### Porn vs. Sex
-If you have healthy legs don't watch soccer games on TV, go out and fucking play it yourself.
 
 ### Here am I. Send me!
-> Then I heard the voice of the Lord saying, “Whom shall I send? And who will go for us?” And I said, “Here am I. Send me!” - Isaiah 6:8
 
 ### Multitask
-- I choose to multitask, but first use all my potential in single tasking.
 
 ### magnet
-- نورخواهی مستعد نور شو
 
 ### real time
 
