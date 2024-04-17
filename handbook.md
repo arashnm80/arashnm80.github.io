@@ -4,7 +4,7 @@ title: Handbook
 ---
 
 Open source thoughts. \
-This page is also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/main/handbook.md) with another font and style.
+Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/main/handbook.md) with another font and style.
 
 <details markdown=block>
 <summary markdown=span>**Table of Contents**</summary>
