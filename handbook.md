@@ -35,6 +35,8 @@ This page is also available in [here](https://github.com/arashnm80/arashnm80.git
 
 ### Action
 
+### Plan AB
+
 ### Idea, knowledge, action
 - あなたのトップ500のアイデアは何ですか？
 - Pour combien d'entre elles avez-vous suffisamment de connaissances et de compétences pour les accomplir ?
@@ -168,10 +170,6 @@ https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-change
 #### In the name of father
 
 ### Randomness, Chance, Probability, Uncertainty
-#### A & B plans: cure to confusion and uncertainty??
-- devise 2 plans: A. simple, elementry, obvious, system 1 plan (easy to figure out) & B. robust, refined, elaborate, system 2 plan (needs more thought and time)
-- simultaneously: move by plan A and develop plan B
-- switch point: When plan B became good enough make it the new plan A and repeat.
 
 #### Up & Down
 Start with what I have now and accept this. Go upper (results of this) and lower (deeper, why this?) over time.
