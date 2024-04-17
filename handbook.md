@@ -29,7 +29,7 @@ This page is also available in [here](https://github.com/arashnm80/arashnm80.git
 <details markdown=block>
 <summary></summary>
 
-### Fuck
+### FUCK
 
 ### Reboot
 
@@ -40,7 +40,7 @@ This page is also available in [here](https://github.com/arashnm80/arashnm80.git
 
 ### Flow
 
-### see more
+### See More
 
 ### Idea, knowledge, action
 - あなたのトップ500のアイデアは何ですか？
