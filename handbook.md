@@ -34,26 +34,9 @@ I choose to reboot.
 <details markdown=block>
 <summary></summary>
   
-### Brain Reboot
-let's clear the cache and start again from scratch. I am born in this body right now.
-- What are my main postulates/principles/beliefs/thoughts/rules/goals?
-- What do I want/like/need/love/have and what I don't?
-- 私の現在の状況は何ですか？
-- Prioritize/evaluate/rate. What are the sorted lists?
-- What are all my options? What is the best one?
-- Qui vais-je choisir d'être et que vais-je choisir de faire maintenant ?
+### Reboot
 
-### Act
-- 行動で語る。
-- 行動を通して考え、話す。
-- Keep your actions abreast with your knowledge.
-- 行動に翻訳できない知識はほとんど価値がありません。
-- Be the executer
-- Talk is cheap, show me the code.
-![talk is cheap, show me the code](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/249b147c-779d-4a07-a17b-2faf82e57df2)
-- تلاش در هر جهت رندومی شرف داره به هیچ تلاشی نکردن.
-- Thinking language: action (?)
-- We are defined by our chances and actions.
+### Action
 
 ### Idea, knowledge, action
 - あなたのトップ500のアイデアは何ですか？
