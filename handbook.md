@@ -46,6 +46,8 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ### More Detailed Bigger Pictures
 
+### Maximize
+
 ### Idea, knowledge, action
 - あなたのトップ500のアイデアは何ですか？
 - Pour combien d'entre elles avez-vous suffisamment de connaissances et de compétences pour les accomplir ?
