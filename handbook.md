@@ -36,70 +36,40 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 #### Thinking, Writing and Living System
 ### Plan AB
 ### Flow
-
 ### System 1 & 2
-
 ### More Detailed Bigger Pictures
-
 ### Maximalist
 #### Maximizing vs Satisficing
-
 ### Idea, knowledge, action
-
 ### Newton's first law
-
 ### Forget previous achievements
-
 ### Streak
-
 ### Neural pathways
-
 ### Directed Web Graph
-
 ### Cut the crap / To the point
-
 ### انتحاری
-
 ### آدم های سر چشمه
-
 ### Art of racing in the rain
-
 ### Good Enough
-
 ### Porn vs. Sex
-
 ### Here am I. Send me!
-
 ### Multitask
-
 ### magnet
-
 ### real time
-
 ###  Newton's laws
 #### 1. Resistance
 #### 3. Exchange
-
 ### Shame
-Am I ashamed because I'm not who I want to be or because I'm not who society says I have to be?
-
 ### Leverage
-
 ### Don't be sorry, be better
-[Telegram](https://t.me/Arashnm80_Persian/697)
-
 ### Detroit: Become Human
-
 ### First person view
-
 ### Perfection
 - As a whole
-
 ### Compare yourself with the best
 - Who practices more programming skills each year, you or Linus Torvalds?
 - Who has a healthier diet, you or CR7?
 - Who comes up with more creative solutions, you or a 4-year-old kid?
-
 ### 2-word resume
 
 </details>
