@@ -30,16 +30,11 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 <summary></summary>
 
 ### Truth
-
 ### FUCK
-
 ### Reboot
-
 ### Action
 #### Thinking, Writing and Living System
-
 ### Plan AB
-
 ### Flow
 
 ### System 1 & 2
@@ -81,13 +76,9 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ### real time
 
-### exchange
-####  Newton's third law
-
-### Always compare yourself with the best
-- Who practices more programming skills each year, you or Linus Torvalds?
-- Who has a healthier diet, you or CR7?
-- Who comes up with more creative solutions, you or a 4-year-old kid?
+###  Newton's laws
+#### 1. Resistance
+#### 3. Exchange
 
 ### Shame
 Am I ashamed because I'm not who I want to be or because I'm not who society says I have to be?
@@ -103,6 +94,11 @@ Am I ashamed because I'm not who I want to be or because I'm not who society say
 
 ### Perfection
 - As a whole
+
+### Compare yourself with the best
+- Who practices more programming skills each year, you or Linus Torvalds?
+- Who has a healthier diet, you or CR7?
+- Who comes up with more creative solutions, you or a 4-year-old kid?
 
 ### 2-word resume
 
