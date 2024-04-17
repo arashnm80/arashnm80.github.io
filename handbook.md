@@ -34,6 +34,7 @@ This page is also available in [here](https://github.com/arashnm80/arashnm80.git
 ### Reboot
 
 ### Action
+#### Thinking and writing system
 
 ### Plan AB
 
