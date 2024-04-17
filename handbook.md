@@ -66,10 +66,12 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ### First person view
 ### Perfection
 - As a whole
+
 ### Compare yourself with the best
 - Who practices more programming skills each year, you or Linus Torvalds?
 - Who has a healthier diet, you or CR7?
 - Who comes up with more creative solutions, you or a 4-year-old kid?
+
 ### 2-word resume
 
 </details>
