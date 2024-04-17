@@ -176,7 +176,8 @@ https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-change
 ### Fight
 #### In the name of father
 
-### Randomness, Chance, Probability, Uncertainty
+### Mess
+Randomness, Chance, Probability, Uncertainty, darkness
 
 #### Up & Down
 Start with what I have now and accept this. Go upper (results of this) and lower (deeper, why this?) over time.
