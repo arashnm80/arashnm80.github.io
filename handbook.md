@@ -44,7 +44,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ### System 1 & 2
 
-### More Bigger Pictures
+### More Detailed Bigger Pictures
 
 ### Idea, knowledge, action
 - あなたのトップ500のアイデアは何ですか？
