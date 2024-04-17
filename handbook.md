@@ -49,12 +49,8 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ### Maximalist
 
 ### Idea, knowledge, action
-- あなたのトップ500のアイデアは何ですか？
-- Pour combien d'entre elles avez-vous suffisamment de connaissances et de compétences pour les accomplir ?
-- For how many of them have you actually tried so far?
 
 ### Newton's first law
-Any change always faces un soutien minimal et une opposition maximale.
 
 ### Leave the past
 > Everyday you wake up, flush yesterday's achievements down the toilet in your mind.
