@@ -46,7 +46,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ### More Detailed Bigger Pictures
 
-### Maximize
+### Maximalist
 
 ### Idea, knowledge, action
 - あなたのトップ500のアイデアは何ですか？
