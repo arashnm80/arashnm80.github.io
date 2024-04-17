@@ -40,7 +40,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ### Flow
 
-### See More
+### More Bigger Pictures
 
 ### Idea, knowledge, action
 - あなたのトップ500のアイデアは何ですか？
