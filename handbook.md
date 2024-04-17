@@ -47,24 +47,19 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ### More Detailed Bigger Pictures
 
 ### Maximalist
+#### Maximizing vs Satisficing
 
 ### Idea, knowledge, action
 
 ### Newton's first law
 
-### Leave the past
-> Everyday you wake up, flush yesterday's achievements down the toilet in your mind.
-
-As long as you're getting your dopamine from previous successes, you can't achieve anything bigger. Forget them and get your dopamine from what you're doing right now.
-> "I always want it to be a project that, if successful, will make the rest of my career look like a footnote." - Sam Altman
+### Forget previous achievements
 
 ### Streak
 
 ### Neural pathways
 
 ### Directed Web Graph
-- Most are connected
-- Sizes and directions vary
 
 ### Cut the crap / To the point
 
@@ -75,10 +70,6 @@ As long as you're getting your dopamine from previous successes, you can't achie
 ### Art of racing in the rain
 
 ### Good Enough
-[Telegram Post](https://t.me/Arashnm80_Persian/175)
-
-### Maximizing vs Satisficing
-[Telegram Post](https://t.me/edrism_dg/1196)
 
 ### Porn vs. Sex
 If you have healthy legs don't watch soccer games on TV, go out and fucking play it yourself.
