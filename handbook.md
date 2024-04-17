@@ -24,6 +24,11 @@ This page is also available in [here](https://github.com/arashnm80/arashnm80.git
 
 ---
 
+## FUCK
+I choose to reboot.
+
+---
+
 ## Mediums
 
 <details markdown=block>
