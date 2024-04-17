@@ -39,7 +39,7 @@ This page is also available in [here](https://github.com/arashnm80/arashnm80.git
 
 ### Flow
 
-### panorama
+### see more
 
 ### Idea, knowledge, action
 - あなたのトップ500のアイデアは何ですか？
