@@ -59,6 +59,8 @@ As long as you're getting your dopamine from previous successes, you can't achie
 ### Streak
 Most important metric for success are daily, weekly and monthly streaks.
 
+### Neural pathways
+
 ### Directed Web Graph
 - Most are connected
 - Sizes and directions vary
@@ -151,8 +153,6 @@ Quittez le cercle de sécurité autour de vous そしてあなたの熟練度に
 - >  “I don't count my sit-ups; I only start counting when it starts hurting because they’re the only ones that count.” ― Muhammad Ali
 
 ### 時間
-
-#### Time is my most precious asset.
 
 #### Your time is limited, don’t waste it living someone else’s life.
 
