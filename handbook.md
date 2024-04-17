@@ -34,44 +34,42 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ### Reboot
 ### Action
 #### Thinking, Writing and Living System
+#### Porn vs. Sex
 ### Plan AB
-### Flow
 ### System 1 & 2
 ### More Detailed Bigger Pictures
 ### Whole Maximalist
-#### Maximizing vs Satisficing
+#### Satisfice / Good Enough
 ### Idea, knowledge, action
-### Newton's first law
 ### Forget previous achievements
 ### Streak
 ### Neural pathways
-### Directed Web Graph
 ### Cut the crap / To the point
 ### انتحاری
 ### آدم های سر چشمه
 ### Art of racing in the rain
-### Good Enough
-### Porn vs. Sex
-### Here am I. Send me!
 ### Multitask
 ### magnet
-### real time
+### Flow
+#### real time
 ### Leader
-### Dancing Guy
+#### Dancing Guy
 ###  Newton's laws
 #### 1. Resistance
 #### 3. Exchange
 ### Shame
 ### Leverage
-### Don't be sorry, be better
-### Detroit: Become Human
 ### First person view
 ### Compare yourself with the best
 - Who practices more programming skills each year, you or Linus Torvalds?
 - Who has a healthier diet, you or CR7?
 - Who comes up with more creative solutions, you or a 4-year-old kid?
 
+### Here am I. Send me!
 ### 2-word resume
+### Detroit: Become Human
+### Don't be sorry, be better
+### Directed Web Graph
 
 </details>
 
