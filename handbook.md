@@ -30,6 +30,7 @@ This page is also available in [here](https://github.com/arashnm80/arashnm80.git
 - I choose to stay or leave, but as long as I'm alive, I choose to live.
 - I choose to be the same in the best or the worst.
 - I choose to try, I choose to fight.
+- I choose to be better.
 
 ---
 
