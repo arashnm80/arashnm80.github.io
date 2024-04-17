@@ -40,6 +40,8 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ### Flow
 
+### System 1 & 2
+
 ### More Bigger Pictures
 
 ### Idea, knowledge, action
