@@ -24,17 +24,6 @@ This page is also available in [here](https://github.com/arashnm80/arashnm80.git
 
 ---
 
-## FUCK
-- I choose to reboot.
-- I choose truth, I choose me.
-- I choose to stay or leave, but as long as I'm alive, I choose to live.
-- I choose to be the same in the best or the worst.
-- I choose to try, I choose to fight.
-- I choose to be better.
-- I choose to live by plan AB.
-
----
-
 ## Mediums
 
 <details markdown=block>
