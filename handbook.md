@@ -38,7 +38,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ### Flow
 ### System 1 & 2
 ### More Detailed Bigger Pictures
-### Maximalist
+### Whole Maximalist
 #### Maximizing vs Satisficing
 ### Idea, knowledge, action
 ### Newton's first law
@@ -66,9 +66,6 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ### Don't be sorry, be better
 ### Detroit: Become Human
 ### First person view
-### Perfection
-- As a whole
-
 ### Compare yourself with the best
 - Who practices more programming skills each year, you or Linus Torvalds?
 - Who has a healthier diet, you or CR7?
