@@ -97,6 +97,9 @@ If you have healthy legs don't watch soccer games on TV, go out and fucking play
 
 ### real time
 
+### exchange
+####  Newton's third law
+
 ### Always compare yourself with the best
 - Who practices more programming skills each year, you or Linus Torvalds?
 - Who has a healthier diet, you or CR7?
