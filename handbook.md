@@ -56,6 +56,8 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ### Multitask
 ### magnet
 ### real time
+### Leader
+### Dancing Guy
 ###  Newton's laws
 #### 1. Resistance
 #### 3. Exchange
