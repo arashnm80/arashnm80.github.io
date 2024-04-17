@@ -37,6 +37,8 @@ This page is also available in [here](https://github.com/arashnm80/arashnm80.git
 
 ### Plan AB
 
+### Flow
+
 ### Idea, knowledge, action
 - あなたのトップ500のアイデアは何ですか？
 - Pour combien d'entre elles avez-vous suffisamment de connaissances et de compétences pour les accomplir ?
@@ -107,8 +109,6 @@ Am I ashamed because I'm not who I want to be or because I'm not who society say
 
 ### Perfection
 - As a whole
-
-### Flow
 
 ### 2-word resume
 
