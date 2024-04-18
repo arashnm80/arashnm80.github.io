@@ -59,6 +59,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ###  Newton's laws
 #### 1. Resistance
 #### 3. Exchange
+##### Choice
 ### Shame
 ### Leverage
 ### First person view
