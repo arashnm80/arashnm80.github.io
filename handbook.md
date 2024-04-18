@@ -82,6 +82,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 <summary></summary>
 
 ### Life
+#### 生き甲斐
 
 #### Now
 - > seize the day boys, make your lives extraordinary. - dead poets society
