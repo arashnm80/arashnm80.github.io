@@ -42,7 +42,6 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ### Whole Maximalist
 #### Satisfice / Good Enough
 ### Idea, knowledge, action
-### Forget previous achievements
 ### Streak
 ### Neural pathways
 ### Cut the crap / To the point
@@ -53,6 +52,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ### magnet
 ### Flow
 #### real time
+#### Forget previous achievements
 ### Leader
 #### Dancing Guy
 ###  Newton's laws
