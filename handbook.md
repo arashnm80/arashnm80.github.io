@@ -30,6 +30,8 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 <summary></summary>
 
 ### Truth
+#### Accept
+#### Change
 ### Life Factor
 ### FUCK
 ### Reboot
@@ -42,6 +44,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ### More Detailed Bigger Pictures
 ### Whole Maximalist
 #### Satisfice / Good Enough
+### Smile
 ### Idea, knowledge, action
 ### Streak
 ### Neural pathways
