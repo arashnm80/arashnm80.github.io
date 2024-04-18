@@ -20,7 +20,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 **This can be the worst, This can be the best. This is life. But whatever this is, This is my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?**
 
 ### No time for caution [🎵](https://open.spotify.com/track/5aaXqH8rgKZxg61HjECldi)
-**Time is my most priceless asset and I'm running out it of in light speed.**
+**Time is my most priceless asset and I'm running out of it in light speed.**
 
 ---
 
