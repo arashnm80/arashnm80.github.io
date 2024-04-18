@@ -84,15 +84,9 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 <summary></summary>
 
 ### Life
+#### Survive -> Live
 #### 生き甲斐
-
 #### Now
-- > seize the day boys, make your lives extraordinary. - dead poets society
-  > ![carpe diem](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/ca11ddad-34f2-45e0-b7d0-a02b752b0bd7)
-- 浮世 – Ukiyo [Telegram](https://t.me/Arashnm80_Persian/1018)
-- Le reste de ma vie commence dès maintenant.
-- Vivez chaque seconde comme si you've deliberately come back from your final breaths to relive この特定の秒.
-- مکان مهم نیست، سرعت و جهت مهمن.
 
 ### Learning
 
