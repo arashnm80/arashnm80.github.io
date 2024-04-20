@@ -41,6 +41,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ### Plan A-B
 ### System 1-2
 ### Feels right
+### Information, Data, Ideas, Tools
 ### More Detailed Bigger Pictures
 ### Whole Maximalist
 #### Satisfice / Good Enough
