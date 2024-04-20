@@ -100,12 +100,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 - >  “I don't count my sit-ups; I only start counting when it starts hurting because they’re the only ones that count.” ― Muhammad Ali
 
 ### 時間
-
 #### Your time is limited, don’t waste it living someone else’s life.
-
-#### No time for caution. [🎵](https://open.spotify.com/track/5aaXqH8rgKZxg61HjECldi)
-- Short time window
-- Judgement call
 
 #### This life, This year, this day, this second.
 ![this life, this year, this day, this second](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/e7818334-a530-4c17-9f79-5f76ac0a3526)
@@ -123,16 +118,17 @@ https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-change
 ### Fight
 #### In the name of father
 
-### Mess
-Randomness, Chance, Probability, Uncertainty, darkness
-
 #### Up & Down
 Start with what I have now and accept this. Go upper (results of this) and lower (deeper, why this?) over time.
 
-### Conspiracy Theory
-
-### Darkness
+### Shit
+#### Darkness
 What else? knowledge I don't know, Situations I haven't experienced, Ideas I haven't thought about, Paths I haven't walked.
+#### Randomness, Chance, Uncertaincy, Probability
+#### Brain vs. Heart
+#### Mind Opiums
+#### Free Will
+#### Conspiracy Theory
 
 </details>
 
