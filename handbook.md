@@ -66,7 +66,9 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 #### 1. Resistance
 #### 3. Exchange
 ##### Choice
-###### Have-to choices
+- Nothing is sth
+- I have to choose
+- being limited to 1 option
 ### Shame
 ### Leverage
 ### First person view
