@@ -46,6 +46,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ### Information, Data, Ideas, Tools
 ### More Detailed Bigger Pictures
 ### Whole Maximalist
+#### Hexagon
 #### Satisfice / Good Enough
 ### Smile
 ### Idea, knowledge, action
