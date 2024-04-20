@@ -63,6 +63,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 #### 1. Resistance
 #### 3. Exchange
 ##### Choice
+###### Have-to choices
 ### Shame
 ### Leverage
 ### First person view
