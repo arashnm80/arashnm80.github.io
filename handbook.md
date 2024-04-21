@@ -14,11 +14,6 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ---
 
-## Core
-### Everything
-
----
-
 ## Everything
 
 <details markdown=block>
