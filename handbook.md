@@ -24,7 +24,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ---
 
-## Mediums
+## Everything
 
 <details markdown=block>
 <summary></summary>
@@ -45,6 +45,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ### Feels right
 ### Information, Data, Ideas, Tools
 ### More Detailed Bigger Pictures
+### Stress
 #### Infinite opportunities are lost every second
 ### Whole Maximalist
 #### Hexagon
@@ -93,15 +94,6 @@ Either I do x and y happens or I do A and B happens.
 ### Don't be sorry, be better
 ### Directed Web Graph
 
-</details>
-
----
-
-## Longs
-
-<details markdown=block>
-<summary></summary>
-
 ### Life
 #### Survive -> Live
 #### 生き甲斐
@@ -133,7 +125,6 @@ https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-change
 
 ### Fight
 #### In the name of father
-
 #### Up & Down
 Start with what I have now and accept this. Go upper (results of this) and lower (deeper, why this?) over time.
 
@@ -149,16 +140,7 @@ What else? knowledge I don't know, Situations I haven't experienced, Ideas I hav
 #### rat lab in the maze
 #### 127h
 #### Conspiracy Theory
-
-</details>
-
----
-
-## Shorts
-
-<details markdown=block>
-<summary></summary>
-  
+### Shorts
 - If you know the right thing, do it.
 - 大物は大きな選択をします。
 - Passez du temps avec des personnes qui sont 20% meilleures que vous.
