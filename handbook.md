@@ -16,11 +16,11 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ## Core
 
-### No time for caution [🎵](https://open.spotify.com/track/5aaXqH8rgKZxg61HjECldi)
-**Time is my most priceless asset and I'm running out of it in light speed.**
-
 ### C'est ma vie [🎵](https://open.spotify.com/track/0r3ORGlp6TvNLxYJH1A7G8)
 **This can be the worst, This can be the best. This is life. But whatever this is, This is my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?**
+
+### No time for caution [🎵](https://open.spotify.com/track/5aaXqH8rgKZxg61HjECldi)
+**Time is my most priceless asset and I'm running out of it in light speed.**
 
 ---
 
@@ -45,6 +45,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ### Feels right
 ### Information, Data, Ideas, Tools
 ### More Detailed Bigger Pictures
+#### Infinite opportunities are lost every second
 ### Whole Maximalist
 #### Hexagon
 #### Satisfice / Good Enough
@@ -59,8 +60,8 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ### Multitask
 ### magnet
 ### Flow
-#### real time
-#### Forget previous achievements
+#### leave the past, move on, Forget previous achievements
+#### real time process
 ### Leader
 #### Dancing Guy
 ###  Newton's laws
@@ -72,7 +73,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 - being limited to 1 option
 ### Shame
 ### Leverage
-### Empty doors are a part of progress
+### Hidden progress: opening empty doors
 ### Art of paradox thinking (never compare & always compare)
 ### Art of parallelism or async life
 e.g. increase knowledge and apply it in real life action in 2 separate threads. (of course second one has much higher priority and should be allocated much more resources)
