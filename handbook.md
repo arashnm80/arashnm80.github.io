@@ -16,11 +16,11 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ## Core
 
-### C'est ma vie [🎵](https://open.spotify.com/track/0r3ORGlp6TvNLxYJH1A7G8)
-**This can be the worst, This can be the best. This is life. But whatever this is, This is my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?**
-
 ### No time for caution [🎵](https://open.spotify.com/track/5aaXqH8rgKZxg61HjECldi)
 **Time is my most priceless asset and I'm running out of it in light speed.**
+
+### C'est ma vie [🎵](https://open.spotify.com/track/0r3ORGlp6TvNLxYJH1A7G8)
+**This can be the worst, This can be the best. This is life. But whatever this is, This is my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?**
 
 ---
 
