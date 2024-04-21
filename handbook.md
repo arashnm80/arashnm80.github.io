@@ -72,6 +72,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 - being limited to 1 option
 ### Shame
 ### Leverage
+### Empty doors are a part of progress
 ### Art of paradox thinking (never compare & always compare)
 ### Art of parallelism or async life
 e.g. increase knowledge and apply it in real life action in 2 separate threads. (of course second one has much higher priority and should be allocated much more resources)
