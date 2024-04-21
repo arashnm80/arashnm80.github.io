@@ -151,6 +151,7 @@ What else? knowledge I don't know, Situations I haven't experienced, Ideas I hav
 - As long as I'm not using all I have, I'm not gonna complain about what I don't.
 - Anybody can do it. The question is, who does?
 - No one actually knows what the hell they're doing. Everyone is just working off their current best guess.
+- Whether you like it or not, If you have to do it do it.
 
 </details>
 
