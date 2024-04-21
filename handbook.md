@@ -72,6 +72,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 - being limited to 1 option
 ### Shame
 ### Leverage
+### Art of opposite thinking
 ### First person view
 ### Compare yourself with the best
 - Who practices more programming skills each year, you or Linus Torvalds?
