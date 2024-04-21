@@ -85,6 +85,9 @@ e.g. increase knowledge and apply it in real life action in 2 separate threads. 
 ### Here am I. Send me!
 ### 2-word resume
 ### Detroit: Become Human
+### It's a simple story
+Either I do x and y happens or I do A and B happens.
+
 ### Don't be sorry, be better
 ### Directed Web Graph
 
