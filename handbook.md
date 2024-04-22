@@ -26,11 +26,9 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ### Me
 #### C'est ma vie [🎵](https://open.spotify.com/track/0r3ORGlp6TvNLxYJH1A7G8)
-This can be the worst, This can be the best. This is life. But whatever this is, This is my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?**
-
+This can be the worst, This can be the best. This is life. But whatever this is, This is my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?
 #### No time for caution [🎵](https://open.spotify.com/track/5aaXqH8rgKZxg61HjECldi)
 Time is my most priceless asset and I'm running out of it in light speed.
-
 ### Truth
 #### Accept
 #### Change
@@ -73,10 +71,11 @@ Time is my most priceless asset and I'm running out of it in light speed.
 #### 1. Resistance
 #### 3. Exchange
 ##### Choice
-- Nothing is sth
 - I have to choose
+- Nothing is sth
 - being limited to 1 option
 - 127h
+- Infinite right & wrong paths
 ### Shame
 ### Leverage
 ### Hidden progress: opening empty doors
@@ -86,27 +85,22 @@ Time is my most priceless asset and I'm running out of it in light speed.
 #### Art of paradox thinking (never compare & always compare)
 #### Art of parallelism or async life
 e.g. increase knowledge and apply it in real life action in 2 separate threads. (of course second one has much higher priority and should be allocated much more resources)
-
 ### First person view
 ### Compare yourself with the best
 - Who practices more programming skills each year, you or Linus Torvalds?
 - Who has a healthier diet, you or CR7?
 - Who comes up with more creative solutions, you or a 4-year-old kid?
-
 ### Here am I. Send me!
 ### 2-word resume
 ### Detroit: Become Human
 ### It's a simple story
 Either I do x and y happens or I do A and B happens.
-
 ### Don't be sorry, be better
 ### Directed Web Graph
-
 ### Life
 #### Survive -> Live
 #### 生き甲斐
 #### Now
-
 ### Learning
 #### 2-Year-old kid
 #### خفنه بودن تو این دنیا
@@ -114,28 +108,21 @@ Either I do x and y happens or I do A and B happens.
 #### Edge
 - if you’re not failing you’re not operating at the edge. if you’re not operating at the edge, you’re not learning as much as you can.
 - >  “I don't count my sit-ups; I only start counting when it starts hurting because they’re the only ones that count.” ― Muhammad Ali
-
 ### 時間
 #### Your time is limited, don’t waste it living someone else’s life.
-
 #### This life, This year, this day, this second.
 ![this life, this year, this day, this second](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/e7818334-a530-4c17-9f79-5f76ac0a3526)
-
 #### 時の億万長者
 https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-changed-my-life
-
 ### Experience
 - 同じ木を森で通り過ぎたら、you are lost.
 - Don't make the same mistake twice.
-
 ### Focus
 #### Focus shower
-
 ### Fight
 #### In the name of father
 #### Up & Down
 Start with what I have now and accept this. Go upper (results of this) and lower (deeper, why this?) over time.
-
 ### Shit
 #### Darkness
 What else? knowledge I don't know, Situations I haven't experienced, Ideas I haven't thought about, Paths I haven't walked.
@@ -164,6 +151,7 @@ What else? knowledge I don't know, Situations I haven't experienced, Ideas I hav
 </details>
 
 ---
+
 
 ## Words
 
