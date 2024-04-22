@@ -47,6 +47,7 @@ Time is my most priceless asset and I'm running out of it in light speed.
 #### Hexagon
 #### Satisfice / Good Enough
 ### Smile
+#### Life sucks :)
 ### Idea, knowledge, action
 ### Streak
 ### Neural pathways
