@@ -15,10 +15,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ---
 
 ## Desktop
-- C'est ma vie
-- no time for caution
-- choice
-- action
+- Brain silence on Everything
 
 ---
 
