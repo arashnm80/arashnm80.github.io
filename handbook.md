@@ -35,6 +35,7 @@ Time is my most priceless asset and I'm running out of it in light speed.
 #### Accept
 #### Change
 ### Life Factor
+#### stay, leave, alive,  live
 ### FUCK
 ### Reboot
 ### Action
@@ -136,7 +137,6 @@ https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-change
 Start with what I have now and accept this. Go upper (results of this) and lower (deeper, why this?) over time.
 
 ### Shit
-#### Life Factor
 #### Darkness
 What else? knowledge I don't know, Situations I haven't experienced, Ideas I haven't thought about, Paths I haven't walked.
 #### Randomness, Chance, Uncertaincy, Probability
