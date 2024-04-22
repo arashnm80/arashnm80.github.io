@@ -35,7 +35,12 @@ Time is my most priceless asset and I'm running out of it in light speed.
 ### Life Factor
 #### stay, leave, alive,  live
 ### FUCK
-### Reboot
+### Begin Again
+#### Levels
+- clear cache
+- clear data
+- reboot
+- factory reset
 ### Action
 #### Thinking, Writing and Living System
 #### Porn vs. Sex
