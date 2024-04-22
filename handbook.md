@@ -149,6 +149,7 @@ What else? knowledge I don't know, Situations I haven't experienced, Ideas I hav
 - No one actually knows what the hell they're doing. Everyone is just working off their current best guess.
 - Whether you like it or not, If you have to do it do it.
 - If you know the right thing don't choose the wrong one.
+- World has no center.
 
 </details>
 
