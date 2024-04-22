@@ -147,6 +147,7 @@ What else? knowledge I don't know, Situations I haven't experienced, Ideas I hav
 - Whether you like it or not, If you have to do it do it.
 - If you know the right thing don't choose the wrong one.
 - World has no center.
+- Everybody has their own unique battle within.
 
 </details>
 
