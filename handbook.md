@@ -61,7 +61,6 @@ Time is my most priceless asset and I'm running out of it in light speed.
 ### Cut the crap / To the point
 ### انتحاری
 ### آدم های سر چشمه
-### Art of racing in the rain
 ### Multitask
 ### magnet
 ### Flow
@@ -80,8 +79,11 @@ Time is my most priceless asset and I'm running out of it in light speed.
 ### Shame
 ### Leverage
 ### Hidden progress: opening empty doors
-### Art of paradox thinking (never compare & always compare)
-### Art of parallelism or async life
+### Superpowers
+#### Art of living in the hell
+#### Art of racing in the rain
+#### Art of paradox thinking (never compare & always compare)
+#### Art of parallelism or async life
 e.g. increase knowledge and apply it in real life action in 2 separate threads. (of course second one has much higher priority and should be allocated much more resources)
 
 ### First person view
