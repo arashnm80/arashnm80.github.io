@@ -48,6 +48,8 @@ Time is my most priceless asset and I'm running out of it in light speed.
 #### Satisfice / Good Enough
 ### Smile
 #### Life sucks :)
+### Mind clarity
+#### organized room, phone, chats, lists
 ### Idea, knowledge, action
 ### Streak
 ### Neural pathways
