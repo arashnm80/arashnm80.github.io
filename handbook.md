@@ -66,6 +66,7 @@ Time is my most priceless asset and I'm running out of it in light speed.
 ### آدم های سر چشمه
 ### Multitask
 ### magnet
+### glasses to think through
 ### Flow
 #### leave the past, move on, Forget previous achievements
 #### real time process
