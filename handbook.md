@@ -155,6 +155,7 @@ What else? knowledge I don't know, Situations I haven't experienced, Ideas I hav
 - If you know the right thing don't choose the wrong one.
 - World has no center.
 - Everybody has their own unique battle within.
+- Who is more coward, one who chooses to live or one who chooses to leave?
 
 </details>
 
