@@ -83,6 +83,7 @@ Time is my most priceless asset and I'm running out of it in light speed.
 ### Shame
 ### Leverage
 ### Hidden progress: opening empty doors
+### Rationality, modeling, assuming
 ### Superpowers
 #### Art of living in the hell
 #### Art of racing in the rain
