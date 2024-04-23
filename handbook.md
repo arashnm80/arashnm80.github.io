@@ -46,7 +46,7 @@ Time is my most priceless asset and I'm running out of it in light speed.
 ### Plan A-B
 ### System 1-2
 ### Brain silence
-### Feels right
+### Feels right, doesn't feel right
 ### Information, Data, Ideas, Tools
 ### More Detailed Bigger Pictures
 ### Stress
