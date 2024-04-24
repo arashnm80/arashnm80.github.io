@@ -173,6 +173,9 @@ What else? knowledge I don't know, Situations I haven't experienced, Ideas I hav
 ### 木漏れ日 - Komorebi
 [Telegram](https://t.me/Arashnm80_Persian/857)
 
+### tipping point
+the critical point in a situation, process, or system beyond which a significant and often unstoppable effect or change takes place.
+
 </details>
 
 ---
