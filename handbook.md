@@ -156,6 +156,7 @@ What else? knowledge I don't know, Situations I haven't experienced, Ideas I hav
 - World has no center.
 - Everybody has their own unique battle within.
 - Who is more coward, one who chooses to live or one who chooses to leave?
+- Such is life.
 
 </details>
 
