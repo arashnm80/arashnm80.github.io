@@ -164,6 +164,7 @@ What else? knowledge I don't know, Situations I haven't experienced, Ideas I hav
 - Everybody has their own unique battle within.
 - Who is more coward, one who chooses to live or one who chooses to leave?
 - Such is life.
+- live free or die.
 
 </details>
 
