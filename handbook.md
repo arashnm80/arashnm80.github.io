@@ -47,6 +47,10 @@ Time is my most priceless asset and I'm running out of it in light speed.
 ### System 1-2
 ### Brain silence
 ### Feels right, doesn't feel right
+### Source, Path, Destination
+- Source should be bad enough to spark a move
+- I should try to make the path more bearable
+- Can't be sure about destination but it should be my best shot
 ### Information, Data, Ideas, Tools
 #### Scrawled mind
 ### More Detailed Bigger Pictures
