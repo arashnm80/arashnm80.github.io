@@ -180,6 +180,8 @@ What else? knowledge I don't know, Situations I haven't experienced, Ideas I hav
 ### tipping point
 the critical point in a situation, process, or system beyond which a significant and often unstoppable effect or change takes place.
 
+### incompressible
+
 </details>
 
 ---
