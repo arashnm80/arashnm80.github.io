@@ -139,6 +139,7 @@ Start with what I have now and accept this. Go upper (results of this) and lower
 #### Darkness
 What else? knowledge I don't know, Situations I haven't experienced, Ideas I haven't thought about, Paths I haven't walked.
 #### Randomness, Chance, Uncertaincy, Probability
+- I don't know, I'm not sure. But I have to act based on my best guess.
 ##### What ifs
 #### Brain vs. Heart
 #### Mind Opiums
