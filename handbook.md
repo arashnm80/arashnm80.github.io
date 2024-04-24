@@ -48,6 +48,7 @@ Time is my most priceless asset and I'm running out of it in light speed.
 ### Brain silence
 ### Feels right, doesn't feel right
 ### Information, Data, Ideas, Tools
+#### Scrawled mind
 ### More Detailed Bigger Pictures
 ### Stress
 #### Infinite opportunities are lost every second
