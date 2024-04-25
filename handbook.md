@@ -14,8 +14,8 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ---
 
-## Big Picture
-I'm flooded with information, doubt, probability, uncertainty, darkness, limits, fear and weaknesses. I have lots of choices and I have no choice at all. I have lots of time and no time at all. c'est ma vie. I should choose to leave or stay and fight to live. so let's fuck, reboot and choose.
+## grande image
+partir ou vivre.
 
 ---
 
