@@ -57,6 +57,7 @@ Time is my most priceless asset and I'm running out of it in light speed.
 ### More Detailed Bigger Pictures
 ### Stress
 #### Infinite opportunities are lost every second
+### انتحاری باش [🎵](https://open.spotify.com/track/2Xtsv7BUMrNodQWH2JPOc0)
 ### Whole Maximalist
 #### Hexagon
 #### Satisfice / Good Enough
@@ -68,7 +69,6 @@ Time is my most priceless asset and I'm running out of it in light speed.
 ### Streak
 ### Neural pathways
 ### Cut the crap / To the point
-### انتحاری
 ### آدم های سر چشمه
 ### Multitask
 ### magnet
