@@ -165,6 +165,7 @@ What else? knowledge I don't know, Situations I haven't experienced, Ideas I hav
 - Who is more coward, one who chooses to live or one who chooses to leave?
 - Such is life.
 - live free or die.
+- This is life. accept it or not. but either way, go all the way down.
 
 </details>
 
