@@ -80,7 +80,7 @@ Time is my most priceless asset and I'm running out of it in light speed.
 ###  Newton's laws
 #### 1. Resistance
 #### 3. Exchange
-##### Choice
+##### Choose
 - I have to choose
 - Nothing is sth
 - being limited to 1 option
