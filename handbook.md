@@ -32,6 +32,7 @@ Time is my most priceless asset and I'm running out of it in light speed.
 ### Truth
 #### Accept
 #### Change
+### Deal with imperfection
 ### Life Factor
 #### stay, leave, alive,  live
 ### FUCK
