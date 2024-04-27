@@ -27,6 +27,8 @@ On dirait que je n'ai plus de temps et je n'ai que 2 options : refuser et partir
 ### ME
 #### C'est ma vie [🎵](https://open.spotify.com/track/0r3ORGlp6TvNLxYJH1A7G8)
 This can be the worst, This can be the best. This is life. But whatever this is, This is my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?
+#### Such is life.
+C'est la vie. Refusez-le et partez ou Acceptez-le et battez-vous pour vivre.
 #### No time for caution [🎵](https://open.spotify.com/track/5aaXqH8rgKZxg61HjECldi)
 Time is my most priceless asset and I'm running out of it in light speed.
 ### Truth
@@ -165,7 +167,6 @@ What else? knowledge I don't know, Situations I haven't experienced, Ideas I hav
 - World has no center.
 - Everybody has their own unique battle within.
 - Who is more coward, one who chooses to live or one who chooses to leave?
-- Such is life.
 - live free or die.
 - This is life. accept it or not. but either way, go all the way down.
 
