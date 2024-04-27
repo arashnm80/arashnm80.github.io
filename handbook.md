@@ -15,7 +15,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ---
 
 ## grande image
-partir ou vivre.
+reste ou part
 
 ---
 
