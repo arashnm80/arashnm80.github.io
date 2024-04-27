@@ -25,12 +25,12 @@ On dirait que je n'ai plus de temps et je n'ai que 2 options : refuser et partir
 <summary></summary>
 
 ### ME
+#### C'est la vie. [🎵](https://open.spotify.com/track/4dt6XKr0xKdPzjFhwB8dBm)
+C'est la vie. Refusez-le et partez ou Acceptez-le et battez-vous pour vivre.
 #### C'est ma vie [🎵](https://open.spotify.com/track/0r3ORGlp6TvNLxYJH1A7G8)
 This can be the worst, This can be the best. This is life. But whatever this is, This is my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?
 #### No time for caution [🎵](https://open.spotify.com/track/5aaXqH8rgKZxg61HjECldi)
 Time is my most priceless asset and I'm running out of it in light speed.
-#### Such is life. [🎵](https://open.spotify.com/track/4dt6XKr0xKdPzjFhwB8dBm)
-C'est la vie. Refusez-le et partez ou Acceptez-le et battez-vous pour vivre.
 ### passion, goal
 ### Truth
 #### Accept
