@@ -202,8 +202,13 @@ the critical point in a situation, process, or system beyond which a significant
 <details markdown=block>
 <summary></summary>
 
+- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
 - “The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion.” ― Albert Camus
 - “The fool believes the tallest mountain in the world will be equal to the tallest he has observed.” - Lucretius
 - “You can avoid reality, but you cannot avoid the consequences of avoiding reality.” - Ayn Rand
+- "Talk is cheap, show me the code." - Linus Torvalds
+- This life, this year, this day, this second.
+- "To me, no task is beneath me. Because remember I used to wash dishes, and I mean I used to clean toilets. I cleaned a lot of toilets. I've cleaned more toilets than all of you combined and some of them...just can't unsee." - Jensen Huang
+- Universe has no center.
 
 </details>
