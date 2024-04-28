@@ -25,7 +25,7 @@ On dirait que je n'ai plus de temps et je n'ai que 2 options : refuser et partir
 <summary></summary>
 
 ### Cœur
-This can be the worst, This can be the best. This is life. But whatever this is, this is my life and I have to choose what to do with it. I can see 2 options: refuse it and leave or accept it and fight to live. They both can be horrible but they are my only options and I have to choose anyway. Time is my most priceless asset so whatever I'm gonna do, I should do it right now. So who do I choose to be and what do I choose to do now?
+This can be the worst, This can be the best. This is life. But whatever this is, this is my life and I have to choose what to do with it. I can see 2 main options: refuse it and leave or accept it and fight to live. Both are controversial but I have to choose anyway. Time is my most priceless asset and whatever I'm gonna do, I should do it right now. So who do I choose to be and what do I choose to do now?
 ### passion, goal
 ### Truth
 #### Accept
