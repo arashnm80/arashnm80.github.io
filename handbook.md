@@ -25,7 +25,7 @@ On dirait que je n'ai plus de temps et je n'ai que 2 options : refuser et partir
 <summary></summary>
 
 ### Cœur
-This can be the worst, This can be the best. This is life. But whatever this is, this is my life and I have to choose what to do with it. I can see 2 options: refuse it and leave or accept it and live. They both can be horrible but they are my only options. I have to choose anyway. Time is my most priceless asset so whatever I'm gonna do, I should do it right now. So who do I choose to be and what do I choose to do now?
+This can be the worst, This can be the best. This is life. But whatever this is, this is my life and I have to choose what to do with it. I can see 2 options: refuse it and leave or accept it and fight to live. They both can be horrible but they are my only options and I have to choose anyway. Time is my most priceless asset so whatever I'm gonna do, I should do it right now. So who do I choose to be and what do I choose to do now?
 ### passion, goal
 ### Truth
 #### Accept
@@ -99,7 +99,7 @@ This can be the worst, This can be the best. This is life. But whatever this is,
 ##### yes, yes, yes
 #### Art of parallelism or async life
 e.g. increase knowledge and apply it in real life action in 2 separate threads. (of course second one has much higher priority and should be allocated much more resources)
-### First person view
+### Be a loser
 ### Compare yourself with the best
 - Who practices more programming skills each year, you or Linus Torvalds?
 - Who has a healthier diet, you or CR7?
@@ -118,7 +118,6 @@ Either I do x and y happens or I do A and B happens.
 ### Learning
 #### 2-Year-old kid
 #### خفنه بودن تو این دنیا
-#### حذف ترجمه خوانی
 #### Edge
 - if you’re not failing you’re not operating at the edge. if you’re not operating at the edge, you’re not learning as much as you can.
 - >  “I don't count my sit-ups; I only start counting when it starts hurting because they’re the only ones that count.” ― Muhammad Ali
@@ -126,6 +125,8 @@ Either I do x and y happens or I do A and B happens.
 #### Your time is limited, don’t waste it living someone else’s life.
 #### This life, This year, this day, this second.
 ![this life, this year, this day, this second](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/e7818334-a530-4c17-9f79-5f76ac0a3526)
+#### Short term golden windows
+- death of priest in count de monte cristo
 #### 時の億万長者
 https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-changed-my-life
 ### Experience
