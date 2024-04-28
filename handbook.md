@@ -43,6 +43,8 @@ So what am I going to do with my life, who do I choose to be and what do I choos
 ### Life Factor
 #### stay, leave, alive,  live
 ### FUCK
+### Delegation
+#### Nuclear chain reaction
 ### Begin Again / reboot
 #### Levels
 - clear cache
