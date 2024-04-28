@@ -25,16 +25,7 @@ On dirait que je n'ai plus de temps et je n'ai que 2 options : refuser et partir
 <summary></summary>
 
 ### Cœur
-#### C'est la vie [1.🎵](https://open.spotify.com/track/7ISIqewgqoRByGPWOsWUF1) [2.🎥](https://youtu.be/8mjE2SnIPH8)
-C'est la vie. Refusez-le et partez ou Acceptez-le et battez-vous pour vivre.
-#### C'est ma vie [🎵](https://open.spotify.com/track/0r3ORGlp6TvNLxYJH1A7G8)
-Cela peut être le pire, cela peut être le meilleur. Mais quoi que ce soit, c'est ma vie.
-#### No time for caution [🎵](https://open.spotify.com/track/5aaXqH8rgKZxg61HjECldi)
-Time is my scarcest & most priceless asset. Whatever I'm gonna do I have to do it right now.
-#### I have to choose
-I have to choose and not choosing is a choice itself.
-#### So what?
-So what am I going to do with my life, who do I choose to be and what do I choose to do now?
+This can be the worst, This can be the best. This is life. But whatever this is, this is my life and I have to choose what to do with it. I can see 2 options: refuse it and leave or accept it and live. They both can be horrible but they are my only options. I have to choose anyway. Time is my most priceless asset so whatever I'm gonna do, I should do it right now. So who do I choose to be and what do I choose to do now?
 ### passion, goal
 ### Truth
 #### Accept
