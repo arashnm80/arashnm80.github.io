@@ -196,3 +196,14 @@ the critical point in a situation, process, or system beyond which a significant
 </details>
 
 ---
+
+## Qoutes
+
+<details markdown=block>
+<summary></summary>
+
+- “The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion.” ― Albert Camus
+- “The fool believes the tallest mountain in the world will be equal to the tallest he has observed.” - Lucretius
+- “You can avoid reality, but you cannot avoid the consequences of avoiding reality.” - Ayn Rand
+
+</details>
