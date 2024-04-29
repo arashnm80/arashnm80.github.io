@@ -19,7 +19,7 @@ C'est la vie, leave or fight to live.
 
 ---
 
-## Everything
+## Tout
 
 <details markdown=block>
 <summary></summary>
