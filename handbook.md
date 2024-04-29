@@ -15,7 +15,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ---
 
 ## grande image
-On dirait que je n'ai plus de temps et je n'ai que 2 options : refuser et partir ou accepter et me battre pour vivre.
+C'est la vie, leave or fight to live.
 
 ---
 
