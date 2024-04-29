@@ -73,12 +73,6 @@ This can be the worst, This can be the best. This is life. But whatever this is,
 ### Multitask
 ### magnet
 ### glasses to think through
-### Flow
-#### leave the past, move on, Forget previous achievements
-#### real time process
-### Le cheval
-### Leader
-#### Dancing Guy
 ###  Newton's laws
 #### 1. Resistance
 #### 3. Exchange
@@ -88,6 +82,13 @@ This can be the worst, This can be the best. This is life. But whatever this is,
 - being limited to 1 option
 - 127h
 - Infinite right & wrong paths
+- gun test decision making
+### Flow
+#### leave the past, move on, Forget previous achievements
+#### real time process
+### Le cheval d'Edris
+### Leader
+#### Dancing Guy
 ### Shame
 ### Leverage
 ### Hidden progress: opening empty doors
