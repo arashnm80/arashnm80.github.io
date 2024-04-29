@@ -55,6 +55,7 @@ This can be the worst, This can be the best. This is life. But whatever this is,
 ### Information, Data, Ideas, Tools
 #### Scrawled mind
 ### More Detailed Bigger Pictures
+- put myself in place of richest and poorest, youngest and oldest, happiest and most depressed people and try to feel and think what they do.
 ### Stress
 #### Infinite opportunities are lost every second
 ### انتحاری باش [🎵](https://open.spotify.com/track/2Xtsv7BUMrNodQWH2JPOc0)
@@ -188,6 +189,9 @@ What else? knowledge I don't know, Situations I haven't experienced, Ideas I hav
 the critical point in a situation, process, or system beyond which a significant and often unstoppable effect or change takes place.
 
 ### incompressible
+
+### ethereal
+extremely delicate and light in a way that seems too perfect for this world.
 
 </details>
 
