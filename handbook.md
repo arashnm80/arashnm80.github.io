@@ -83,6 +83,7 @@ This can be the worst, This can be the best. This is life. But whatever this is,
 - 127h
 - Infinite right & wrong paths
 - gun test decision making
+- Buridan's ass
 ### Flow
 #### leave the past, move on, Forget previous achievements
 #### real time process
