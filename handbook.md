@@ -133,6 +133,7 @@ Either I do x and y happens or I do A and B happens.
 #### 時の億万長者
 https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-changed-my-life
 ### Experience
+- pay attention to repetitive patterns.
 - 同じ木を森で通り過ぎたら、you are lost.
 - Don't make the same mistake twice.
 ### Focus
