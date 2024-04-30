@@ -3,7 +3,7 @@ layout: page
 title: Handbook
 ---
 
-Open source thoughts. \
+Constantly changing open source thoughts. \
 Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/main/handbook.md) with another font and style.
 
 <details markdown=block>
