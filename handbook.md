@@ -96,6 +96,12 @@ Every day it gets a little easier… But you gotta do it every day — that's th
 ### Cut the crap / To the point
 ### آدم های سر چشمه
 ### Multitask
+If my brain is able to handle multiple things at the same time I should multitask them as much is I can (as long as it isn't lowering the overall quality significantly). Important note: If I'm gonna multitask, first I should use all of my unused potential in single tasking.
+- Listen to podcasts while washing the dishes
+- Translate my teacher speaks to another language and write my handout in that language
+- Listen to music while running
+- Watch sitcoms while eating your meals
+- real time translation of people's talks to multiple languages
 ### magnet
 ### glasses to think through
 ###  Newton's laws
@@ -122,12 +128,15 @@ Every day it gets a little easier… But you gotta do it every day — that's th
 ### Superpowers
 Some are innate and some can be practiced and learned.
 #### Art of living in the hell
-#### Art of racing in the rain
+- Art of racing in the rain
+- being the same person in the best or worst possible situation
 #### Art of paradox thinking (never compare & always compare)
-##### yes, yes, yes
+- being able to think in place of my total opposite
 #### Art of parallelism or async life
 e.g. increase knowledge and apply it in real life action in 2 separate threads. (of course second one has much higher priority and should be allocated much more resources)
-### Be a loser / تو باید همیشه یه بازنده باشی
+### Art of being a loser
+تو باید همیشه یه بازنده باشی
+
 تو جای اشتباهی هستی اگه تو زمین بازی‌ای قرار داری که در حال برنده شدنی، اگه از بقیه بازیکن ها بهتری، اگه بازی امروز نسبت به دیروز هیچ چالش و چیز جدید تری نداره، اگه ۱۰۰ درصد توانایی‌ات رو درگیر نمیکنه، اگه همه دارن برای عملکرد خوبت کف میزنن ...
 
 منبع لذت تو نباید برنده شدن باشه، باید بالابردن سطح زمین بازی ای باشه که توش در حال باختنی. اگه سطحت ۵۰ عه برو تو زمین بازی سطح ۱۰۰ بازی کن و توش بباز، تا دیدی داری به سطح ۱۰۰ نزدیک میشی بپر تو زمین ۲۰۰ و دوباره بباز، و دوباره، و دوباره، و دوباره ...
@@ -147,6 +156,8 @@ e.g. increase knowledge and apply it in real life action in 2 separate threads. 
 بزرگترین (اثر/محصول/پروژه/دستاورد) تو نباید چیزی باشه که (۲روز/۲ماه/۲سال/۲۰سال) پیش عرضه کردی، باید چیز جدیدی باشه که دقیقا همین الان مشغول پیاده کردنش هستی. نقطه اوج رابطه تو با کسی که دوسش داری نباید خاطراتی باشه که سال ها پیش رقم زدی، باید اون هایی باشه که دقیقا همین الان داری میسازی. (واقعا غمگین میشم وقتی میبینم خواننده های محبوبم به یه مراسم دعوت میشن و اون آهنگشون رو میخونن که ۲۰ سال پیش پرفروش ترین تو چارت بوده. فراموشش کن مرد! شروع به ساختن یه آهنگ جدید کن که بزنه رو دست قبلیه.)
 
 از بزرگترین برد هات برای پز دادن صحبت نکن، از بزرگ ترین چیز هایی که براشون تلاش کردی ولی هنوز موفق نشدی حرف بزن، از بزرگترین چیزهایی (هدفت/شغلت/سلامتی‌ات/...) که الان مشغول جون کندن براشون هستی ...
+#### Art of being able to assume and imagine everything
+#### Art of Ambidexterity
 ### Compare yourself with the best
 - Who practices more programming skills each year, you or Linus Torvalds?
 - Who has a healthier diet, you or CR7?
