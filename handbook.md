@@ -115,8 +115,12 @@ If my brain is able to handle multiple things at the same time I should multitas
 - Infinite right & wrong paths
 - gun test decision making
 - Buridan's ass
+### Obsession
+- Don't check followers, views, statistics more than once per month
+- Don't check and reread your achievements, people endorsements, acknowledgements, etc...
 ### Flow
 #### leave the past, move on, Forget previous achievements
+#### Solve current problems first
 #### real time process
 ### Le cheval d'Edris
 ### Leader
