@@ -45,7 +45,12 @@ Accept current truth, reality, situation, limitations, weaknesses, faults, mista
 ### Action
 #### Thinking, Writing and Living System
 #### Porn vs. Sex
-### Plan A-B
+### Plan
+#### plan vs. no-plan
+- writing goals, milestones, metrics, deadlines
+- just intuition, improvisation
+#### Plan A-B
+- choose a simple, obvious, immature, 
 ### System 1-2
 ### Brain silence
 ### Feels right, doesn't feel right
