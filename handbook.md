@@ -210,5 +210,6 @@ extremely delicate and light in a way that seems too perfect for this world.
 - This life, this year, this day, this second.
 - "To me, no task is beneath me. Because remember I used to wash dishes, and I mean I used to clean toilets. I cleaned a lot of toilets. I've cleaned more toilets than all of you combined and some of them...just can't unsee." - Jensen Huang
 - Universe has no center.
+- Qui ose gagne
 
 </details>
