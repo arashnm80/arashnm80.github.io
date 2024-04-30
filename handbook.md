@@ -142,7 +142,8 @@ https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-change
 ### Fight
 #### In the name of father
 #### Up & Down
-Start with what I have now and accept this. Go upper (results of this) and lower (deeper, why this?) over time.
+I'm obsessed with finding the first starting point or principle for thinking but it seems impossible. Maybe the wise thing is to choose the best point and then expand it upward and downward to more details and less details, to other results and causes. This seems to be an infinite but correct process.
+### bournout
 ### Shit
 #### Darkness
 What else? knowledge I don't know, Situations I haven't experienced, Ideas I haven't thought about, Paths I haven't walked.
