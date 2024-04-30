@@ -45,6 +45,9 @@ Accept current truth, reality, situation, limitations, weaknesses, faults, mista
 ### Start
 - Just fucking do it
 - Starting a task is always the hardest part of it
+#### Comfort zone
+Be able to leave a local optimum to reach higher ones.
+![local optimum](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/5f45238c-6b6e-46ca-990b-cf627ff81b96)
 ### Sleep
 I heard about positive effects of good enough sleep on life, happiness and productivity from everybody I trust and now it's time to go for it.
 ### Action
@@ -57,6 +60,8 @@ I heard about positive effects of good enough sleep on life, happiness and produ
 #### Plan A-B
 - choose a simple, obvious, immature, 
 ### System 1-2
+### 10 times richer
+What parts of my life (hobbies, jobs, joys, cheap thrills, ...) I'm not going to change if I become 10 times richer (in time, money, relationships, ...)?
 ### Silence
 #### Brain silence
 ### Feels right, doesn't feel right
@@ -155,6 +160,24 @@ https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-change
 - pay attention to repetitive patterns.
 - 同じ木を森で通り過ぎたら、you are lost.
 - Don't make the same mistake twice.
+### famous principles, laws, theories
+#### Pareto principle
+- 80% of our life is the result of 20% of our works.
+- 80% of works can be done in 20% of our time.
+- We waste 80% of our life and only use 20% of it.
+- In order to become 20%, you should do what 80% don't.
+- Jordan Belfort: Life is 20% what happens to me and 80% of how I react to it.
+### Parkinson's Law
+Parkinson’s Law is the idea that work expands to fill the time allotted for its completion. This may mean you take longer than necessary to complete a task or you procrastinate and complete the task right before the due date.
+#### Gall’s Law
+Gall’s Law states that all complex systems that work evolved from simpler systems that worked. If you want to build a complex system that works, build a simpler system first, and then improve it over time.
+### Fallacies
+#### Sunk cost fallacy
+### Games
+#### Chicken game
+### Systems
+- self sufficient
+- autopoiesis
 ### Focus
 #### Focus shower
 ### Fight
