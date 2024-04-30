@@ -28,7 +28,8 @@ C'est la vie, leave or fight to live.
 This can be the worst, This can be the best. This is life. But whatever this is, this is my life and I must choose what to do with it. I can see 2 main options: refuse it and leave or accept it and fight to live. Both are hell of a big deals but I have to choose anyway. My Time is my most priceless asset which is passing in light speed, So whatever I'm gonna do, I have to do it right now. So who do I choose to be and what do I choose to do now?
 ### passion, goal
 ### Truth
-#### Accept
+#### Accept & change
+Accept current truth, reality, situation, limitations, weaknesses, faults, mistakes and Fight to change and go beyond them as much as possible at the same time.
 #### Change
 ### Deal with imperfection
 ### Life Factor
