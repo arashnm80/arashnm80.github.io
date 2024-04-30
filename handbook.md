@@ -42,17 +42,23 @@ Accept current truth, reality, situation, limitations, weaknesses, faults, mista
 - clear cache
 - clear data
 - factory reset
+### Start
+- Just fucking do it
+- Starting a task is always the hardest part of it
+### Sleep
+I heard about positive effects of good enough sleep on life, happiness and productivity from everybody I trust and now it's time to go for it.
 ### Action
 #### Thinking, Writing and Living System
 #### Porn vs. Sex
 ### Plan
 #### plan vs. no-plan
 - writing goals, milestones, metrics, deadlines
-- just intuition, improvisation
+- just intuition, improvisation, guts, subconscious
 #### Plan A-B
 - choose a simple, obvious, immature, 
 ### System 1-2
-### Brain silence
+### Silence
+#### Brain silence
 ### Feels right, doesn't feel right
 ### Source, Path, Destination
 - Source should be bad enough to spark a move
@@ -74,6 +80,13 @@ Accept current truth, reality, situation, limitations, weaknesses, faults, mista
 #### organized room, phone, chats, lists
 ### Idea, knowledge, action
 ### Streak
+Streak is the most important metric for success. (it can be daily, weekly, monthly, ...)
+#### Jogging Baboon
+Every day it gets a little easier… But you gotta do it every day — that's the hard part. But it does get easier.
+![Jogging Baboon](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/80d3e071-9201-42fd-aca6-7bf4415a0748)
+#### Streak of Minimums (Minimums vs. Maximums)
+- It's not important what are my records in my most productive & hardworking day. My maximums are not important, only how much I can keep a very tiny amount of productivity for a long streak matters.
+- Success of a marriage is not determined by our joy in happy days, but with our ability to handle the situation in shitty days with big disagreements and arguments.
 ### Neural pathways
 ### Cut the crap / To the point
 ### آدم های سر چشمه
@@ -153,6 +166,7 @@ I'm obsessed with finding the first starting point or principle for thinking but
 #### Darkness
 What else? knowledge I don't know, Situations I haven't experienced, Ideas I haven't thought about, Paths I haven't walked.
 #### Randomness, Chance, Uncertaincy, Probability
+- I should work with probabilites not certainties. I can never be fully certain. but I can constantly measure 2 choices with each other and think which one has higher higher lose/win probability? It can be a comparison between 10-90, 50-50, 10,11, 90-91.
 - I don't know, I'm not sure. But I have to act based on my best guess.
 ##### What ifs
 #### Brain vs. Heart
