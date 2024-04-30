@@ -192,9 +192,12 @@ Either I do x and y happens or I do A and B happens.
 #### 時の億万長者
 https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-changed-my-life
 ### Experience
+#### Patterns
 - pay attention to repetitive patterns.
-- 同じ木を森で通り過ぎたら、you are lost.
+#### Mistakes
+Always remind myself of past mistakes, losses and wrong choices but without letting them to evoke stress, fear, madness, anger. But to use them as experiences and lessons, try to learn from them and decrease similar happenings as much as possible in present and future.
 - Don't make the same mistake twice.
+- 同じ木を森で通り過ぎたら、you are lost.
 ### famous principles, laws, theories
 #### Pareto principle
 - 80% of our life is the result of 20% of our works.
