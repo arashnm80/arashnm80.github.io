@@ -355,5 +355,6 @@ an intense but short-lived passion or admiration for someone or something.
 - Qui ose gagne
 - The Joker - Heath Ledger: “If you're good at something, never do it for free.”
 - At one point I got tired of watching movies and decided to turn my life into a great movie.
+- Once your inner self knows that you've given your best, you won't regret for any loss.
 
 </details>
