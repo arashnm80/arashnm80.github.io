@@ -62,7 +62,12 @@ I should find ways to gain money or other precious assets just by living my norm
 - writing goals, milestones, metrics, deadlines
 - just intuition, improvisation, guts, subconscious
 #### Plan A-B
-- choose a simple, obvious, immature, 
+- choose a simple, obvious, immature, plan A to move by and choose a complicated, more delicate, time-needed plan B.
+- at the same time move by plan A and work on plan B.
+- when plan B reached good enoug point make it the new plan A and repeat this routine by creaing a new plan B
+### conscious vs. subconscious
+- teach goals and plans with my conscious to my subconscious and let the sub handle the road for me.
+### niksen
 ### System 1-2
 ### 10 times richer
 What parts of my life (hobbies, jobs, joys, cheap thrills, ...) I'm not going to change if I become 10 times richer (in time, money, relationships, ...)?
