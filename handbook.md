@@ -138,6 +138,7 @@ If my brain is able to handle multiple things at the same time I should multitas
 - Watch sitcoms while eating your meals
 - real time translation of people's talks to multiple languages
 ### magnet
+- نورخواهی مستعد نور شو.
 ### glasses to think through
 ###  Newton's laws
 #### 1. Resistance
@@ -151,6 +152,7 @@ If my brain is able to handle multiple things at the same time I should multitas
 - gun test decision making
 - Buridan's ass
 - optimal time for decision making: making any choice has an optimal time. less than it will not be sufficient and longer than it will be overoptimizing and waste of time. ![related image](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/2d580311-04fb-4a22-b8be-9057adc64516)
+- Almost any decision is better than no dicision at all.
 ### Obsession
 - Don't check followers, views, statistics more than once per month
 - Don't check and reread achievements, people endorsements, acknowledgements, etc...
