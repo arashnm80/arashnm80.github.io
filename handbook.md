@@ -284,6 +284,12 @@ the critical point in a situation, process, or system beyond which a significant
 ### ethereal
 extremely delicate and light in a way that seems too perfect for this world.
 
+### diffident
+modest or shy because of a lack of self-confidence.
+
+### infatuation
+an intense but short-lived passion or admiration for someone or something.
+
 </details>
 
 ---
