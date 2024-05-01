@@ -46,9 +46,11 @@ Accept current truth, reality, situation, limitations, weaknesses, faults, mista
 ### Start
 - Just fucking do it
 - Starting a task is always the hardest part of it
-#### Comfort zone
-Be able to leave a local optimum to reach higher ones.
+#### Comfort zone / safe zone
+- Be able to leave a local optimum to reach higher ones.
 ![local optimum](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/5f45238c-6b6e-46ca-990b-cf627ff81b96)
+- It's easy to work for long hours everyday inside our safe zones and boundaries. What really matters is to break out of these boundaries, which is fucking so hard.
+- Staying in safe zones is like accepting to be imprisoned to have free food and house.
 ### health
 #### posture
 - Don't hump to look at phone.
@@ -220,6 +222,12 @@ Either I do x and y happens or I do A and B happens.
 ### Don't be sorry, be better
 ### Directed Web Graph
 ### unlock new skills and abilities
+### social skills
+- metro loud talkings
+### my domino theory
+![dominos](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/57c99125-457d-4e40-b36c-d99389dc32d3)
+#### be the first domino
+- 12 angry men
 ### Life
 #### Survive -> Live
 #### 生き甲斐
@@ -356,5 +364,6 @@ an intense but short-lived passion or admiration for someone or something.
 - The Joker - Heath Ledger: “If you're good at something, never do it for free.”
 - At one point I got tired of watching movies and decided to turn my life into a great movie.
 - Once your inner self knows that you've given your best, you won't regret for any loss.
+- If a stupid person is achieving sth great, you can achieve it too.
 
 </details>
