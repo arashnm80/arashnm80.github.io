@@ -53,6 +53,10 @@ I heard about positive effects of good enough sleep on life, happiness and produ
 ### Action
 #### Thinking, Writing and Living System
 #### Porn vs. Sex
+### Money
+#### my normal life
+I should find ways to gain money or other precious assets just by living my normal life.
+- choose a hobby and turn it into a salable product.
 ### Plan
 #### plan vs. no-plan
 - writing goals, milestones, metrics, deadlines
@@ -298,5 +302,6 @@ extremely delicate and light in a way that seems too perfect for this world.
 - "To me, no task is beneath me. Because remember I used to wash dishes, and I mean I used to clean toilets. I cleaned a lot of toilets. I've cleaned more toilets than all of you combined and some of them...just can't unsee." - Jensen Huang
 - Universe has no center.
 - Qui ose gagne
+- The Joker - Heath Ledger: “If you're good at something, never do it for free.”
 
 </details>
