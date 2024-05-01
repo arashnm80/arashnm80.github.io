@@ -68,6 +68,7 @@ I should find ways to gain money or other precious assets just by living my norm
 ### conscious vs. subconscious
 - teach goals and plans with my conscious to my subconscious and let the sub handle the road for me.
 ### niksen
+Once in a while give myself a full free and do nothing day to remember why I am fighting everyday. to clear my mind and reboot myself.
 ### System 1-2
 ### 10 times richer
 What parts of my life (hobbies, jobs, joys, cheap thrills, ...) I'm not going to change if I become 10 times richer (in time, money, relationships, ...)?
