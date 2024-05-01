@@ -26,7 +26,8 @@ C'est la vie, leave or fight to live.
 
 ### Cœur
 This can be the worst, This can be the best. This is life. But whatever this is, this is my life and I must choose what to do with it. I can see 2 main options: refuse it and leave or accept it and fight to live. Both are hell of a big deals but I have to choose anyway. My Time is my most priceless asset which is passing in light speed, So whatever I'm gonna do, I have to do it right now. So who do I choose to be and what do I choose to do now?
-### passion, goal
+### passion, goal, reason to live
+What I want from life?
 ### Truth
 #### Accept & change
 Accept current truth, reality, situation, limitations, weaknesses, faults, mistakes and Fight to change and go beyond them as much as possible at the same time.
@@ -48,11 +49,20 @@ Accept current truth, reality, situation, limitations, weaknesses, faults, mista
 #### Comfort zone
 Be able to leave a local optimum to reach higher ones.
 ![local optimum](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/5f45238c-6b6e-46ca-990b-cf627ff81b96)
-### Sleep
+### health
+#### posture
+- Don't hump to look at phone.
+#### Sleep
 I heard about positive effects of good enough sleep on life, happiness and productivity from everybody I trust and now it's time to go for it.
 ### Action
 #### Thinking, Writing and Living System
 #### Porn vs. Sex
+ There are 2 Kinds of people:
+- Those who watch movies and those who make movies.
+- Those who make movies based on great people's biography and the great people who have lived those lives.
+- Those who read books and those who are writers of those books.
+- Those who watch soccer on TV and those who play soccer.
+- Sheeps who are controlled in a herd and the dog who controls them.
 ### Money
 #### my normal life
 I should find ways to gain money or other precious assets just by living my normal life.
@@ -67,6 +77,7 @@ I should find ways to gain money or other precious assets just by living my norm
 - when plan B reached good enoug point make it the new plan A and repeat this routine by creaing a new plan B
 ### conscious vs. subconscious
 - teach goals and plans with my conscious to my subconscious and let the sub handle the road for me.
+- multicore brain: do a thing with one core and delegate another thing to another core of your brain to do it in the background like finding a solution to a problem.
 #### ling and greed constant switching
 ### niksen
 Once in a while give myself a full free and do nothing day to remember why I am fighting everyday. to clear my mind and reboot myself.
@@ -87,7 +98,13 @@ What parts of my life (hobbies, jobs, joys, cheap thrills, ...) I'm not going to
 ### prioritize
 Fucos on solving the biggest and most important problem first. The hardest, scariest, most infected and weakest part.
 - “If it's your job to eat a frog, it's best to do it first thing in the morning. And if it's your job to eat two frogs, it's best to eat the biggest one first.” - Mark Twain
+- Write down most important tasks for day, week, month, year, life. for each period start working on the top 3 items first.
+- Do things that definitely should be done before things that are only good to do.
 ### Stress
+- Do your best and leave stress.
+- See many solutions for every problem so You won't be stressed about failing in one of them.
+- Take it easy man
+- think and live outside the box of this exam, this day, this contest, this call, this class, ...
 #### Infinite opportunities are lost every second
 ### انتحاری باش [🎵](https://open.spotify.com/track/2Xtsv7BUMrNodQWH2JPOc0)
 ### Whole Maximalist
@@ -95,13 +112,11 @@ Fucos on solving the biggest and most important problem first. The hardest, scar
 #### Satisfice / Good Enough
 ### Smile
 #### Life sucks :)
-### Mind clarity
-#### organized room, phone, chats, lists
 ### Idea, knowledge, action
 - あなたのトップ500のアイデアは何ですか？
 - Pour combien d'entre elles avez-vous suffisamment de connaissances et de compétences pour les accomplir ?
 - For how many of them have you actually tried so far?
-### goal, plan,
+### goal, plan, action
 ### Streak
 Streak is the most important metric for success. (it can be daily, weekly, monthly, ...)
 #### Jogging Baboon
@@ -133,9 +148,10 @@ If my brain is able to handle multiple things at the same time I should multitas
 - Infinite right & wrong paths
 - gun test decision making
 - Buridan's ass
+- optimal time for decision making. ![related image](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/2d580311-04fb-4a22-b8be-9057adc64516)
 ### Obsession
 - Don't check followers, views, statistics more than once per month
-- Don't check and reread your achievements, people endorsements, acknowledgements, etc...
+- Don't check and reread achievements, people endorsements, acknowledgements, etc...
 ### Flow
 #### leave the past, move on, Forget previous achievements
 #### Solve current problems first
@@ -150,8 +166,10 @@ If my brain is able to handle multiple things at the same time I should multitas
 ### Superpowers
 Some are innate and some can be practiced and learned.
 #### Art of living in the hell
+- Mind clarity: organized room, phone, chats, lists
 - Art of racing in the rain
 - being the same person in the best or worst possible situation
+- > "The scope of one's personality is defined by the magnitude of that problem which is capable of driving a person out of his wits." ― Sigmund Freud
 #### Art of paradox thinking (never compare & always compare)
 - being able to think in place of my total opposite
 #### Art of parallelism or async life
@@ -180,17 +198,28 @@ e.g. increase knowledge and apply it in real life action in 2 separate threads. 
 از بزرگترین برد هات برای پز دادن صحبت نکن، از بزرگ ترین چیز هایی که براشون تلاش کردی ولی هنوز موفق نشدی حرف بزن، از بزرگترین چیزهایی (هدفت/شغلت/سلامتی‌ات/...) که الان مشغول جون کندن براشون هستی ...
 #### Art of being able to assume and imagine everything
 #### Art of Ambidexterity
+- Whatever you're doing in your daily life split them evenly between both haves of your body. half of times write your notes, grab mouse, paint, dribble the ball in sports, etc. with your right hand and foot and half of times with left ones. At first it looks impossible but after passing enough time you suddenly realize that you are becoming Leonardo Da Vinci.
+- Constantly switch tasks between left & right side of your body.
+#### Art of patience
 ### Compare yourself with the best
 - Who practices more programming skills each year, you or Linus Torvalds?
 - Who has a healthier diet, you or CR7?
 - Who comes up with more creative solutions, you or a 4-year-old kid?
 ### Here am I. Send me!
+### Mind notebook
+- minimal short-term notebook in mind with small capacity
+- upgrade abilities over time
+- clear cache option
 ### 2-word resume
 ### Detroit: Become Human
+- See many different possibilities created by different choices every moment
+- Try to predect every path and its consequences
+- Choices of every person can have great impact on another guy
 ### It's a simple story
 Either I do x and y happens or I do A and B happens.
 ### Don't be sorry, be better
 ### Directed Web Graph
+### unlock new skills and abilities
 ### Life
 #### Survive -> Live
 #### 生き甲斐
@@ -209,6 +238,8 @@ Either I do x and y happens or I do A and B happens.
 - death of priest in count de monte cristo
 #### 時の億万長者
 https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-changed-my-life
+#### segmentation
+- Set interval timers for works and don't spend long continuous time on a single thing.
 ### Experience
 #### Patterns
 - pay attention to repetitive patterns.
@@ -323,5 +354,6 @@ an intense but short-lived passion or admiration for someone or something.
 - Universe has no center.
 - Qui ose gagne
 - The Joker - Heath Ledger: “If you're good at something, never do it for free.”
+- At one point I got tired of watching movies and decided to turn my life into a great movie.
 
 </details>
