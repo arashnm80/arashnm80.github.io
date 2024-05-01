@@ -67,6 +67,7 @@ I should find ways to gain money or other precious assets just by living my norm
 - when plan B reached good enoug point make it the new plan A and repeat this routine by creaing a new plan B
 ### conscious vs. subconscious
 - teach goals and plans with my conscious to my subconscious and let the sub handle the road for me.
+#### ling and greed constant switching
 ### niksen
 Once in a while give myself a full free and do nothing day to remember why I am fighting everyday. to clear my mind and reboot myself.
 ### System 1-2
@@ -97,6 +98,10 @@ Fucos on solving the biggest and most important problem first. The hardest, scar
 ### Mind clarity
 #### organized room, phone, chats, lists
 ### Idea, knowledge, action
+- あなたのトップ500のアイデアは何ですか？
+- Pour combien d'entre elles avez-vous suffisamment de connaissances et de compétences pour les accomplir ?
+- For how many of them have you actually tried so far?
+### goal, plan,
 ### Streak
 Streak is the most important metric for success. (it can be daily, weekly, monthly, ...)
 #### Jogging Baboon
@@ -230,6 +235,9 @@ Gall’s Law states that all complex systems that work evolved from simpler syst
 - self sufficient
 - autopoiesis
 ### Innovation
+### psychology
+#### therapy
+#### cbt
 ### Focus
 #### Focus shower
 ### Fight
