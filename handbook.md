@@ -148,7 +148,7 @@ If my brain is able to handle multiple things at the same time I should multitas
 - Infinite right & wrong paths
 - gun test decision making
 - Buridan's ass
-- optimal time for decision making. ![related image](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/2d580311-04fb-4a22-b8be-9057adc64516)
+- optimal time for decision making: making any choice has an optimal time. less than it will not be sufficient and longer than it will be overoptimizing and waste of time. ![related image](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/2d580311-04fb-4a22-b8be-9057adc64516)
 ### Obsession
 - Don't check followers, views, statistics more than once per month
 - Don't check and reread achievements, people endorsements, acknowledgements, etc...
