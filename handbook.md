@@ -15,7 +15,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ---
 
 ## grande image
-C'est la vie, leave or fight to live.
+
 
 ---
 
@@ -25,24 +25,31 @@ C'est la vie, leave or fight to live.
 <summary></summary>
 
 ### Cœur
-This can be the worst, This can be the best. This is life. But whatever this is, this is my life and I must choose what to do with it. I can see 2 main options: refuse it and leave or accept it and fight to live. Both are hell of a big deals but I have to choose anyway. My Time is my most priceless asset which is passing in light speed, So whatever I'm gonna do, I have to do it right now. So who do I choose to be and what do I choose to do now?
-### passion, goal, reason to live
-What I want from life?
-### Truth
+#### C'est ma vie
+Best or Worst, whatever this is, C'est ma vie.
+#### C'est la vie
+C'est la vie. leave or fight to live.
+#### No time for caution
+My Time is my most priceless asset and it's ending like a cup of coffee.
+#### je dois choisir
+What am I going to do with my life, who do I choose to be and what do I choose to do now?
+### Truth, reality
 #### Accept & change
 Accept current truth, reality, situation, limitations, weaknesses, faults, mistakes and Fight to change and go beyond them as much as possible at the same time.
 #### Change
-### Deal with imperfection
-### Life Factor
-#### stay, leave, alive,  live
 ### FUCK
-### Delegation
-#### Nuclear chain reaction
 ### Begin Again / reboot
 #### Levels
 - clear cache
 - clear data
 - factory reset
+### passion, goal, reason to live
+What I want from life?
+### Life Factor
+stay, leave, alive,  live, positive, negative, brain, heart, probability, mindset glasses
+### Deal with imperfection
+### Delegation
+#### Nuclear chain reaction
 ### Start
 - Just fucking do it
 - Starting a task is always the hardest part of it
@@ -330,20 +337,19 @@ What else? knowledge I don't know, Situations I haven't experienced, Ideas I hav
 
 ### 木漏れ日 - Komorebi
 [Telegram](https://t.me/Arashnm80_Persian/857)
-
 ### tipping point
 the critical point in a situation, process, or system beyond which a significant and often unstoppable effect or change takes place.
-
 ### incompressible
-
 ### ethereal
 extremely delicate and light in a way that seems too perfect for this world.
-
 ### diffident
 modest or shy because of a lack of self-confidence.
-
 ### infatuation
 an intense but short-lived passion or admiration for someone or something.
+### polyglot
+a person who knows and is able to use several languages.
+### multi-instrumentalist
+a person who plays more than one musical instrument.
 
 </details>
 
