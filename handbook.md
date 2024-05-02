@@ -28,7 +28,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 #### C'est ma vie
 Best or Worst, whatever this is, C'est ma vie.
 #### C'est la vie
-C'est la vie. leave or fight for the narrow probability to live.
+C'est la vie. leave or fight for the narrow odds to live.
 #### No time for caution
 My Time is my most priceless asset and it's ending like a cup of coffee.
 #### je dois choisir
