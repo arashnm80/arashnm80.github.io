@@ -35,9 +35,10 @@ My Time is my most priceless asset and it's ending like a cup of coffee.
 What am I going to do with my life, who do I choose to be and what do I choose to do now?
 ### Truth, reality
 #### Accept & change
-Accept current truth, reality, situation, limitations, weaknesses, faults, mistakes and Fight to change and go beyond them as much as possible at the same time.
+1. I'm going to accept truth (reality, situation, limitations, weaknesses, faults, mistakes, ...)
+2. I'm going to fight to change the current truth
 #### mind opiums
-I choose not to take mind opiums like god.
+I refuse to take mind opiums (like god, We can do anything we want in the world, ...).
 ### FUCK
 ### Begin Again / reboot
 #### Levels
@@ -46,6 +47,9 @@ I choose not to take mind opiums like god.
 - factory reset
 ### passion, goal, reason to live
 What I want from life?
+### point of view
+- first person view
+- see myself through my eyes not others.
 ### Life Factor
 stay, leave, alive,  live, positive, negative, brain, heart, probability, mindset glasses
 ### Deal with imperfection
@@ -117,6 +121,8 @@ Fucos on solving the biggest and most important problem first. The hardest, scar
 - think and live outside the box of this exam, this day, this contest, this call, this class, ...
 #### Infinite opportunities are lost every second
 ### انتحاری باش [🎵](https://open.spotify.com/track/2Xtsv7BUMrNodQWH2JPOc0)
+### Best possible use
+Are my resources used in the best possible place?
 ### Whole Maximalist
 #### Hexagon
 #### Satisfice / Good Enough
