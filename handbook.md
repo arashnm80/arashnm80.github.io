@@ -38,7 +38,7 @@ What am I going to do with my life, who do I choose to be and what do I choose t
 1. I'm going to accept truth (reality, situation, limitations, weaknesses, faults, mistakes, ...)
 2. I'm going to fight to change the current truth
 #### mind opiums
-I refuse to take mind opiums (like god, We can do anything we want in the world, ...).
+I refuse to take mind opiums (like god, yellow self-help books, ...).
 ### FUCK
 ### Begin Again / reboot
 #### Levels
