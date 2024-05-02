@@ -28,9 +28,9 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 #### C'est ma vie
 Best or Worst, whatever this is, C'est ma vie.
 #### C'est la vie
-C'est la vie. leave or fight for the narrow odds to live.
+C'est la vie. leave or fucking fight for narrow odds to live.
 #### No time for caution
-My Time is my most priceless asset and it's ending like a cup of coffee.
+My Time is my most priceless asset and it's running out like a cup of coffee.
 #### je dois choisir
 What am I going to do with my life, who do I choose to be and what do I choose to do now?
 ### Truth, reality
@@ -40,7 +40,7 @@ What am I going to do with my life, who do I choose to be and what do I choose t
 #### mind opiums
 I refuse to take mind opiums (like god, yellow self-help books, ...).
 ### FUCK
-### Begin Again / reboot
+### reboot
 #### Levels
 - clear cache
 - clear data
@@ -55,7 +55,15 @@ It's very important that why I'm doing things. for their results, for what peopl
 - see myself through my eyes not others.
 ### Life Factor
 stay, leave, alive,  live, positive, negative, brain, heart, probability, mindset glasses
-### Deal with imperfection
+### perfectionism
+#### Deal with imperfection
+How to break down a perfectionist? give him imperfection.
+#### Whole Maximalist
+If I'm gonna be a perfectionist and maximize things I should do it in all fields at the same time. that includes hobbies, relaxation, peace, etc. too
+- fifa 6 hexagon
+![hexagon](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/8b72dc20-e306-45b3-bffa-f879c5102ab2)
+#### Satisfice / Good Enough
+- Maximize the resultant of peace and achievement
 ### Delegation
 #### Nuclear chain reaction
 ### Start
@@ -126,9 +134,6 @@ Fucos on solving the biggest and most important problem first. The hardest, scar
 ### انتحاری باش [🎵](https://open.spotify.com/track/2Xtsv7BUMrNodQWH2JPOc0)
 ### Best possible use
 Are my resources used in the best possible place?
-### Whole Maximalist
-#### Hexagon
-#### Satisfice / Good Enough
 ### Smile
 #### Life sucks :)
 ### Idea, knowledge, action
