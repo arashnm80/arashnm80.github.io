@@ -157,6 +157,7 @@ If my brain is able to handle multiple things at the same time I should multitas
 ###  Newton's laws
 #### 1. Resistance
 #### 3. Exchange
+> Newton’s third law, the only way humans have ever figured out of getting somewhere is to leave something behind. – Interstellar
 ##### Choose
 - I have to choose
 - Nothing is sth
