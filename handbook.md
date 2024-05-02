@@ -151,6 +151,8 @@ If my brain is able to handle multiple things at the same time I should multitas
 - Listen to music while running
 - Watch sitcoms while eating your meals
 - real time translation of people's talks to multiple languages
+#### make life bearable
+If I have to do some tasks that I hate, multitask can be the savior for not losing those seconds and finding a way to enjoy and live. like listening to music with those tasks. Or doing them with people I like.
 ### magnet
 - نورخواهی مستعد نور شو.
 ### glasses to think through
