@@ -45,8 +45,11 @@ I refuse to take mind opiums (like god, yellow self-help books, ...).
 - clear cache
 - clear data
 - factory reset
-### passion, goal, reason to live
+### goal
+#### passion / reason to live
 What I want from life?
+#### reason of doing
+It's very important that why I'm doing things. for their results, for what people think of me or only for the sake of itself.
 ### point of view
 - first person view
 - see myself through my eyes not others.
