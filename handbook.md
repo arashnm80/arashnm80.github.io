@@ -30,7 +30,7 @@ Best or Worst, whatever this is, C'est ma vie.
 #### C'est la vie
 **C'est la vie. leave or fucking fight for narrow odds to live.**
 #### No time for caution
-My Time is my most priceless asset and it's running out like a cup of coffee.
+Time is my most priceless asset and it's running out like a cup of coffee.
 #### je dois choisir
 What am I going to do with my life, who do I choose to be and what do I choose to do now?
 
