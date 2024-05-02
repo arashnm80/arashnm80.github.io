@@ -36,7 +36,8 @@ What am I going to do with my life, who do I choose to be and what do I choose t
 ### Truth, reality
 #### Accept & change
 Accept current truth, reality, situation, limitations, weaknesses, faults, mistakes and Fight to change and go beyond them as much as possible at the same time.
-#### Change
+#### mind opiums
+I choose not to take mind opiums like god.
 ### FUCK
 ### Begin Again / reboot
 #### Levels
