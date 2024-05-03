@@ -68,6 +68,7 @@ If I'm gonna be a perfectionist and maximize things I should do it in all fields
 ### Delegation
 #### Nuclear chain reaction
 ### Start
+- Stop reading swimming books, just fucking jump in the water.
 - Just fucking do it
 - Starting a task is always the hardest part of it
 #### Comfort zone / safe zone
