@@ -125,6 +125,9 @@ What parts of my life (hobbies, jobs, joys, cheap thrills, ...) I'm not going to
 #### Scrawled mind
 ### More Detailed Bigger Pictures
 - put myself in place of richest and poorest, youngest and oldest, happiest and most depressed people and try to feel and think what they do.
+### People
+#### ask questions
+people love to talk about themselves.
 ### prioritize
 Fucos on solving the biggest and most important problem first. The hardest, scariest, most infected and weakest part.
 - “If it's your job to eat a frog, it's best to do it first thing in the morning. And if it's your job to eat two frogs, it's best to eat the biggest one first.” - Mark Twain
