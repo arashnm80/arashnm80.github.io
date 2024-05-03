@@ -279,6 +279,7 @@ Either I do x and y happens or I do A and B happens.
 #### This life, This year, this day, this second.
 ![this life, this year, this day, this second](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/e7818334-a530-4c17-9f79-5f76ac0a3526)
 #### Short term golden windows
+- > Look, if you had one shot, or one opportunity. To seize everything you ever wanted in one moment. Would you capture it or just let it slip? - eminem
 - death of priest in count de monte cristo
 #### 時の億万長者
 https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-changed-my-life
