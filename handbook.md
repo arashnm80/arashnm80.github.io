@@ -26,7 +26,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ### Cœur
 #### C'est ma vie
-This can be **the best**, this can be **the worst**. But **whatever this is, C'est ma vie.**
+This can be **the best**, this can be **the worst**. But whatever this is, **C'est ma vie.**
 I am the captain of my life and it's my sole responsibility. No matter my will is free or not, it's my will.
 #### C'est la vie
 **C'est la vie. leave or** fucking **fight** for narrow odds **to live.**
