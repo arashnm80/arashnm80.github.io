@@ -26,15 +26,14 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ### Cœur
 #### C'est ma vie
-This can be the worst or the best, fantastic or disgusting. But whatever this is, **C'est ma vie.**
-I am the captain of my life and it's my sole responsibility. No matter how much freedom my will has, it's my will.
+This can be the worst or the best, fantastic or disgusting, freedom or imprisonment. But whatever this is, **C'est ma vie.**
+I am the captain of my life and it's my sole responsibility.
 #### C'est la vie
 **C'est la vie. leave or** fucking **fight** for narrow odds **to live.**
 #### No time for caution
 Time is my most priceless asset and it's running out like a cup of coffee.
 #### je dois choisir
 What am I going to do with my life, **who do I choose to be and what do I choose to do now?**
-
 ### Truth, reality
 #### Accept & change
 1. I'm going to accept truth (reality, situation, limitations, weaknesses, faults, mistakes, ...)
@@ -52,6 +51,8 @@ I refuse to take mind opiums (like god, yellow self-help books, ...).
 What I want from life?
 #### reason of doing
 It's very important that why I'm doing things. for their results, for what people think of me or only for the sake of itself.
+### freedom
+freedom to choose what to do or not to do without compulsion.
 ### point of view
 - first person view
 - see myself through my eyes not others.
