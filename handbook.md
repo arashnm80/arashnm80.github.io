@@ -26,13 +26,13 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ### Cœur
 #### C'est ma vie
-Best or Worst, whatever this is, C'est ma vie.
+This can be **the best**, this can be **the worst**. But **whatever this is, C'est ma vie.**
 #### C'est la vie
-**C'est la vie. leave or [fucking] fight [for narrow odds] to live.**
+**C'est la vie. leave or** fucking **fight** for narrow odds **to live.**
 #### No time for caution
 Time is my most priceless asset and it's running out like a cup of coffee.
 #### je dois choisir
-What am I going to do with my life, who do I choose to be and what do I choose to do now?
+What am I going to do with my life, **who do I choose to be and what do I choose to do now?**
 
 ### Truth, reality
 #### Accept & change
