@@ -16,14 +16,13 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ## Head
 ### C'est ma vie
-This can be the best or the worst, extraordinary or horrible, freedom or imprisonment. But whatever this is, **C'est ma vie.**
-Wheter I'm in an ocean or a dune, I am the captain of my life and it's my sole responsibility.
+**This is my life** and it's my sole responsibility. Whatever am I going to do with my life, I have to do my best for me.
 ### C'est la vie
-**C'est la vie. I have to leave or** fucking **fight** for narrow odds **to live.**
+This can be best or worst, win or loss, awesome or awful, freedom or prison. **C'est la vie.** I have to **leave** or fucking **fight** for narrow possibility to **live.**
 ### No time for caution
-Time is my most priceless asset and it's running out like a cup of coffee.
+Time is my most priceless asset and it's running out like a cup of coffee. Whatever I'm gonna do I have to do it right now.
 ### Je dois choisir & Je dois agir
-So what am I going to do with my life, **who do I choose to be and what do I choose to do now?**
+I have to choose and I have to do it through action. So **who do I choose to be and what do I choose to do now?**
 
 ---
 
