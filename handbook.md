@@ -286,6 +286,8 @@ Either I do x and y happens or I do A and B happens.
 https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-changed-my-life
 #### segmentation
 - Set interval timers for works and don't spend long continuous time on a single thing.
+#### Tick tock motherfucker
+![tick tock motherfucker](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/f801c253-2897-469b-b465-f9512ce9e8c4)
 ### Experience
 #### Patterns
 - pay attention to repetitive patterns.
