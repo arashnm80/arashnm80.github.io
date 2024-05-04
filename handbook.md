@@ -22,7 +22,7 @@ This can be best or worst, win or lose, awesome or awful, freedom or prison. **C
 ### No time for caution
 Time is my most priceless asset and it's running out like a cup of coffee. Whatever I'm gonna do, **I have to do it right now.**
 ### Je dois choisir & Je dois agir
-I have to choose and I have to do it through action. So **what do I choose to do and who do I choose to be now?**
+Almost any decision is better than no dicision at all. I have to choose and I have to do it through action. So **what do I choose to do and who do I choose to be now?**
 
 ---
 
