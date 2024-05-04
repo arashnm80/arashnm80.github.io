@@ -26,14 +26,14 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ### Cœur
 #### C'est ma vie
-This can be the worst or the best, fantastic or disgusting, freedom or imprisonment. But whatever this is, **C'est ma vie.**
-It's mine. I am the captain of my life and it's my sole responsibility.
+This can be the best or the worst, extraordinary or horrible, freedom or imprisonment. But whatever this is, **C'est ma vie.**
+Wheter I'm in an ocean or a dune, I am the captain of my life and it's my sole responsibility.
 #### C'est la vie
 **C'est la vie. I have to leave or** fucking **fight** for narrow odds **to live.**
 #### No time for caution
 Time is my most priceless asset and it's running out like a cup of coffee.
-#### je dois choisir & Je dois agir
-What am I going to do with my life, **who do I choose to be and what do I choose to do now?**
+#### Je dois choisir & Je dois agir
+So what am I going to do with my life, **who do I choose to be and what do I choose to do now?**
 ### Truth, reality
 #### Accept & change
 1. I'm going to accept truth (reality, situation, limitations, weaknesses, faults, mistakes, ...)
