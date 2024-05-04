@@ -18,7 +18,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ### C'est ma vie
 **This is my life** and it's my sole responsibility. It's my one shot. Whatever I do, I'm doing it for myself, so I have to do my best. Whoever I am, I am for myself, so I have to be my best.
 ### C'est la vie
-This can be best or worst, win or loss, awesome or awful, freedom or prison. **C'est la vie.** I have to **leave** or fucking **fight** for narrow possibility **to live.**
+This can be best or worst, win or lose, awesome or awful, freedom or prison. **C'est la vie.** I have to **leave** or fucking **fight** for narrow possibility **to live.**
 ### No time for caution
 Time is my most priceless asset and it's running out like a cup of coffee. Whatever I'm gonna do, **I have to do it right now.**
 ### Je dois choisir & Je dois agir
