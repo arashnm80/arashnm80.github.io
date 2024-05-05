@@ -27,6 +27,7 @@ I have to choose through action and I have to do it right now. Time is my most p
 <details markdown=block>
 <summary></summary>
 
+### Reboot
 ### Real work
 ### Truth, reality
 #### Accept & change
@@ -37,11 +38,6 @@ I refuse to take mind opiums (like god, yellow self-help books, ...).
 #### glasses to think through
 optimist, pessimist, believer, nonbeliever, ...
 ### FUCK
-### reboot
-#### Levels
-- clear cache
-- clear data
-- factory reset
 ### goal
 #### passion / reason to live
 What I want from life?
