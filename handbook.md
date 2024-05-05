@@ -52,11 +52,11 @@ What I want from life?
 It's very important that why I'm doing things. for their results, for what people think of me or only for the sake of itself.
 ### freedom
 freedom to choose what to do or not to do without compulsion.
+### Life Factor
+stay, leave, alive,  live, positive, negative, brain, heart, probability, mindset glasses
 ### point of view
 - first person view
 - see myself through my eyes not others.
-### Life Factor
-stay, leave, alive,  live, positive, negative, brain, heart, probability, mindset glasses
 ### perfectionism
 #### Deal with imperfection
 How to break down a perfectionist? give him imperfection.
