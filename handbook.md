@@ -18,7 +18,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ### C'est ma vie
 This can be the best, this can be the worst. This is life. But whatever this is, this is my life. I have to leave or stay and fucking fight for narrow possibility to live.
 ### No time for caution
-I have to choose through action and I have to do it right now. Time is my most precious asset and it's running out like a cup of coffee. So what am I going to do with my life, who do I choose to be and what do I choose to do now?
+Time is my most precious asset and it's running out like a cup of coffee. I have to choose through action and I have to do it right now. So what am I going to do with my life, who do I choose to be and what do I choose to do now?
 
 ---
 
