@@ -174,7 +174,8 @@ If I have to do some tasks that I hate, multitask can be the savior for not losi
 ###  Newton's laws
 #### 1. Resistance
 #### 3. Exchange
-> Newton’s third law, the only way humans have ever figured out of getting somewhere is to leave something behind. – Interstellar
+- > Newton’s third law, the only way humans have ever figured out of getting somewhere is to leave something behind. – Interstellar
+- There are millions of available options every second and to choose one of them means to lose all the others.
 ##### Choose
 - I have to choose
 - Nothing is sth
