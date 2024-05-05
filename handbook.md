@@ -37,6 +37,8 @@ Almost any decision is better than no dicision at all. I have to choose and I ha
 2. I'm going to fight to change the current truth
 #### mind opiums
 I refuse to take mind opiums (like god, yellow self-help books, ...).
+#### glasses to think through
+optimist, pessimist, believer, nonbeliever, ...
 ### FUCK
 ### reboot
 #### Levels
@@ -170,7 +172,6 @@ If my brain is able to handle multiple things at the same time I should multitas
 If I have to do some tasks that I hate, multitask can be the savior for not losing those seconds and finding a way to enjoy and live. like listening to music with those tasks. Or doing them with people I like.
 ### magnet
 - نورخواهی مستعد نور شو.
-### glasses to think through
 ###  Newton's laws
 #### 1. Resistance
 #### 3. Exchange
