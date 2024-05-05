@@ -16,13 +16,9 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ## Head
 ### C'est ma vie
-**This is my life** and it's my sole responsibility. It's my one shot. Whatever I do, I'm doing it for myself. Whoever I am, I am for myself.
-### Leave or fight to live
-This can be best or worst, win or lose, awesome or awful, freedom or prison. **C'est la vie.** I have to **leave** or fucking **fight** for narrow possibility **to live.**
+This can be the best, this can be the worst. This is life. But whatever this is, this is my life. I have to leave or stay and fucking fight for narrow possibility to live.
 ### No time for caution
-Time is my most priceless asset and it's running out like a cup of coffee. Whatever I'm gonna do, **I have to do it right now.**
-### Je dois choisir & Je dois agir
-Almost any decision is better than no dicision at all. I have to choose and I have to do it through action. So **what do I choose to do and who do I choose to be now?**
+I have to choose through action and I have to do it right now. Time is my most precious asset and it's running out like a cup of coffee. So what am I going to do with my life, who do I choose to be and what do I choose to do now?
 
 ---
 
@@ -31,6 +27,7 @@ Almost any decision is better than no dicision at all. I have to choose and I ha
 <details markdown=block>
 <summary></summary>
 
+### Real work
 ### Truth, reality
 #### Accept & change
 1. I'm going to accept truth (reality, situation, limitations, weaknesses, faults, mistakes, ...)
