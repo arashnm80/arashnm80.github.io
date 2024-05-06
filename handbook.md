@@ -164,8 +164,11 @@ If my brain is able to handle multiple things at the same time I should multitas
 If I have to do some tasks that I hate, multitask can be the savior for not losing those seconds and finding a way to enjoy and live. like listening to music with those tasks. Or doing them with people I like.
 ### magnet
 - نورخواهی مستعد نور شو.
+### messy mind
+![messy mind](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/e7be6d1d-fba2-40f3-a465-59a2ecfef5b8)
 ###  Newton's laws
 #### 1. Resistance
+- تغییر همواره با حمایت حداقلی و مخالفت حداکثری رو به رو میشود.
 #### 3. Exchange
 - > Newton’s third law, the only way humans have ever figured out of getting somewhere is to leave something behind. – Interstellar
 - There are millions of available options every second and to choose one of them means to lose all the others.
@@ -395,5 +398,6 @@ a person who plays more than one musical instrument.
 - At one point I got tired of watching movies and decided to turn my life into a great movie.
 - Once your inner self knows that you've given your best, you won't regret for any loss.
 - If a stupid person is achieving sth great, you can achieve it too.
+- “You're crazy until you're successful, then you are a genius.” -MrBeast
 
 </details>
