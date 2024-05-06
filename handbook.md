@@ -16,6 +16,8 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ## Head
 ### C'est ma vie
+### C'est la vie, Leave or fight to leave
+### No time for caution
 
 ---
 
@@ -24,8 +26,6 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 <details markdown=block>
 <summary></summary>
 
-### C'est la vie, Leave or fight to leave
-### No time for caution
 ### Reboot
 ### Real work
 ### Truth, reality
