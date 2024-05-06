@@ -18,6 +18,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ### C'est ma vie
 ### C'est la vie, Leave or fight to leave
 ### No time for caution
+Do it right now.
 
 ---
 
@@ -27,6 +28,18 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 <summary></summary>
 
 ### Reboot
+### Action
+#### right and wrong
+If you know it's right just fucking do it. If you know it's wrong just fucking don't do it.
+#### Thinking, Writing and Living System
+Think through doing, write through doing, live through doing.
+#### Porn vs. Sex
+ There are 2 Kinds of people:
+- Sheeps who are controlled in a herd and the dog who controls them.
+- Those who watch movies and those who make movies.
+- Those who make movies based on great people's biography and the great people who have lived those lives.
+- Those who read books and those who are writers of those books.
+- Those who watch soccer on TV and those who play soccer.
 ### Real work
 ### Truth, reality
 #### Accept & change
@@ -74,18 +87,6 @@ If I'm gonna be a perfectionist and maximize things I should do it in all fields
 - Don't hump to look at phone.
 #### Sleep
 I heard about positive effects of good enough sleep on life, happiness and productivity from everybody I trust and now it's time to go for it.
-### Action
-### right and wrong
-If you know it's right just fucking do it. If you know it's wrong just fucking don't do it.
-#### Thinking, Writing and Living System
-Think through doing, write through doing, live through doing.
-#### Porn vs. Sex
- There are 2 Kinds of people:
-- Sheeps who are controlled in a herd and the dog who controls them.
-- Those who watch movies and those who make movies.
-- Those who make movies based on great people's biography and the great people who have lived those lives.
-- Those who read books and those who are writers of those books.
-- Those who watch soccer on TV and those who play soccer.
 ### Money
 #### my normal life
 I should find ways to gain money or other precious assets just by living my normal life.
