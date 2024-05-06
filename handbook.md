@@ -40,6 +40,22 @@ Think through doing, write through doing, live through doing.
 - Those who make movies based on great people's biography and the great people who have lived those lives.
 - Those who read books and those who are writers of those books.
 - Those who watch soccer on TV and those who play soccer.
+###  Newton's laws
+#### 1. Resistance
+- تغییر همواره با حمایت حداقلی و مخالفت حداکثری رو به رو میشود.
+#### 3. Exchange
+- > Newton’s third law, the only way humans have ever figured out of getting somewhere is to leave something behind. – Interstellar
+- There are millions of available options every second and to choose one of them means to lose all the others.
+##### Choose
+- Choose fast and through action
+- Nothing is sth
+- being limited to 1 option
+- 127h
+- Infinite right & wrong paths
+- gun test decision making
+- Buridan's ass
+- optimal time for decision making: making any choice has an optimal time. less than it will not be sufficient and longer than it will be overoptimizing and waste of time. ![related image](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/2d580311-04fb-4a22-b8be-9057adc64516)
+- Almost any decision is better than no dicision at all.
 ### Real work
 ### Truth, reality
 #### Accept & change
@@ -167,22 +183,6 @@ If I have to do some tasks that I hate, multitask can be the savior for not losi
 - نورخواهی مستعد نور شو.
 ### messy mind
 ![messy mind](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/e7be6d1d-fba2-40f3-a465-59a2ecfef5b8)
-###  Newton's laws
-#### 1. Resistance
-- تغییر همواره با حمایت حداقلی و مخالفت حداکثری رو به رو میشود.
-#### 3. Exchange
-- > Newton’s third law, the only way humans have ever figured out of getting somewhere is to leave something behind. – Interstellar
-- There are millions of available options every second and to choose one of them means to lose all the others.
-##### Choose
-- I have to choose
-- Nothing is sth
-- being limited to 1 option
-- 127h
-- Infinite right & wrong paths
-- gun test decision making
-- Buridan's ass
-- optimal time for decision making: making any choice has an optimal time. less than it will not be sufficient and longer than it will be overoptimizing and waste of time. ![related image](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/2d580311-04fb-4a22-b8be-9057adc64516)
-- Almost any decision is better than no dicision at all.
 ### Obsession
 - Don't check followers, views, statistics more than once per month
 - Don't check and reread achievements, people endorsements, acknowledgements, etc...
