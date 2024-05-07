@@ -16,7 +16,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ## Head
 ### C'est ma vie
-### C'est la vie, Leave or fight to leave
+### C'est la vie, Leave or fight to live
 ### No time for caution
 Do it right now.
 
