@@ -37,6 +37,8 @@ This is my ability.
 This is my inability.
 This is my freedom.
 This is my prison.
+This is my win.
+This is my lose.
 This is my knowledge.
 This is my ignorance.
 This is my certainty.
