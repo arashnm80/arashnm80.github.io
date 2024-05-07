@@ -16,6 +16,17 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ## Head
 ### C'est ma vie
+Whatever this is, this is mine.
+This is my life.
+This is my time.
+This is my chance.
+This is my choice.
+This is my action.
+This is my responsibility.
+This is my joy.
+This is my pain.
+This is my goal.
+This is my path.
 
 ---
 
