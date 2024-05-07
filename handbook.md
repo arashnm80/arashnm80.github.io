@@ -19,14 +19,28 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 Whatever this is, this is mine.
 This is my life.
 This is my time.
+This is my responsibility.
+This is my brain.
+This is my heart.
+This is my mind.
+This is my body.
+This is my health.
+This is my will.
 This is my chance.
 This is my choice.
 This is my action.
-This is my responsibility.
-This is my joy.
-This is my pain.
 This is my goal.
 This is my path.
+This is my joy.
+This is my pain.
+This is my ability.
+This is my inability.
+This is my freedom.
+This is my prison.
+This is my knowledge.
+This is my ignorance.
+This is my everything.
+This is my nothing.
 
 ---
 
