@@ -27,6 +27,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 <summary></summary>
 
 ### Reboot
+Reinstall OS and be born right now.
 ### Action
 #### right and wrong
 If you know it's right just fucking do it. If you know it's wrong just fucking don't do it.
