@@ -39,6 +39,8 @@ This is my freedom.
 This is my prison.
 This is my knowledge.
 This is my ignorance.
+This is my certainty.
+This is my uncertainty.
 This is my everything.
 This is my nothing.
 
