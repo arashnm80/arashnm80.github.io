@@ -16,7 +16,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ## Head
 ### C'est ma vie
-Whatever this is, this is mine.
+Whatever this is, this is mine. <br>
 This is my life.
 This is my time.
 This is my responsibility.
@@ -44,7 +44,8 @@ This is my ignorance.
 This is my certainty.
 This is my uncertainty.
 This is my everything.
-This is my nothing.
+This is my nothing. <br>
+So what am I going to do with my life, who do I choose to be and what do I choose to do now?
 
 ---
 
