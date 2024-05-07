@@ -36,6 +36,7 @@ This is my path.
 <summary></summary>
 
 ### C'est la vie, Leave or fight to live
+This can be the best, this can be the worst. This is life. Leave or stay and fucking fight for the narrow possibility to live.
 ### No time for caution
 ### Reboot
 Reinstall OS and be born right now.
