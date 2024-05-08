@@ -18,6 +18,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ### C'est ma vie
 ### C'est la vie
 ### no time for caution
+### reboot
 ### action
 
 ---
@@ -71,8 +72,7 @@ So what am I going to do with my life, who do I choose to be and what do I choos
 This can be the best, this can be the worst. This is life. Leave or stay and fucking fight for the narrow possibility to live.
 ### No time for caution
 ### Reboot
-Reinstall OS.
-### I am born right now
+Let's clear the cache and start from scratch. Let's assume I'm born right now.
 ### FUCK
 ### Action
 #### right and wrong
