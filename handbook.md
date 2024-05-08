@@ -62,7 +62,9 @@ So what am I going to do with my life, who do I choose to be and what do I choos
 This can be the best, this can be the worst. This is life. Leave or stay and fucking fight for the narrow possibility to live.
 ### No time for caution
 ### Reboot
-Reinstall OS and be born right now.
+Reinstall OS.
+### I am born right now
+### FUCK
 ### Action
 #### right and wrong
 If you know it's right just fucking do it. If you know it's wrong just fucking don't do it.
@@ -100,7 +102,6 @@ Think through doing, write through doing, live through doing.
 I refuse to take mind opiums (like god, yellow self-help books, ...).
 #### glasses to think through
 optimist, pessimist, believer, nonbeliever, ...
-### FUCK
 ### goal
 #### passion / reason to live
 What I want from life?
