@@ -119,8 +119,8 @@ optimist, pessimist, believer, nonbeliever, ...
 What I want from life?
 #### reason of doing
 It's very important that why I'm doing things. for their results, for what people think of me or only for the sake of itself.
-### freedom
-freedom to choose what to do or not to do without compulsion.
+### Freedom
+Freedom to choose what to do or not to do without compulsion. Freedom to choose peace or pick a battle, to do nothing or to create sth.
 ### Life Factor
 stay, leave, alive,  live, positive, negative, brain, heart, probability, mindset glasses
 ### point of view
