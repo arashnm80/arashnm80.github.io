@@ -14,7 +14,19 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ---
 
-## Head
+## Desktop
+### C'est ma vie
+### C'est la vie
+### no time for caution
+### action
+
+---
+
+## Tout
+
+<details markdown=block>
+<summary></summary>
+
 ### C'est ma vie
 Whatever this is, this is mine.
 
@@ -55,14 +67,6 @@ Whatever I feel or not this is my life.
 Whatever I think or not this is my life.
 
 So what am I going to do with my life, who do I choose to be and what do I choose to do now?
-
----
-
-## Body
-
-<details markdown=block>
-<summary></summary>
-
 ### C'est la vie, Leave or fight to live
 This can be the best, this can be the worst. This is life. Leave or stay and fucking fight for the narrow possibility to live.
 ### No time for caution
