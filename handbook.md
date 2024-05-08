@@ -94,6 +94,8 @@ Think through doing, write through doing, live through doing.
 - optimal time for decision making: making any choice has an optimal time. less than it will not be sufficient and longer than it will be overoptimizing and waste of time. ![related image](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/2d580311-04fb-4a22-b8be-9057adc64516)
 - Almost any decision is better than no dicision at all.
 ### Real work
+### Dopamine
+Dopamine is the liberator of mind. It gives us power to think and will to act. It's the reminder "why am I fighting?"
 ### Truth, reality
 #### Accept & change
 1. I'm going to accept truth (reality, situation, limitations, weaknesses, faults, mistakes, ...)
