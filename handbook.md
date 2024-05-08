@@ -104,6 +104,7 @@ Dopamine is the liberator of mind. It gives us power to think and will to act. I
 I refuse to take mind opiums (like god, yellow self-help books, ...).
 #### glasses to think through
 optimist, pessimist, believer, nonbeliever, ...
+### Why -> Why -> Why
 ### goal
 #### passion / reason to live
 What I want from life?
