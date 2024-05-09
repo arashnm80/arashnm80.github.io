@@ -16,6 +16,10 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ## Desktop
 - C'est ma vie
+- leave / live
+- no time for caution
+- reboot
+- choose
 
 ---
 
