@@ -62,6 +62,7 @@ Whatever I do or don't this is my life.
 Whatever I say or not this is my life.
 Whatever I feel or not this is my life.
 Whatever I think or not this is my life.
+Whether I can or not this is my life.
 
 So what am I going to do with my life, who do I choose to be and what do I choose to do now?
 ### C'est la vie, Leave or fight to live
