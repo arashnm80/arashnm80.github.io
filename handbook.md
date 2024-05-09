@@ -73,7 +73,7 @@ This can be the best, this can be the worst. This is life. Leave or stay and fuc
 ### No time for caution
 Time is my most precious asset and it's running out like a cup of coffee. Whatever I'm gonna do, I have to do it right now.
 ### Reboot
-Let's clear the cache and start from scratch. Let's assume I'm born right now.
+Let's clear the cache and start from scratch. Let's assume I'm born in this body with this knowledge and in current situation right now.
 ### FUCK
 ### Overthink
 Don't reduce thinking. Think more and more and more. But think through action and real work. Always do something important and useful, and while doing it think about better alternative options, process feedbacks, ...
