@@ -15,11 +15,11 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ---
 
 ## Desktop
-### C'est ma vie
-### C'est la vie
-### no time for caution
-### reboot
-### action
+- C'est ma vie
+- C'est la vie
+- no time for caution
+- reboot
+- action
 
 ---
 
@@ -75,6 +75,9 @@ Time is my most precious asset and it's running out like a cup of coffee. Whatev
 ### Reboot
 Let's clear the cache and start from scratch. Let's assume I'm born right now.
 ### FUCK
+### Overthink
+Don't reduce thinking. Think more and more and more. But think through action and real work. Always do something important and useful, and while doing it think about better alternative options, process feedbacks, ...
+Always assess success probabilities of each option and choose which one has a higher weight in my mind. And no matter I have a few lines of data of millions of it, I've processed for 30 seconds or 30 years, choose the best option and move according to it.
 ### Action
 #### right and wrong
 If you know it's right just fucking do it. If you know it's wrong just fucking don't do it.
