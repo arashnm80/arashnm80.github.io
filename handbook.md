@@ -15,10 +15,11 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ---
 
 ## Desktop
+- reboot
 - C'est ma vie
 - C'est la vie
 - no time for caution
-- reboot
+- What is my plan?
 - action
 
 ---
