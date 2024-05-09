@@ -75,6 +75,15 @@ Time is my most precious asset and it's running out like a cup of coffee. Whatev
 ### Reboot
 Let's clear the cache and start from scratch. Let's assume I'm born in this body with this knowledge and in current situation right now.
 ### FUCK
+### Plan
+What is my plan?
+#### plan vs. no-plan
+- writing goals, milestones, metrics, deadlines
+- just intuition, improvisation, guts, subconscious
+#### Plan A-B
+- choose a simple, obvious, immature, plan A to move by and choose a complicated, more delicate, time-needed plan B.
+- at the same time move by plan A and work on plan B.
+- when plan B reached good enoug point make it the new plan A and repeat this routine by creaing a new plan B
 ### Overthink
 Don't reduce thinking. Think more and more and more. But think through action and real work. Always do something important and useful, and while doing it think about better alternative options, process feedbacks, ...
 Always assess success probabilities of each option and choose which one has a higher weight in my mind. And no matter I have a few lines of data of millions of it, I've processed for 30 seconds or 30 years, choose the best option and move according to it.
@@ -159,14 +168,6 @@ I heard about positive effects of good enough sleep on life, happiness and produ
 #### my normal life
 I should find ways to gain money or other precious assets just by living my normal life.
 - choose a hobby and turn it into a salable product.
-### Plan
-#### plan vs. no-plan
-- writing goals, milestones, metrics, deadlines
-- just intuition, improvisation, guts, subconscious
-#### Plan A-B
-- choose a simple, obvious, immature, plan A to move by and choose a complicated, more delicate, time-needed plan B.
-- at the same time move by plan A and work on plan B.
-- when plan B reached good enoug point make it the new plan A and repeat this routine by creaing a new plan B
 ### conscious vs. subconscious
 - teach goals and plans with my conscious to my subconscious and let the sub handle the road for me.
 - multicore brain: do a thing with one core and delegate another thing to another core of your brain to do it in the background like finding a solution to a problem.
