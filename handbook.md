@@ -244,7 +244,10 @@ If I have to do some tasks that I hate, multitask can be the savior for not losi
 - Don't check followers, views, statistics more than once per month
 - Don't check and reread achievements, people endorsements, acknowledgements, etc...
 ### Flow
-#### leave the past, move on, Forget previous achievements
+#### spectacular now
+- leave the past, move on, Forget previous achievements
+- > "I always want it to be a project that, if successful, will make the rest of my career look like a footnote." - Sam Altman
+- Leave yesterday and tomorrow, what am I doing now?
 #### Solve current problems first
 #### real time process
 ### Le cheval d'Edris
