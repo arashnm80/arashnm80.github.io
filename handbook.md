@@ -20,6 +20,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 - no time for caution
 - reboot
 - choose
+- action
 
 ---
 
