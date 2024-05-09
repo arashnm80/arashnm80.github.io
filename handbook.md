@@ -73,6 +73,7 @@ So what am I going to do with my life, who do I choose to be and what do I choos
 Don't answer it with words, do it with real work and action.
 ### C'est la vie, Leave or fight to live
 This can be the best, this can be the worst. This is life. Leave or stay and fucking fight for the narrow possibility to live.
+(Just staying alive in the current situation is the third choice which is out of my options)
 ### No time for caution
 Time is my most precious asset and it's running out like a cup of coffee. Whatever I'm gonna do, I have to do it right now.
 ### Reboot
