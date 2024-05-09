@@ -69,6 +69,7 @@ Whatever I think or not this is my life.
 Whether I can or not this is my life.
 
 So what am I going to do with my life, who do I choose to be and what do I choose to do now?
+Don't answer it with words, do it with real work and action.
 ### C'est la vie, Leave or fight to live
 This can be the best, this can be the worst. This is life. Leave or stay and fucking fight for the narrow possibility to live.
 ### No time for caution
