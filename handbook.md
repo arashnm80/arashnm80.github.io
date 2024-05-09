@@ -20,6 +20,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 - C'est la vie
 - no time for caution
 - What is my plan?
+- Choose
 - action
 
 ---
