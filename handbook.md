@@ -134,7 +134,9 @@ It's very important that why I'm doing things. for their results, for what peopl
 ### Freedom
 Freedom to choose what to do or not to do without compulsion. Freedom to choose peace or pick a battle, to do nothing or to create sth.
 ### Life Factor
-stay, leave, alive,  live, positive, negative, brain, heart, probability, mindset glasses
+- $LifeFactor = \int_{born}^{death}\left [ Pleasure(t) - Pain(t) \right ]dt$ <br>
+- Am I willing to endure 3 times more pain to achieve 2 times more joy? Am I willing to half my joy to one third my pain?
+- stay, leave, alive,  live, positive, negative, brain, heart, probability, mindset glasses
 ### point of view
 - first person view
 - see myself through my eyes not others.
