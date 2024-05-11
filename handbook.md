@@ -128,6 +128,7 @@ Think through doing, write through doing, live through doing.
 - There are millions of available options every second and to choose one of them means to lose all the others.
 ##### Choose
 - Choose fast and through action
+- 99 to 1, 51 to 49, or 50-50 I gotta choose and I hate to do it fast.
 - Nothing is sth
 - being limited to 1 option
 - 127h
