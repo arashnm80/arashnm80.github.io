@@ -129,6 +129,7 @@ Think through doing, write through doing, live through doing.
 ##### Choose
 - Choose fast and through action
 - 99 to 1, 51 to 49, or 50-50 I gotta choose and I hate to do it fast.
+- Every choice is a short-term or long-term gamble. We can try based on our best guess but outcome is never fully certain.
 - Nothing is sth
 - being limited to 1 option
 - 127h
