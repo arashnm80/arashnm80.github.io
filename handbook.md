@@ -87,6 +87,8 @@ This can be the best, this can be the worst. This is life. Leave or stay and fuc
 #### Short term golden windows
 - > Look, if you had one shot, or one opportunity. To seize everything you ever wanted in one moment. Would you capture it or just let it slip? - eminem
 - death of priest in count de monte cristo
+- Whiplash
+![whiplash window](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/17aa6c75-9678-4faa-a9c8-14414002bc01)
 #### 時の億万長者
 https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-changed-my-life
 #### segmentation
