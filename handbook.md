@@ -105,9 +105,6 @@ What is my plan?
 - choose a simple, obvious, immature, plan A to move by and choose a complicated, more delicate, time-needed plan B.
 - at the same time move by plan A and work on plan B.
 - when plan B reached good enoug point make it the new plan A and repeat this routine by creaing a new plan B
-### Overthink
-Don't reduce thinking. Think more and more and more. But think through action and real work. Always do something important and useful, and while doing it think about better alternative options, process feedbacks, ...
-Always assess success probabilities of each option and choose which one has a higher weight in my mind. And no matter I have a few lines of data of millions of it, I've processed for 30 seconds or 30 years, choose the best option and move according to it.
 ### Action
 #### right and wrong
 If you know it's right just fucking do it. If you know it's wrong just fucking don't do it.
@@ -138,6 +135,9 @@ Think through doing, write through doing, live through doing.
 - Buridan's ass
 - optimal time for decision making: making any choice has an optimal time. less than it will not be sufficient and longer than it will be overoptimizing and waste of time. ![related image](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/2d580311-04fb-4a22-b8be-9057adc64516)
 - Almost any decision is better than no dicision at all.
+##### Overthink
+Don't reduce thinking. Think more and more and more. But think through action and real work. Always do something important and useful, and while doing it think about better alternative options, process feedbacks, ...
+Always assess success probabilities of each option and choose which one has a higher weight in my mind. And no matter I have a few lines of data of millions of it, I've processed for 30 seconds or 30 years, choose the best option and move according to it.
 ### Real work
 ### Dopamine
 Dopamine is the liberator of mind. It gives us power to think and will to act. It's the reminder "why am I fighting?"
