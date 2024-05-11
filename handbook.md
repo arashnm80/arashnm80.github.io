@@ -16,11 +16,12 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 
 ## Desktop
 - C'est ma vie.
+ - mess
  - C'est la vie, leave or fight to live.
+ - life factor
  - No time for cuation.
  - reboot
  - choose through action
- - mess
 
 ---
 
