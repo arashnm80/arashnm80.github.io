@@ -158,8 +158,12 @@ It's very important that why I'm doing things. for their results, for what peopl
 Freedom to choose what to do or not to do without compulsion. Freedom to choose peace or pick a battle, to do nothing or to create sth.
 ### Life Factor
 - $LifeFactor = \int_{born}^{death}\left [ Pleasure(t) - Pain(t) \right ]dt$ <br>
+- If I could choose, whould I prefer to choose to be born again in this life and body or not? what would the answer in each year of my life?
 - Am I willing to endure 3 times more pain to achieve 2 times more joy? Am I willing to half my joy to one third my pain?
 - stay, leave, alive,  live, positive, negative, brain, heart, probability, mindset glasses
+### time travel
+- If I could time travel to past what would I do differently in the past?
+- If I could time travel from my last moments on dying bed to current moment, what would I do?
 ### point of view
 - first person view
 - see myself through my eyes not others.
