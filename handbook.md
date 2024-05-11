@@ -22,6 +22,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
   - No time for cuation.
   - reboot
   - choose through action
+  - stystem 1-2 / heart-brain
 
 ---
 
