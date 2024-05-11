@@ -162,6 +162,7 @@ Freedom to choose what to do or not to do without compulsion. Freedom to choose 
 - If I could choose, whould I prefer to choose to be born again in this life and body or not? what would the answer in each year of my life?
 - Am I willing to endure 3 times more pain to achieve 2 times more joy? Am I willing to half my joy to one third my pain?
 - stay, leave, alive,  live, positive, negative, brain, heart, probability, mindset glasses
+- count of monte cristo: I'm a programmer/mathematician, not a saint.
 ### time travel
 - If I could time travel to past what would I do differently in the past?
 - If I could time travel from my last moments on dying bed to current moment, what would I do?
