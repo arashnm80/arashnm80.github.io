@@ -15,7 +15,12 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ---
 
 ## Desktop
-C'est la vie, C'est ma vie. Leave or fight to live.
+- C'est ma vie.
+ - C'est la vie, leave or fight to live.
+ - No time for cuation.
+ - reboot
+ - choose through action
+ - mess
 
 ---
 
@@ -69,8 +74,27 @@ Don't answer it with words, do it with real work and action.
 ### C'est la vie, Leave or fight to live
 This can be the best, this can be the worst. This is life. Leave or stay and fucking fight for the narrow possibility to live.
 (Just staying alive in the current situation is the third choice which is out of my options)
-### No time for caution
-Time is my most precious asset and it's running out like a cup of coffee. Whatever I'm gonna do, I have to do it right now.
+### 時間
+#### No time for caution
+- Time is my most precious asset and it's running out like a cup of coffee. Whatever I'm gonna do, I have to do it right now.
+- It's now or never
+- It's always late to start today, but tomorrow is much later.
+#### Your time is limited, don’t waste it living someone else’s life.
+#### This life, This year, this day, this second.
+![this life, this year, this day, this second](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/e7818334-a530-4c17-9f79-5f76ac0a3526)
+#### Short term golden windows
+- > Look, if you had one shot, or one opportunity. To seize everything you ever wanted in one moment. Would you capture it or just let it slip? - eminem
+- death of priest in count de monte cristo
+#### 時の億万長者
+https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-changed-my-life
+#### segmentation
+- Set interval timers for works and don't spend long continuous time on a single thing.
+#### Start
+- Stop reading swimming books, just fucking jump in the water.
+- Just fucking do it
+- Starting a task is always the hardest part of it
+#### Tick tock motherfucker
+![tick tock motherfucker](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/f801c253-2897-469b-b465-f9512ce9e8c4)
 ### Reboot
 Let's clear the cache and start from scratch. Let's assume I'm born in this body with this knowledge and in current situation right now.
 ### FUCK
@@ -151,10 +175,7 @@ If I'm gonna be a perfectionist and maximize things I should do it in all fields
 - Maximize the resultant of peace and achievement
 ### Delegation
 #### Nuclear chain reaction
-### Start
-- Stop reading swimming books, just fucking jump in the water.
-- Just fucking do it
-- Starting a task is always the hardest part of it
+### CBT
 #### Comfort zone / safe zone
 - Be able to leave a local optimum to reach higher ones.
 ![local optimum](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/5f45238c-6b6e-46ca-990b-cf627ff81b96)
@@ -327,19 +348,6 @@ Either I do x and y happens or I do A and B happens.
 #### Edge
 - if you’re not failing you’re not operating at the edge. if you’re not operating at the edge, you’re not learning as much as you can.
 - >  “I don't count my sit-ups; I only start counting when it starts hurting because they’re the only ones that count.” ― Muhammad Ali
-### 時間
-#### Your time is limited, don’t waste it living someone else’s life.
-#### This life, This year, this day, this second.
-![this life, this year, this day, this second](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/e7818334-a530-4c17-9f79-5f76ac0a3526)
-#### Short term golden windows
-- > Look, if you had one shot, or one opportunity. To seize everything you ever wanted in one moment. Would you capture it or just let it slip? - eminem
-- death of priest in count de monte cristo
-#### 時の億万長者
-https://www.sahilbloom.com/newsletter/the-time-billionaire-a-concept-that-changed-my-life
-#### segmentation
-- Set interval timers for works and don't spend long continuous time on a single thing.
-#### Tick tock motherfucker
-![tick tock motherfucker](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/f801c253-2897-469b-b465-f9512ce9e8c4)
 ### Experience
 #### Patterns
 - pay attention to repetitive patterns.
