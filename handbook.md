@@ -120,6 +120,8 @@ Think through doing, write through doing, live through doing.
 ###  Newton's laws
 #### 1. Resistance
 - تغییر همواره با حمایت حداقلی و مخالفت حداکثری رو به رو میشود.
+#### 2. F = ma
+The bigger I become and the bigger my movement acceleration becomes, the more force I can exert.
 #### 3. Exchange
 - > Newton’s third law, the only way humans have ever figured out of getting somewhere is to leave something behind. – Interstellar
 - There are millions of available options every second and to choose one of them means to lose all the others.
