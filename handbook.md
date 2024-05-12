@@ -320,6 +320,7 @@ e.g. increase knowledge and apply it in real life action in 2 separate threads. 
 - Whatever you're doing in your daily life split them evenly between both haves of your body. half of times write your notes, grab mouse, paint, dribble the ball in sports, etc. with your right hand and foot and half of times with left ones. At first it looks impossible but after passing enough time you suddenly realize that you are becoming Leonardo Da Vinci.
 - Constantly switch tasks between left & right side of your body.
 #### Art of patience
+- If sth is not urgent and I know that it will come to me later, don't spend time and energy to seek it right now myself.
 #### Art of metaphorical and realistic thinking
 Think about everything exactly as it is, Think about everything with metaphors.
 ### Compare yourself with the best
