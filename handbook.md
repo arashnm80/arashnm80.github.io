@@ -124,17 +124,19 @@ Think through doing, write through doing, live through doing.
 - > Newton’s third law, the only way humans have ever figured out of getting somewhere is to leave something behind. – Interstellar
 - There are millions of available options every second and to choose one of them means to lose all the others.
 ##### Choose
-- Choose fast and through action
-- 99 to 1, 51 to 49, or 50-50 I gotta choose and I hate to do it fast.
 - Every choice is a short-term or long-term gamble. We can try based on our best guess but outcome is never fully certain.
 - Nothing is sth
 - being limited to 1 option
 - 127h
 - Infinite right & wrong paths
-- gun test decision making
 - Buridan's ass
-- optimal time for decision making: making any choice has an optimal time. less than it will not be sufficient and longer than it will be overoptimizing and waste of time. ![related image](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/2d580311-04fb-4a22-b8be-9057adc64516)
 - Almost any decision is better than no dicision at all.
+###### Time
+- gun test decision making
+- optimal time for decision making: making any choice has an optimal time. less than it will not be sufficient and longer than it will be overoptimizing and waste of time. ![related image](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/2d580311-04fb-4a22-b8be-9057adc64516)
+- Choose fast and through action
+- 99 to 1, 51 to 49, or 50-50 I gotta choose and I hate to do it fast.
+- metaphor: I'm on an islands and there are 2 ships that are going to sail soon to 2 different directions. with a little thinking I can choose the better destination for myself but with too much thinking I'll lose both ships.
 ##### Overthink
 Don't reduce thinking. Think more and more and more. But think through action and real work. Always do something important and useful, and while doing it think about better alternative options, process feedbacks, ...
 Always assess success probabilities of each option and choose which one has a higher weight in my mind. And no matter I have a few lines of data of millions of it, I've processed for 30 seconds or 30 years, choose the best option and move according to it.
@@ -318,6 +320,8 @@ e.g. increase knowledge and apply it in real life action in 2 separate threads. 
 - Whatever you're doing in your daily life split them evenly between both haves of your body. half of times write your notes, grab mouse, paint, dribble the ball in sports, etc. with your right hand and foot and half of times with left ones. At first it looks impossible but after passing enough time you suddenly realize that you are becoming Leonardo Da Vinci.
 - Constantly switch tasks between left & right side of your body.
 #### Art of patience
+#### Art of metaphorical and realistic thinking
+Think about everything exactly as it is, Think about everything with metaphors.
 ### Compare yourself with the best
 - Who practices more programming skills each year, you or Linus Torvalds?
 - Who has a healthier diet, you or CR7?
