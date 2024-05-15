@@ -478,5 +478,6 @@ a person who plays more than one musical instrument.
 - If a stupid person is achieving sth great, you can achieve it too.
 - “You're crazy until you're successful, then you are a genius.” -MrBeast
 - "I always want it to be a project that, if successful, will make the rest of my career look like a footnote." - Sam Altman
+- Every good painter paints what he is. -Jackson Pollock 
 
 </details>
