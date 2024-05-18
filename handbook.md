@@ -265,6 +265,8 @@ If my brain is able to handle multiple things at the same time I should multitas
 If I have to do some tasks that I hate, multitask can be the savior for not losing those seconds and finding a way to enjoy and live. like listening to music with those tasks. Or doing them with people I like.
 ### magnet
 - نورخواهی مستعد نور شو.
+### It's very simple
+Either I do x and y happens or I do A and B happens.
 ### messy mind
 ![messy mind](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/e7be6d1d-fba2-40f3-a465-59a2ecfef5b8)
 ### Obsession
@@ -339,8 +341,6 @@ Think about everything exactly as it is, Think about everything with metaphors.
 - See many different possibilities created by different choices every moment
 - Try to predect every path and its consequences
 - Choices of every person can have great impact on another guy
-### It's a simple story
-Either I do x and y happens or I do A and B happens.
 ### Don't be sorry, be better
 ### Directed Web Graph
 ### unlock new skills and abilities
