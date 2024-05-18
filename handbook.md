@@ -96,7 +96,7 @@ Let's clear the cache and start from scratch. Let's assume I'm born in this body
 ### FUCK
 ### Jackson Pollock
 - World/Life is a Jackson Pollock's painting.
-- uncertainty, mess, shit, swamp, nightmare, pain, hell, happiness
+- uncertainty, mess, shit, swamp, nightmare, pain, hell, infinite possibilities, happiness
 - ![Jackson-Pollock-number-5](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/9750353d-c8ae-4be9-97c8-5040605f895e)
 ### Plan
 What is my plan?
