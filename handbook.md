@@ -360,6 +360,7 @@ Think about everything exactly as it is, Think about everything with metaphors.
 #### Edge
 - if you’re not failing you’re not operating at the edge. if you’re not operating at the edge, you’re not learning as much as you can.
 - >  “I don't count my sit-ups; I only start counting when it starts hurting because they’re the only ones that count.” ― Muhammad Ali
+- Testing the limits of the human spirit - Walter Mitty
 ### Experience
 #### Patterns
 - pay attention to repetitive patterns.
