@@ -15,9 +15,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 ---
 
 ## Desktop
-- C'est ma vie.
-- C'est la vie, leave or fight to live.
-- No time for cuation.
+
 
 ---
 
@@ -407,6 +405,7 @@ What else? knowledge I don't know, Situations I haven't experienced, Ideas I hav
 #### Randomness, Chance, Uncertaincy, Probability
 - I should work with probabilites not certainties. I can never be fully certain. but I can constantly measure 2 choices with each other and think which one has higher higher lose/win probability? It can be a comparison between 10-90, 50-50, 10,11, 90-91.
 - I don't know, I'm not sure. But I have to act based on my best guess.
+- person A: this wasn't going to happen, it was impossible, I thought about everything, ... person B: but you see that it happened.
 ##### What ifs
 #### Brain vs. Heart
 #### Mind Opiums
