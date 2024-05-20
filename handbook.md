@@ -66,7 +66,7 @@ Whether I can or not this is my life.
 
 So what am I going to do with my life, who do I choose to be and what do I choose to do now?
 Don't answer it with words, do it with real work and action.
-### C'est la vie, Leave or fight to live
+### C'est la vie, Leave or [fight to] live
 This can be the best, this can be the worst. This is life. Just being alive is not an option for me. Leave or stay and fucking fight through the jungle of misery, across the chasm of death to the plates of woe, for the narrow possibility to live.
 ### 時間
 #### No time for caution
