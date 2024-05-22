@@ -66,10 +66,12 @@ Whether I can or not this is my life.
 
 So what am I going to do with my life, who do I choose to be and what do I choose to do now?
 Don't answer it with words, do it with real work and action.
-### C'est la vie, Leave or [fight to] live
-This can be the best, this can be the worst. This is life. Just being alive is not an option for me. Leave or stay and fucking fight through the jungle of misery, across the chasm of death to the plates of woe, for the narrow possibility to live.
+### C'est la vie, Leave or live
+- I know that just staying alive and surviving is not an option for me, I want to leave or live.
+- With all the complexities it's very simple: This is life. it can be the worst, it can be the best. refuse it and leave or accept it and try my best to live.
+- living is a very narrow possibility. It requires two qualities at the same time. 1. fighting with all my capacity against hardship and problems. 2. having open eyes to see and seize every opportunity to live. whether it's big or small, perfect or deficient, in the path or destination. ability to enjoy the smell of roses in the middle of hell.
 ### 時間
-#### No time for caution
+### No time for caution
 - Time is my most precious asset and it's running out like a cup of coffee. Whatever I'm gonna do, I have to do it right now.
 - It's now or never
 - It's always late to start today, but tomorrow is much later.
@@ -144,6 +146,10 @@ The bigger I become and the bigger my movement acceleration becomes, the more fo
 ##### Overthink
 Don't reduce thinking. Think more and more and more. But think through action and real work. Always do something important and useful, and while doing it think about better alternative options, process feedbacks, ...
 Always assess success probabilities of each option and choose which one has a higher weight in my mind. And no matter I have a few lines of data of millions of it, I've processed for 30 seconds or 30 years, choose the best option and move according to it.
+### 2 parallel progress
+- become more powerful to endure harder situations + create easier and more convenient situations for my future
+- become richer + learn to buy with less price
+- learn how to overcome bigger temptations + don't put myself in temptive situationss
 ### Real work
 ### Dopamine
 Dopamine is the liberator of mind. It gives us power to think and will to act. It's the reminder "why am I fighting?"
