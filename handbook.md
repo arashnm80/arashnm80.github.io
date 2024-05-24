@@ -25,47 +25,7 @@ Also available in [here](https://github.com/arashnm80/arashnm80.github.io/blob/m
 <summary></summary>
 
 ### C'est ma vie
-Whatever this is, this is mine.
-
-This is my life.
-This is my time.
-This is my responsibility.
-This is my brain.
-This is my heart.
-This is my mind.
-This is my body.
-This is my health.
-This is my will.
-This is my chance.
-This is my choice.
-This is my action.
-This is my goal.
-This is my path.
-This is my joy.
-This is my pain.
-This is my ability.
-This is my inability.
-This is my freedom.
-This is my prison.
-This is my win.
-This is my lose.
-This is my knowledge.
-This is my ignorance.
-This is my certainty.
-This is my uncertainty.
-This is my desire.
-This is my disinterest.
-This is my everything.
-This is my nothing.
-
-Whatever I do or don't this is my life.
-Whatever I say or not this is my life.
-Whatever I feel or not this is my life.
-Whatever I think or not this is my life.
-Whether I can or not this is my life.
-
-So what am I going to do with my life, who do I choose to be and what do I choose to do now?
-Don't answer it with words, do it with real work and action.
+Best or worst, whatever it is, it's my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?
 ### C'est la vie, Leave or live
 - I know that just staying alive and surviving is not an option for me, I want to leave or live.
 - With all the complexities it's very simple: This is life. it can be the worst, it can be the best. refuse it and leave or accept it and try my best to live.
