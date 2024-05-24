@@ -54,8 +54,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-
-
 # my modifications:
 permalink: pretty # to remove .html from the end
 show_excerpts: true
@@ -67,13 +65,3 @@ header_pages:
   - posts.md
   - donate.md
   - handbook.md
-
-# include:
-#   - test
-
-defaults:
-  - scope:
-      path: "test"
-      type: "pages"
-    values:
-      layout: "page"
