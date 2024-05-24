@@ -5,4 +5,4 @@ title: Handbook
 
 A. [C'est ma vie](./c'est-ma-vie/)
 
-B. ???
+[B. ???](./plan-a-b)
