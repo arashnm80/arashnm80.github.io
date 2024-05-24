@@ -1,4 +1,4 @@
 # hi
 
 ## bye
-[link](./b.md)
+[link](../b)
