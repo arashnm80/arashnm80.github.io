@@ -35,10 +35,10 @@
 <loc>http://localhost:4000/handbook/c&apos;est-ma-vie/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/donate/</loc>
+<loc>http://localhost:4000/handbook/carpe-diem/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/handbook/dune/</loc>
+<loc>http://localhost:4000/donate/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/handbook/</loc>
@@ -53,6 +53,9 @@
 <loc>http://localhost:4000/handbook/live/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/handbook/narrow-way-through/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/handbook/newton&apos;s-third-law/</loc>
 </url>
 <url>
@@ -63,6 +66,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/handbook/real-work/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/handbook/this-life-this-day-this-day-this-second/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/handbook/uncertainty/</loc>
