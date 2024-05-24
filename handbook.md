@@ -3,5 +3,6 @@ layout: page
 title: Handbook
 ---
 
-Evolving open source thoughts. \
-Starting from here: [C'est ma vie](./C'est-ma-vie/)
+A. [C'est ma vie](./c'est-ma-vie/)
+
+B. ???
