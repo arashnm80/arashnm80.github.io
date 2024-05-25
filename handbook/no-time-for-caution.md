@@ -19,6 +19,9 @@ document.addEventListener("DOMContentLoaded", function() {
         if (text.length > 0) {
             textElement.textContent = text;
             text = text.slice(1);
+            if (text[0] == " ") {
+                text = text.slice(1);
+            }
         } else {
             clearInterval(intervalId); // Stop the interval when text is empty
         }
