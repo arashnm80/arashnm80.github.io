@@ -7,4 +7,6 @@ title: Jackson Pollock
 
 Life is a Jackson Pollock's painting. It's a mess. An ocean of randomness, information, chances, choices, opportunities, threats, costs, benefits, possibilites, probabilities, thoughts, connections, experiences, paradoxes, complexities, ... all woven together.
 
-This brings a huge mass of [uncertainty](../uncertainty) that can paralize the [perfectionist](../perfection) mind but [plan A & B](../plan-a-b) system is a countermeasure.
+This brings a huge mass of [uncertainty](../uncertainty) that can paralize the [perfectionist](../perfection) mind but there are some countermeasures:
+- [Plan A & B](../plan-a-b)
+- [Satisfice](../satisfice)
