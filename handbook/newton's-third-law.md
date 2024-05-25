@@ -13,3 +13,5 @@ World is an [ocean](../jackson-pollock) of options and possibilites and to choos
 ### [Buridan's ass](../buridan's-ass)
 
 ### [Paradox of choice](../paradox-of-choice)
+
+### [Satisfice](../satisfice)
