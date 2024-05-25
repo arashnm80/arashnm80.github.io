@@ -3,10 +3,10 @@ layout: page
 title: Newton's third law
 ---
 
-### Exchange
-There is an [ocean](../jackson-pollock) of options and possibilites and to choose one of them means to lose the others. One who can't stand to lose anything will gain nothing.
-
 > Newton’s third law – the only way humans have ever figured out of getting somewhere is to leave something behind.
+
+### Exchange
+There is an [ocean](../jackson-pollock) of options and possibilites and to choose one of them means to lose the others. Life is to constantly exchange assests with each other and one who can't stand to lose anything will gain nothing.
 
 ### Je doir choisir
 - I have to choose and not choosing is also a choice itself
