@@ -12,7 +12,7 @@ title: No time for caution
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     // Initial text
-    let text = "Time is my most precious asset and it's running out like a cup of coffee. So whatever I'm gonna do, I'm gonna do it right now.";
+    let text = "Time is my most precious asset and it's running out like a cup of coffee. Whatever I'm gonna do I have to do it right now, cause how much time is left for me after all!?";
 
     // Get the placeholder element
     const textElement = document.getElementById("disappearing-text");
