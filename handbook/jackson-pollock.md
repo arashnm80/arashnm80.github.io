@@ -9,7 +9,7 @@ Life is a Jackson Pollock's painting. It's a mess. An ocean of randomness, infor
 
 When I understand this I see the [bigger picture](../think-out-of-the-box) and don't get obsessed with tiny details.
 
-This brings a huge mass of [uncertainty](../uncertainty) that can paralize the [perfectionist](../perfection) mind but there are some countermeasures:
+This complexity brings a huge mass of [uncertainty](../uncertainty) that can paralize the [perfectionist](../perfection) mind, although these countermeasures come to my mind:
 - [Plan A & B](../plan-a-b)
 - [Satisfice](../satisfice)
 - [Good enough](../good-enough)
