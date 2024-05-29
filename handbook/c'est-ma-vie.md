@@ -3,7 +3,7 @@ layout: page
 title: C'est ma vie
 ---
 
-[This is life.](../c'est-la-vie) [It can be the best, it can be the worst.](../jackson-pollock) But whatever it is, **it 's my life** and I have 3 options:
+[This is life.](../c'est-la-vie) [It can be the best, it can be the worst.](../jackson-pollock) But whatever it is, **it  is my life** and I have 3 options:
 - just stay alive
 - leave
 - fight for the narrow possibility to live
