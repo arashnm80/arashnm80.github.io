@@ -3,4 +3,4 @@ layout: page
 title: C'est la vie
 ---
 
-[Leave](../leave) or [Live](../live).
+[Leave](../leave) or [Fight](../fight) to [Live](../live).
