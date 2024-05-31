@@ -14,7 +14,9 @@
 - run: `bundle exec jekyll serve`
 
 ## add, commit, push
-`git add .; git commit -am "edit"; git push;`
+```
+git add .; git commit -am "edit"; git push;
+```
 
 ## good sources:
 - jekyll table of contents: https://www.seanbuscay.com/blog/jekyll-toc-markdown/
