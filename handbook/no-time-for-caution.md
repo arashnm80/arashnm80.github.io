@@ -6,12 +6,14 @@ title: No time for caution
 <div id="disappearing-text"></div>
 <br>
 
+<!-- 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5aaXqH8rgKZxg61HjECldi?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+-->
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     // Initial text
-    let text = "Time is my most precious asset and it's running out like a cup of coffee. Whatever I'm gonna do I have to do it right now, cause how much time is left for me after all!?";
+    let text = "Time is the most precious and ultimate currency of my life.";
 
     // Get the placeholder element
     const textElement = document.getElementById("disappearing-text");
