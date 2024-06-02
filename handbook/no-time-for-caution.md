@@ -13,7 +13,7 @@ title: No time for caution
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     // Initial text
-    let text = "Time is the <a href="../fight">now</a> most precious asset and ultimate currency of my life.";
+    let text = "Time is the most precious asset and ultimate currency of my life.";
 
     // Get the placeholder element
     const textElement = document.getElementById("disappearing-text");
