@@ -22,6 +22,12 @@ bundle install; bundle exec jekyll serve;
 git add .; git commit -am "edit"; git push;
 ```
 
+## combination
+
+```
+git add .; git commit -am "edit"; git push; bundle install; bundle exec jekyll serve;
+```
+
 ## good sources:
 - jekyll table of contents: https://www.seanbuscay.com/blog/jekyll-toc-markdown/
 - detilas tag (I didn't need to use _includes/details.html file): https://spinningnumbers.org/a/details.html
