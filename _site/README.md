@@ -34,3 +34,6 @@ git add .; git commit -am "edit"; git push; bundle install; bundle exec jekyll s
 
 ## to read later:
 - https://jekyll-themes.com/category/bootstrap
+
+## to delegate later:
+- make all pages lose characters like no-time-for-caution to emphasize speed of losing time.
