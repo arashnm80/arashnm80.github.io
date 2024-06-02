@@ -35,7 +35,8 @@ document.addEventListener("DOMContentLoaded", function() {
     // Function to update text content
     function updateText() {
         if (text.length > 0) {
-            textElement.textContent = text;
+            // textElement.textContent = text;
+            textElement.innerHtml = text;
             if (text[0] != "<"){
                 text = text.slice(1);
                 if (text[0] == " ") {
