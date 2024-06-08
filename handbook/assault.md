@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Fight
+title: Assault
 ---
 
-### Assault
 how many fights do you have in yourself?
 
 ![eren yeager](../../assets/have-more-fight.png)
