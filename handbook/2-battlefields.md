@@ -19,6 +19,7 @@ At the same time:
 
 1. Try to use all my current knowledge in real action.
 2. Increase my knowledge.
+
 ---
 1. Try to be my best.
 2. Try not to shame and punish myself when I'm not my best.
