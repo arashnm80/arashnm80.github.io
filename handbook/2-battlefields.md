@@ -27,3 +27,7 @@ At the same time:
 ---
 1. Do my best effort in obvious hard path.
 2. Do my best to discover and seize obscure, creative, shortcut paths.
+
+---
+1. Try to find joy in most painful situations.
+2. Try to minimize encounter with painful events.
