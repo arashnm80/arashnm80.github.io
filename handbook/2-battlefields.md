@@ -23,3 +23,7 @@ At the same time:
 ---
 1. Try to be my best.
 2. Try not to shame and punish myself when I'm not my best.
+
+---
+1. Do my best effort in obvious hard path.
+2. Do my best to discover and seize obscure, creative, shortcut paths.
