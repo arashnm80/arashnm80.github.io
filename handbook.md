@@ -22,8 +22,24 @@ title: Handbook
 - [Streak](./streak)
 - [Chain Reaction](./chain-reaction)
 - [2 Battlefields](./2-battlefields)
-- [System 1 & 2](./system-1-2)
+- [Experience](./experience)
 - [Near Zero Cost](./near-zero-cost)
 - [Domino Effect](./domino-effect)
 
 ### 4
+- [System 1 & 2](./system-1-2)
+- [CBT](./cbt)
+- [Hidden Progress](./hidden-progress)
+- [Multitask](./multitask)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
