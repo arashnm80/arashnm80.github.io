@@ -4,3 +4,4 @@ title: Fight
 ---
 
 ### [Assault](../assault)
+### [Bruteforce](../bruteforce)
