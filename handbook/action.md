@@ -3,7 +3,7 @@ layout: page
 title: Action
 ---
 
-Instead of writing on paper, I'm gonna write on my real life actions.
+Instead of thinking, talking or writing I'm gonna do through real life actions.
 
 ### [Real Work](../real-work)
 
