@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Newton's third law
+title: "Newton's third law: Choose & Exchange"
 ---
 
 > The only way humans have ever figured out of getting somewhere is to leave something behind.

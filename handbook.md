@@ -11,9 +11,12 @@ title: Handbook
 ### 2
 - [Sort](./sort)
 - [Newton's Third law](./newton's-third-law)
+- [Action](./action)
 - [Good Enough](./good-enough)
-- [Plan A & B](./plan-a-b)
 ### 3
-- [Jackson Pollock](./jackson-pollock)
+- [Uncertainty](./uncertainty)
 - [Fight](./fight)
-- 
+- [Plan A & B](./plan-a-b)
+- [Streak](./streak)
+- [Chain Reaction](./chain-reaction)
+- [2 Battlefields](./2-battlefields)
