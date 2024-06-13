@@ -5,6 +5,8 @@ title: Action
 
 Instead of thinking, talking or writing I'm gonna do through real life actions.
 
-### [Real Work](../real-work)
+### Real Work
 
-### [Talk is cheap, show me the code](../talk-is-cheap-show-me-the-code)
+### Porn vs. Sex
+
+### Talk is cheap, show me the code
