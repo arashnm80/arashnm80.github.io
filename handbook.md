@@ -19,8 +19,8 @@ title: Handbook
 ### 3
 - [Uncertainty](./uncertainty)
 - [Fight](./fight)
-- [Plan A & B](./plan-a-b)
 - [Streak](./streak)
+- 
 - [Chain Reaction](./chain-reaction)
 - [2 Battlefields](./2-battlefields)
 - [System 1 & 2](./system-1-2)
