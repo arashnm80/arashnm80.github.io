@@ -20,9 +20,9 @@ title: Handbook
 - [Uncertainty](./uncertainty)
 - [Fight](./fight)
 - [Streak](./streak)
+- [Experience](./experience)
 - [Chain Reaction](./chain-reaction)
 - [2 Battlefields](./2-battlefields)
-- [Experience](./experience)
 - [Near Zero Cost](./near-zero-cost)
 - [Domino Effect](./domino-effect)
 
