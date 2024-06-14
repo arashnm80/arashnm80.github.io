@@ -31,8 +31,8 @@ title: Handbook
 - [CBT](./cbt)
 - [Hidden Progress](./hidden-progress)
 - [Multitask](./multitask)
--
--
+- [Destination & Path](./destination-path)
+- [Dopamine](./dopamine)
 -
 -
 -
