@@ -23,16 +23,16 @@ title: Handbook
 - [Experience](./experience)
 - [Chain Reaction](./chain-reaction)
 - [2 Battlefields](./2-battlefields)
-- [Near Zero Cost](./near-zero-cost)
 - [Domino Effect](./domino-effect)
+- [Dopamine](./dopamine)
 
 ### 4
-- [System 1 & 2](./system-1-2)
-- [CBT](./cbt)
 - [Hidden Progress](./hidden-progress)
+- [Near Zero Cost](./near-zero-cost)
+- [System 1 & 2](./system-1-2)
 - [Multitask](./multitask)
 - [Destination & Path](./destination-path)
-- [Dopamine](./dopamine)
+- [CBT](./cbt)
 -
 -
 -
