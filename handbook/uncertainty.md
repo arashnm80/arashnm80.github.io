@@ -26,3 +26,4 @@ This complexity brings a huge mass of [uncertainty](../uncertainty) that can par
 - [Plan A & B](../plan-a-b)
 - [Satisfice](../satisfice)
 - [Good enough](../good-enough)
+

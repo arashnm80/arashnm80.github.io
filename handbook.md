@@ -33,7 +33,7 @@ title: Handbook
 - [Multitask](./multitask)
 - [Destination & Path](./destination-path)
 - [CBT](./cbt)
--
+- [Narrow way through](./narrow-way-through)
 -
 -
 -
