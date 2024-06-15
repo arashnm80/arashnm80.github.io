@@ -19,12 +19,12 @@ title: Handbook
 ### 3
 - [Uncertainty](./uncertainty)
 - [Fight](./fight)
-- [Streak](./streak)
 - [Experience](./experience)
+- [Streak](./streak)
 - [Chain Reaction](./chain-reaction)
 - [2 Battlefields](./2-battlefields)
-- [Domino Effect](./domino-effect)
 - [Dopamine](./dopamine)
+- [Domino Effect](./domino-effect)
 
 ### 4
 - [Hidden Progress](./hidden-progress)
