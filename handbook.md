@@ -22,19 +22,19 @@ title: Handbook
 - [Experience](./experience)
 - [Streak](./streak)
 - [Chain Reaction](./chain-reaction)
-- [2 Battlefields](./2-battlefields)
+- [Reboot](./reboot)
 - [Dopamine](./dopamine)
 - [Domino Effect](./domino-effect)
 
 ### 4
 - [Hidden Progress](./hidden-progress)
+- [2 Battlefields](./2-battlefields)
 - [Near Zero Cost](./near-zero-cost)
 - [System 1 & 2](./system-1-2)
 - [Multitask](./multitask)
 - [Destination & Path](./destination-path)
 - [CBT](./cbt)
 - [Narrow way through](./narrow-way-through)
--
 -
 -
 -
