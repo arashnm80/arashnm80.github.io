@@ -18,12 +18,12 @@ title: Handbook
 
 ### 3
 - [Uncertainty](./uncertainty)
+- [Reboot](./reboot)
 - [Fight](./fight)
 - [Experience](./experience)
 - [Streak](./streak)
-- [Chain Reaction](./chain-reaction)
-- [Reboot](./reboot)
 - [Dopamine](./dopamine)
+- [Chain Reaction](./chain-reaction)
 - [Domino Effect](./domino-effect)
 
 ### 4
