@@ -16,7 +16,7 @@ title: C'est ma vie
         text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;">
 
         <br><br><br><br><br><br>
-        This can be paradise, this can be hell. <a href="../c'est-la-vie">This is life.</a> But whatever this is, this is my life. So what am I going to <a href="../action">do</a> with it, who do I <a href="../newton's-third-law">choose</a> to be and what do I choose to do <a href="../no-time-for-caution">right now</a>?
+        This <a href="../uncertainty">can</a> be paradise, this can be hell. <a href="../c'est-la-vie">This is life.</a> But whatever this is, this is my life. So what am I <a href="../action">doing</a> with it, who am I <a href="../newton's-third-law">choosing</a> to be and what am I choosing to do <a href="../no-time-for-caution">right now</a>?
         <br><br><br><br><br><br>
 
         <br>
