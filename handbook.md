@@ -36,7 +36,7 @@ title: Handbook
 - [CBT](./cbt)
 - [Narrow way through](./narrow-way-through)
 - [Renewable energy](./renewable-energy)
--
+- [Teacher](./teacher)
 -
 -
 -
