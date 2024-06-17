@@ -16,7 +16,7 @@ title: C'est ma vie
         text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;">
 
         <br><br><br><br><br><br>
-        This can be paradase, this can be hell. this is life. but whatever this is, this is my life. So what am I going to do with it, who do I choose to be and what do I chosoe to do now?
+        This can be paradise, this can be hell. this is life. but whatever this is, this is my life. So what am I going to do with it, who do I choose to be and what do I chosoe to do now?
         <br><br><br><br><br><br>
 
         <br>
