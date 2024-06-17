@@ -31,5 +31,5 @@ title: Fear & Courage
 </style>
 
 <div class="iframe-container">
-    <iframe src="https://www.youtube.com/embed/fW8amMCVAJQ?si=KCb2QMmbGflxAzDf" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/fW8amMCVAJQ?si=KCb2QMmbGflxAzDf" style="border-radius:12px" frameborder="0" allowfullscreen> </iframe>
 </div>
