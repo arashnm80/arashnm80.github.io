@@ -39,8 +39,8 @@ title: Handbook
 - [Teacher](./teacher)
 - [Shame](./shame)
 - [80-20](./80-20)
-- [Fear](./fear-courage)
--
+- [Fear-Courage](./fear-courage)
+- 
 -
 -
 
