@@ -16,14 +16,12 @@ title: C'est ma vie
         text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;">
 
         <br><br><br><br><br><br>
-        This <a href="../uncertainty">can</a> be paradise, this can be hell. <a href="../c'est-la-vie">This is life.</a> But whatever this is, this is my life. So what am I <a href="../action">doing</a> with it, who am I <a href="../newton's-third-law">choosing</a> to be and what am I choosing to do <a href="../no-time-for-caution">right now</a>?
+        This <a href="../uncertainty">can</a> be paradise, this can be hell. <a href="../c'est-la-vie">This is life.</a> But whatever this is, this is my life. So what is my number 1 <a href="../sort">priority</a>, what am I <a href="../newton's-third-law">choosing</a> to <a href="../action">do</a> and who am I choosing to be <a href="../no-time-for-caution">right now</a>?
         <br><br><br><br><br><br>
 
         <br>
     </p>
 </div>
-
-The answer is not what I'm thinking, saying or writing but what I'm actually doing right now.
 
 <!-- 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0tZz5vMnsQqZnue8XyyPJo?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

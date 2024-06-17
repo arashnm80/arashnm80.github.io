@@ -14,10 +14,10 @@ title: Handbook
 - [Sort](./sort)
 - [Newton's Third law](./newton's-third-law)
 - [Action](./action)
-- [Good Enough](./good-enough)
+- [Uncertainty](./uncertainty)
 
 ### 3
-- [Uncertainty](./uncertainty)
+- [Good Enough](./good-enough)
 - [Reboot](./reboot)
 - [Fight](./fight)
 - [Experience](./experience)
