@@ -11,10 +11,10 @@ title: Handbook
 - [No time for caution](./no-time-for-caution)
 
 ### 2
+- [Uncertainty](./uncertainty)
 - [Sort](./sort)
 - [Newton's Third law](./newton's-third-law)
 - [Action](./action)
-- [Uncertainty](./uncertainty)
 
 ### 3
 - [Good Enough](./good-enough)
