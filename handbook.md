@@ -35,7 +35,7 @@ title: Handbook
 - [Destination & Path](./destination-path)
 - [CBT](./cbt)
 - [Narrow way through](./narrow-way-through)
--
+- [Renewable energy](./renewable-energy)
 -
 -
 -

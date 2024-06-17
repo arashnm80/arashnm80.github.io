@@ -1,0 +1,6 @@
+---
+layout: page
+title: Renewable Energy
+---
+
+Any change is a mean to produce energy. That change can be weather temprature, ocean wave, air wind, crypto price, ...
