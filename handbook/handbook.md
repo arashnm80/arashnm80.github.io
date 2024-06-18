@@ -13,12 +13,12 @@ permalink: /handbook/
 
 ### 2
 - [Uncertainty](./uncertainty)
+- [I](./i)
 - [Sort](./sort)
 - [Newton's Third law](./newton's-third-law)
-- [Action](./action)
 
 ### 3
-- [I](./i)
+- [Action](./action)
 - [Good Enough](./good-enough)
 - [Reboot](./reboot)
 - [Fight](./fight)
@@ -53,10 +53,10 @@ permalink: /handbook/
 - [Skill Tree](./skill-tree)
 - [Portrait Painting](./portrait-painting)
 - [Bitcoin](./bitcoin)
-- [Real Smart Work](./real-smart-work)
+- [Smart](./smart)
 - [Teacher](./teacher)
 - [Marginal Gain](./marginal-gain)
--
+- [Habits](./habits)
 -
 -
 -

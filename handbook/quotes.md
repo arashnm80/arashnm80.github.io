@@ -44,3 +44,5 @@ title: Quotes
 - و دوباره شروع دوباره
 - تو یه گلوله‌ی طلایی نداری، صدتا گلوله‌ی سربی داری. باید انقدر بزنی تا بخوره به هدف
 - Don't be sorry, be better.
+- Wealth is having assets that earn while I sleep.
+- I'm not gonna make money by renting out my time. I'm gonna do it by my mind.

@@ -8,4 +8,7 @@ Chain reactions are huge game changers. They can be Corona virus, tap-to-earn te
 
 ![chain reaction](https://i2.wp.com/www.differencebetween.com/wp-content/uploads/2018/04/Difference-Between-Controlled-and-Uncontrolled-Chain-Reaction-fig-1.png)
 
-### Turn hobbies into jobs
+### Turn hobbies into income
+
+### Wealth
+> Wealth is having assets that earn while I sleep.

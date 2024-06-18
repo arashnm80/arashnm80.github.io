@@ -77,3 +77,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
 ### Steve Jobs
 > [My](../i) time is limited, I'm not gonna waste it living someone else’s life.
+
+### Money
+> I'm not gonna make money by renting out my time. I'm gonna do it by my mind.
