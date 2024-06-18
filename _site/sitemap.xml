@@ -47,16 +47,10 @@
 <loc>http://localhost:4000/handbook/c&apos;est-ma-vie/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/handbook/carpe-diem/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/handbook/cbt/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/handbook/chain-reaction/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/handbook/chess-plank-smile/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/handbook/delegation/</loc>
@@ -104,6 +98,9 @@
 <loc>http://localhost:4000/handbook/live/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/handbook/multitask/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/handbook/narrow-way-through/</loc>
 </url>
 <url>
@@ -122,7 +119,7 @@
 <loc>http://localhost:4000/handbook/only-alive/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/handbook/paradox-of-choice/</loc>
+<loc>http://localhost:4000/handbook/people/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/handbook/perfection-obsession/</loc>
@@ -155,7 +152,7 @@
 <loc>http://localhost:4000/handbook/renewable-energy/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/handbook/satisfice/</loc>
+<loc>http://localhost:4000/handbook/seize/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/handbook/shame/</loc>
@@ -165,6 +162,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/handbook/sort/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/handbook/subconscious/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/handbook/system-1-2/</loc>
@@ -186,9 +186,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/handbook/what-else/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/handbook/whole-maximalist/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/handbook/will/</loc>
