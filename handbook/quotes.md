@@ -21,3 +21,7 @@ title: Quotes
 - World is fool of lonely people afraid to make the first move.
 - Success is my only motherf**ing option, failure's not.
 - Bruteforce your way to success.
+- Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.
+- I always want it to be a project that, if successful, will make the rest of my career look like a footnote.
+- Millions long for immortality who don't know what to do with themselves on a rainy Sunday afternoon.
+- I much prefer the sharpest criticism of a single intelligent man to the thoughtless approval of the masses.
