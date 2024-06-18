@@ -28,5 +28,11 @@ title: Quotes
 - I much prefer the sharpest criticism of a single intelligent man to the thoughtless approval of the masses.
 - Fall down seven times, stand up eight.
 - When injustice becomes law, rebellion becomes duty.
-- Are you living your life in a way to be willing to repeat it the same over and over again?
+- Do you live your life in such a way that you would be willing to repeat it again and again, forever?
 - Be man of focus, commitment and sheer fu**ing will.
+- A real loser is someone who's so afraid of not winning he doesn't even try.
+- F**k, I live once.
+- If you don't know what you want, you can't judge yourself for not achieving it.
+- If you know doing sth is a mistake just don't do it, no matter how big or small it is, no matter it takes 1 second or several years of your life.
+- Find a way or make one.
+- The best way to predict the future is to invent it.
