@@ -9,9 +9,9 @@ title: Quotes
 - Your time is limited, don't waste it living someone else's life.
 - Talk is cheap, show me the code.
 - Streak is the most important metric for success.
+- Look, if you had one shot, or one opportunity. To seize everything you ever wanted in one moment. Would you capture it or just let it slip?
 - The three most harmful addictions are heroin, carbohydrates, and a monthly salary.
 - Carpe diem. Seize the day, boys. Make your lives extraordinary.
-- Look, if you had one shot, or one opportunity. To seize everything you ever wanted in one moment. Would you capture it or just let it slip?
 - Seize the identity you want for yourself.
 - Who dares wins.
 - No one actually knows what the hell they’re doing. Everyone is just working off their current best guess.
@@ -19,9 +19,14 @@ title: Quotes
 - Newton's third law, the only way humans have ever figured out of getting somewhere is to leave something behind.
 - You must not fool yourself, and you are the easiest person to fool.
 - World is fool of lonely people afraid to make the first move.
+- I just try to live every day as if I've deliberately come back to this one day, to enjoy it, as if it was the full final day of my extraordinary, ordinary life.
 - Success is my only motherf**ing option, failure's not.
 - Bruteforce your way to success.
 - Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.
 - I always want it to be a project that, if successful, will make the rest of my career look like a footnote.
 - Millions long for immortality who don't know what to do with themselves on a rainy Sunday afternoon.
 - I much prefer the sharpest criticism of a single intelligent man to the thoughtless approval of the masses.
+- Fall down seven times, stand up eight.
+- When injustice becomes law, rebellion becomes duty.
+- Are you living your life in a way to be willing to repeat it the same over and over again?
+- Be man of focus, commitment and sheer fu**ing will.
