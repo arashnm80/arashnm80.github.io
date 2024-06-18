@@ -25,7 +25,7 @@ permalink: /handbook/
 - [Experience](./experience)
 - [Streak](./streak)
 - [Dopamine](./dopamine)
-- [Chain Reaction](./chain-reaction)
+- [Trump Cards & Game Changers](./trump-cards-game-changers)
 
 ### 4
 - [Hidden Progress](./hidden-progress)
