@@ -8,7 +8,10 @@ title: Uncertainty
 
 Everything in this world has a probability. If I wait to become certain about everything, I can decide about nothing. [The key](../plan-a-b) is to be constantly moving based on my current best guess, while constantly reevaluating possibilities and probabilities on the move.
 
-### [Randomness](../randomness)
+### Randomness
+> Does true random exist or is it just lack of information?
+
+Although randomness exists, I can hack my [luck](../luck) and increase or decrease probabilities by my [actions](../action).
 
 ### Plan A & B
 - Choose a very simple, obvious, immature plan A.

@@ -71,3 +71,9 @@ document.addEventListener("DOMContentLoaded", function() {
     const intervalId = setInterval(updateText, 1000);
 });
 </script> -->
+
+### This life, this year, this year, this second
+![this-life-this-day-this-day-this-second](../../assets/this-life-this-day-this-day-this-second.jpg)
+
+### Steve Jobs
+> My time is limited, I'm not gonna waste it living someone else’s life.

@@ -45,3 +45,5 @@ title: Handbook
 - [Seize](./seize)
 
 ### 5
+- [Will](./will)
+- [Bitcoin](./bitcoin)
