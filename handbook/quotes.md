@@ -5,6 +5,7 @@ title: Quotes
 
 - This can be paradise, this can be hell. This is life. But whatever this is, this is my life. So what am I going to do with it, who do I choose to be and what do I chosoe to do now?
 - C'est la vie. Leave or fight for the narrow possibility to live.
+- We accept the life we think we deserve.
 - This life, This year, this day, this second.
 - My time is limited, I'm not gonna waste it living someone else's life.
 - Talk is cheap, show me the code.
@@ -22,7 +23,6 @@ title: Quotes
 - World is fool of lonely people afraid to make the first move.
 - I just try to live every day as if I've deliberately come back to this one day, to enjoy it, as if it was the full final day of my extraordinary, ordinary life.
 - Success is my only motherf**ing option, failure's not.
-- We accept the love we think we deserve.
 - Bruteforce my way to success.
 - The only way is to move forward.
 - How many fights do you have in yourself?
