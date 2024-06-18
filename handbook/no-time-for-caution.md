@@ -76,4 +76,4 @@ document.addEventListener("DOMContentLoaded", function() {
 ![this-life-this-day-this-day-this-second](../../assets/this-life-this-day-this-day-this-second.jpg)
 
 ### Steve Jobs
-> My time is limited, I'm not gonna waste it living someone else’s life.
+> [My](../i) time is limited, I'm not gonna waste it living someone else’s life.

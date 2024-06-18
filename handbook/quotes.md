@@ -6,27 +6,30 @@ title: Quotes
 - This can be paradise, this can be hell. This is life. But whatever this is, this is my life. So what am I going to do with it, who do I choose to be and what do I chosoe to do now?
 - C'est la vie. Leave or fight for the narrow possibility to live.
 - This life, This year, this day, this second.
-- Your time is limited, don't waste it living someone else's life.
+- My time is limited, I'm not gonna waste it living someone else's life.
 - Talk is cheap, show me the code.
 - Streak is the most important metric for success.
-- Look, if you had one shot, or one opportunity. To seize everything you ever wanted in one moment. Would you capture it or just let it slip?
+- Look, if I had one shot, or one opportunity. To seize everything I ever wanted in one moment. Would I capture it or just let it slip?
+- Think out of the box.
 - The three most harmful addictions are heroin, carbohydrates, and a monthly salary.
-- Carpe diem. Seize the day, boys. Make your lives extraordinary.
-- Seize the identity you want for yourself.
-- Who dares wins.
+- Carpe diem. I'm gonna seize the day and make my life extraordinary.
+- I'm gonna seize the identity I want for myself.
+- Qui ose gagne.
 - No one actually knows what the hell they’re doing. Everyone is just working off their current best guess.
-- Do it if it’s the biggest thing you can do with your time and resources.
+- I'm gonna do it if it’s the biggest thing I can do with my time and resources.
 - Newton's third law, the only way humans have ever figured out of getting somewhere is to leave something behind.
-- You must not fool yourself, and you are the easiest person to fool.
+- I'm not going to fool myself, and I'm the easiest person to fool.
 - World is fool of lonely people afraid to make the first move.
 - I just try to live every day as if I've deliberately come back to this one day, to enjoy it, as if it was the full final day of my extraordinary, ordinary life.
 - Success is my only motherf**ing option, failure's not.
-- Bruteforce your way to success.
+- Bruteforce my way to success.
+- The only way is to move forward.
+- How many fights do you have in yourself?
 - Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.
 - I always want it to be a project that, if successful, will make the rest of my career look like a footnote.
 - Millions long for immortality who don't know what to do with themselves on a rainy Sunday afternoon.
 - I much prefer the sharpest criticism of a single intelligent man to the thoughtless approval of the masses.
-- Fall down seven times, stand up eight.
+- 七転び八起き - Nana Korobi Ya Oki
 - When injustice becomes law, rebellion becomes duty.
 - Do you live your life in such a way that you would be willing to repeat it again and again, forever?
 - Be man of focus, commitment and sheer fu**ing will.
@@ -37,3 +40,7 @@ title: Quotes
 - Find a way or make one.
 - The best way to predict the future is to invent it.
 - If you want to be the one in a million person, you should live in a way that those other 999,999 people won't even imagine.
+- Assess every choice with single question: "If I time-travel to past, do I repeat it again?"
+- و دوباره شروع دوباره
+- تو یه گلوله‌ی طلایی نداری، صدتا گلوله‌ی سربی داری. باید انقدر بزنی تا بخوره به هدف
+- Don't be sorry, be better.

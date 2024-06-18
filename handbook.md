@@ -3,16 +3,6 @@ layout: page
 title: Handbook
 ---
 
-### -2
--
--
--
-- 
-
-### -1
-- [People](./people)
-- [Mind Opiums](./mind-opiums)
-
 ### 0
 - [C'est ma vie](./c'est-ma-vie)
 
@@ -59,8 +49,8 @@ title: Handbook
 - [Bitcoin](./bitcoin)
 - [Skill Tree](./skill tree)
 - [Quotes](./quotes)
--
--
+- [I](./i)
+- [Mind Opiums](./mind-opiums)
 -
 -
 -
