@@ -22,6 +22,7 @@ title: Quotes
 - World is fool of lonely people afraid to make the first move.
 - I just try to live every day as if I've deliberately come back to this one day, to enjoy it, as if it was the full final day of my extraordinary, ordinary life.
 - Success is my only motherf**ing option, failure's not.
+- We accept the love we think we deserve.
 - Bruteforce my way to success.
 - The only way is to move forward.
 - How many fights do you have in yourself?
