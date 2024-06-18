@@ -15,3 +15,9 @@ title: Quotes
 - Seize the identity you want for yourself.
 - Who dares wins.
 - No one actually knows what the hell they’re doing. Everyone is just working off their current best guess.
+- Do it if it’s the biggest thing you can do with your time and resources.
+- Newton's third law, the only way humans have ever figured out of getting somewhere is to leave something behind.
+- You must not fool yourself, and you are the easiest person to fool.
+- World is fool of lonely people afraid to make the first move.
+- Success is my only motherf**ing option, failure's not.
+- Bruteforce your way to success.
