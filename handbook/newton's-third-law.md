@@ -5,6 +5,8 @@ title: "Newton's third law: Choose & Exchange"
 
 > The only way humans have ever figured out of getting somewhere is to leave something behind.
 
+### Fuck
+
 ### Choose
 My choice is not what I'm thinking, saying or writing but what I'm actually [doing](../action) right [now](../no-time-for-caution).
 

@@ -31,3 +31,7 @@ At the same time:
 ---
 1. Try to find joy in most painful situations.
 2. Try to minimize encounter with painful events.
+
+---
+1. Use all my time in single tasking and don't let it to be wasted.
+2. Turn single taskings to multitaskings.
