@@ -14,3 +14,4 @@ title: Quotes
 - Look, if you had one shot, or one opportunity. To seize everything you ever wanted in one moment. Would you capture it or just let it slip?
 - Seize the identity you want for yourself.
 - Who dares wins.
+- No one actually knows what the hell they’re doing. Everyone is just working off their current best guess.
