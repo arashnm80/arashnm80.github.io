@@ -32,30 +32,30 @@ permalink: /handbook/
 - [2 Battlefields](./2-battlefields)
 - [Near Zero Cost](./near-zero-cost)
 - [Domino Effect](./domino-effect)
+- [Pomodoro](./pomodoro.md)
 - [Destination & Path](./destination-path)
 - [Narrow way through](./narrow-way-through)
 - [Renewable energy](./renewable-energy)
 - [Shame](./shame)
 - [Mind Opiums](./mind-opiums)
-- [CBT](./cbt)
 - [80-20](./80-20)
 - [Multitask](./multitask)
-- [System 1 & 2](./system-1-2)
 - [Fear & Courage](./fear-courage)
 - [Subconscious](./subconscious)
 - [Seize](./seize)
+- [Will](./will)
 
 ### 5
+- [System 1 & 2](./system-1-2)
 - [Idea person vs. Labor person](./idea-person-labor-person)
-- [Will](./will)
-- [Teacher](./teacher)
+- [CBT](./cbt)
+- [Quotes](./quotes)
 - [Skill Tree](./skill-tree)
 - [Portrait Painting](./portrait-painting)
-- [Quotes](./quotes)
 - [Bitcoin](./bitcoin)
 - [Real Smart Work](./real-smart-work)
--
--
+- [Teacher](./teacher)
+- [Marginal Gain](./marginal-gain)
 -
 -
 -
