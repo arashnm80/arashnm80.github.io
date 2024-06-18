@@ -38,20 +38,20 @@ title: Handbook
 - [Narrow way through](./narrow-way-through)
 - [Renewable energy](./renewable-energy)
 - [Shame](./shame)
-- [Teacher](./teacher)
+- [Mind Opiums](./mind-opiums)
 - [80-20](./80-20)
 - [Fear & Courage](./fear-courage)
 - [Subconscious](./subconscious)
 - [Seize](./seize)
 
 ### 5
+- [Idea person vs. Labor person](./idea-person-labor-person)
 - [Will](./will)
-- [Bitcoin](./bitcoin)
+- [Teacher](./teacher)
 - [Skill Tree](./skill-tree)
 - [Portrait Painting](./portrait-painting)
 - [Quotes](./quotes)
-- [Mind Opiums](./mind-opiums)
--
+- [Bitcoin](./bitcoin)
 -
 -
 -
