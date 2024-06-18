@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Handbook
+permalink: /handbook/
 ---
 
 ### 0
@@ -31,15 +32,15 @@ title: Handbook
 - [2 Battlefields](./2-battlefields)
 - [Near Zero Cost](./near-zero-cost)
 - [Domino Effect](./domino-effect)
-- [System 1 & 2](./system-1-2)
 - [Destination & Path](./destination-path)
-- [Multitask](./multitask)
-- [CBT](./cbt)
 - [Narrow way through](./narrow-way-through)
 - [Renewable energy](./renewable-energy)
 - [Shame](./shame)
 - [Mind Opiums](./mind-opiums)
+- [CBT](./cbt)
 - [80-20](./80-20)
+- [Multitask](./multitask)
+- [System 1 & 2](./system-1-2)
 - [Fear & Courage](./fear-courage)
 - [Subconscious](./subconscious)
 - [Seize](./seize)
@@ -52,7 +53,7 @@ title: Handbook
 - [Portrait Painting](./portrait-painting)
 - [Quotes](./quotes)
 - [Bitcoin](./bitcoin)
--
+- [Real Smart Work](./real-smart-work)
 -
 -
 -
