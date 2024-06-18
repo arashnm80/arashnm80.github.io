@@ -3,6 +3,16 @@ layout: page
 title: Handbook
 ---
 
+### -2
+-
+-
+-
+- 
+
+### -1
+- [People](./people)
+- [Mind Opiums](./mind-opiums)
+
 ### 0
 - [C'est ma vie](./c'est-ma-vie)
 
@@ -47,3 +57,35 @@ title: Handbook
 ### 5
 - [Will](./will)
 - [Bitcoin](./bitcoin)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+### 6
