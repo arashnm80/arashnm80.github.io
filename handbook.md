@@ -17,6 +17,7 @@ title: Handbook
 - [Action](./action)
 
 ### 3
+- [I](./i)
 - [Good Enough](./good-enough)
 - [Reboot](./reboot)
 - [Fight](./fight)
@@ -24,12 +25,12 @@ title: Handbook
 - [Streak](./streak)
 - [Dopamine](./dopamine)
 - [Chain Reaction](./chain-reaction)
-- [Domino Effect](./domino-effect)
 
 ### 4
 - [Hidden Progress](./hidden-progress)
 - [2 Battlefields](./2-battlefields)
 - [Near Zero Cost](./near-zero-cost)
+- [Domino Effect](./domino-effect)
 - [System 1 & 2](./system-1-2)
 - [Destination & Path](./destination-path)
 - [Multitask](./multitask)
@@ -40,16 +41,15 @@ title: Handbook
 - [Teacher](./teacher)
 - [80-20](./80-20)
 - [Fear & Courage](./fear-courage)
-- [Portrait Painting](./portrait-painting)
 - [Subconscious](./subconscious)
 - [Seize](./seize)
 
 ### 5
 - [Will](./will)
 - [Bitcoin](./bitcoin)
-- [Skill Tree](./skill tree)
+- [Skill Tree](./skill-tree)
+- [Portrait Painting](./portrait-painting)
 - [Quotes](./quotes)
-- [I](./i)
 - [Mind Opiums](./mind-opiums)
 -
 -
