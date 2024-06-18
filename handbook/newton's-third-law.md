@@ -11,7 +11,7 @@ title: "Newton's third law: Choose & Exchange"
 My choice is not what I'm thinking, saying or writing but what I'm actually [doing](../action) right [now](../no-time-for-caution).
 
 ### Exchange
-World is an [ocean](../jackson-pollock) of options and possibilites and to choose one of them means to lose the others, so every choice has an exchange in its essence. This whole life is a big trading system, it's to constantly exchange assests with each other and one who can't stand to lose anything will gain nothing.
+World is an ocean of options and possibilites and to choose one of them means to lose the others, so every choice has an exchange in its essence. This whole life is a big trading system, it's to constantly exchange assests with each other and one who can't stand to lose anything will gain nothing.
 
 ### Buridan's Ass
 Not choosing is a choice itself and most of the time the worst one.
