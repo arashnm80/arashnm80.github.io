@@ -36,3 +36,4 @@ title: Quotes
 - If you know doing sth is a mistake just don't do it, no matter how big or small it is, no matter it takes 1 second or several years of your life.
 - Find a way or make one.
 - The best way to predict the future is to invent it.
+- If you want to be the one in a million person, you should live in a way that those other 999,999 people won't even imagine.
