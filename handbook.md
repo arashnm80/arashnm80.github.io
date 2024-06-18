@@ -39,9 +39,9 @@ title: Handbook
 - [Teacher](./teacher)
 - [Shame](./shame)
 - [80-20](./80-20)
-- [Fear-Courage](./fear-courage)
-- 
--
--
+- [Fear & Courage](./fear-courage)
+- [Portrait Painting](./portrait-painting)
+- [Subconscious](./subconscious)
+- [Seize](./seize)
 
 ### 5

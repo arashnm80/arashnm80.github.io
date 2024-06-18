@@ -3,4 +3,4 @@ layout: page
 title: Niksen
 ---
 
-Doing nothing
+Doing nothing.
