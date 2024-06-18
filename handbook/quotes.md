@@ -46,3 +46,4 @@ title: Quotes
 - Don't be sorry, be better.
 - Wealth is having assets that earn while I sleep.
 - I'm not gonna make money by renting out my time. I'm gonna do it by my mind.
+- Everybody and everything in the world is a compass for me. A reminder of where I want to be and where I'm not.
