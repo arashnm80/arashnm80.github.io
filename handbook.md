@@ -57,7 +57,7 @@ title: Handbook
 ### 5
 - [Will](./will)
 - [Bitcoin](./bitcoin)
--
+- [Skill Tree](./skill tree)
 -
 -
 -

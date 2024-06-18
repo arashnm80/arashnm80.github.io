@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bored
+title: Boredom
 ---
 
 I was always bored as a child.
