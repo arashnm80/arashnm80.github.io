@@ -7,7 +7,7 @@ title: No time for caution
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5aaXqH8rgKZxg61HjECldi?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 -->
 
-Time is [the most](../sort) precious and ultimate [currency](../newton's-third-law) of my life.
+Time is [the most](../sort) precious asset and ultimate [currency](../newton's-third-law) of my life. And it's running out like a cup of coffee.
 
 <!-- <div id="disappearing-text"></div>
 <br>
