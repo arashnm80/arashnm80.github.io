@@ -57,7 +57,7 @@ permalink: /handbook/
 - [Teacher](./teacher)
 - [Marginal Gain](./marginal-gain)
 - [Habits](./habits)
--
+- [Freedom](./freedom)
 -
 -
 -
