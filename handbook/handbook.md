@@ -58,7 +58,7 @@ permalink: /handbook/
 - [Teacher](./teacher)
 - [Marginal Gain](./marginal-gain)
 - [Habits](./habits)
--
+- [Skin in the game](./skin-in-the-game)
 -
 -
 -
