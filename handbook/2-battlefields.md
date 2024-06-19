@@ -35,3 +35,7 @@ At the same time:
 ---
 1. Use all my time in single tasking and don't let it to be wasted.
 2. Turn single taskings to multitaskings.
+
+---
+1. Use my limited smartly on most important priorities.
+2. Increase general level of my energy.
