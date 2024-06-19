@@ -14,6 +14,7 @@ Everything in this world has a probability. If I wait to become certain about ev
 Although randomness exists, I can hack my [luck](../luck) and increase or decrease probabilities by my [actions](../action).
 
 ### Plan A & B
+This can be my biggest countermeasure against uncertainty:
 - Choose a very simple, obvious, immature plan A.
 - At the same time move by plan A and work on a more complicated, delicate, time-consuming plan B.
 - When plan B became [good enough](../good-enough), make it the new plan A and repeat by devising a new plan B.
@@ -26,9 +27,9 @@ Life is a Jackson Pollock's painting. It's a mess. An ocean of randomness, infor
 When I understand this I see the [bigger picture](../think-out-of-the-box) and don't get obsessed with tiny details. Despite all of the complexities and excuses, big picture, what we have to do and what we can actually do is very simple.
 
 This complexity brings a huge mass of [uncertainty](../uncertainty) that can paralize the [perfectionist](../perfection) mind, although these countermeasures come to my mind:
-- [Plan A & B](../plan-a-b)
-- [Satisfice](../satisfice)
-- [Good enough](../good-enough)
+- Plan A & B
+- Satisfice
+- Good enough
 
 ### What else???
 What I don't know? What I haven't thought of? What I haven't tried?

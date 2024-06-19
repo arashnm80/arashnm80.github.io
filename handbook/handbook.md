@@ -53,11 +53,11 @@ permalink: /handbook/
 - [Skill Tree](./skill-tree)
 - [Portrait Painting](./portrait-painting)
 - [Bitcoin](./bitcoin)
+- [Freedom](./freedom)
 - [Smart](./smart)
 - [Teacher](./teacher)
 - [Marginal Gain](./marginal-gain)
 - [Habits](./habits)
-- [Freedom](./freedom)
 -
 -
 -
