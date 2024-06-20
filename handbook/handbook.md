@@ -60,8 +60,8 @@ permalink: /handbook/
 - [Habits](./habits)
 - [Skin in the game](./skin-in-the-game)
 - [Asking the right questions](./asking-the-right-questions)
--
--
+- [Begin Again](./begin-again)
+- [Immerse](./immerse)
 -
 -
 -
