@@ -62,7 +62,7 @@ permalink: /handbook/
 - [Asking the right questions](./asking-the-right-questions)
 - [Immerse](./immerse)
 - [Mind Opiums](./mind-opiums)
--
+- [focus shower](./focus-shower)
 -
 -
 -
