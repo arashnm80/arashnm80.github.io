@@ -33,13 +33,14 @@ title: Quotes
 - 七転び八起き - Nana Korobi Ya Oki
 - When injustice becomes law, rebellion becomes duty.
 - Do you live your life in such a way that you would be willing to repeat it again and again, forever?
-- Be man of focus, commitment and sheer fu**ing will.
 - A real loser is someone who's so afraid of not winning he doesn't even try.
-- F**k, I live once.
+- It takes 10 years to become an overnight success.
 - If you don't know what you want, you can't judge yourself for not achieving it.
+- F**k, I live once.
 - If you know doing sth is a mistake just don't do it, no matter how big or small it is, no matter it takes 1 second or several years of your life.
 - Find a way or make one.
 - The best way to predict the future is to invent it.
+- Be man of focus, commitment and sheer fu**ing will.
 - If you want to be the one in a million person, you should live in a way that those other 999,999 people won't even imagine.
 - Assess every choice with single question: "If I time-travel to past, do I repeat it again?"
 - و دوباره شروع دوباره
