@@ -42,7 +42,7 @@ title: Quotes
 - The best way to predict the future is to invent it.
 - تو یه گلوله‌ی طلایی نداری، صدتا گلوله‌ی سربی داری. باید انقدر بزنی تا بخوره به هدف
 - Be man of focus, commitment and sheer fu**ing will.
-- Every good artist paints what he is.
+- Every great painter paints what he is.
 - Long-term games with long-term people.
 - If you want to be the one in a million person, you should live in a way that those other 999,999 people won't even imagine.
 - Assess every choice with single question: "If I time-travel to past, do I repeat it again?"
