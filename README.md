@@ -37,3 +37,6 @@ git add .; git commit -am "edit"; git push; bundle install; bundle exec jekyll s
 
 ## to delegate later:
 - make all pages lose characters like no-time-for-caution to emphasize speed of losing time.
+
+## to do later:
+- script to automatically create quotes.md from other md files in handbook
