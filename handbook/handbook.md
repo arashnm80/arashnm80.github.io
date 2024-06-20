@@ -19,11 +19,11 @@ permalink: /handbook/
 
 ### 3
 - [Action](./action)
+- [Begin Again](./begin-again) `#ffffff`
 - [Good Enough](./good-enough)
 - [Reboot](./reboot)
 - [Fight](./fight)
 - [Experience](./experience)
-- [Streak](./streak)
 - [Dopamine](./dopamine)
 - [Trump Cards & Game Changers](./trump-cards-game-changers)
 
@@ -32,12 +32,12 @@ permalink: /handbook/
 - [2 Battlefields](./2-battlefields)
 - [Near Zero Cost](./near-zero-cost)
 - [Domino Effect](./domino-effect)
+- [Streak](./streak)
 - [Pomodoro](./pomodoro.md)
 - [Destination & Path](./destination-path)
 - [Narrow way through](./narrow-way-through)
 - [Renewable energy](./renewable-energy)
 - [Shame](./shame)
-- [Mind Opiums](./mind-opiums)
 - [80-20](./80-20)
 - [Multitask](./multitask)
 - [Fear & Courage](./fear-courage)
@@ -60,8 +60,8 @@ permalink: /handbook/
 - [Habits](./habits)
 - [Skin in the game](./skin-in-the-game)
 - [Asking the right questions](./asking-the-right-questions)
-- [Begin Again](./begin-again)
 - [Immerse](./immerse)
+- [Mind Opiums](./mind-opiums)
 -
 -
 -
