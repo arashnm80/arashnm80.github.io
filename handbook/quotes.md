@@ -40,13 +40,14 @@ title: Quotes
 - If you know doing sth is a mistake just don't do it, no matter how big or small it is, no matter it takes 1 second or several years of your life.
 - Find a way or make one.
 - The best way to predict the future is to invent it.
+- تو یه گلوله‌ی طلایی نداری، صدتا گلوله‌ی سربی داری. باید انقدر بزنی تا بخوره به هدف
 - Be man of focus, commitment and sheer fu**ing will.
+- Every good artist paints what he is.
+- Long-term games with long-term people.
 - If you want to be the one in a million person, you should live in a way that those other 999,999 people won't even imagine.
 - Assess every choice with single question: "If I time-travel to past, do I repeat it again?"
 - و دوباره شروع دوباره
-- تو یه گلوله‌ی طلایی نداری، صدتا گلوله‌ی سربی داری. باید انقدر بزنی تا بخوره به هدف
 - Don't be sorry, be better.
 - Wealth is having assets that earn while I sleep.
 - I'm not gonna make money by renting out my time. I'm gonna do it by my mind.
 - Everybody and everything in the world is a compass for me. A reminder of where I want to be and where I'm not.
-- Long-term games with long-term people.
