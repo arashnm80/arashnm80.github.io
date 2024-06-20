@@ -3,7 +3,7 @@ layout: page
 title: C'est ma vie
 ---
 
-<!-- This can be the best, this can be the worst. [This is life.](./c'est-la-vie) But whatever this is, this is my life. So what am I going to do with it, who do I choose to be and what do I choose to do [now](../no-time-for-caution)? -->
+<!-- This can be the best, this can be the worst. [This is life.](../c'est-la-vie) But whatever this is, this is my life. So what am I going to do with it, who do I choose to be and what do I choose to do [now](../no-time-for-caution)? -->
 
 <div>
     <p style="
@@ -16,7 +16,7 @@ title: C'est ma vie
         text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;">
 
         <br><br><br><br><br><br>
-        This is life. But whatever this is, this is my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?
+        This can be paradise, this can be hell. <a href="../c'est-la-vie">This is life.</a> But whatever this is, this is my life. So what am I going to do with it, who do I choose to be and what do I choose to do <a href="../no-time-for-caution">now</a>?
         <br><br><br><br><br><br>
 
         <br>
