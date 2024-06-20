@@ -51,3 +51,10 @@ title: Quotes
 - Wealth is having assets that earn while I sleep.
 - I'm not gonna make money by renting out my time. I'm gonna do it by my mind.
 - Everybody and everything in the world is a compass for me. A reminder of where I want to be and where I'm not.
+- I'm gonna be the change I want to see in the world.
+- With great pe**s comes great responsibility
+- Do one thing every day that scares you.
+- Beautiful things don't ask for attention.
+- In the end, it's not the years in your life that count. It's the life in your years.
+- Never let the fear of striking out keep you from playing the game.
+- The harder I work, the luckier I get.
