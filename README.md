@@ -38,5 +38,3 @@ node quotes.js; git add .; git commit -am "edit"; git push; bundle install; bund
 ## to delegate later:
 - make all pages lose characters like no-time-for-caution to emphasize speed of losing time.
 
-## to do later:
-- script to automatically create quotes.md from other md files in handbook

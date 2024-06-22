@@ -27,6 +27,7 @@ const extractQuotes = (directory, outputFile) => {
                 const lines = data.split('\n');
                 lines.forEach((line) => {
                     if (line.startsWith('> ')) {
+                        line = line.replace(/\[(.*?)\]\(.*?\)/g, '$1'); // remove markdown links
                         quotes += line + '\n\n';
                     }
                 });
