@@ -3,6 +3,8 @@ layout: page
 title: C'est ma vie
 ---
 
+No matter what I want, need, have, can, do, feel, believe, think, say, write or not: This is my life.
+
 <div>
     <p style="
         background-image: url('https://www.jackson-pollock.org/assets/img/paintings/number-5.jpg'); 
