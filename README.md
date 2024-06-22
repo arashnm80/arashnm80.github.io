@@ -14,18 +14,18 @@
 - run: `bundle exec jekyll serve`
 
 ```
-bundle install; bundle exec jekyll serve;
+node quotes.js; bundle install; bundle exec jekyll serve;
 ```
 
 ## add, commit, push
 ```
-git add .; git commit -am "edit"; git push;
+node quotes.js; git add .; git commit -am "edit"; git push;
 ```
 
 ## combination
 
 ```
-git add .; git commit -am "edit"; git push; bundle install; bundle exec jekyll serve;
+node quotes.js; git add .; git commit -am "edit"; git push; bundle install; bundle exec jekyll serve;
 ```
 
 ## good sources:

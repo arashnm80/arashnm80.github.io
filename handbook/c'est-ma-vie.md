@@ -5,7 +5,9 @@ title: C'est ma vie
 
 No matter what I want, love, hate, need, have, can, do, choose, feel, believe, think, say, write or not: **This is my life.**
 
-<div>
+
+
+<!-- <div>
     <p style="
         background-image: url('https://www.jackson-pollock.org/assets/img/paintings/number-5.jpg'); 
         background-size: cover; 
@@ -21,7 +23,7 @@ No matter what I want, love, hate, need, have, can, do, choose, feel, believe, t
 
         <br>
     </p>
-</div>
+</div> -->
 
 <!-- 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0tZz5vMnsQqZnue8XyyPJo?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -19,7 +19,7 @@ permalink: /handbook/
 
 ### 3
 - [Action](./action)
-- [Begin Again](./begin-again) `#ffffff`
+- [Begin Again](./begin-again)
 - [Good Enough](./good-enough)
 - [Reboot](./reboot)
 - [Fight](./fight)
@@ -49,7 +49,6 @@ permalink: /handbook/
 - [System 1 & 2](./system-1-2)
 - [Idea person vs. Labor person](./idea-person-labor-person)
 - [CBT](./cbt)
-- [Quotes](./quotes)
 - [Skill Tree](./skill-tree)
 - [Portrait Painting](./portrait-painting)
 - [Bitcoin](./bitcoin)
@@ -59,10 +58,11 @@ permalink: /handbook/
 - [Marginal Gain](./marginal-gain)
 - [Habits](./habits)
 - [Skin in the game](./skin-in-the-game)
-- [Asking the right questions](./asking-the-right-questions)
+- [right questions](./asking-the-right-questions)
 - [Immerse](./immerse)
 - [Mind Opiums](./mind-opiums)
 - [focus shower](./focus-shower)
+- 
 -
 -
 -
