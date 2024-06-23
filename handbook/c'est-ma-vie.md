@@ -7,6 +7,8 @@ title: C'est ma vie
 
 
 
+
+
 <!-- <div>
     <p style="
         background-image: url('https://www.jackson-pollock.org/assets/img/paintings/number-5.jpg'); 

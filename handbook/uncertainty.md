@@ -9,7 +9,7 @@ title: Uncertainty
 Everything in this world has a probability. If I wait to become certain about everything, I can decide about nothing. [The key](../plan-a-b) is to be constantly moving based on my current best guess, while constantly reevaluating possibilities and probabilities on the move.
 
 ### Randomness
-> Does true random exist or is it just lack of information?
+Does true random exist or is it just lack of information?
 
 Although randomness exists, I can hack my [luck](../luck) and increase or decrease probabilities by my [actions](../action).
 
@@ -32,4 +32,4 @@ This complexity brings a huge mass of [uncertainty](../uncertainty) that can par
 - Good enough
 
 ### What else???
-What I don't know? What I haven't thought of? What I haven't tried?
+> What I don't know? What I haven't thought of? What I haven't tried?

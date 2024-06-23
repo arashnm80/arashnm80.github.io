@@ -19,9 +19,7 @@ title: Quotes
 
 > It takes 10 years to become an overnight success.
 
-> My time is limited, I'm not gonna waste it living someone else’s life.
-
-> I'm not gonna censor myself.
+> I'm gonna be 100% myself.
 
 > The first principle is that I must not fool myself, and I'm the easiest person to fool.
 
@@ -49,7 +47,7 @@ title: Quotes
 
 > No matter of size, take 100% of the shots.
 
-> Do it if it's the best thing you can do.
+> I'm gonna do it if it's the best thing I can do.
 
 > تو یه گلوله‌ی طلایی نداری، صدتا گلوله‌ی سربی داری. باید انقدر بزنی تا بخوره به هدف
 
@@ -65,7 +63,7 @@ title: Quotes
 
 > No one actually knows what the hell they're doing. Everyone is just working off their current best guess.
 
-> Does true random exist or is it just lack of information?
+> What I don't know? What I haven't thought of? What I haven't tried?
 
 > Luck ain't enough, I'm gonna make my own breaks.
 

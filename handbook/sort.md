@@ -3,6 +3,6 @@ layout: page
 title: Sort
 ---
 
-> Do it if it's the best thing you can do.
+> I'm gonna do it if it's the best thing I can do.
 
 ### Priorities & Anti-Priorities
