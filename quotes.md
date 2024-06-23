@@ -43,6 +43,8 @@ title: Quotes
 
 > We accept the life we think we deserve.
 
+> Be so big that this world seem small next to you.
+
 > A real loser is someone who's so afraid of not winning he doesn't even try.
 
 > The first principle is that I must not fool myself, and I'm the easiest person to fool.
