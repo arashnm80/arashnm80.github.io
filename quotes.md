@@ -63,6 +63,8 @@ title: Quotes
 
 > Am I ashamed becuase I'm not who I want to be or because I'm not what society says I have to be?
 
+> Don't be sorry, be better.
+
 > No matter of size, take 100% of the shots.
 
 > I'm gonna do it if it's the best thing I can do.
@@ -86,4 +88,6 @@ title: Quotes
 > Luck ain't enough, I'm gonna make my own breaks.
 
 > I'm gonna be a Man of Focus, Commitment and Sheer Fucking Will.
+
+> The best way to predict the future is to invent it.
 

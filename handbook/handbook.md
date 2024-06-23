@@ -58,7 +58,7 @@ permalink: /handbook/
 - [Marginal Gain](./marginal-gain)
 - [Habits](./habits)
 - [Skin in the game](./skin-in-the-game)
-- [right questions](./asking-the-right-questions)
+- [right questions](./right-questions)
 - [Immerse](./immerse)
 - [Mind Opiums](./mind-opiums)
 - [focus shower](./focus-shower)
