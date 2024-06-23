@@ -5,6 +5,8 @@ title: Quotes
 
 > 80% of all outcomes are derived from 20% of causes.
 
+> The scope of one's personality is defined by the magnitude of that problem which is capable of driving a person out of his wits.
+
 > Diff between 125 and 120 mins is nothing, diff between 5' and 0' is everything.
 
 > This can be paradise, this can be hell. I'm gonna refuse it and leave or accept it and try my best to live.
@@ -43,7 +45,11 @@ title: Quotes
 
 > We accept the life we think we deserve.
 
-> Be so big that this world seem small next to you.
+> Become so big that this world seem small next to you.
+
+> If I don't do it, I want to be the person who doesn't want it, not one who can't.
+
+> We are here to drink beer. We are here to kill war. We are here to laugh at the odds and live our lives so well that Death will tremble to take us.
 
 > A real loser is someone who's so afraid of not winning he doesn't even try.
 
@@ -65,6 +71,8 @@ title: Quotes
 
 > I won't get rich by renting out my time.
 
+> Everybody thinks their loneliness is the biggest loneliness in the world.
+
 > Anybody can do it, question is who does?
 
 > I'm born righ now in this situation, with this knowledge and experience, so what am I gonna do now?
@@ -79,7 +87,7 @@ title: Quotes
 
 > Don't be sorry, be better.
 
-> No matter of size, take 100% of the shots.
+> No matter of probabilities, I'm gonna take 100% of the shots.
 
 > I'm gonna do it if it's the best thing I can do.
 

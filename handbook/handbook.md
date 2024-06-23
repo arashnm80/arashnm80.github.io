@@ -65,7 +65,7 @@ permalink: /handbook/
 - [Immerse](./immerse)
 - [Mind Opiums](./mind-opiums)
 - [focus shower](./focus-shower)
--
+- [Optimism & Pessimism](./optimism-pessimism)
 -
 -
 -
