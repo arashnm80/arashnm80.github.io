@@ -7,3 +7,5 @@ title: Domino effect
 
 > [Thoughts](../think), words, [actions](../action), [habits](../habits), [character](../i), destiny
 ![Thoughts, words, actions, habits, character, destiny](https://media.licdn.com/dms/image/D4E22AQHblhxczpPWJA/feedshare-shrink_2048_1536/0/1696449994957?e=2147483647&v=beta&t=2QVUqitM7UVtswJsfdRswjiw__cugl6-av11ZcwwWAk)
+
+### Exponential growth
