@@ -31,7 +31,7 @@ title: Quotes
 
 > The only way is to move forward.
 
-> I have a limited rope, the challenge is to maximize the area.
+> No matter how much I can stretch, in the end I have a limited rope. The challenge is to maximize the area.
 
 > It takes 10 years to become an overnight success.
 
