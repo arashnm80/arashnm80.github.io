@@ -7,7 +7,7 @@ title: No time for caution
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5aaXqH8rgKZxg61HjECldi?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 -->
 
-Time is [the most](../sort) precious asset and ultimate [currency](../newton's-third-law) of my life. And it's running out like a cup of coffee.
+> Time is [the most](../sort) precious asset and ultimate [currency](../newton's-third-law) of my life and it's running out like a cup of coffee.
 
 <!-- <div id="disappearing-text"></div>
 <br>
@@ -72,11 +72,11 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 </script> -->
 
-### This life, this year, this year, this second
+> This life, this year, this year, this second
 ![this-life-this-day-this-day-this-second](../../assets/this-life-this-day-this-day-this-second.jpg)
 
 ### Steve Jobs
 > [My](../i) time is limited, I'm not gonna waste it living someone else’s life.
 
 ### Money
-> I'm not gonna make money by renting out my time. I'm gonna do it by my mind.
+> I won't get rich by renting out my time.

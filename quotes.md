@@ -31,9 +31,13 @@ title: Quotes
 
 > My choice is not what I'm thinking, saying or writing but what I'm actually doing right now.
 
+> Time is the most precious asset and ultimate currency of my life and it's running out like a cup of coffee.
+
+> This life, this year, this year, this second
+
 > My time is limited, I'm not gonna waste it living someone else’s life.
 
-> I'm not gonna make money by renting out my time. I'm gonna do it by my mind.
+> I won't get rich by renting out my time.
 
 > Anybody can do it, question is who does?
 
