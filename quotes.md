@@ -27,7 +27,9 @@ title: Quotes
 
 > How many fights do you have in yourself?
 
-> I'm gonna ruteforce my way to success.
+> I'm gonna bruteforce my way to success.
+
+> The only way is to move forward.
 
 > I have a limited rope, the challenge is to maximize the area.
 
@@ -38,6 +40,10 @@ title: Quotes
 > Everybody in the world is a compass for me. A reminder of where I want to be and where I don't.
 
 > I'm gonna be the change I want to see in the world.
+
+> We accept the life we think we deserve.
+
+> A real loser is someone who's so afraid of not winning he doesn't even try.
 
 > The first principle is that I must not fool myself, and I'm the easiest person to fool.
 

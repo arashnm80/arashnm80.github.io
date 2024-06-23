@@ -10,4 +10,6 @@ title: Fight
 ### [Seize](../seize)
 
 ### Bruteforce
-> I'm gonna ruteforce my way to success.
+> I'm gonna bruteforce my way to success.
+
+> The only way is to move forward.
