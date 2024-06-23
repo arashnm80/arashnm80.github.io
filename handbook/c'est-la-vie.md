@@ -3,8 +3,6 @@ layout: page
 title: C'est la vie
 ---
 
-> This can be paradise, this can be Leave or [fight](../fight) for the narrow [possibility](../uncertainty) to live.
-
-This life can be a paradise or a hell at the same time.
+> This can be paradise, this can be hell. I'm gonna refuse it and leave or accept it and try my best to live.
 
 ### Life Factor

@@ -5,7 +5,9 @@ title: Quotes
 
 > Difference between 125' and 120' is nothing, difference between 5' and 0' is everything.
 
-> This can be paradise, this can be Leave or fight for the narrow possibility to live.
+> This can be paradise, this can be hell. I'm gonna refuse it and leave or accept it and try my best to live.
+
+> No matter what I want, love, hate, need, have, can, do, choose, feel, believe, think, say, write or not: This is my life.
 
 > If you have to walk through an unpleasant path, what can you do to make it more bearable or even turn the tide and use it to your advantage?
 
