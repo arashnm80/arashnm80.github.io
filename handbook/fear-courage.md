@@ -33,3 +33,6 @@ title: Fear & Courage
 <div class="iframe-container">
     <iframe src="https://www.youtube.com/embed/fW8amMCVAJQ?si=KCb2QMmbGflxAzDf" style="border-radius:12px" frameborder="0" allowfullscreen> </iframe>
 </div>
+
+### Dive in the pool
+> Do one thing every day that scares you.

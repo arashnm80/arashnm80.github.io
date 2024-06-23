@@ -23,6 +23,8 @@ title: Quotes
 
 > You're crazy until you're successful, then you are a genius. -MrBeast
 
+> Do one thing every day that scares you.
+
 > How many fights do you have in yourself?
 
 > I'm gonna ruteforce my way to success.
