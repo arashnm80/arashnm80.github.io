@@ -48,8 +48,9 @@ permalink: /handbook/
 - [Will](./will)
 
 ### 5
-- [System 1 & 2](./system-1-2)
+- [Art of racing in the rain](./art-of-racing-in-the-rain)
 - [Idea person vs. Labor person](./idea-person-labor-person)
+- [System 1 & 2](./system-1-2)
 - [CBT](./cbt)
 - [Skill Tree](./skill-tree)
 - [Portrait Painting](./portrait-painting)
@@ -64,7 +65,6 @@ permalink: /handbook/
 - [Immerse](./immerse)
 - [Mind Opiums](./mind-opiums)
 - [focus shower](./focus-shower)
-- 
 -
 -
 -
