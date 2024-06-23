@@ -4,6 +4,8 @@ title: Handbook
 permalink: /handbook/
 ---
 
+**This can be paradise, this can be hell. This is life, but whatever this is, this is my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?**
+
 ### 0
 - [C'est ma vie](./c'est-ma-vie)
 
