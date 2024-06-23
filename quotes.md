@@ -33,6 +33,10 @@ title: Quotes
 
 > I'm gonna be 100% myself.
 
+> Everybody in the world is a compass for me. A reminder of where I want to be and where I don't.
+
+> I'm gonna be the change I want to see in the world.
+
 > The first principle is that I must not fool myself, and I'm the easiest person to fool.
 
 > Look, if you had one shot, or one opportunity. To seize everything you ever wanted in one moment. Would you capture it or just let it slip?
@@ -90,4 +94,6 @@ title: Quotes
 > I'm gonna be a Man of Focus, Commitment and Sheer Fucking Will.
 
 > The best way to predict the future is to invent it.
+
+> With great pe**s comes great responsibility
 

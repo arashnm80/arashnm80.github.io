@@ -8,3 +8,5 @@ title: Will
 > I'm gonna be a Man of Focus, Commitment and Sheer Fucking Will.
 
 > The best way to predict the future is to invent it.
+
+> With great pe**s comes great responsibility
