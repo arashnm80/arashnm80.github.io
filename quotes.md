@@ -3,7 +3,7 @@ layout: page
 title: Quotes
 ---
 
-> Difference between 125' and 120' is nothing, difference between 5' and 0' is everything.
+> Diff between 125 and 120 mins is nothing, diff between 5' and 0' is everything.
 
 > This can be paradise, this can be hell. I'm gonna refuse it and leave or accept it and try my best to live.
 
