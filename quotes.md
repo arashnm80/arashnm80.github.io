@@ -3,6 +3,8 @@ layout: page
 title: Quotes
 ---
 
+> 80% of all outcomes are derived from 20% of causes.
+
 > Diff between 125 and 120 mins is nothing, diff between 5' and 0' is everything.
 
 > This can be paradise, this can be hell. I'm gonna refuse it and leave or accept it and try my best to live.
@@ -11,11 +13,21 @@ title: Quotes
 
 > If you have to walk through an unpleasant path, what can you do to make it more bearable or even turn the tide and use it to your advantage?
 
+> Thoughts, words, actions, habits, character, destiny
+
+> With enough dopamine, all problems seem solvable.
+
 > Never make the same mistake twice.
 
 > Big people make big choices.
 
 > You're crazy until you're successful, then you are a genius. -MrBeast
+
+> How many fights do you have in yourself?
+
+> I'm gonna ruteforce my way to success.
+
+> I have a limited rope, the challenge is to maximize the area.
 
 > It takes 10 years to become an overnight success.
 
@@ -24,6 +36,8 @@ title: Quotes
 > The first principle is that I must not fool myself, and I'm the easiest person to fool.
 
 > Look, if you had one shot, or one opportunity. To seize everything you ever wanted in one moment. Would you capture it or just let it slip?
+
+> Success is to seize narrow short-term golden windows.
 
 > The only way humans have ever figured out of getting somewhere is to leave something behind.
 
@@ -39,11 +53,15 @@ title: Quotes
 
 > Anybody can do it, question is who does?
 
+> I'm born righ now in this situation, with this knowledge and experience, so what am I gonna do now?
+
+> Any change is a mean to produce energy.
+
 > I'm gonna seize the day and make my life extraordinary!
 
 > I'm gonna seize the identity I want for myself.
 
-> Look, if you had one shot, or one opportunity. To seize everything you ever wanted in one moment. Would you capture it or just let it slip?
+> Am I ashamed becuase I'm not who I want to be or because I'm not what society says I have to be?
 
 > No matter of size, take 100% of the shots.
 

@@ -3,4 +3,4 @@ layout: page
 title: Dopamine
 ---
 
-With [good enough](../good-enough) level of dopamine, all problems seem solvable.
+> With [enough](../good-enough) dopamine, all problems seem solvable.
