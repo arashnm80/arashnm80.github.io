@@ -7,7 +7,7 @@ title: Quotes
 
 > This can be paradise, this can be hell. I'm gonna refuse it and leave or accept it and try my best to live.
 
-> No matter what I want, love, hate, need, have, can, do, choose, feel, believe, think, say, write or not: This is my life.
+> No matter what I want, love, hate, need, have, can, do, choose, accept, refuse, feel, believe, think, say, write or not: This is my life.
 
 > If you have to walk through an unpleasant path, what can you do to make it more bearable or even turn the tide and use it to your advantage?
 
