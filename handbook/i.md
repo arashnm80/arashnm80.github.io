@@ -4,7 +4,7 @@ title: I
 ---
 
 ### Zero censorship policy
-> I'm gonna be 100% myself.
+I'm gonna be 100% myself.
 
 ### People
 Respect everyone and give a shit about no one, in fact don't even think about anyone. Do what you believe is best not what society enforce on you.

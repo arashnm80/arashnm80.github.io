@@ -66,7 +66,7 @@ permalink: /handbook/
 - [Mind Opiums](./mind-opiums)
 - [focus shower](./focus-shower)
 - [Optimism & Pessimism](./optimism-pessimism)
--
+- [MrBeast](./mrbeast)
 -
 -
 -

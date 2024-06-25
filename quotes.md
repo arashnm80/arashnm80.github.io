@@ -37,8 +37,6 @@ title: Quotes
 
 > It takes 10 years to become an overnight success.
 
-> I'm gonna be 100% myself.
-
 > Everybody in the world is a compass for me. A reminder of where I want to be and where I don't.
 
 > I'm gonna be the change I want to see in the world.
@@ -54,6 +52,8 @@ title: Quotes
 > A real loser is someone who's so afraid of not winning he doesn't even try.
 
 > The first principle is that I must not fool myself, and I'm the easiest person to fool.
+
+> It's much easier to get 5M views on one video than 50K views on 100 videos.
 
 > Look, if you had one shot, or one opportunity. To seize everything you ever wanted in one moment. Would you capture it or just let it slip?
 
