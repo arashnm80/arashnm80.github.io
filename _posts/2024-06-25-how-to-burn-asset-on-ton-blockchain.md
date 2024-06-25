@@ -9,5 +9,8 @@ It's very simple: we send the asset to block burner address
 <!--more-->
 
 Block burner:
-- exact blockchain address: ```UQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJKZ```
+- exact blockchain address:
+```
+UQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJKZ
+```
 - domain alias address: `blockburner.ton`
