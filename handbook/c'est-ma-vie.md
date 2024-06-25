@@ -3,10 +3,7 @@ layout: page
 title: C'est ma vie
 ---
 
-> No matter what I want, love, hate, need, have, can, do, choose, accept, refuse, feel, believe, think, say, write or not: This is my life.
-
-
-
+> Whoever I am, whatever I want, need, have, can, choose, do, love, hate, accept, feel, believe, think, say, write or not, this is my life.
 
 
 <!-- <div>

@@ -9,9 +9,9 @@ title: Quotes
 
 > Diff between 125 and 120 mins is nothing, diff between 5' and 0' is everything.
 
-> This can be paradise, this can be hell. I'm gonna refuse it and leave or accept it and try my best to live.
+> I choose to leave or fight for the narrow possibility to live.
 
-> No matter what I want, love, hate, need, have, can, do, choose, accept, refuse, feel, believe, think, say, write or not: This is my life.
+> Whoever I am, whatever I want, need, have, can, choose, do, love, hate, accept, feel, believe, think, say, write or not, this is my life.
 
 > If you have to walk through an unpleasant path, what can you do to make it more bearable or even turn the tide and use it to your advantage?
 
