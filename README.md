@@ -28,7 +28,7 @@ node quotes.js; git add .; git commit -am "edit"; git push;
 node quotes.js; git add .; git commit -am "edit"; git push; bundle install; bundle exec jekyll serve;
 ```
 
-## good sources or good jekyll created blogs:
+## good sources:
 - jekyll table of contents: https://www.seanbuscay.com/blog/jekyll-toc-markdown/
 - detilas tag (I didn't need to use _includes/details.html file): https://spinningnumbers.org/a/details.html
 - pagination: https://laura.rochaprado.com/done/web/development/2019/04/02/jekyll-github-page-pagination.html

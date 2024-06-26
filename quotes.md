@@ -149,6 +149,8 @@ title: Quotes
 
 > What I don't know? What I haven't thought of? What I haven't tried?
 
+> Whether I am a victim or not, I'm not gonna complain about it. I'm just gonna put my head down and soldier through it.
+
 > Luck ain't enough, I'm gonna make my own breaks.
 
 > I'm gonna be a Man of Focus, Commitment and Sheer Fucking Will.
