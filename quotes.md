@@ -85,6 +85,12 @@ title: Quotes
 
 > I won't get rich by renting out my time.
 
+> Assess every choice with a single question: "If I time-travel to past, do I repeat it again the same?"
+
+> I just try to live every day as if I've deliberately come back to this one day, to enjoy it, as if it was the full final day of my extraordinary, ordinary life.
+
+> Do I live my life in such a way that I would be willing to repeat it again and again, forever?
+
 > Everybody thinks their loneliness is the biggest loneliness in the world.
 
 > Long-term games with long-term people.
@@ -114,12 +120,6 @@ title: Quotes
 > تو یه گلوله‌ی طلایی نداری، صدتا گلوله‌ی سربی داری. باید انقدر بزنی تا بخوره به هدف
 
 > I'm gonna think out of the box.
-
-> I just try to live every day as if I've deliberately come back to this one day, to enjoy it, as if it was the full final day of my extraordinary, ordinary life.
-
-> Do I live my life in such a way that I would be willing to repeat it again and again, forever?
-
-> Assess every choice with a single question: "If I time-travel to past, do I repeat it again the same?"
 
 > Wealth is having assets that earn while I sleep.
 

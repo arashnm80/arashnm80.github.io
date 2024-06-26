@@ -44,7 +44,7 @@ permalink: /handbook/
 - [Seize](./seize)
 - [Art of racing in the rain](./art-of-racing-in-the-rain)
 - [People](./people)
-- [Time Travel](./time-travel)
+- 
 - [Will](./will)
 
 ### 5
