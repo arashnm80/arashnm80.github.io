@@ -82,3 +82,5 @@ document.addEventListener("DOMContentLoaded", function() {
 
 ### Money
 > I won't get rich by renting out my time.
+
+### [Time Travel](../time-travel)
