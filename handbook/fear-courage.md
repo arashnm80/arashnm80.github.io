@@ -42,3 +42,5 @@ title: Fear & Courage
 > The three most harmful addictions are heroin, carbohydrates, and a monthly salary.
 
 > World is fool of lonely people afraid to make the first move.
+
+> I'm not gonna let the fear of striking out keep me from playing the game.

@@ -13,3 +13,6 @@ title: Fight
 > I'm gonna bruteforce my way to success.
 
 > I'm gonna work hard on what interests me the most in the most undisciplined, irreverent and original manner possible.
+
+### Rebellion
+> When injustice becomes law, rebellion becomes duty.

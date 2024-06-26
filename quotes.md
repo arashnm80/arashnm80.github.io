@@ -41,11 +41,15 @@ title: Quotes
 
 > World is fool of lonely people afraid to make the first move.
 
+> I'm not gonna let the fear of striking out keep me from playing the game.
+
 > How many fights do you have in yourself?
 
 > I'm gonna bruteforce my way to success.
 
 > I'm gonna work hard on what interests me the most in the most undisciplined, irreverent and original manner possible.
+
+> When injustice becomes law, rebellion becomes duty.
 
 > No matter how much I can stretch, in the end I have a limited rope. The challenge is to maximize the area.
 
@@ -74,6 +78,8 @@ title: Quotes
 > I'm not going to fool myself, and I'm the easiest person to fool.
 
 > The only way is to move forward.
+
+> I just Keep Moving Forward Till I've Killed My Enemies.
 
 > I always want it to be a project that, if successful, will make the rest of my career look like a footnote.
 

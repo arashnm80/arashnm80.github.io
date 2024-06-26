@@ -58,6 +58,7 @@ permalink: /handbook/
 - [Bitcoin](./bitcoin)
 - [Creativity](./creativity)
 - [Freedom](./freedom)
+- [Move Forward](./move-forward)
 - [Habits](./habits)
 - [Smart](./smart)
 - [Teacher](./teacher)
@@ -75,7 +76,6 @@ permalink: /handbook/
 - [Potential](./potential)
 - [Shot](./shot)
 - [Superpowers](./superpowers)
-- [Move Forward](./move-forward)
 -
 -
 -
