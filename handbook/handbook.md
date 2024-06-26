@@ -22,8 +22,8 @@ permalink: /handbook/
 ### 3
 - [Action](./action)
 - [Begin Again](./begin-again)
-- [MVP](./mvp)
-- [Good Enough](./good-enough)
+- [MVP](./mvp)<span style="color:#1974d2">⬤</span>
+- [Good Enough](./good-enough)<span style="color:#1974d2">⬤</span>
 - [Reboot](./reboot)
 - [Fight](./fight)
 - [Experience](./experience)
@@ -79,7 +79,7 @@ permalink: /handbook/
 - [Words](./words)
 - [niksen](./niksen)
 - [Potential](./potential)
-- [Risk](./risk) <span style="color:blue">some *blue* text</span>.
+- [Risk](./risk)
 
 ### 6 <!-- 85 to 150 -->
 - 
