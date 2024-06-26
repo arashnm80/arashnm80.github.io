@@ -11,7 +11,9 @@ title: Quotes
 
 > The scope of one's personality is defined by the magnitude of that problem which is capable of driving a person out of his wits.
 
-> Diff between 125 and 120 mins is nothing, diff between 5' and 0' is everything.
+> Diff between 121 and 120 mins is nothing, diff between 1' and 0' is everything.
+
+> Starting is the most important and hardest step.
 
 > I choose to leave or fight for the narrow possibility to live.
 
@@ -71,7 +73,9 @@ title: Quotes
 
 > My choice is not what I'm thinking, saying or writing but what I'm actually doing right now.
 
-> Time is the most precious asset and ultimate currency of my life and it's running out like a cup of coffee.
+> Time is my most precious asset and ultimate currency of my life.
+
+> Time's running out like a cup of coffee, so whatever I'm gonna do I have to do it right now.
 
 > This life, this year, this year, this second
 
@@ -85,15 +89,21 @@ title: Quotes
 
 > Surround myself with people 20% better than me.
 
+> I choose not to think about people.
+
 > Anybody can do it, question is who does?
 
 > I'm born righ now in this situation, with this knowledge and experience, so what am I gonna do now?
 
 > Any change is a mean to produce energy.
 
+> How would I live my life if I was 10 times richer than now?
+
 > Am I ashamed becuase I'm not who I want to be or because I'm not what society says I have to be?
 
 > Don't be sorry, be better.
+
+> Fuck euphemism.
 
 > No matter of probabilities, I'm gonna take 100% of the shots.
 
@@ -107,7 +117,9 @@ title: Quotes
 
 > I just try to live every day as if I've deliberately come back to this one day, to enjoy it, as if it was the full final day of my extraordinary, ordinary life.
 
-> Do you live your life in such a way that you would be willing to repeat it again and again, forever?
+> Do I live my life in such a way that I would be willing to repeat it again and again, forever?
+
+> Assess every choice with a single question: "If I time-travel to past, do I repeat it again the same?"
 
 > Wealth is having assets that earn while I sleep.
 

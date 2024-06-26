@@ -44,11 +44,12 @@ permalink: /handbook/
 - [Seize](./seize)
 - [Art of racing in the rain](./art-of-racing-in-the-rain)
 - [People](./people)
-- [Subconscious](./subconscious)
+- [Time Travel](./time-travel)
 - [Will](./will)
 
 ### 5
 - [Idea person vs. Labor person](./idea-person-labor-person)
+- [Subconscious](./subconscious)
 - [Multitask](./multitask)
 - [System 1 & 2](./system-1-2)
 - [Renewable energy](./renewable-energy)
@@ -69,7 +70,6 @@ permalink: /handbook/
 - [Mind Opiums](./mind-opiums)
 - [focus shower](./focus-shower)
 - [Optimism & Pessimism](./optimism-pessimism)
--
 -
 -
 -
