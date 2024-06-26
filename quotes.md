@@ -125,6 +125,8 @@ title: Quotes
 
 > Any change is a mean to produce energy.
 
+> Any worthwhile venture involves risk.
+
 > Am I ashamed becuase I'm not who I want to be or because I'm not what society says I have to be?
 
 > Don't be sorry, be better.
