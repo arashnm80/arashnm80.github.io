@@ -44,7 +44,7 @@ permalink: /handbook/
 - [Seize](./seize)
 - [Art of racing in the rain](./art-of-racing-in-the-rain)
 - [People](./people)
-- 
+- [Skin in the game](./skin-in-the-game)
 - [Will](./will)
 
 ### 5
@@ -63,7 +63,6 @@ permalink: /handbook/
 - [Teacher](./teacher)
 - [Marginal Gain](./marginal-gain)
 - [MrBeast](./mrbeast)
-- [Skin in the game](./skin-in-the-game)
 - [right questions](./right-questions)
 - [Immerse](./immerse)
 - [Skill Tree](./skill-tree)
@@ -76,6 +75,7 @@ permalink: /handbook/
 - [Potential](./potential)
 - [Shot](./shot)
 - [Superpowers](./superpowers)
+- [Move Forward](./move-forward)
 -
 -
 -

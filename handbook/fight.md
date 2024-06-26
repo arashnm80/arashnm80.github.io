@@ -12,4 +12,4 @@ title: Fight
 ### Bruteforce
 > I'm gonna bruteforce my way to success.
 
-> The only way is to move forward.
+> I'm gonna work hard on what interests me the most in the most undisciplined, irreverent and original manner possible.

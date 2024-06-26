@@ -17,6 +17,8 @@ title: Quotes
 
 > Starting is the most important and hardest step.
 
+> 七転び八起き - Nana Korobi Ya Oki
+
 > I choose to leave or fight for the narrow possibility to live.
 
 > Think out of the box.
@@ -37,11 +39,13 @@ title: Quotes
 
 > The three most harmful addictions are heroin, carbohydrates, and a monthly salary.
 
+> World is fool of lonely people afraid to make the first move.
+
 > How many fights do you have in yourself?
 
 > I'm gonna bruteforce my way to success.
 
-> The only way is to move forward.
+> I'm gonna work hard on what interests me the most in the most undisciplined, irreverent and original manner possible.
 
 > No matter how much I can stretch, in the end I have a limited rope. The challenge is to maximize the area.
 
@@ -63,7 +67,15 @@ title: Quotes
 
 > A real loser is someone who's so afraid of not winning he doesn't even try.
 
+> If I'm not failing I'm not operating at the edge. if I'm not operating at the edge, I'm not learning as much as I can.
+
 > The first principle is that I must not fool myself, and I'm the easiest person to fool.
+
+> I'm not going to fool myself, and I'm the easiest person to fool.
+
+> The only way is to move forward.
+
+> I always want it to be a project that, if successful, will make the rest of my career look like a footnote.
 
 > It's much easier to get 5M views on one video than 50K views on 100 videos.
 
@@ -87,9 +99,9 @@ title: Quotes
 
 > Assess every choice with a single question: "If I time-travel to past, do I repeat it again the same?"
 
-> I just try to live every day as if I've deliberately come back to this one day, to enjoy it, as if it was the full final day of my extraordinary, ordinary life.
-
 > Do I live my life in such a way that I would be willing to repeat it again and again, forever?
+
+> I just try to live every day as if I've deliberately come back to this one day, to enjoy it, as if it was the full final day of my extraordinary, ordinary life.
 
 > Everybody thinks their loneliness is the biggest loneliness in the world.
 
@@ -112,6 +124,8 @@ title: Quotes
 > Fuck euphemism.
 
 > No matter of probabilities, I'm gonna take 100% of the shots.
+
+> Only being present in the game triggers many opportunities by itself.
 
 > Do it if it's the biggest thing I can do.
 
@@ -136,4 +150,8 @@ title: Quotes
 > With great pe**s comes great responsibility
 
 > I'm gonna be man of focus, commitment and sheer fu**ing will.
+
+> Success is my only motherf**ing option, failure's not.
+
+> If there are no more good movies to watch anymore, it's time for me to become a director and create my own masterpieces.
 

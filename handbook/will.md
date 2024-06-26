@@ -12,3 +12,7 @@ title: Will
 > With great pe**s comes great responsibility
 
 > I'm gonna be man of focus, commitment and sheer fu**ing will.
+
+> Success is my only motherf**ing option, failure's not.
+
+> If there are no more good movies to watch anymore, it's time for me to become a director and create my own masterpieces.
