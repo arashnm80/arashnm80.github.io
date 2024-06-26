@@ -19,6 +19,8 @@ title: Quotes
 
 > 七転び八起き - Nana Korobi Ya Oki
 
+> The rest of my life starts right now.
+
 > I choose to leave or fight for the narrow possibility to live.
 
 > Think out of the box.
