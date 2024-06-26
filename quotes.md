@@ -5,7 +5,7 @@ title: Quotes
 
 > 80% of all outcomes are derived from 20% of causes.
 
-> Talk is cheap, show me the code
+> Talk is cheap, show me the code.
 
 > I choose to be the same person in the best or worst possible situation.
 

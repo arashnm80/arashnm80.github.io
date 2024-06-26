@@ -76,7 +76,7 @@ permalink: /handbook/
 - [Potential](./potential)
 - [Shot](./shot)
 - [Superpowers](./superpowers)
--
+- [Victim](./victim)
 -
 -
 -
