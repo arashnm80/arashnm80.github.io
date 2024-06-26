@@ -1,6 +1,6 @@
 ---
 layout: page
-title: I
+title: I-dentity
 ---
 
 ### Zero censorship policy
@@ -21,3 +21,5 @@ Respect everyone and give a shit about no one, in fact don't even think about an
 > If I don't do it, I want to be the person who doesn't want it, not one who can't.
 
 > We are here to drink beer. We are here to kill war. We are here to laugh at the odds and live our lives so well that Death will tremble to take us.
+
+> Every great painter paints what he is.

@@ -3,6 +3,6 @@ layout: page
 title: Seize
 ---
 
-> I'm gonna seize the day and make my life extraordinary!
-
-> I'm gonna seize the identity I want for myself.
+- Carpe diem. I choose to seize the day and make my life extraordinary!
+- I choose to seize the identity I want for myself.
+- I choose to seize short term golder windows.

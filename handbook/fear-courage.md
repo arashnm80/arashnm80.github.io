@@ -5,6 +5,8 @@ title: Fear & Courage
 
 > Big people make big [choices](../newton's-third-law).
 
+> Qui ose gagne.
+
 ### Leader
 > You're crazy until you're successful, then you are a genius. -MrBeast
 
@@ -35,4 +37,6 @@ title: Fear & Courage
 </div>
 
 ### Dive in the pool
-> Do one thing every day that scares you.
+
+### Risk
+> The three most harmful addictions are heroin, carbohydrates, and a monthly salary.

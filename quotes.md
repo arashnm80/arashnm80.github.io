@@ -5,11 +5,17 @@ title: Quotes
 
 > 80% of all outcomes are derived from 20% of causes.
 
+> Talk is cheap, show me the code
+
+> I choose to be the same person in the best or worst possible situation.
+
 > The scope of one's personality is defined by the magnitude of that problem which is capable of driving a person out of his wits.
 
 > Diff between 125 and 120 mins is nothing, diff between 5' and 0' is everything.
 
 > I choose to leave or fight for the narrow possibility to live.
+
+> Think out of the box.
 
 > If you have to walk through an unpleasant path, what can you do to make it more bearable or even turn the tide and use it to your advantage?
 
@@ -21,9 +27,11 @@ title: Quotes
 
 > Big people make big choices.
 
+> Qui ose gagne.
+
 > You're crazy until you're successful, then you are a genius. -MrBeast
 
-> Do one thing every day that scares you.
+> The three most harmful addictions are heroin, carbohydrates, and a monthly salary.
 
 > How many fights do you have in yourself?
 
@@ -46,6 +54,8 @@ title: Quotes
 > If I don't do it, I want to be the person who doesn't want it, not one who can't.
 
 > We are here to drink beer. We are here to kill war. We are here to laugh at the odds and live our lives so well that Death will tremble to take us.
+
+> Every great painter paints what he is.
 
 > A real loser is someone who's so afraid of not winning he doesn't even try.
 
@@ -71,15 +81,15 @@ title: Quotes
 
 > Everybody thinks their loneliness is the biggest loneliness in the world.
 
+> Long-term games with long-term people.
+
+> Surround myself with people 20% better than me.
+
 > Anybody can do it, question is who does?
 
 > I'm born righ now in this situation, with this knowledge and experience, so what am I gonna do now?
 
 > Any change is a mean to produce energy.
-
-> I'm gonna seize the day and make my life extraordinary!
-
-> I'm gonna seize the identity I want for myself.
 
 > Am I ashamed becuase I'm not who I want to be or because I'm not what society says I have to be?
 
@@ -87,11 +97,11 @@ title: Quotes
 
 > No matter of probabilities, I'm gonna take 100% of the shots.
 
-> I'm gonna do it if it's the best thing I can do.
-
-> تو یه گلوله‌ی طلایی نداری، صدتا گلوله‌ی سربی داری. باید انقدر بزنی تا بخوره به هدف
+> Do it if it's the biggest thing I can do.
 
 > Streak is the most important metric for success.
+
+> تو یه گلوله‌ی طلایی نداری، صدتا گلوله‌ی سربی داری. باید انقدر بزنی تا بخوره به هدف
 
 > I'm gonna think out of the box.
 
