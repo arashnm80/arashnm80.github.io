@@ -9,7 +9,7 @@ In Markdown language single line breaks are ignored by default. I have a few sol
 <!--more-->
 
 if you want to insert line break these are possible options:
-- writing `2 spaces` at the end of the line.
+- writing `2 spaces` at the end of the line (it's not a tag, type regular space button on keyboard)
 
 ```
 Line 1<space><space>
