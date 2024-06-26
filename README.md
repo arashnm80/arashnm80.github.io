@@ -38,3 +38,5 @@ node quotes.js; git add .; git commit -am "edit"; git push; bundle install; bund
 ## to delegate later:
 - make all pages lose characters like no-time-for-caution to emphasize speed of losing time.
 
+## good jekyll created blogs
+- https://laura.rochaprado.com/done/
