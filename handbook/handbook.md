@@ -22,16 +22,16 @@ permalink: /handbook/
 ### 3
 - [Action](./action)
 - [Begin Again](./begin-again)
-- [MVP](./mvp)<span style="color:#1974d2">⬤</span>
-- [Good Enough](./good-enough)<span style="color:#1974d2">⬤</span>
-- [Reboot](./reboot)
+- [MVP](./mvp) <span style="color:#1974d2">⬤</span>
+- [Good Enough](./good-enough) <span style="color:#1974d2">⬤</span>
 - [Fight](./fight)
 - [Experience](./experience)
-- [Dopamine](./dopamine)
+- [Pomodoro](./pomodoro.md)
 
 ### 4
 - [Streak](./streak)
-- [Pomodoro](./pomodoro.md)
+- [Reboot](./reboot)
+- [Dopamine](./dopamine)
 - [Fear & Courage](./fear-courage)
 - [Hidden Progress](./hidden-progress)
 - [Trump Cards & Game Changers](./trump-cards-game-changers)
@@ -45,12 +45,12 @@ permalink: /handbook/
 - [Shame](./shame)
 - [Art of racing in the rain](./art-of-racing-in-the-rain)
 - [Skin in the game](./skin-in-the-game)
-- [Will](./will)
 
 ### 5
 - [Idea person vs. Labor person](./idea-person-labor-person)
 - [Subconscious](./subconscious)
 - [People](./people)
+- [Will](./will)
 - [Multitask](./multitask)
 - [System 1 & 2](./system-1-2)
 - [Renewable energy](./renewable-energy)
@@ -77,9 +77,9 @@ permalink: /handbook/
 - [Boredom](./boredom)
 - [lose](./lose)
 - [Words](./words)
-- [niksen](./niksen)
 - [Potential](./potential)
 - [Risk](./risk)
+- [niksen](./niksen)
 
 ### 6 <!-- 85 to 150 -->
 - 
