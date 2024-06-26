@@ -99,8 +99,6 @@ title: Quotes
 
 > Any change is a mean to produce energy.
 
-> How would I live my life if I was 10 times richer than now?
-
 > Am I ashamed becuase I'm not who I want to be or because I'm not what society says I have to be?
 
 > Don't be sorry, be better.
