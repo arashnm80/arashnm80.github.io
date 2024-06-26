@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-06-25T07:06:02+03:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Arash Nemat Zadeh</title><subtitle>teacher &amp; programmer</subtitle><entry><title type="html">How to burn asset on ton blockchain</title><link href="http://localhost:4000/posts/2024/06/25/how-to-burn-asset-on-ton-blockchain/" rel="alternate" type="text/html" title="How to burn asset on ton blockchain" /><published>2024-06-25T00:00:00+03:30</published><updated>2024-06-25T00:00:00+03:30</updated><id>http://localhost:4000/posts/2024/06/25/how-to-burn-asset-on-ton-blockchain</id><content type="html" xml:base="http://localhost:4000/posts/2024/06/25/how-to-burn-asset-on-ton-blockchain/"><![CDATA[<p>It’s very simple: we send the asset to block burner address
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-06-27T02:06:03+03:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Arash Nemat Zadeh</title><subtitle>teacher &amp; programmer</subtitle><entry><title type="html">How to create line breaks in Markdown</title><link href="http://localhost:4000/posts/2024/06/26/how-to-create-line-breaks-in-markdown/" rel="alternate" type="text/html" title="How to create line breaks in Markdown" /><published>2024-06-26T00:00:00+03:30</published><updated>2024-06-26T00:00:00+03:30</updated><id>http://localhost:4000/posts/2024/06/26/how-to-create-line-breaks-in-markdown</id><content type="html" xml:base="http://localhost:4000/posts/2024/06/26/how-to-create-line-breaks-in-markdown/"><![CDATA[<p>In Markdown language single line breaks are ignored by default. I have a few solutions for it.
+<!--more--></p>
+
+<p>if you want to insert line break these are possible options:</p>
+<ul>
+  <li>writing <code class="language-plaintext highlighter-rouge">2 spaces</code> at the end of the line (it’s not a tag, type regular space button on keyboard)</li>
+</ul>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Line 1&lt;space&gt;&lt;space&gt;
+Line 2
+</code></pre></div></div>
+<ul>
+  <li>writing html <code class="language-plaintext highlighter-rouge">&lt;br&gt;</code> tag</li>
+</ul>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Line 1&lt;br&gt;
+Line 2
+</code></pre></div></div>
+<ul>
+  <li>creating an exra empty line</li>
+</ul>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Line 1
+
+Line 2
+</code></pre></div></div>]]></content><author><name></name></author><category term="posts" /><summary type="html"><![CDATA[In Markdown language single line breaks are ignored by default. I have a few solutions for it.]]></summary></entry><entry><title type="html">How to burn asset on ton blockchain</title><link href="http://localhost:4000/posts/2024/06/25/how-to-burn-asset-on-ton-blockchain/" rel="alternate" type="text/html" title="How to burn asset on ton blockchain" /><published>2024-06-25T00:00:00+03:30</published><updated>2024-06-25T00:00:00+03:30</updated><id>http://localhost:4000/posts/2024/06/25/how-to-burn-asset-on-ton-blockchain</id><content type="html" xml:base="http://localhost:4000/posts/2024/06/25/how-to-burn-asset-on-ton-blockchain/"><![CDATA[<p>It’s very simple: we send the asset to block burner address
 <!--more--></p>
 
 <p>Block burner:</p>
