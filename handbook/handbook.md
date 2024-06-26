@@ -22,16 +22,17 @@ permalink: /handbook/
 ### 3
 - [Action](./action)
 - [Begin Again](./begin-again)
+- [MVP](./mvp)
 - [Good Enough](./good-enough)
 - [Reboot](./reboot)
 - [Fight](./fight)
 - [Experience](./experience)
-- [Fear & Courage](./fear-courage)
 - [Dopamine](./dopamine)
 
 ### 4
 - [Streak](./streak)
 - [Pomodoro](./pomodoro.md)
+- [Fear & Courage](./fear-courage)
 - [Hidden Progress](./hidden-progress)
 - [Trump Cards & Game Changers](./trump-cards-game-changers)
 - [2 Battlefields](./2-battlefields)
@@ -43,13 +44,13 @@ permalink: /handbook/
 - [Domino Effect](./domino-effect)
 - [Seize](./seize)
 - [Art of racing in the rain](./art-of-racing-in-the-rain)
-- [People](./people)
 - [Skin in the game](./skin-in-the-game)
 - [Will](./will)
 
 ### 5
 - [Idea person vs. Labor person](./idea-person-labor-person)
 - [Subconscious](./subconscious)
+- [People](./people)
 - [Multitask](./multitask)
 - [System 1 & 2](./system-1-2)
 - [Renewable energy](./renewable-energy)
@@ -78,7 +79,6 @@ permalink: /handbook/
 - [Superpowers](./superpowers)
 - [Victim](./victim)
 - [Words](./words)
--
 -
 
 ### 6
