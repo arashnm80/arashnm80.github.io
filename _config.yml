@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap # https://github.com/jekyll/jekyll-sitemap
+  - jekyll-paginate # https://jekyllrb.com/docs/pagination/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -65,3 +66,4 @@ header_pages:
   - posts.md
   - donate.md
   - handbook/handbook.md
+paginate: 5
