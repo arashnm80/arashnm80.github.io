@@ -10,16 +10,19 @@ In Markdown language single line breaks are ignored by default. I have a few sol
 
 if you want to insert line break these are possible options:
 - writing `2 spaces` at the end of the line.
+
 ```
 Line 1<space><space>
 Line 2
 ```
 - writing html `<br>` tag
+
 ```
 Line 1<br>
 Line 2
 ```
 - creating an exra empty line
+
 ```
 Line 1
 
