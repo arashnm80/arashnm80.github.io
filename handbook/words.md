@@ -1,0 +1,23 @@
+---
+title: Words
+---
+
+- goal, passion, motivation, fire, flame, enthusiasm
+- Audacious, wild, rule-breaker, genre-defying, defiant, Vanguard, courageous, bold, adventurer
+- assertive, Confident
+- astute, resourceful, tactful, Smart, innovative, creative
+- Assiduous, hardworking, streak, diligent, tenable, persevere
+- rage, berserk, anger, outburst
+- Leader, manager, boss, Entrepreneur
+- peaceful, calm
+- juggernaut, inexorable, strong, robust
+- precise, impeccable
+- grit, gut
+- happiness, rapture, euphoria, pleasure, delight, joy, enchantments
+- improvement, enhancement
+- fierce, ferocious
+- man of focus, commitment, sheer will
+- the man, the myth, the legend
+- vehement
+- one man army
+- knack
