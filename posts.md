@@ -5,4 +5,6 @@
 layout: home
 # title: Posts
 permalink: /posts/
+pagination:
+  enabled: true
 ---
