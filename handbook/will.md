@@ -10,3 +10,5 @@ title: Will
 > The best way to predict the future is to invent it.
 
 > With great pe**s comes great responsibility
+
+> I'm gonna be man of focus, commitment and sheer fu**ing will.

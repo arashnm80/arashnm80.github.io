@@ -135,3 +135,5 @@ title: Quotes
 
 > With great pe**s comes great responsibility
 
+> I'm gonna be man of focus, commitment and sheer fu**ing will.
+
