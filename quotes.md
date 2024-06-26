@@ -11,6 +11,8 @@ title: Quotes
 
 > The scope of one's personality is defined by the magnitude of that problem which is capable of driving a person out of his wits.
 
+> If I know the world is gonna collapse tomorrow doesn't mean I can't enjoy today.
+
 > Diff between 121 and 120 mins is nothing, diff between 1' and 0' is everything.
 
 > Starting is the most important and hardest step.
