@@ -18,3 +18,7 @@ If I'm gonna be a perfectionist and maximize things I should do it in all direct
 ![hexagon](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/8b72dc20-e306-45b3-bffa-f879c5102ab2)
 
 > No matter how much I can stretch, in the end I have a limited rope. The challenge is to maximize the area.
+
+### Perfection-Obsession
+How to paralyze a perfection-obsessive?
+Tell him to grab 20 apples from refrigerator while you know there are 19 or 21 of them.

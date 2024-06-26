@@ -70,12 +70,12 @@ permalink: /handbook/
 - [Mind Opiums](./mind-opiums)
 - [focus shower](./focus-shower)
 - [Optimism & Pessimism](./optimism-pessimism)
--
--
--
--
--
--
+- [Boredom](./boredom)
+- [lose](./lose)
+- [niksen](./niksen)
+- [Potential](./potential)
+- [Shot](./shot)
+- [Superpowers](./superpowers)
 -
 -
 -
