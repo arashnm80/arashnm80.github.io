@@ -50,7 +50,7 @@ permalink: /handbook/
 ### 5
 1. [Perfection-Obsession](./perfection-obsession) <span style="color:MediumSeaGreen">⬤ quality level</span>
 1. [Streak](./streak) <span style="color:MediumSeaGreen">⬤ quality level</span>
-1. [Idea person vs. Labor person](./idea-person-labor-person) <span style="color:Crimson">⬤ game changer</span>
+1. [Idea person](./idea-person) <span style="color:Crimson">⬤ game changer</span>
 1. [Subconscious](./subconscious)
 1. [People](./people)
 1. [Will](./will)
