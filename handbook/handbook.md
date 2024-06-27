@@ -14,10 +14,10 @@ permalink: /handbook/
 1. [No time for caution](./no-time-for-caution)
 
 ### 2
+1. [Non-Zero Effort](./non-zero-effort) <span style="color:DodgerBlue">⬤</span>
 1. [I-dentity](./i-dentity)
 1. [Uncertainty](./uncertainty)
 1. [Newton's Third law](./newton's-third-law)
-1. [Non-Zero Effort](./non-zero-effort) <span style="color:DodgerBlue">⬤</span>
 
 ### 3
 1. [Minimum Viable Product](./minimum-viable-product) <span style="color:DodgerBlue">⬤</span>

@@ -13,8 +13,6 @@ title: Quotes
 
 > If I know the world is gonna collapse tomorrow doesn't mean I can't enjoy today.
 
-> Diff between 121 and 120 mins is nothing, diff between 1' and 0' is everything.
-
 > Starting is the most important and hardest step.
 
 > 七転び八起き - Nana Korobi Ya Oki
@@ -112,6 +110,8 @@ title: Quotes
 > Do I live my life in such a way that I would be willing to repeat it again and again, forever?
 
 > I just try to live every day as if I've deliberately come back to this one day, to enjoy it, as if it was the full final day of my extraordinary, ordinary life.
+
+> Diff between 121 and 120 mins is nothing, diff between 1' and 0' is everything.
 
 > Everybody thinks their loneliness is the biggest loneliness in the world.
 
