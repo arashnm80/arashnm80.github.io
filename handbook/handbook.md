@@ -35,33 +35,32 @@ permalink: /handbook/
 ### 2
 <div class="items">
 <ol>
-    <li><a href="./non-zero-effort">Non-Zero Effort</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
     <li><a href="./i-dentity">I-dentity</a> </li>
     <li><a href="./uncertainty">Uncertainty</a> </li>
     <li><a href="./newton's-third-law">Newton's Third law</a> </li>
+    <li><a href="./sort">Sort</a> </li>
 </ol>
 </div>
 
 ### 3
 <div class="items">
 <ol>
-    <li><a href="./minimum-viable-product">Minimum Viable Product</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
-    <li><a href="./streak">Streak</a> </li>
+    <li><a href="./non-zero-effort">Non-Zero Effort</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
     <li><a href="./action">Action</a> </li>
-    <li><a href="./sort">Sort</a> </li>
+    <li><a href="./streak">Streak</a> </li>
     <li><a href="./begin-again">Begin Again</a></li>
     <li><a href="./fight">Fight</a></li>
     <li><a href="./experience">Experience</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
     <li><a href="./pomodoro.md">Pomodoro</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
+    <li><a href="./dopamine">Dopamine</a></li>
 </ol>
 </div>
 
 ### 4
 <div class="items">
 <ol>
-    <li><a href="./good-enough">Good Enough</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
+    <li><a href="./minimum-viable-product">Minimum Viable Product</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
     <li><a href="./reboot">Reboot</a></li>
-    <li><a href="./dopamine">Dopamine</a></li>
     <li><a href="./fear-courage">Fear & Courage</a></li>
     <li><a href="./risk">Risk</a></li>
     <li><a href="./hidden-progress">Hidden Progress</a></li>
@@ -75,17 +74,17 @@ permalink: /handbook/
     <li><a href="./shame">Shame</a></li>
     <li><a href="./victim">Victim</a></li>
     <li><a href="./art-of-racing-in-the-rain">Art of racing in the rain</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
+    <li><a href="./idea-person">Idea person</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
 </ol>
 </div>
 
 ### 5
 <div class="items">
 <ol>
-    <li><a href="./perfection">Perfection</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
+    <li><a href="./good-enough">Good Enough</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
     <li><a href="./subconscious">Subconscious</a></li>
     <li><a href="./people">People</a></li>
     <li><a href="./will">Will</a></li>
-    <li><a href="./idea-person">Idea person</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./domino-effect">Domino Effect</a></li>
     <li><a href="./multitask">Multitask</a></li>
     <li><a href="./system-1-2">System 1 & 2</a></li>
@@ -113,14 +112,15 @@ permalink: /handbook/
     <li><a href="./boredom">Boredom</a></li>
     <li><a href="./lose">lose</a></li>
     <li><a href="./potential">Potential</a></li>
+    <li><a href="./niksen">niksen</a></li>
 </ol>
 </div>
 
 ### 6
 <div class="items">
 <ol>
+    <li><a href="./perfection">Perfection</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
     <li><a href="./words">Words</a></li>
-    <li><a href="./niksen">niksen</a></li>
 </ol>
 </div>
 
