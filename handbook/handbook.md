@@ -27,6 +27,7 @@ permalink: /handbook/
 1. [Fight](./fight)
 1. [Experience](./experience)
 1. [Pomodoro](./pomodoro.md)
+1. [Risk](./risk)
 
 ### 4
 1. [Streak](./streak)
@@ -78,8 +79,7 @@ permalink: /handbook/
 1. [lose](./lose)
 1. [Words](./words)
 1. [Potential](./potential)
-1. [Risk](./risk)
-1. [niksen](./niksen)
 
 ### 6
+1. [niksen](./niksen)
 - 
