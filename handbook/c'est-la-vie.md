@@ -3,7 +3,7 @@ layout: page
 title: C'est la vie
 ---
 
-> I choose to leave or [fight](../fight) for the [narrow possibility](../narrow-way-through) to live.
+> Leave or [fight](../fight) for the [narrow possibility](../narrow-way-through) to live.
 
 ### fight for the narrow possibility to live
 First of all it's a fight. trying to live means to be in a constant fight; to fight with depression and lack of dopamine, to fight with loss of loved ones, to fight with pain and loneliness, to fight with tendency to give myself up to sadness and pressure, to fight with stress and anxiety, to fight with cruel acts of this cruel world, to fight with idiots, frauds and oppressives, to fight to see and seize the very small opportunities to live even when everything is burning in hell.
