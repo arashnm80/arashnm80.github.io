@@ -35,23 +35,23 @@ permalink: /handbook/
 ### 2
 <div class="items">
 <ol>
-    <li><a href="./non-zero-effort">Non-Zero Effort</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality')" class="btn tag quality">⬤ quality-level</button></li>
-    <li><a href="./i-dentity">I-dentity</a> <button style="color:Black" onclick="filterItems('core')" class="btn tag core">⬤ core</button></li>
-    <li><a href="./uncertainty">Uncertainty</a> <button style="color:Black" onclick="filterItems('core')" class="btn tag core">⬤ core</button></li>
-    <li><a href="./newton's-third-law">Newton's Third law</a> <button style="color:Black" onclick="filterItems('core')" class="btn tag core">⬤ core</button></li>
+    <li><a href="./non-zero-effort">Non-Zero Effort</a> </li>
+    <li><a href="./i-dentity">I-dentity</a> </li>
+    <li><a href="./uncertainty">Uncertainty</a> </li>
+    <li><a href="./newton's-third-law">Newton's Third law</a> </li>
 </ol>
 </div>
 
 ### 3
 <div class="items">
 <ol>
-    <li><a href="./minimum-viable-product">Minimum Viable Product</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality')" class="btn tag quality">⬤ quality-level</button></li>
+    <li><a href="./minimum-viable-product">Minimum Viable Product</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
     <li><a href="./streak">Streak</a> <button style="color:Black" onclick="filterItems('core')" class="btn tag core">⬤ core</button></li>
     <li><a href="./action">Action</a> <button style="color:Black" onclick="filterItems('core')" class="btn tag core">⬤ core</button></li>
     <li><a href="./sort">Sort</a> <button style="color:Black" onclick="filterItems('core')" class="btn tag core">⬤ core</button></li>
     <li><a href="./begin-again">Begin Again</a></li>
     <li><a href="./fight">Fight</a></li>
-    <li><a href="./experience">Experience</a> <button style="color:MediumPurple" onclick="filterItems('superpowers')" class="btn tag superpowers">⬤ superpowers</button></li>
+    <li><a href="./experience">Experience</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
     <li><a href="./pomodoro.md">Pomodoro</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./risk">Risk</a></li>
 </ol>
@@ -60,7 +60,7 @@ permalink: /handbook/
 ### 4
 <div class="items">
 <ol>
-    <li><a href="./good-enough">Good Enough</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality')" class="btn tag quality">⬤ quality-level</button></li>
+    <li><a href="./good-enough">Good Enough</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
     <li><a href="./reboot">Reboot</a></li>
     <li><a href="./dopamine">Dopamine</a></li>
     <li><a href="./fear-courage">Fear & Courage</a></li>
@@ -75,14 +75,14 @@ permalink: /handbook/
     <li><a href="./seize">Seize</a></li>
     <li><a href="./shame">Shame</a></li>
     <li><a href="./victim">Victim</a></li>
-    <li><a href="./art-of-racing-in-the-rain">Art of racing in the rain</a> <button style="color:MediumPurple" onclick="filterItems('superpowers')" class="btn tag superpowers">⬤ superpowers</button></li>
+    <li><a href="./art-of-racing-in-the-rain">Art of racing in the rain</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
 </ol>
 </div>
 
 ### 5
 <div class="items">
 <ol>
-    <li><a href="./perfection">Perfection</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality')" class="btn tag quality">⬤ quality-level</button></li>
+    <li><a href="./perfection">Perfection</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
     <li><a href="./subconscious">Subconscious</a></li>
     <li><a href="./people">People</a></li>
     <li><a href="./will">Will</a></li>
@@ -103,7 +103,7 @@ permalink: /handbook/
     <li><a href="./right-questions">right questions</a></li>
     <li><a href="./mrbeast">MrBeast</a></li>
     <li><a href="./immerse">Immerse</a></li>
-    <li><a href="./omniscient">Omniscient</a> <button style="color:MediumPurple" onclick="filterItems('superpowers')" class="btn tag superpowers">⬤ superpowers</button></li>
+    <li><a href="./omniscient">Omniscient</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
     <li><a href="./skill-tree">Skill Tree</a></li>
     <li><a href="./mind-opiums">Mind Opiums</a></li>
     <li><a href="./focus-shower">focus shower</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
