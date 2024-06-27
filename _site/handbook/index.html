@@ -50,7 +50,7 @@
 <h3 id="0">0</h3>
 <div class="items">
 <ol>
-    <li><a href="./c'est-ma-vie">C'est ma vie</a> <button background-color="transparent" style="color:Black" onclick="filterItems('core')" class="tag core">⬤ core</button></li>
+    <li><a href="./c'est-ma-vie">C'est ma vie</a> <button style="color:Black" onclick="filterItems('core')" class="tag core">⬤ core</button></li>
 </ol>
 </div>
 
@@ -157,10 +157,10 @@
 <p><button onclick="filterItems('all')">Show All</button></p>
 
 <script>
-var isFiltered = false;
-
-function filterItems(tag) {
-    var containers = document.getElementsByClassName('items');
+    var isFiltered = false;
+    
+    function filterItems(tag) {
+        var containers = document.getElementsByClassName('items');
     for (var j = 0; j < containers.length; j++) {
         var items = containers[j].getElementsByTagName('li');
         for (var i = 0; i < items.length; i++) {
@@ -187,8 +187,9 @@ function filterItems(tag) {
     isFiltered = !isFiltered;
 }
 
+
 // Initial filtering on page load (show all items)
-filterItems('all');
+// filterItems('all');
 </script>
 
 <!-- 

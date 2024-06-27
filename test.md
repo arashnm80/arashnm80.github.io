@@ -1,116 +1,28 @@
 ---
-layout: page
-title: test
+layout: default
+title: Your Page Title
 ---
 
-**This can be paradise, this can be hell. This is life, but whatever this is, this is my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?**
+<!-- Include Bootstrap CSS -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
-### 0
-<div class="items">
-<ol>
-<li><a href="./c'est-ma-vie">C'est ma vie</a></li>
-</ol>
-</div>
-
-### 1
-<div class="items">
-<ol>
-<li><a href="./c'est-la-vie">C'est la vie</a> <button style="color:Black" onclick="filterItems('core')" class="tag core">⬤ core</button></li>
-<li><a href="./no-time-for-caution">No time for caution</a> <button style="color:Black" onclick="filterItems('core')" class="tag core">⬤ core</button></li>
-</ol>
-</div>
-
-### 2
-<div class="items">
-<ol>
-<li><a href="./non-zero-effort">Non-Zero Effort</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality')" class="tag quality">⬤ quality level</button></li>
-<li><a href="./i-dentity">I-dentity</a> <button style="color:Black" onclick="filterItems('core')" class="tag core">⬤ core</button></li>
-<li><a href="./uncertainty">Uncertainty</a> <button style="color:Black" onclick="filterItems('core')" class="tag core">⬤ core</button></li>
-<li><a href="./newton's-third-law">Newton's Third law</a> <button style="color:Black" onclick="filterItems('core')" class="tag core">⬤ core</button></li>
-</ol>
-</div>
-
-<!-- ### 3
-<div class="items">
-<ol>
-<li><a href="./streak">Streak</a> <button style="color:Black" onclick="filterItems('core')" class="tag core">⬤ core</button></li>
-<li><a href="./action">Action</a> <button style="color:Black" onclick="filterItems('core')" class="tag core">⬤ core</button></li>
-<li><a href="./sort">Sort</a> <button style="color:Black" onclick="filterItems('core')" class="tag core">⬤ core</button></li>
-<li><a href="./begin-again">Begin Again</a></li>
-<li><a href="./fight">Fight</a></li>
-<li><a href="./experience">Experience</a> <button style="color:MediumPurple" onclick="filterItems('superpowers')" class="tag superpowers">⬤ superpowers</button></li>
-<li><a href="./pomodoro.md">Pomodoro</a> <button style="color:Orange" onclick="filterItems('habit')" class="tag habit">⬤ habit</button></li>
-<li><a href="./risk">Risk</a></li>
-</ol>
-</div> -->
-
-<!-- ### 4
-<div class="items">
-<ol>
-<li><a href="./minimum-viable-product">Minimum Viable Product</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality')" class="tag quality">⬤ quality level</button></li>
-<li><a href="./reboot">Reboot</a></li>
-<li><a href="./dopamine">Dopamine</a></li>
-<li><a href="./fear-courage">Fear & Courage</a></li>
-<li><a href="./hidden-progress">Hidden Progress</a></li>
-<li><a href="./chain-reaction">Chain Reaction</a> <button style="color:Crimson" onclick="filterItems('game')">⬤ game changer</button></li>
-<li><a href="./2-battlefields">2 Battlefields</a></li>
-<li><a href="./good-enough">Good Enough</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality')" class="tag quality">⬤ quality level</button></li>
-<li><a href="./near-zero-cost">Near Zero Cost</a></li>
-<li><a href="./destination-path">Destination & Path</a></li>
-<li><a href="./narrow-way-through">Narrow way through</a></li>
-<li><a href="./80-20">80-20</a></li>
-<li><a href="./domino-effect">Domino Effect</a></li>
-<li><a href="./seize">Seize</a></li>
-<li><a href="./shame">Shame</a></li>
-<li><a href="./art-of-racing-in-the-rain">Art of racing in the rain</a> <button style="color:MediumPurple" onclick="filterItems('superpowers')" class="tag superpowers">⬤ superpowers</button></li>
-<li><a href="./skin-in-the-game">Skin in the game</a></li>
-</ol>
-</div> -->
-
-<button onclick="filterItems('core')">⬤ core</button>
-<button onclick="filterItems('quality')">⬤ quality level</button>
-<button onclick="filterItems('all')">Show All</button>
-
-<script>
-function filterItems(tag) {
-    var containers = document.getElementsByClassName('items');
-    for (var j = 0; j < containers.length; j++) {
-        var items = containers[j].getElementsByTagName('li');
-        for (var i = 0; i < items.length; i++) {
-            var item = items[i];
-            var button = item.querySelector('button');
-            
-            // Check if there's no button or the button matches the tag
-            if (tag === 'all') {
-                item.style.display = 'list-item'; // Show the item
-            } else if (!button && tag !== 'all'){
-                item.style.display = 'none'; // Hide the item
-            } else if(button.classList.contains(tag)) {
-                item.style.display = 'list-item'; // Show the item
-            } else {
-                item.style.display = 'none'; // Hide the item
-            }
-        }
+<style>
+    /* Custom styles for buttons in the body */
+    .body-buttons {
+        cursor: pointer;
+        margin: 5px;
+        /* Additional custom styles as needed */
     }
-}
+</style>
 
-// Initial filtering on page load (show all items)
-filterItems('all');
-</script>
+<div class="container mt-5">
+    <!-- Body buttons within a specific container -->
+    <div class="body-buttons">
+        <button onclick="filterItems('habit')" class="btn btn-outline-secondary">⬤ habit</button>
+        <button onclick="filterItems('exercise')" class="btn btn-outline-secondary">⬤ exercise</button>
+        <button onclick="filterItems('study')" class="btn btn-outline-secondary">⬤ study</button>
+    </div>
+</div>
 
-<!-- <script>
-function filterItems(tag) {
-    var containers = document.getElementsByClassName('items');
-    for (var j = 0; j < containers.length; j++) {
-        var items = containers[j].getElementsByTagName('li');
-        for (var i = 0; i < items.length; i++) {
-            var item = items[i];
-            if (tag === 'all' || item.querySelector('.tag').classList.contains(tag)) {
-                item.style.display = 'list-item'; // Show the item
-            } else {
-                item.style.display = 'none'; // Hide the item
-            }
-        }
-    }
-}
-</script> -->
+<!-- Optional: Include Bootstrap JS for certain features -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>

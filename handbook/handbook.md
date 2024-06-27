@@ -6,12 +6,13 @@ permalink: /handbook/
 
 **This can be paradise, this can be hell. This is life, but whatever this is, this is my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?**
 
+
 <button onclick="filterItems('all')">Show All</button>
 
 ### 0
 <div class="items">
 <ol>
-    <li><a href="./c'est-ma-vie">C'est ma vie</a> <button background-color="transparent" style="color:Black" onclick="filterItems('core')" class="tag core">⬤ core</button></li>
+    <li><a href="./c'est-ma-vie">C'est ma vie</a> <button style="color:Black" onclick="filterItems('core')" class="tag core">⬤ core</button></li>
 </ol>
 </div>
 
@@ -118,10 +119,10 @@ permalink: /handbook/
 <button onclick="filterItems('all')">Show All</button>
 
 <script>
-var isFiltered = false;
-
-function filterItems(tag) {
-    var containers = document.getElementsByClassName('items');
+    var isFiltered = false;
+    
+    function filterItems(tag) {
+        var containers = document.getElementsByClassName('items');
     for (var j = 0; j < containers.length; j++) {
         var items = containers[j].getElementsByTagName('li');
         for (var i = 0; i < items.length; i++) {
@@ -148,8 +149,9 @@ function filterItems(tag) {
     isFiltered = !isFiltered;
 }
 
+
 // Initial filtering on page load (show all items)
-filterItems('all');
+// filterItems('all');
 </script>
 
 
