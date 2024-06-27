@@ -31,7 +31,7 @@ permalink: /handbook/
 1. [Risk](./risk)
 
 ### 4
-1. [Streak](./streak)
+1. [Streak](./streak) <span style="color:DodgerBlue">⬤</span>
 1. [Reboot](./reboot)
 1. [Dopamine](./dopamine)
 1. [Fear & Courage](./fear-courage)
