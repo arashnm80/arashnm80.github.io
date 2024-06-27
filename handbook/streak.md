@@ -3,7 +3,9 @@ layout: page
 title: Streak
 ---
 
-NZE, MVP, or good enough, the challenge is to keep them everyday.
+No matter of quality level, the challenge is to keep it everyday.
+
+Streak means a neural path for subconscious to reduce the load on conscious mind.
 
 > Streak is the most important metric for success.
 

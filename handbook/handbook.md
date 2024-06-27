@@ -15,28 +15,29 @@ permalink: /handbook/
 
 ### 2
 1. [Non-Zero Effort](./non-zero-effort) <span style="color:MediumSeaGreen">⬤ quality level</span>
-1. [I-dentity](./i-dentity)
-1. [Uncertainty](./uncertainty)
-1. [Newton's Third law](./newton's-third-law)
+1. [I-dentity](./i-dentity) <span style="color:Black">⬤ core</span>
+1. [Uncertainty](./uncertainty) <span style="color:Black">⬤ core</span>
+1. [Newton's Third law](./newton's-third-law) <span style="color:Black">⬤ core</span>
 
 ### 3
-1. [Minimum Viable Product](./minimum-viable-product) <span style="color:MediumSeaGreen">⬤ quality level</span>
-1. [Action](./action)
-1. [Sort](./sort)
+1. [Streak](./streak) <span style="color:Black">⬤ core</span>
+1. [Action](./action) <span style="color:Black">⬤ core</span>
+1. [Sort](./sort) <span style="color:Black">⬤ core</span>
 1. [Begin Again](./begin-again)
 1. [Fight](./fight)
 1. [Experience](./experience) <span style="color:MediumPurple">⬤ superpower</span>
-1. [Pomodoro](./pomodoro.md)
+1. [Pomodoro](./pomodoro.md) <span style="color:Orange">⬤ habit</span>
 1. [Risk](./risk)
 
 ### 4
-1. [Good Enough](./good-enough) <span style="color:MediumSeaGreen">⬤ quality level</span>
+1. [Minimum Viable Product](./minimum-viable-product) <span style="color:MediumSeaGreen">⬤ quality level</span>
 1. [Reboot](./reboot)
 1. [Dopamine](./dopamine)
 1. [Fear & Courage](./fear-courage)
 1. [Hidden Progress](./hidden-progress)
 1. [Chain Reaction](./chain-reaction) <span style="color:Crimson">⬤ game changer</span>
 1. [2 Battlefields](./2-battlefields)
+1. [Good Enough](./good-enough) <span style="color:MediumSeaGreen">⬤ quality level</span>
 1. [Near Zero Cost](./near-zero-cost)
 1. [Destination & Path](./destination-path)
 1. [Narrow way through](./narrow-way-through)
@@ -48,7 +49,6 @@ permalink: /handbook/
 1. [Skin in the game](./skin-in-the-game)
 
 ### 5
-1. [Streak](./streak) <span style="color:MediumSeaGreen">⬤ quality level</span>
 1. [Subconscious](./subconscious)
 1. [People](./people)
 1. [Will](./will)
@@ -62,7 +62,7 @@ permalink: /handbook/
 1. [Creativity](./creativity)
 1. [Freedom](./freedom)
 1. [Move Forward](./move-forward)
-1. [Habits](./habits)
+1. 
 1. [Smart](./smart)
 1. [Teacher](./teacher)
 1. [Marginal Gain](./marginal-gain)
@@ -73,7 +73,7 @@ permalink: /handbook/
 1. [Victim](./victim)
 1. [Skill Tree](./skill-tree)
 1. [Mind Opiums](./mind-opiums)
-1. [focus shower](./focus-shower)
+1. [focus shower](./focus-shower) <span style="color:Orange">⬤ habit</span>
 1. [Hobby as a Service](./hobby-as-a-service) <span style="color:Crimson">⬤ game changer</span>
 1. [Optimism & Pessimism](./optimism-pessimism)
 1. [Shot](./shot)
