@@ -48,10 +48,10 @@ permalink: /handbook/
     <li><a href="./non-zero-effort">Non-Zero Effort</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
     <li><a href="./action">Action</a> </li>
     <li><a href="./streak">Streak</a> </li>
+    <li><a href="./sleep">Sleep</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./begin-again">Begin Again</a></li>
     <li><a href="./fight">Fight</a></li>
     <li><a href="./experience">Experience</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
-    <li><a href="./pomodoro.md">Pomodoro</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./dopamine">Dopamine</a></li>
 </ol>
 </div>
@@ -62,13 +62,13 @@ permalink: /handbook/
     <li><a href="./minimum-viable-product">Minimum Viable Product</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
     <li><a href="./reboot">Reboot</a></li>
     <li><a href="./fear-courage">Fear & Courage</a></li>
+    <li><a href="./pomodoro">Pomodoro</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./risk">Risk</a></li>
     <li><a href="./hidden-progress">Hidden Progress</a></li>
     <li><a href="./chain-reaction">Chain Reaction</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./2-battlefields">2 Battlefields</a></li>
     <li><a href="./near-zero-cost">Near Zero Cost</a></li>
     <li><a href="./destination-path">Destination & Path</a></li>
-    <li><a href="./narrow-way-through">Narrow way through</a></li>
     <li><a href="./80-20">80-20</a></li>
     <li><a href="./seize">Seize</a></li>
     <li><a href="./shame">Shame</a></li>
@@ -86,6 +86,7 @@ permalink: /handbook/
     <li><a href="./people">People</a></li>
     <li><a href="./will">Will</a></li>
     <li><a href="./domino-effect">Domino Effect</a></li>
+    <li><a href="./narrow-way-through">Narrow way through</a></li>
     <li><a href="./multitask">Multitask</a></li>
     <li><a href="./system-1-2">System 1 & 2</a></li>
     <li><a href="./renewable-energy">Renewable energy</a></li>
@@ -99,8 +100,7 @@ permalink: /handbook/
     <li><a href="./smart">Smart</a></li>
     <li><a href="./teacher">Teacher</a></li>
     <li><a href="./marginal-gain">Marginal Gain</a></li>
-    <li><a href="./right-questions">right questions</a></li>
-    <li><a href="./mrbeast">MrBeast</a></li>
+    <li><a href="./mrbeast">MrBeast</a><button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
     <li><a href="./immerse">Immerse</a></li>
     <li><a href="./omniscient">Omniscient</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
     <li><a href="./skill-tree">Skill Tree</a></li>
@@ -120,9 +120,15 @@ permalink: /handbook/
 <div class="items">
 <ol>
     <li><a href="./perfection">Perfection</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
+    <li><a href="./right-questions">right questions</a></li>
     <li><a href="./words">Words</a></li>
 </ol>
 </div>
+
+
+
+
+
 
 
 <script>
@@ -164,53 +170,4 @@ permalink: /handbook/
     isFiltered = !isFiltered;
 }
 
-
-// Initial filtering on page load (show all items)
-// filterItems('all');
 </script>
-
-
-<!-- 
-<script>
-var showAllItems = true; // Global variable to track if all items are shown initially
-
-function filterItems(tag) {
-    var containers = document.getElementsByClassName('items');
-    for (var j = 0; j < containers.length; j++) {
-        var items = containers[j].getElementsByTagName('li');
-        for (var i = 0; i < items.length; i++) {
-            var item = items[i];
-            var button = item.querySelector('button');
-            
-            // Check if there's no button or the button matches the tag
-            if (tag === 'all' || tag === 'show-all') {
-                item.style.display = 'list-item'; // Show the item
-            } else if (!button && tag !== 'all') {
-                item.style.display = 'none'; // Hide the item
-            } else if (button.classList.contains(tag)) {
-                item.style.display = 'list-item'; // Show the item
-            } else {
-                item.style.display = 'none'; // Hide the item
-            }
-        }
-    }
-}
-
-// Initial filtering on page load (show all items)
-filterItems('all');
-
-// // Function to toggle between filtering and showing all
-// function toggleFilter(tag) {
-//     var showAllTag = 'show-all';
-//     // Check if currently showing all items
-//     var currentlyShowingAll = Array.from(document.querySelectorAll('.items li')).every(item => item.style.display !== 'none');
-    
-//     if (currentlyShowingAll) {
-//         // If already showing all items, toggle back to 'all'
-//         filterItems(showAllTag);
-//     } else {
-//         // Otherwise, filter by the specified tag
-//         filterItems(tag);
-//     }
-// }
-</script> -->
