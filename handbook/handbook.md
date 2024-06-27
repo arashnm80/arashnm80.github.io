@@ -7,11 +7,11 @@ permalink: /handbook/
 **This can be paradise, this can be hell. This is life, but whatever this is, this is my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?**
 
 ### 0
-1. [C'est ma vie](./c'est-ma-vie)
+1. [C'est ma vie](./c'est-ma-vie) <span style="color:Black">⬤ core</span>
 
 ### 1
-1. [C'est la vie](./c'est-la-vie)
-1. [No time for caution](./no-time-for-caution)
+1. [C'est la vie](./c'est-la-vie) <span style="color:Black">⬤ core</span>
+1. [No time for caution](./no-time-for-caution) <span style="color:Black">⬤ core</span>
 
 ### 2
 1. [Non-Zero Effort](./non-zero-effort) <span style="color:MediumSeaGreen">⬤ quality level</span>
@@ -25,7 +25,7 @@ permalink: /handbook/
 1. [Sort](./sort)
 1. [Begin Again](./begin-again)
 1. [Fight](./fight)
-1. [Experience](./experience)
+1. [Experience](./experience) <span style="color:MediumPurple">⬤ superpower</span>
 1. [Pomodoro](./pomodoro.md)
 1. [Risk](./risk)
 
@@ -48,12 +48,11 @@ permalink: /handbook/
 1. [Skin in the game](./skin-in-the-game)
 
 ### 5
-1. [Perfection-Obsession](./perfection-obsession) <span style="color:MediumSeaGreen">⬤ quality level</span>
 1. [Streak](./streak) <span style="color:MediumSeaGreen">⬤ quality level</span>
-1. [Idea person](./idea-person) <span style="color:Crimson">⬤ game changer</span>
 1. [Subconscious](./subconscious)
 1. [People](./people)
 1. [Will](./will)
+1. [Idea person](./idea-person) <span style="color:Crimson">⬤ game changer</span>
 1. [Multitask](./multitask)
 1. [System 1 & 2](./system-1-2)
 1. [Renewable energy](./renewable-energy)
@@ -75,6 +74,7 @@ permalink: /handbook/
 1. [Skill Tree](./skill-tree)
 1. [Mind Opiums](./mind-opiums)
 1. [focus shower](./focus-shower)
+1. [Hobby as a Service](./hobby-as-a-service) <span style="color:Crimson">⬤ game changer</span>
 1. [Optimism & Pessimism](./optimism-pessimism)
 1. [Shot](./shot)
 1. [Boredom](./boredom)
@@ -82,6 +82,6 @@ permalink: /handbook/
 1. [Potential](./potential)
 
 ### 6
+1. [Perfection](./perfection) <span style="color:MediumSeaGreen">⬤ quality level</span>
 1. [Words](./words)
 1. [niksen](./niksen)
-1. [Hobby as a Service](./hobby-as-a-service) <span style="color:Crimson">⬤ game changer</span>
