@@ -19,7 +19,7 @@ title: Quotes
 
 > The rest of my life starts right now.
 
-> Leave or fight for the narrow possibility to live.
+> C'est la vie. Leave or fight for the narrow possibility to live.
 
 > Think out of the box.
 
