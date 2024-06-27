@@ -22,8 +22,9 @@ permalink: /handbook/
 ### 3
 1. [Action](./action)
 1. [Begin Again](./begin-again)
-1. [MVP](./mvp) <span style="color:DodgerBlue">⬤</span>
-1. [Good Enough](./good-enough) <span style="color:#1974d2">⬤</span>
+1. [Non-Zero Effort](./non-zero-effort) <span style="color:DodgerBlue">⬤</span>
+1. [Minimum Viable Product](./minimum-viable-product) <span style="color:DodgerBlue">⬤</span>
+1. [Good Enough](./good-enough) <span style="color:DodgerBlue">⬤</span>
 1. [Fight](./fight)
 1. [Experience](./experience)
 1. [Pomodoro](./pomodoro.md)
@@ -79,7 +80,7 @@ permalink: /handbook/
 1. [lose](./lose)
 1. [Words](./words)
 1. [Potential](./potential)
+1. [niksen](./niksen)
 
 ### 6
-1. [niksen](./niksen)
 - 
