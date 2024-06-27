@@ -28,14 +28,14 @@ ul.numbered-list {
 - [C'est ma vie](./c'est-ma-vie)
 
 ### 1
-- [C'est la vie](./c'est-la-vie)
-- [No time for caution](./no-time-for-caution)
+1. [C'est la vie](./c'est-la-vie)
+1. [No time for caution](./no-time-for-caution)
 
 ### 2
-- [I-dentity](./i-dentity)
-- [Uncertainty](./uncertainty)
-- [Sort](./sort)
-- [Newton's Third law](./newton's-third-law)
+1. [I-dentity](./i-dentity)
+1. [Uncertainty](./uncertainty)
+1. [Sort](./sort)
+1. [Newton's Third law](./newton's-third-law)
 
 ### 3
 - [Action](./action)
