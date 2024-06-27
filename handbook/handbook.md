@@ -44,13 +44,13 @@ permalink: /handbook/
 1. [Domino Effect](./domino-effect)
 1. [Seize](./seize)
 1. [Shame](./shame)
-1. [Art of racing in the rain](./art-of-racing-in-the-rain)
+1. [Art of racing in the rain](./art-of-racing-in-the-rain) <span style="color:MediumPurple">⬤ superpower</span>
 1. [Skin in the game](./skin-in-the-game)
 
 ### 5
 1. [Perfection-Obsession](./perfection-obsession) <span style="color:DodgerBlue">⬤ quality level</span>
 1. [Streak](./streak) <span style="color:DodgerBlue">⬤ quality level</span>
-1. [Idea person vs. Labor person](./idea-person-labor-person) <span style="color:Crimson">⬤ game changer</
+1. [Idea person vs. Labor person](./idea-person-labor-person) <span style="color:Crimson">⬤ game changer</span>
 1. [Subconscious](./subconscious)
 1. [People](./people)
 1. [Will](./will)
@@ -70,7 +70,7 @@ permalink: /handbook/
 1. [right questions](./right-questions)
 1. [MrBeast](./mrbeast)
 1. [Immerse](./immerse)
-1. [Superpowers](./superpowers)
+1. [Omniscient](./omniscient) <span style="color:MediumPurple">⬤ superpower</span>
 1. [Victim](./victim)
 1. [Skill Tree](./skill-tree)
 1. [Mind Opiums](./mind-opiums)
@@ -84,4 +84,4 @@ permalink: /handbook/
 ### 6
 1. [Words](./words)
 1. [niksen](./niksen)
-1. [Hobby as a Service](./hobby-as-a-service) <span style="color:Crimson">⬤ game changer</
+1. [Hobby as a Service](./hobby-as-a-service) <span style="color:Crimson">⬤ game changer</span>
