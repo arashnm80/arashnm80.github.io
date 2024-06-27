@@ -21,6 +21,8 @@ title: Quotes
 
 > C'est la vie. Leave or fight for the narrow possibility to live.
 
+> My life is determined by my luck (what happens to me) and my actions(how I respond to them).
+
 > Think out of the box.
 
 > If you have to walk through an unpleasant path, what can you do to make it more bearable or even turn the tide and use it to your advantage?
