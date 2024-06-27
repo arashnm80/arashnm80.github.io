@@ -9,16 +9,16 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="teacher &amp; programmer" />
 <meta property="og:description" content="teacher &amp; programmer" />
-<link rel="canonical" href="http://localhost:4000/test/" />
-<meta property="og:url" content="http://localhost:4000/test/" />
+<link rel="canonical" href="http://0.0.0.0:4000/test/" />
+<meta property="og:url" content="http://0.0.0.0:4000/test/" />
 <meta property="og:site_name" content="Arash Nemat Zadeh" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Example Page" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"teacher &amp; programmer","headline":"Example Page","url":"http://localhost:4000/test/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"teacher &amp; programmer","headline":"Example Page","url":"http://0.0.0.0:4000/test/"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Arash Nemat Zadeh" /></head>
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://0.0.0.0:4000/feed.xml" title="Arash Nemat Zadeh" /></head>
 <body><header class="site-header" role="banner">
 
   <div class="wrapper"><a class="site-title" rel="author" href="/">Arash Nemat Zadeh</a><nav class="site-nav">
@@ -38,30 +38,16 @@
       <div class="wrapper">
         <h2 id="example-page">Example Page</h2>
 
-<div id="items">
-- Item 1 <span class="tag core">⬤ core</span>
-- Item 2 <span class="tag quality">⬤ quality level</span>
-- Item 3 <span class="tag core">⬤ core</span>
-- Item 4 <span class="tag quality">⬤ quality level</span>
-</div>
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+  <li>Item 4</li>
+</ul>
 
-<script>
-function filterItems(tag) {
-    var items = document.getElementById('items').getElementsByTagName('span');
-    for (var i = 0; i < items.length; i++) {
-        var item = items[i];
-        if (tag === 'all' || item.classList.contains(tag)) {
-            item.style.display = 'inline-block'; // Show the item
-        } else {
-            item.style.display = 'none'; // Hide the item
-        }
-    }
-}
-</script>
-
-<p><button onclick="filterItems('core')">Show Core Tags</button>
-<button onclick="filterItems('quality')">Show Quality Level Tags</button>
-<button onclick="filterItems('all')">Show All</button></p>
+<p><a href="?filter=core">Show Core Tags</a>
+<a href="?filter=quality">Show Quality Level Tags</a>
+<a href="?filter=all">Show All</a></p>
 
       </div>
     </main><footer class="site-footer h-card">

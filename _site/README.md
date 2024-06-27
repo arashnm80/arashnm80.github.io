@@ -17,6 +17,11 @@
 node quotes.js; bundle install; bundle exec jekyll serve;
 ```
 
+## map jekyll port of vps to my pc
+```
+ssh -L 4000:localhost:4000 root@5.161.154.70
+```
+
 ## add, commit, push
 ```
 node quotes.js; git add .; git commit -am "edit"; git push;
