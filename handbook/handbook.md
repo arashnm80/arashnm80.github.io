@@ -35,7 +35,7 @@ permalink: /handbook/
 ### 2
 <div class="items">
 <ol>
-    <li><a href="./non-zero-effort">Non-Zero Effort</a> </li>
+    <li><a href="./non-zero-effort">Non-Zero Effort</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
     <li><a href="./i-dentity">I-dentity</a> </li>
     <li><a href="./uncertainty">Uncertainty</a> </li>
     <li><a href="./newton's-third-law">Newton's Third law</a> </li>
@@ -53,7 +53,6 @@ permalink: /handbook/
     <li><a href="./fight">Fight</a></li>
     <li><a href="./experience">Experience</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
     <li><a href="./pomodoro.md">Pomodoro</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
-    <li><a href="./risk">Risk</a></li>
 </ol>
 </div>
 
@@ -64,6 +63,7 @@ permalink: /handbook/
     <li><a href="./reboot">Reboot</a></li>
     <li><a href="./dopamine">Dopamine</a></li>
     <li><a href="./fear-courage">Fear & Courage</a></li>
+    <li><a href="./risk">Risk</a></li>
     <li><a href="./hidden-progress">Hidden Progress</a></li>
     <li><a href="./chain-reaction">Chain Reaction</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./2-battlefields">2 Battlefields</a></li>
@@ -71,7 +71,6 @@ permalink: /handbook/
     <li><a href="./destination-path">Destination & Path</a></li>
     <li><a href="./narrow-way-through">Narrow way through</a></li>
     <li><a href="./80-20">80-20</a></li>
-    <li><a href="./domino-effect">Domino Effect</a></li>
     <li><a href="./seize">Seize</a></li>
     <li><a href="./shame">Shame</a></li>
     <li><a href="./victim">Victim</a></li>
@@ -87,6 +86,7 @@ permalink: /handbook/
     <li><a href="./people">People</a></li>
     <li><a href="./will">Will</a></li>
     <li><a href="./idea-person">Idea person</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
+    <li><a href="./domino-effect">Domino Effect</a></li>
     <li><a href="./multitask">Multitask</a></li>
     <li><a href="./system-1-2">System 1 & 2</a></li>
     <li><a href="./renewable-energy">Renewable energy</a></li>
