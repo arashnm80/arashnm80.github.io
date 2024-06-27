@@ -122,6 +122,7 @@ permalink: /handbook/
     <li><a href="./perfection">Perfection</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
     <li><a href="./right-questions">right questions</a></li>
     <li><a href="./words">Words</a></li>
+    <li><a href="./brush-teeth">Brush Teeth</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
 </ol>
 </div>
 
