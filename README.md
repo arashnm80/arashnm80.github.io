@@ -17,7 +17,7 @@
 node quotes.js; bundle install; bundle exec jekyll serve;
 ```
 
-## map jekyll port of vps to my pc
+## map jekyll port of vps to my pc (got permission denied error)
 ```
 ssh -L 4000:localhost:4000 root@5.161.154.70
 ```

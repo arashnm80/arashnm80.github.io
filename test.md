@@ -5,13 +5,27 @@ title: Example Page
 
 ## Example Page
 
-{% assign filter = page.filter | default: 'all' %}
+<div id="items">
+- <span class="tag core">⬤ core</span> Item 1
+- <span class="tag quality">⬤ quality level</span> Item 2
+- <span class="tag core">⬤ core</span> Item 3
+- <span class="tag quality">⬤ quality level</span> Item 4
+</div>
 
-- Item 1 {% if filter == 'core' %}<span class="tag core">⬤ core</span>{% endif %}
-- Item 2 {% if filter == 'quality' %}<span class="tag quality">⬤ quality level</span>{% endif %}
-- Item 3 {% if filter == 'core' %}<span class="tag core">⬤ core</span>{% endif %}
-- Item 4 {% if filter == 'quality' %}<span class="tag quality">⬤ quality level</span>{% endif %}
+<button onclick="filterItems('core')">Show Core Tags</button>
+<button onclick="filterItems('quality')">Show Quality Level Tags</button>
+<button onclick="filterItems('all')">Show All</button>
 
-[Show Core Tags](?filter=core)
-[Show Quality Level Tags](?filter=quality)
-[Show All](?filter=all)
+<script>
+function filterItems(tag) {
+    var items = document.getElementById('items').getElementsByTagName('span');
+    for (var i = 0; i < items.length; i++) {
+        var item = items[i];
+        if (tag === 'all' || item.classList.contains(tag)) {
+            item.parentElement.style.display = 'list-item'; // Show the item
+        } else {
+            item.parentElement.style.display = 'none'; // Hide the item
+        }
+    }
+}
+</script>
