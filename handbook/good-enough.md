@@ -19,6 +19,3 @@ If I'm gonna be a perfectionist and maximize things I should do it in all direct
 
 > No matter how much I can stretch, in the end I have a limited rope. The challenge is to maximize the area.
 
-### Perfection-Obsession
-How to paralyze a perfection-obsessive?
-Tell him to grab 20 apples from refrigerator while you know there are 19 or 21 of them.

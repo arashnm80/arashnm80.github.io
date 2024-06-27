@@ -49,6 +49,7 @@ permalink: /handbook/
 
 ### 5
 1. [Streak](./streak) <span style="color:DodgerBlue" title="quality levels">⬤</span>
+1. [Perfection-Obsession](./perfection-obsession) <span style="color:DodgerBlue" title="quality levels">⬤</span>
 1. [Idea person vs. Labor person](./idea-person-labor-person)
 1. [Subconscious](./subconscious)
 1. [People](./people)
@@ -78,8 +79,8 @@ permalink: /handbook/
 1. [Shot](./shot)
 1. [Boredom](./boredom)
 1. [lose](./lose)
-1. [Words](./words)
 1. [Potential](./potential)
 
 ### 6
+1. [Words](./words)
 1. [niksen](./niksen)
