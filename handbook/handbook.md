@@ -14,13 +14,13 @@ permalink: /handbook/
 1. [No time for caution](./no-time-for-caution)
 
 ### 2
-1. [Non-Zero Effort](./non-zero-effort) <span style="color:DodgerBlue" title="quality levels">⬤</span>
+1. [Non-Zero Effort](./non-zero-effort) <span style="color:DodgerBlue">⬤ quality level</span>
 1. [I-dentity](./i-dentity)
 1. [Uncertainty](./uncertainty)
 1. [Newton's Third law](./newton's-third-law)
 
 ### 3
-1. [Minimum Viable Product](./minimum-viable-product) <span style="color:DodgerBlue" title="quality levels">⬤</span>
+1. [Minimum Viable Product](./minimum-viable-product) <span style="color:DodgerBlue">⬤ quality level</span>
 1. [Action](./action)
 1. [Sort](./sort)
 1. [Begin Again](./begin-again)
@@ -30,12 +30,12 @@ permalink: /handbook/
 1. [Risk](./risk)
 
 ### 4
-1. [Good Enough](./good-enough) <span style="color:DodgerBlue" title="quality levels">⬤</span>
+1. [Good Enough](./good-enough) <span style="color:DodgerBlue">⬤ quality level</span>
 1. [Reboot](./reboot)
 1. [Dopamine](./dopamine)
 1. [Fear & Courage](./fear-courage)
 1. [Hidden Progress](./hidden-progress)
-1. [Trump Cards & Game Changers](./trump-cards-game-changers)
+1. [Chain Reaction](./chain-reaction) <span style="color:Crimson">⬤ game changer</span>
 1. [2 Battlefields](./2-battlefields)
 1. [Near Zero Cost](./near-zero-cost)
 1. [Destination & Path](./destination-path)
@@ -48,9 +48,9 @@ permalink: /handbook/
 1. [Skin in the game](./skin-in-the-game)
 
 ### 5
-1. [Streak](./streak) <span style="color:DodgerBlue" title="quality levels">⬤</span>
-1. [Perfection-Obsession](./perfection-obsession) <span style="color:DodgerBlue" title="quality levels">⬤</span>
-1. [Idea person vs. Labor person](./idea-person-labor-person)
+1. [Perfection-Obsession](./perfection-obsession) <span style="color:DodgerBlue">⬤ quality level</span>
+1. [Streak](./streak) <span style="color:DodgerBlue">⬤ quality level</span>
+1. [Idea person vs. Labor person](./idea-person-labor-person) <span style="color:Crimson">⬤ game changer</
 1. [Subconscious](./subconscious)
 1. [People](./people)
 1. [Will](./will)
@@ -84,3 +84,4 @@ permalink: /handbook/
 ### 6
 1. [Words](./words)
 1. [niksen](./niksen)
+1. [Hobby as a Service](./hobby-as-a-service) <span style="color:Crimson">⬤ game changer</

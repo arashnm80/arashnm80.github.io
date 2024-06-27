@@ -71,6 +71,8 @@ title: Quotes
 
 > I'm gonna change the world and I'm not gonna ask for permission.
 
+> Wealth is having assets that earn while I sleep.
+
 > A real loser is someone who's so afraid of not winning he doesn't even try.
 
 > If I'm not failing I'm not operating at the edge. if I'm not operating at the edge, I'm not learning as much as I can.
@@ -146,8 +148,6 @@ title: Quotes
 > تو یه گلوله‌ی طلایی نداری، صدتا گلوله‌ی سربی داری. باید انقدر بزنی تا بخوره به هدف
 
 > I'm gonna think out of the box.
-
-> Wealth is having assets that earn while I sleep.
 
 > No one actually knows what the hell they're doing. Everyone is just working off their current best guess.
 
