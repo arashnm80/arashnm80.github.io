@@ -15,7 +15,7 @@ permalink: /handbook/
     } */
 </style>
 
-<button onclick="filterItems('all')" class="btn">Show All</button>
+<!-- <button onclick="filterItems('all')" class="btn">Show All</button> -->
 
 ### 0
 <div class="items">
