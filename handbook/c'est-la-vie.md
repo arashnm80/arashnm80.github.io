@@ -7,9 +7,12 @@ title: C'est la vie
 
 Maybe it's what I want, maybe it's what I have to do, maybe it's my choice, maybe it's law of the universe or maybe it's sth written into my source code by my genes, family and society. Whatever it is, it's the truth I can't run from.
 
-I don't have any defaults about this world. I'm not some absent minded who injects mind opiums to himself. I simiply believe in calculations of science, mathematics, probabilities and programming.
+### Leave or Live
+Half of me like this world, want to stay in it, want to feel and enjoy, want to experience, want to achieve, want to become better, want to listen to music, swim, sex, walk under rain.
 
-> My life is determined by my luck (what happens to me) and my actions(how I respond to them).
+And half of me have never wanted to be born, can't undersand this world, don't have any interest in this world, finds the costs and pain much further benefits and joy, just want to close my eyes, fall sleep and never wake up again.
+
+In the end I have to choose one side.
 
 ### fight for the narrow possibility to live
 First of all it's a fight. trying to live means to be in a constant fight; to fight with depression and lack of dopamine, to fight with loss of loved ones, to fight with pain and loneliness, to fight with tendency to give myself up to sadness and pressure, to fight with stress and anxiety, to fight with cruel acts of this cruel world, to fight with idiots, frauds and oppressives, and most importantly to fight agaist addiction to fight and try to see and seize very small opportunities to live because the reason to fight is to get rid of it.
