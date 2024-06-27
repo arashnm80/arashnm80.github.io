@@ -46,9 +46,9 @@ permalink: /handbook/
 <div class="items">
 <ol>
     <li><a href="./minimum-viable-product">Minimum Viable Product</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
-    <li><a href="./streak">Streak</a> <button style="color:Black" onclick="filterItems('core')" class="btn tag core">⬤ core</button></li>
-    <li><a href="./action">Action</a> <button style="color:Black" onclick="filterItems('core')" class="btn tag core">⬤ core</button></li>
-    <li><a href="./sort">Sort</a> <button style="color:Black" onclick="filterItems('core')" class="btn tag core">⬤ core</button></li>
+    <li><a href="./streak">Streak</a> </li>
+    <li><a href="./action">Action</a> </li>
+    <li><a href="./sort">Sort</a> </li>
     <li><a href="./begin-again">Begin Again</a></li>
     <li><a href="./fight">Fight</a></li>
     <li><a href="./experience">Experience</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
