@@ -7,81 +7,129 @@ permalink: /handbook/
 **This can be paradise, this can be hell. This is life, but whatever this is, this is my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?**
 
 ### 0
-1. [C'est ma vie](./c'est-ma-vie) <span style="color:Black">⬤ core</span>
+<div class="items">
+<ol>
+<li><a href="./c'est-ma-vie">C'est ma vie</a> <button style="color:Black" onclick="filterItems('core')" class="tag core">⬤ core</button></li>
+</ol>
+</div>
 
 ### 1
-1. [C'est la vie](./c'est-la-vie) <span style="color:Black">⬤ core</span>
-1. [No time for caution](./no-time-for-caution) <span style="color:Black">⬤ core</span>
+<div class="items">
+<ol>
+<li><a href="./c'est-la-vie">C'est la vie</a> <button style="color:Black" onclick="filterItems('core')" class="tag core">⬤ core</button></li>
+<li><a href="./no-time-for-caution">No time for caution</a> <button style="color:Black" onclick="filterItems('core')" class="tag core">⬤ core</button></li>
+</ol>
+</div>
 
 ### 2
-1. [Non-Zero Effort](./non-zero-effort) <span style="color:MediumSeaGreen">⬤ quality level</span>
-1. [I-dentity](./i-dentity) <span style="color:Black">⬤ core</span>
-1. [Uncertainty](./uncertainty) <span style="color:Black">⬤ core</span>
-1. [Newton's Third law](./newton's-third-law) <span style="color:Black">⬤ core</span>
+<div class="items">
+<ol>
+<li><a href="./non-zero-effort">Non-Zero Effort</a> <span style="color:MediumSeaGreen">⬤ quality level</span></li>
+<li><a href="./i-dentity">I-dentity</a> <button style="color:Black" onclick="filterItems('core')" class="tag core">⬤ core</button></li>
+<li><a href="./uncertainty">Uncertainty</a> <button style="color:Black" onclick="filterItems('core')" class="tag core">⬤ core</button></li>
+<li><a href="./newton's-third-law">Newton's Third law</a> <button style="color:Black" onclick="filterItems('core')" class="tag core">⬤ core</button></li>
+</ol>
+</div>
 
 ### 3
-1. [Streak](./streak) <span style="color:Black">⬤ core</span>
-1. [Action](./action) <span style="color:Black">⬤ core</span>
-1. [Sort](./sort) <span style="color:Black">⬤ core</span>
-1. [Begin Again](./begin-again)
-1. [Fight](./fight)
-1. [Experience](./experience) <span style="color:MediumPurple">⬤ superpower</span>
-1. [Pomodoro](./pomodoro.md) <span style="color:Orange">⬤ habit</span>
-1. [Risk](./risk)
+<div class="items">
+<ol>
+<li><a href="./streak">Streak</a> <button style="color:Black" onclick="filterItems('core')" class="tag core">⬤ core</button></li>
+<li><a href="./action">Action</a> <button style="color:Black" onclick="filterItems('core')" class="tag core">⬤ core</button></li>
+<li><a href="./sort">Sort</a> <button style="color:Black" onclick="filterItems('core')" class="tag core">⬤ core</button></li>
+<li><a href="./begin-again">Begin Again</a></li>
+<li><a href="./fight">Fight</a></li>
+<li><a href="./experience">Experience</a> <button style="color:MediumPurple" onclick="filterItems('superpowers')" class="tag superpowers">⬤ superpowers</button></li>
+<li><a href="./pomodoro.md">Pomodoro</a> <span style="color:Orange">⬤ habit</span></li>
+<li><a href="./risk">Risk</a></li>
+</ol>
+</div>
 
 ### 4
-1. [Minimum Viable Product](./minimum-viable-product) <span style="color:MediumSeaGreen">⬤ quality level</span>
-1. [Reboot](./reboot)
-1. [Dopamine](./dopamine)
-1. [Fear & Courage](./fear-courage)
-1. [Hidden Progress](./hidden-progress)
-1. [Chain Reaction](./chain-reaction) <span style="color:Crimson">⬤ game changer</span>
-1. [2 Battlefields](./2-battlefields)
-1. [Good Enough](./good-enough) <span style="color:MediumSeaGreen">⬤ quality level</span>
-1. [Near Zero Cost](./near-zero-cost)
-1. [Destination & Path](./destination-path)
-1. [Narrow way through](./narrow-way-through)
-1. [80-20](./80-20)
-1. [Domino Effect](./domino-effect)
-1. [Seize](./seize)
-1. [Shame](./shame)
-1. [Art of racing in the rain](./art-of-racing-in-the-rain) <span style="color:MediumPurple">⬤ superpower</span>
-1. [Skin in the game](./skin-in-the-game)
+<div class="items">
+<ol>
+<li><a href="./minimum-viable-product">Minimum Viable Product</a> <span style="color:MediumSeaGreen">⬤ quality level</span></li>
+<li><a href="./reboot">Reboot</a></li>
+<li><a href="./dopamine">Dopamine</a></li>
+<li><a href="./fear-courage">Fear & Courage</a></li>
+<li><a href="./hidden-progress">Hidden Progress</a></li>
+<li><a href="./chain-reaction">Chain Reaction</a> <span style="color:Crimson">⬤ game changer</span></li>
+<li><a href="./2-battlefields">2 Battlefields</a></li>
+<li><a href="./good-enough">Good Enough</a> <span style="color:MediumSeaGreen">⬤ quality level</span></li>
+<li><a href="./near-zero-cost">Near Zero Cost</a></li>
+<li><a href="./destination-path">Destination & Path</a></li>
+<li><a href="./narrow-way-through">Narrow way through</a></li>
+<li><a href="./80-20">80-20</a></li>
+<li><a href="./domino-effect">Domino Effect</a></li>
+<li><a href="./seize">Seize</a></li>
+<li><a href="./shame">Shame</a></li>
+<li><a href="./art-of-racing-in-the-rain">Art of racing in the rain</a> <span style="color:MediumPurple">⬤ superpower</span></li>
+<li><a href="./skin-in-the-game">Skin in the game</a></li>
+</ol>
+</div>
 
 ### 5
-1. [Subconscious](./subconscious)
-1. [People](./people)
-1. [Will](./will)
-1. [Idea person](./idea-person) <span style="color:Crimson">⬤ game changer</span>
-1. [Multitask](./multitask)
-1. [System 1 & 2](./system-1-2)
-1. [Renewable energy](./renewable-energy)
-1. [Portrait Painting](./portrait-painting)
-1. [CBT](./cbt)
-1. [Bitcoin](./bitcoin)
-1. [Creativity](./creativity)
-1. [Freedom](./freedom)
-1. [Move Forward](./move-forward)
-1. 
-1. [Smart](./smart)
-1. [Teacher](./teacher)
-1. [Marginal Gain](./marginal-gain)
-1. [right questions](./right-questions)
-1. [MrBeast](./mrbeast)
-1. [Immerse](./immerse)
-1. [Omniscient](./omniscient) <span style="color:MediumPurple">⬤ superpower</span>
-1. [Victim](./victim)
-1. [Skill Tree](./skill-tree)
-1. [Mind Opiums](./mind-opiums)
-1. [focus shower](./focus-shower) <span style="color:Orange">⬤ habit</span>
-1. [Hobby as a Service](./hobby-as-a-service) <span style="color:Crimson">⬤ game changer</span>
-1. [Optimism & Pessimism](./optimism-pessimism)
-1. [Shot](./shot)
-1. [Boredom](./boredom)
-1. [lose](./lose)
-1. [Potential](./potential)
+<div class="items">
+<ol>
+<li><a href="./subconscious">Subconscious</a></li>
+<li><a href="./people">People</a></li>
+<li><a href="./will">Will</a></li>
+<li><a href="./idea-person">Idea person</a> <span style="color:Crimson">⬤ game changer</span></li>
+<li><a href="./multitask">Multitask</a></li>
+<li><a href="./system-1-2">System 1 & 2</a></li>
+<li><a href="./renewable-energy">Renewable energy</a></li>
+<li><a href="./portrait-painting">Portrait Painting</a></li>
+<li><a href="./cbt">CBT</a></li>
+<li><a href="./bitcoin">Bitcoin</a></li>
+<li><a href="./creativity">Creativity</a></li>
+<li><a href="./freedom">Freedom</a></li>
+<li><a href="./move-forward">Move Forward</a></li>
+<li><a href="./smart">Smart</a></li>
+<li><a href="./teacher">Teacher</a></li>
+<li><a href="./marginal-gain">Marginal Gain</a></li>
+<li><a href="./right-questions">right questions</a></li>
+<li><a href="./mrbeast">MrBeast</a></li>
+<li><a href="./immerse">Immerse</a></li>
+<li><a href="./omniscient">Omniscient</a> <button style="color:MediumPurple" onclick="filterItems('superpowers')" class="tag superpowers">⬤ superpowers</button></li>
+<li><a href="./victim">Victim</a></li>
+<li><a href="./skill-tree">Skill Tree</a></li>
+<li><a href="./mind-opiums">Mind Opiums</a></li>
+<li><a href="./focus-shower">focus shower</a> <span style="color:Orange">⬤ habit</span></li>
+<li><a href="./hobby-as-a-service">Hobby as a Service</a> <span style="color:Crimson">⬤ game changer</span></li>
+<li><a href="./optimism-pessimism">Optimism & Pessimism</a></li>
+<li><a href="./shot">Shot</a></li>
+<li><a href="./boredom">Boredom</a></li>
+<li><a href="./lose">lose</a></li>
+<li><a href="./potential">Potential</a></li>
+</ol>
+</div>
 
 ### 6
-1. [Perfection](./perfection) <span style="color:MediumSeaGreen">⬤ quality level</span>
-1. [Words](./words)
-1. [niksen](./niksen)
+<div class="items">
+<ol>
+<li><a href="./perfection">Perfection</a> <span style="color:MediumSeaGreen">⬤ quality level</span></li>
+<li><a href="./words">Words</a></li>
+<li><a href="./niksen">niksen</a></li>
+</ol>
+</div>
+
+<button onclick="filterItems('core')">⬤ core</button>
+<button onclick="filterItems('quality')">⬤ quality level</button>
+<button onclick="filterItems('all')">Show All</button>
+
+<script>
+function filterItems(tag) {
+    var containers = document.getElementsByClassName('items');
+    for (var j = 0; j < containers.length; j++) {
+        var items = containers[j].getElementsByTagName('li');
+        for (var i = 0; i < items.length; i++) {
+            var item = items[i];
+            if (tag === 'all' || item.querySelector('.tag').classList.contains(tag)) {
+                item.style.display = 'list-item'; // Show the item
+            } else {
+                item.style.display = 'none'; // Hide the item
+            }
+        }
+    }
+}
+</script>
