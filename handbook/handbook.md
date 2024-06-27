@@ -80,6 +80,6 @@ permalink: /handbook/
 1. [lose](./lose)
 1. [Words](./words)
 1. [Potential](./potential)
-1. [niksen](./niksen)
 
 ### 6
+1. [niksen](./niksen)
