@@ -4,8 +4,6 @@ title: Handbook
 permalink: /handbook/
 ---
 
-**This can be paradise, this can be hell. This is life, but whatever this is, this is my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?**
-
 <style>
     .btn {
         border-radius: 10px;
@@ -31,6 +29,8 @@ permalink: /handbook/
     <li><a href="./no-time-for-caution">No time for caution</a> <button style="color:Black" onclick="filterItems('core')" class="btn tag core">⬤ core</button></li>
 </ol>
 </div>
+
+**This can be paradise, this can be hell. This is life, but whatever this is, this is my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?**
 
 ### 2
 <div class="items">
