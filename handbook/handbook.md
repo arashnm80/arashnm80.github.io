@@ -129,6 +129,7 @@ permalink: /handbook/
     <li><a href="./leader">Leader</a></li>
     <li><a href="./wild">Wild</a></li>
     <li><a href="./improvise">Improvise</a></li>
+    <li><a href="./sale">Sale</a></li>
 </ol>
 </div>
 

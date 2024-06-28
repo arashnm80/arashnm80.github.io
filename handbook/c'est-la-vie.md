@@ -5,7 +5,7 @@ title: C'est la vie
 
 > C'est la vie. Leave or [fight](../fight) for the [narrow possibility](../narrow-way-through) to live.
 
-Maybe it's what I want, maybe it's what I have to do, maybe it's my choice, maybe it's law of the universe or maybe it's sth written into my source code by my genes, family and society. Whatever it is, it's the truth I can't run from.
+Maybe it's what I want, maybe it's what I have to do, maybe it's my choice, maybe it's law of the universe or maybe it's sth written into my source code by my genes, family and society. Whatever it is, I know I can't tolerate to be just alive and it's the truth I can't run from
 
 ### Leave or Live
 Half of me like this world, want to stay in it, want to feel and enjoy, want to experience, want to achieve, want to become better, want to listen to music, swim, sex, walk under rain.

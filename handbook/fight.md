@@ -16,3 +16,6 @@ title: Fight
 
 ### Rebellion
 > When injustice becomes law, rebellion becomes duty.
+
+### Hardworking
+> Make every bullet count.

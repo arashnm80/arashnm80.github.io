@@ -7,6 +7,8 @@ title: Quotes
 
 > Talk is cheap, show me the code.
 
+> I'm gonna live my choices through real life actions.
+
 > I choose to be the same person in the best or worst possible situation.
 
 > The scope of one's personality is defined by the magnitude of that problem which is capable of driving a person out of his wits.
@@ -46,6 +48,8 @@ title: Quotes
 > I'm gonna work hard on what interests me the most in the most undisciplined, irreverent and original manner possible.
 
 > When injustice becomes law, rebellion becomes duty.
+
+> Make every bullet count.
 
 > No matter how much I can stretch, in the end I have a limited rope. The challenge is to maximize the area.
 
@@ -109,6 +113,8 @@ title: Quotes
 
 > Time's running out like a cup of coffee, so whatever I'm gonna do I have to do it right now.
 
+> It's always late to start, tomorrow much later than today.
+
 > This life, this year, this year, this second
 
 > My time is limited, I'm not gonna waste it living someone else’s life.
@@ -144,6 +150,8 @@ title: Quotes
 > World is fool of lonely people afraid to make the first move.
 
 > I'm not gonna let the fear of striking out keep me from playing the game.
+
+> Marketing is like sex, only losers pay for it.
 
 > Am I ashamed becuase I'm not who I want to be or because I'm not what society says I have to be?
 

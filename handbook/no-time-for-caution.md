@@ -11,6 +11,26 @@ title: No time for caution
 
 > Time's running out like a cup of coffee, so whatever I'm gonna do I have to do it right now.
 
+> It's always late to start, tomorrow much later than today.
+
+> This life, this year, this year, this second
+![this-life-this-day-this-day-this-second](../../assets/this-life-this-day-this-day-this-second.jpg)
+
+### Steve Jobs
+> [My](../i-dentity) time is limited, I'm not gonna waste it living someone else’s life.
+
+### Money
+> I won't get rich by renting out my time.
+
+### Time Travel
+> Assess every choice with a single question: "If I time-travel to past, do I repeat it again the same?"
+
+> Do I live my life in such a way that I would be willing to repeat it again and again, forever?
+
+> I just try to live every day as if I've deliberately come back to this one day, to enjoy it, as if it was the full final day of my extraordinary, ordinary life.
+
+
+
 <!-- <div id="disappearing-text"></div>
 <br>
 
@@ -73,19 +93,3 @@ document.addEventListener("DOMContentLoaded", function() {
     const intervalId = setInterval(updateText, 1000);
 });
 </script> -->
-
-> This life, this year, this year, this second
-![this-life-this-day-this-day-this-second](../../assets/this-life-this-day-this-day-this-second.jpg)
-
-### Steve Jobs
-> [My](../i-dentity) time is limited, I'm not gonna waste it living someone else’s life.
-
-### Money
-> I won't get rich by renting out my time.
-
-### Time Travel
-> Assess every choice with a single question: "If I time-travel to past, do I repeat it again the same?"
-
-> Do I live my life in such a way that I would be willing to repeat it again and again, forever?
-
-> I just try to live every day as if I've deliberately come back to this one day, to enjoy it, as if it was the full final day of my extraordinary, ordinary life.
