@@ -71,6 +71,8 @@ title: Quotes
 
 > If I can't fix myself how can I fix the world?
 
+> I'm not center of the world but I am center of my world.
+
 > Wealth is having assets that earn while I sleep.
 
 > It's not about how big an army is, it's about who is the general.

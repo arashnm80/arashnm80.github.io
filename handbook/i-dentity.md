@@ -29,3 +29,5 @@ Respect everyone and give a shit about no one, in fact don't even think about an
 > A great writer writes like there is no one else in the world to read.
 
 > If I can't fix myself how can I fix the world?
+
+> I'm not center of the world but I am center of my world.
