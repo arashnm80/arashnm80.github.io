@@ -15,6 +15,8 @@ permalink: /handbook/
 
 <!-- <button onclick="filterItems('all')" class="btn">Show All</button> -->
 
+**This can be paradise, this can be hell. This is life, but whatever this is, this is my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?**
+
 ### 0
 <div class="items">
 <ol>
@@ -29,8 +31,6 @@ permalink: /handbook/
     <li><a href="./no-time-for-caution">No time for caution</a> <button style="color:Black" onclick="filterItems('core')" class="btn tag core">⬤ core</button></li>
 </ol>
 </div>
-
-**This can be paradise, this can be hell. This is life, but whatever this is, this is my life. So what am I going to do with it, who do I choose to be and what do I choose to do now?**
 
 ### 2
 <div class="items">
