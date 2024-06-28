@@ -25,3 +25,7 @@ Respect everyone and give a shit about no one, in fact don't even think about an
 > Every great painter paints what he is.
 
 > I'm gonna change the world and I'm not gonna ask for permission.
+
+> A great writer writes like there is no one else in the world to read.
+
+> If I can't fix myself how can I fix the world?

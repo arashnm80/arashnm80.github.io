@@ -123,6 +123,10 @@ permalink: /handbook/
     <li><a href="./right-questions">right questions</a></li>
     <li><a href="./words">Words</a></li>
     <li><a href="./brush-teeth">Brush Teeth</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
+    <li><a href="./rest-reinforcement">Rest & Reinforcement</a></li>
+    <li><a href="./boom">Boom</a></li>
+    <li><a href="./patience">Patience</a></li>
+    <li><a href="./leader">Leader</a></li>
 </ol>
 </div>
 

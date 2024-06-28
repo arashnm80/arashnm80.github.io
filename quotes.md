@@ -35,14 +35,6 @@ title: Quotes
 
 > Qui ose gagne.
 
-> You're crazy until you're successful, then you are a genius. -MrBeast
-
-> The three most harmful addictions are heroin, carbohydrates, and a monthly salary.
-
-> World is fool of lonely people afraid to make the first move.
-
-> I'm not gonna let the fear of striking out keep me from playing the game.
-
 > How many fights do you have in yourself?
 
 > I'm gonna bruteforce my way to success.
@@ -71,7 +63,13 @@ title: Quotes
 
 > I'm gonna change the world and I'm not gonna ask for permission.
 
+> A great writer writes like there is no one else in the world to read.
+
+> If I can't fix myself how can I fix the world?
+
 > Wealth is having assets that earn while I sleep.
+
+> It's not about how big an army is, it's about who is the general.
 
 > A real loser is someone who's so afraid of not winning he doesn't even try.
 
@@ -86,6 +84,8 @@ title: Quotes
 > I just Keep Moving Forward Till I've Killed My Enemies.
 
 > I always want it to be a project that, if successful, will make the rest of my career look like a footnote.
+
+> You're crazy until you're successful, then you are a genius.
 
 > It's much easier to get 5M views on one video than 50K views on 100 videos.
 
@@ -130,6 +130,12 @@ title: Quotes
 > Any change is a mean to produce energy.
 
 > Any worthwhile venture involves risk.
+
+> The three most harmful addictions are heroin, carbohydrates, and a monthly salary.
+
+> World is fool of lonely people afraid to make the first move.
+
+> I'm not gonna let the fear of striking out keep me from playing the game.
 
 > Am I ashamed becuase I'm not who I want to be or because I'm not what society says I have to be?
 

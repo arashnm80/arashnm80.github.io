@@ -7,9 +7,6 @@ title: Fear & Courage
 
 > Qui ose gagne.
 
-### Leader
-> You're crazy until you're successful, then you are a genius. -MrBeast
-
 #### Dancing guy
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/fW8amMCVAJQ?si=KCb2QMmbGflxAzDf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
@@ -38,9 +35,3 @@ title: Fear & Courage
 
 ### Dive in the pool
 
-### Risk
-> The three most harmful addictions are heroin, carbohydrates, and a monthly salary.
-
-> World is fool of lonely people afraid to make the first move.
-
-> I'm not gonna let the fear of striking out keep me from playing the game.
