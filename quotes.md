@@ -21,6 +21,8 @@ title: Quotes
 
 > C'est la vie. Leave or fight for the narrow possibility to live.
 
+> In the end, it's not the years in my life that count. It's the life in my years.
+
 > Think out of the box.
 
 > If you have to walk through an unpleasant path, what can you do to make it more bearable or even turn the tide and use it to your advantage?
@@ -97,6 +99,8 @@ title: Quotes
 
 > My choice is not what I'm thinking, saying or writing but what I'm actually doing right now.
 
+> If I don't know what I want, I can't judge myself for not achieving it.
+
 > Time is my most precious asset and ultimate currency of my life.
 
 > Time's running out like a cup of coffee, so whatever I'm gonna do I have to do it right now.
@@ -161,6 +165,8 @@ title: Quotes
 
 > Whether I am a victim or not, I'm not gonna complain about it. I'm just gonna put my head down and soldier through it.
 
+> If I want to be the one in a billion person, I should live in a way that those other 999,999,999 people won't even imagine.
+
 > Luck ain't enough, I'm gonna make my own breaks.
 
 > I'm gonna be a Man of Focus, Commitment and Sheer Fucking Will.
@@ -174,4 +180,6 @@ title: Quotes
 > Success is my only motherf**ing option, failure's not.
 
 > If there are no more good movies to watch anymore, it's time for me to become a director and create my own masterpieces.
+
+> I'm gonna find a way or make one.
 

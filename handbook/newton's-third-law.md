@@ -10,6 +10,8 @@ title: "Newton's third law: Choose & Exchange"
 ### Choose
 > My choice is not what I'm thinking, saying or writing but what I'm actually [doing](../action) right [now](../no-time-for-caution).
 
+> If I don't know what I want, I can't judge myself for not achieving it.
+
 ### Exchange
 World is an ocean of options and possibilites and to choose one of them means to lose the others, so every choice has an exchange in its essence. This whole life is a big trading system, it's to constantly exchange assests with each other and one who can't stand to lose anything will gain nothing.
 

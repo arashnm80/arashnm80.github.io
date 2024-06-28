@@ -16,3 +16,5 @@ title: Will
 > Success is my only motherf**ing option, failure's not.
 
 > If there are no more good movies to watch anymore, it's time for me to become a director and create my own masterpieces.
+
+> I'm gonna find a way or make one.

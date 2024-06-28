@@ -21,3 +21,5 @@ Secondly it's a narrow possibility. It's a possibility because I can't be certai
 
 ### Life Factor
 The ultimate metric to evaluate worthiness of life is LF: Integral of pleasure minus pain through lifetime
+
+> In the end, it's not the years in my life that count. It's the life in my years.
