@@ -8,10 +8,10 @@ I am or I'm not, **this is my life.**
 I do or do not, **this is my life.**  
 I can or I can't, **this is my life.**  
 I act or don't act, **this is my life.**  
-I like or don't like, **this is my life.**  
-I want or don't want, **this is my life.**  
 I have or don't have, **this is my life.**  
+I like or don't like, **this is my life.**  
 I need or don't need, **this is my life.**  
+I want or don't want, **this is my life.**  
 I choose or don't choose, **this is my life.**  
 I accept or refuse, **this is my life.**  
 Best or worst, black or white, paradise or hell, **this is my life.**  
