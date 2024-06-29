@@ -6,8 +6,8 @@ title: C'est ma vie
 I [leave or live](../c'est-la-vie), **this is my life.**  
 I am or I'm not, **this is my life.**  
 I do or do not, **this is my life.**  
-I act or don't act, **this is my life.**  
 I can or I can't, **this is my life.**  
+I act or don't act, **this is my life.**  
 I try or don't try, **this is my life.**  
 I have or don't have, **this is my life.**  
 I like or don't like, **this is my life.**  
