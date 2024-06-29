@@ -16,8 +16,6 @@ I accept or refuse, **this is my life.**
 Best or worst, Black or white, everything or nothing, Happy or sad, beautiful or ugly, paradise or hell, **this is my life.**  
 **So what am I going to do with it, who do I choose to be and what do I choose to do now?**
 
-
-
 <!-- <div>
     <p style="
         background-image: url('https://www.jackson-pollock.org/assets/img/paintings/number-5.jpg'); 
