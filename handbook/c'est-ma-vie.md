@@ -19,24 +19,65 @@ Win or lose, easy or hard, possible or impossible, **this is my life.**
 Best or worst, black or white, paradise or hell, **this is my life.**  
 **So what am I going to do with it, who do I choose to be and what do I choose to do [now](../no-time-for-caution)?**
 
-<!-- <div>
-    <p style="
-        background-image: url('https://www.jackson-pollock.org/assets/img/paintings/number-5.jpg'); 
-        background-size: cover; 
-        background-position: center; 
-        background-repeat: no-repeat; 
-        padding: 20px; 
-        color: white; 
-        text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;">
 
-        <br><br><br><br><br><br>
-        This can be paradise, this can be hell. <a href="../c'est-la-vie">This is life.</a> But whatever this is, this is my life and I only live it once. So FUCK everybody and everything, let's reboot and reborn. What am I going to do with it, who do I choose to be and what do I choose to do <a href="../no-time-for-caution">now</a>?
-        <br><br><br><br><br><br>
+<span id="sentence-container">I leave or live, <strong>this is my life.</strong></span><br>
+**So what am I going to do with it, who do I choose to be and what do I choose to do [now](../no-time-for-caution)?**
 
-        <br>
-    </p>
-</div> -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const sentences = [
+        "I leave or live",
+        "I am or I'm not",
+        "I do or do not",
+        "I can or can't",
+        "I act or don't act",
+        "I try or don't try",
+        "I have or don't have",
+        "I like or don't like",
+        "I need or don't need",
+        "I want or don't want",
+        "I choose or don't choose",
+        "I accept or refuse",
+        "Win or lose, easy or hard, possible or impossible",
+        "Best or worst, black or white, paradise or hell",
+    ];
 
-<!-- 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0tZz5vMnsQqZnue8XyyPJo?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
--->
+    const boldText = "This is my life."; // The bold text you want to append
+
+    const sentenceContainer = document.getElementById('sentence-container');
+
+    function getRandomSentence() {
+        const randomIndex = Math.floor(Math.random() * sentences.length);
+        return sentences[randomIndex];
+    }
+
+    function showNextSentence() {
+        sentenceContainer.style.opacity = 0; // Start fade-out effect
+
+        setTimeout(() => {
+            const randomSentence = getRandomSentence();
+            sentenceContainer.innerHTML = randomSentence + ', <strong>' + boldText + '</strong>';
+            sentenceContainer.style.opacity = 1; // Start fade-in effect
+        }, 500); // Wait for fade-out to complete before changing the text
+    }
+
+    // Set initial sentence
+    const initialSentence = getRandomSentence();
+    sentenceContainer.innerHTML = initialSentence + ' <strong>' + boldText + '</strong>';
+
+    // Change sentence every 2 seconds
+    setInterval(showNextSentence, 3000);
+
+    // Set up initial fade-in effect
+    sentenceContainer.style.transition = 'opacity 0.5s ease-in-out';
+});
+</script>
+
+<!-- <style>
+#sentence-container {
+    transition: opacity 0.5s ease-in-out;
+    opacity: 1;
+    /* font-size: 1.5em;
+    margin: 20px; */
+}
+</style> -->

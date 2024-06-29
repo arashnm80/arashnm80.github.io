@@ -74,3 +74,5 @@ defaults:
       type: "pages"               # The type can be "pages" or "posts"
     values:
       layout: "page"              # The layout you want to apply
+exclude:
+  - _old_files

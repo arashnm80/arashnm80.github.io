@@ -9,16 +9,16 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="teacher &amp; programmer" />
 <meta property="og:description" content="teacher &amp; programmer" />
-<link rel="canonical" href="https://arashnm80.com/handbook/c'est-ma-vie/" />
-<meta property="og:url" content="https://arashnm80.com/handbook/c'est-ma-vie/" />
+<link rel="canonical" href="http://localhost:4000/handbook/c'est-ma-vie/" />
+<meta property="og:url" content="http://localhost:4000/handbook/c'est-ma-vie/" />
 <meta property="og:site_name" content="Arash Nemat Zadeh" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="C’est ma vie" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"teacher &amp; programmer","headline":"C’est ma vie","url":"https://arashnm80.com/handbook/c'est-ma-vie/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"teacher &amp; programmer","headline":"C’est ma vie","url":"http://localhost:4000/handbook/c'est-ma-vie/"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="https://arashnm80.com/feed.xml" title="Arash Nemat Zadeh" /></head>
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Arash Nemat Zadeh" /></head>
 <body><header class="site-header" role="banner">
 
   <div class="wrapper"><a class="site-title" rel="author" href="/">Arash Nemat Zadeh</a><nav class="site-nav">
@@ -43,43 +43,83 @@
   </header>
 
   <div class="post-content">
-    <p>I am or I’m not, this is my life.<br />
-I can or I can’t, this is my life.<br />
-I do or do not, this is my life.<br />
-I have or don’t have, this is my life.<br />
-I want or don’t want, this is my life.<br />
-I need or don’t need, this is my life.<br />
-I like or don’t like, this is my life.<br />
-I choose or don’t choose, this is my life.
-I act or don’t act, this is my life.
-I accept or refuse, this is my life.
-Best or worst, Black or white, paradise or hell, this is my life.</p>
+    <p>I <a href="../c'est-la-vie">leave or live</a>, <strong>this is my life.</strong><br />
+I am or I’m not, <strong>this is my life.</strong><br />
+I do or do not, <strong>this is my life.</strong><br />
+I can or I can’t, <strong>this is my life.</strong><br />
+I act or don’t act, <strong>this is my life.</strong><br />
+I try or don’t try, <strong>this is my life.</strong><br />
+I have or don’t have, <strong>this is my life.</strong><br />
+I like or don’t like, <strong>this is my life.</strong><br />
+I need or don’t need, <strong>this is my life.</strong><br />
+I want or don’t want, <strong>this is my life.</strong><br />
+I choose or don’t choose, <strong>this is my life.</strong><br />
+I accept or refuse, <strong>this is my life.</strong><br />
+Win or lose, easy or hard, possible or impossible, <strong>this is my life.</strong><br />
+Best or worst, black or white, paradise or hell, <strong>this is my life.</strong><br />
+<strong>So what am I going to do with it, who do I choose to be and what do I choose to do <a href="../no-time-for-caution">now</a>?</strong></p>
 
-<blockquote>
-  <p>“C’est ma vie” means 100% responsibility. It also means I can do whatever the fu*k I can do.</p>
-</blockquote>
+<p><span id="sentence-container">I leave or live, <strong>this is my life.</strong></span><br />
+<strong>So what am I going to do with it, who do I choose to be and what do I choose to do <a href="../no-time-for-caution">now</a>?</strong></p>
 
-<!-- <div>
-    <p style="
-        background-image: url('https://www.jackson-pollock.org/assets/img/paintings/number-5.jpg'); 
-        background-size: cover; 
-        background-position: center; 
-        background-repeat: no-repeat; 
-        padding: 20px; 
-        color: white; 
-        text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;">
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const sentences = [
+        "I leave or live",
+        "I am or I'm not",
+        "I do or do not",
+        "I can or can't",
+        "I act or don't act",
+        "I try or don't try",
+        "I have or don't have",
+        "I like or don't like",
+        "I need or don't need",
+        "I want or don't want",
+        "I choose or don't choose",
+        "I accept or refuse",
+        "Win or lose, easy or hard, possible or impossible",
+        "Best or worst, black or white, paradise or hell",
+    ];
 
-        <br><br><br><br><br><br>
-        This can be paradise, this can be hell. <a href="../c'est-la-vie">This is life.</a> But whatever this is, this is my life and I only live it once. So FUCK everybody and everything, let's reboot and reborn. What am I going to do with it, who do I choose to be and what do I choose to do <a href="../no-time-for-caution">now</a>?
-        <br><br><br><br><br><br>
+    const boldText = "This is my life."; // The bold text you want to append
 
-        <br>
-    </p>
-</div> -->
+    const sentenceContainer = document.getElementById('sentence-container');
 
-<!-- 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0tZz5vMnsQqZnue8XyyPJo?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
--->
+    function getRandomSentence() {
+        const randomIndex = Math.floor(Math.random() * sentences.length);
+        return sentences[randomIndex];
+    }
+
+    function showNextSentence() {
+        sentenceContainer.style.opacity = 0; // Start fade-out effect
+
+        setTimeout(() => {
+            const randomSentence = getRandomSentence();
+            sentenceContainer.innerHTML = randomSentence + ', <strong>' + boldText + '</strong>';
+            sentenceContainer.style.opacity = 1; // Start fade-in effect
+        }, 500); // Wait for fade-out to complete before changing the text
+    }
+
+    // Set initial sentence
+    const initialSentence = getRandomSentence();
+    sentenceContainer.innerHTML = initialSentence + ' <strong>' + boldText + '</strong>';
+
+    // Change sentence every 2 seconds
+    setInterval(showNextSentence, 3000);
+
+    // Set up initial fade-in effect
+    sentenceContainer.style.transition = 'opacity 0.5s ease-in-out';
+});
+</script>
+
+<!-- <style>
+#sentence-container {
+    transition: opacity 0.5s ease-in-out;
+    opacity: 1;
+    /* font-size: 1.5em;
+    margin: 20px; */
+}
+</style> -->
 
   </div>
 
