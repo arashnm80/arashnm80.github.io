@@ -9,17 +9,15 @@ title: No time for caution
 
 > Time is my [most](../sort) precious asset and ultimate [currency](../newton's-third-law) of my life.
 
-> Time's running out like a cup of coffee, so whatever I'm gonna do I have to do it right now.
+> Time's running out like a cup of coffee, so whatever I have to do it right fu*king now.
 
 > It's always late to start, tomorrow much later than today.
 
 > This life, this year, this year, this second
 ![this-life-this-day-this-day-this-second](../../assets/this-life-this-day-this-day-this-second.jpg)
 
-### Steve Jobs
 > [My](../i-dentity) time is limited, I'm not gonna waste it living someone else’s life.
 
-### Money
 > I won't get rich by renting out my time.
 
 ### Time Travel

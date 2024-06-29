@@ -113,7 +113,7 @@ title: Quotes
 
 > Time is my most precious asset and ultimate currency of my life.
 
-> Time's running out like a cup of coffee, so whatever I'm gonna do I have to do it right now.
+> Time's running out like a cup of coffee, so whatever I have to do it right fu*king now.
 
 > It's always late to start, tomorrow much later than today.
 
