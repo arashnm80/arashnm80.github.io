@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "Best or worst, black or white, paradise or hell",
     ];
 
-    const boldText = "This is my life."; // The bold text you want to append
+    const boldText = "this is my life."; // The bold text you want to append
 
     const sentenceContainer = document.getElementById('sentence-container');
 
