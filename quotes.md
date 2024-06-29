@@ -25,8 +25,6 @@ title: Quotes
 
 > In the end, it's not the years in my life that count. It's the life in my years.
 
-> "C'est ma vie" means 100% responsibility. It also means I can do whatever the fu*k I can do.
-
 > Think out of the box.
 
 > If you have to walk through an unpleasant path, what can you do to make it more bearable or even turn the tide and use it to your advantage?
@@ -50,6 +48,10 @@ title: Quotes
 > When injustice becomes law, rebellion becomes duty.
 
 > Make every bullet count.
+
+> Fu*k, I only live once.
+
+> I can do whatever the fu*k I can do.
 
 > No matter how much I can stretch, in the end I have a limited rope. The challenge is to maximize the area.
 
