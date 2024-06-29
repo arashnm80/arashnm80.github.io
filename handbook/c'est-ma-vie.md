@@ -43,8 +43,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "Best or worst",
         "Easy or hard",
         "Paradise or hell",
-        "Possible or impossible",
-        "ٌWhite or black",
+        "ٌFair or unfair",
         "Win or lose",
     ];
 
