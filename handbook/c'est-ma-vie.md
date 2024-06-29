@@ -43,8 +43,9 @@ document.addEventListener("DOMContentLoaded", function() {
         "I choose or don't choose",
         "Best or worst",
         "Easy or hard",
-        "ٌFair or unfair",
+        "Fair or unfair",
         "Paradise or hell",
+        "Victim or vigilante",
         "Win or lose",
     ];
 
