@@ -64,8 +64,8 @@ permalink: /handbook/
     <li><a href="./fear-courage">Fear & Courage</a></li>
     <li><a href="./pomodoro">Pomodoro</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./risk">Risk</a></li>
+    <li><a href="./hobby-as-a-service">Hobby as a Service</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./hidden-progress">Hidden Progress</a></li>
-    <li><a href="./chain-reaction">Chain Reaction</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./2-battlefields">2 Battlefields</a></li>
     <li><a href="./near-zero-cost">Near Zero Cost</a></li>
     <li><a href="./destination-path">Destination & Path</a></li>
@@ -74,7 +74,6 @@ permalink: /handbook/
     <li><a href="./shame">Shame</a></li>
     <li><a href="./victim">Victim</a></li>
     <li><a href="./art-of-racing-in-the-rain">Art of racing in the rain</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
-    <li><a href="./idea-person">Idea person</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
 </ol>
 </div>
 
@@ -86,7 +85,9 @@ permalink: /handbook/
     <li><a href="./people">People</a></li>
     <li><a href="./will">Will</a></li>
     <li><a href="./domino-effect">Domino Effect</a></li>
+    <li><a href="./idea-person">Idea person</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./narrow-way-through">Narrow way through</a></li>
+    <li><a href="./chain-reaction">Chain Reaction</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./multitask">Multitask</a></li>
     <li><a href="./system-1-2">System 1 & 2</a></li>
     <li><a href="./renewable-energy">Renewable energy</a></li>
@@ -106,7 +107,6 @@ permalink: /handbook/
     <li><a href="./skill-tree">Skill Tree</a></li>
     <li><a href="./mind-opiums">Mind Opiums</a></li>
     <li><a href="./focus-shower">focus shower</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
-    <li><a href="./hobby-as-a-service">Hobby as a Service</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./optimism-pessimism">Optimism & Pessimism</a></li>
     <li><a href="./shot">Shot</a></li>
     <li><a href="./boredom">Boredom</a></li>
