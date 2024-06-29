@@ -98,7 +98,6 @@ permalink: /handbook/
     <li><a href="./move-forward">Move Forward</a></li>
     <li><a href="./smart">Smart</a></li>
     <li><a href="./teacher">Teacher</a></li>
-    <li><a href="./marginal-gain">Marginal Gain</a></li>
     <li><a href="./mrbeast">MrBeast</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
     <li><a href="./immerse">Immerse</a></li>
     <li><a href="./omniscient">Omniscient</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>

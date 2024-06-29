@@ -12,3 +12,7 @@ title: Domino effect
 
 ### Snowball effect
 ![snowball effect](https://imanitribe.com/wp-content/uploads/2020/09/snow-ball-effect.jpg.webp)
+
+### Marginal Gain
+Constantly improve things a little bit.
+![marginal gain](https://jamesclear.com/wp-content/uploads/2015/08/tiny-gains-graph.jpg)
