@@ -37,13 +37,14 @@ document.addEventListener("DOMContentLoaded", function() {
         "I have or don't have",
         "I like or don't like",
         "I need or don't need",
+        "I rest or don't rest",
         "I want or don't want",
         "I fight or don't fight",
         "I choose or don't choose",
         "Best or worst",
         "Easy or hard",
-        "Paradise or hell",
         "ٌFair or unfair",
+        "Paradise or hell",
         "Win or lose",
     ];
 
