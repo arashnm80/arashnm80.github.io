@@ -28,6 +28,7 @@ Best or worst, black or white, paradise or hell, **this is my life.**
 document.addEventListener("DOMContentLoaded", function() {
     const sentences = [
         "I leave or live",
+        "I accept or refuse",
         "I am or I'm not",
         "I do or do not",
         "I can or can't",
@@ -39,9 +40,12 @@ document.addEventListener("DOMContentLoaded", function() {
         "I want or don't want",
         "I fight or don't fight",
         "I choose or don't choose",
-        "I accept or refuse",
-        "Win or lose, easy or hard, possible or impossible",
-        "Best or worst, black or white, paradise or hell",
+        "Best or worst",
+        "Easy or hard",
+        "Paradise or hell",
+        "Possible or impossible",
+        "ٌWhite or black",
+        "Win or lose",
     ];
 
     const boldText = "this is my life."; // The bold text you want to append
