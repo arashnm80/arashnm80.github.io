@@ -43,21 +43,22 @@
   </header>
 
   <div class="post-content">
-    <p>I <a href="../c'est-la-vie">leave or live</a>, <strong>this is my life.</strong><br />
-I am or I’m not, <strong>this is my life.</strong><br />
-I do or do not, <strong>this is my life.</strong><br />
-I can or I can’t, <strong>this is my life.</strong><br />
-I act or don’t act, <strong>this is my life.</strong><br />
-I try or don’t try, <strong>this is my life.</strong><br />
-I have or don’t have, <strong>this is my life.</strong><br />
-I like or don’t like, <strong>this is my life.</strong><br />
-I need or don’t need, <strong>this is my life.</strong><br />
-I want or don’t want, <strong>this is my life.</strong><br />
-I choose or don’t choose, <strong>this is my life.</strong><br />
-I accept or refuse, <strong>this is my life.</strong><br />
-Win or lose, easy or hard, possible or impossible, <strong>this is my life.</strong><br />
-Best or worst, black or white, paradise or hell, <strong>this is my life.</strong><br />
-<strong>So what am I going to do with it, who do I choose to be and what do I choose to do <a href="../no-time-for-caution">now</a>?</strong></p>
+    <!-- 
+I [leave or live](../c'est-la-vie), **this is my life.**  
+I am or I'm not, **this is my life.**  
+I do or do not, **this is my life.**  
+I can or I can't, **this is my life.**  
+I act or don't act, **this is my life.**  
+I try or don't try, **this is my life.**  
+I have or don't have, **this is my life.**  
+I like or don't like, **this is my life.**  
+I need or don't need, **this is my life.**  
+I want or don't want, **this is my life.**  
+I choose or don't choose, **this is my life.**  
+I accept or refuse, **this is my life.**  
+Win or lose, easy or hard, possible or impossible, **this is my life.**  
+Best or worst, black or white, paradise or hell, **this is my life.**  
+**So what am I going to do with it, who do I choose to be and what do I choose to do [now](../no-time-for-caution)?** -->
 
 <p><span id="sentence-container">I leave or live, <strong>this is my life.</strong></span><br />
 <strong>So what am I going to do with it, who do I choose to be and what do I choose to do <a href="../no-time-for-caution">now</a>?</strong></p>
@@ -75,13 +76,14 @@ document.addEventListener("DOMContentLoaded", function() {
         "I like or don't like",
         "I need or don't need",
         "I want or don't want",
+        "I fight or don't fight",
         "I choose or don't choose",
         "I accept or refuse",
         "Win or lose, easy or hard, possible or impossible",
         "Best or worst, black or white, paradise or hell",
     ];
 
-    const boldText = "This is my life."; // The bold text you want to append
+    const boldText = "this is my life."; // The bold text you want to append
 
     const sentenceContainer = document.getElementById('sentence-container');
 
@@ -100,11 +102,13 @@ document.addEventListener("DOMContentLoaded", function() {
         }, 500); // Wait for fade-out to complete before changing the text
     }
 
-    // Set initial sentence
-    const initialSentence = getRandomSentence();
-    sentenceContainer.innerHTML = initialSentence + ' <strong>' + boldText + '</strong>';
+    // // Set initial sentence
+    // const initialSentence = getRandomSentence();
+    // sentenceContainer.innerHTML = initialSentence + ' <strong>' + boldText + '</strong>';
 
-    // Change sentence every 2 seconds
+    showNextSentence()
+
+    // Change sentence every 3 seconds
     setInterval(showNextSentence, 3000);
 
     // Set up initial fade-in effect

@@ -37,6 +37,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "I like or don't like",
         "I need or don't need",
         "I want or don't want",
+        "I fight or don't fight",
         "I choose or don't choose",
         "I accept or refuse",
         "Win or lose, easy or hard, possible or impossible",
@@ -62,11 +63,10 @@ document.addEventListener("DOMContentLoaded", function() {
         }, 500); // Wait for fade-out to complete before changing the text
     }
 
-    // Set initial sentence
-    const initialSentence = getRandomSentence();
-    sentenceContainer.innerHTML = initialSentence + ' <strong>' + boldText + '</strong>';
+    // // Set initial sentence
+    showNextSentence()
 
-    // Change sentence every 2 seconds
+    // Change sentence every 3 seconds
     setInterval(showNextSentence, 3000);
 
     // Set up initial fade-in effect
