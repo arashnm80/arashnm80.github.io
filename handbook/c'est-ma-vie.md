@@ -3,6 +3,7 @@ layout: page
 title: C'est ma vie
 ---
 
+I [leave or live](../c'est-la-vie), **this is my life.**  
 I am or I'm not, **this is my life.**  
 I do or do not, **this is my life.**  
 I can or I can't, **this is my life.**  
@@ -13,7 +14,6 @@ I have or don't have, **this is my life.**
 I need or don't need, **this is my life.**  
 I choose or don't choose, **this is my life.**  
 I accept or refuse, **this is my life.**  
-I [leave or live](../c'est-la-vie), **this is my life.**  
 Best or worst, black or white, paradise or hell, **this is my life.**  
 **So what am I going to do with it, who do I choose to be and what do I choose to do [now](../no-time-for-caution)?**
 
