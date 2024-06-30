@@ -70,6 +70,7 @@ permalink: /handbook/
     <li><a href="./80-20">80-20</a></li>
     <li><a href="./seize">Seize</a></li>
     <li><a href="./shame">Shame</a></li>
+    <li><a href="./idea-person">Idea person</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./victim">Victim</a></li>
     <li><a href="./art-of-racing-in-the-rain">Art of racing in the rain</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
 </ol>
@@ -83,7 +84,6 @@ permalink: /handbook/
     <li><a href="./people">People</a></li>
     <li><a href="./will">Will</a></li>
     <li><a href="./domino-effect">Domino Effect</a></li>
-    <li><a href="./idea-person">Idea person</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./narrow-way-through">Narrow way through</a></li>
     <li><a href="./chain-reaction">Chain Reaction</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./multitask">Multitask</a></li>
