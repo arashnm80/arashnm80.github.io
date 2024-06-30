@@ -3,13 +3,4 @@ layout: page
 title: C'est la vie
 ---
 
-> C'est la vie. Leave or [fight](../fight) for the [narrow possibility](../narrow-way-through) to live.
-
-Maybe it's what I want, maybe it's what I have to do, maybe it's my choice, maybe it's law of the universe or maybe it's sth written into my source code by my genes, family and society. Whatever it is, I know that just being alive is out of my options and it's the truth I can't run from.
-
-P.S. While living involves huge ton of fighting, there are also huge ton of moments with free or cheap possibility to live without any hassle. I should be careful not to miss them either.
-
-### Life Factor
-The ultimate metric to evaluate worthiness of life is LF: Integral of pleasure minus pain through lifetime
-
-> In the end, it's not the years in my life that count. It's the life in my years.
+> Leave or fight for the narrow possibility to live.

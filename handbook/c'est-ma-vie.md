@@ -28,6 +28,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "Easy or hard",
         "Everything or nothing",
         "Fair or unfair",
+        "Free or slaved",
         "Loneliness or belonging",
         "Paradise or hell",
         "Pleasure or pain",

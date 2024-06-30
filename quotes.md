@@ -21,9 +21,7 @@ title: Quotes
 
 > The rest of my life starts right now.
 
-> C'est la vie. Leave or fight for the narrow possibility to live.
-
-> In the end, it's not the years in my life that count. It's the life in my years.
+> Leave or fight for the narrow possibility to live.
 
 > Think out of the box.
 
