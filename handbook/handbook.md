@@ -110,6 +110,7 @@ permalink: /handbook/
     <li><a href="./lose">lose</a></li>
     <li><a href="./potential">Potential</a></li>
     <li><a href="./niksen">niksen</a></li>
+    <li><a href="./fuck">Fuck</a></li>
 </ol>
 </div>
 
@@ -127,7 +128,6 @@ permalink: /handbook/
     <li><a href="./wild">Wild</a></li>
     <li><a href="./improvise">Improvise</a></li>
     <li><a href="./sale">Sale</a></li>
-    <li><a href="./fuck">Fuck</a></li>
 </ol>
 </div>
 
