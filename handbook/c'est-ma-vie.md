@@ -30,6 +30,8 @@ document.addEventListener("DOMContentLoaded", function() {
         "Loneliness or belonging",
         "Paradise or hell",
         "Pleasure or pain",
+        "Safe or risky",
+        "Simple or complicated",
         "Victim or vigilante",
         "Win or lose",
     ];
