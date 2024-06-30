@@ -105,7 +105,7 @@ title: Quotes
 
 > Success is to seize narrow short-term golden windows.
 
-> The only way humans have ever figured out of getting somewhere is to leave something behind.
+> The only way of getting somewhere is to leave something behind.
 
 > My choice is not what I'm thinking, saying or writing but what I'm actually doing right now.
 
