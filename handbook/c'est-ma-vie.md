@@ -3,24 +3,6 @@ layout: page
 title: C'est ma vie
 ---
 
-<!-- 
-I [leave or live](../c'est-la-vie), **this is my life.**  
-I am or I'm not, **this is my life.**  
-I do or do not, **this is my life.**  
-I can or I can't, **this is my life.**  
-I act or don't act, **this is my life.**  
-I try or don't try, **this is my life.**  
-I have or don't have, **this is my life.**  
-I like or don't like, **this is my life.**  
-I need or don't need, **this is my life.**  
-I want or don't want, **this is my life.**  
-I choose or don't choose, **this is my life.**  
-I accept or refuse, **this is my life.**  
-Win or lose, easy or hard, possible or impossible, **this is my life.**  
-Best or worst, black or white, paradise or hell, **this is my life.**  
-**So what am I going to do with it, who do I choose to be and what do I choose to do [now](../no-time-for-caution)?** -->
-
-
 <span id="sentence-container">I leave or live, <strong>this is my life.</strong></span><br>
 **So what am I going to do with it, who do I choose to be and what do I choose to do [now](../no-time-for-caution)?**
 
@@ -42,9 +24,12 @@ document.addEventListener("DOMContentLoaded", function() {
         "I fight or don't fight",
         "I choose or don't choose",
         "Best or worst",
+        "Depression or euphoria",
         "Easy or hard",
         "Fair or unfair",
+        "Loneliness or belonging",
         "Paradise or hell",
+        "Pleasure or pain",
         "Victim or vigilante",
         "Win or lose",
     ];
