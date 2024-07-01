@@ -25,6 +25,8 @@ title: No time for caution
 
 > Do I live my life in such a way that I would be willing to repeat it again and again, forever?
 
+> Would I have chosen to be born or not?
+
 > I just try to live every day as if I've deliberately come back to this one day, to enjoy it, as if it was the full final day of my extraordinary, ordinary life.
 
 
