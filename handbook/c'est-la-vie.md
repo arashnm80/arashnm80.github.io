@@ -3,4 +3,4 @@ layout: page
 title: C'est la vie
 ---
 
-> Leave or do my best to live.
+> Leave or try my best for narrow possibility to live.
