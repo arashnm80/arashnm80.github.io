@@ -39,3 +39,11 @@ At the same time:
 ---
 1. Use my limited smartly on most important priorities.
 2. Increase general level of my energy.
+
+---
+1. Increase my capacity to fight.
+2. Turn fights into plays.
+
+---
+1. Continue to fight under higher levels of pressure
+2. Provide circumstances with lower pressure for myself.

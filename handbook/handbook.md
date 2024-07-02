@@ -64,6 +64,7 @@ permalink: /handbook/
     <li><a href="./risk">Risk</a></li>
     <li><a href="./hobby-as-a-service">Hobby as a Service</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./hidden-progress">Hidden Progress</a></li>
+    <li><a href="./plan-a-b">Plan A & B</a></li>
     <li><a href="./2-battlefields">2 Battlefields</a></li>
     <li><a href="./near-zero-cost">Near Zero Cost</a></li>
     <li><a href="./destination-path">Destination & Path</a></li>

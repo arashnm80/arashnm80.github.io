@@ -25,11 +25,5 @@ Does true random exist or is it just lack of information?
 
 Although randomness exists, I can hack my [luck](../luck) and increase or decrease probabilities by my [actions](../action).
 
-### Plan A & B
-This can be my biggest countermeasure against uncertainty:
-- Choose a very simple, obvious, immature plan A.
-- At the same time move by plan A and work on a more complicated, delicate, time-consuming plan B.
-- When plan B became [good enough](../good-enough), make it the new plan A and repeat by devising a new plan B.
-
 ### What else???
 > What I don't know? What I haven't thought of? What I haven't tried?
