@@ -3,7 +3,7 @@ layout: page
 title: Good enough
 ---
 
-> To become great, first I should learn how to become good.
+> To become great, I should become good first.
 
 ![good enough 1](https://www.whatsthetrick.com/upload/Image/11%20perfectionism%202.jpg)
 

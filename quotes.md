@@ -51,7 +51,7 @@ title: Quotes
 
 > I can do whatever the fu*k I can do.
 
-> To become great, first I should learn how to become good.
+> To become great, I should become good first.
 
 > No matter how much I can stretch, in the end I have a limited rope. The challenge is to maximize the area.
 
