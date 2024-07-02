@@ -129,10 +129,11 @@ permalink: /handbook/
     <li><a href="./improvise">Improvise</a></li>
     <li><a href="./sale">Sale</a></li>
     <li><a href="./pain-as-a-service">Pain as a service</a></li>
+    <li><a href="./jensen-huang">Jensen Huang</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
     <li><a href="./live">Live</a></li>
     <li><a href="./leave">Leave</a></li>
     <li><a href="./eyes">Eyes</a></li>
-    <li><a href="./jensen-huang">Jensen Huang</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
+    <li><a href="./evolution">Evolution</a></li>
 </ol>
 </div>
 
