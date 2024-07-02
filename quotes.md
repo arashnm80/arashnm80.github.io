@@ -21,7 +21,7 @@ title: Quotes
 
 > The rest of my life starts right now.
 
-> Leave or fight for the narrow possibility to live.
+> Leave or try my best for narrow possibility to live.
 
 > Think out of the box.
 
@@ -124,6 +124,8 @@ title: Quotes
 > Assess every choice with a single question: "If I time-travel to past, do I repeat it again the same?"
 
 > Do I live my life in such a way that I would be willing to repeat it again and again, forever?
+
+> Would I have chosen to be born or not?
 
 > I just try to live every day as if I've deliberately come back to this one day, to enjoy it, as if it was the full final day of my extraordinary, ordinary life.
 

@@ -128,6 +128,7 @@ permalink: /handbook/
     <li><a href="./wild">Wild</a></li>
     <li><a href="./improvise">Improvise</a></li>
     <li><a href="./sale">Sale</a></li>
+    <li><a href="./pain-as-a-service">Pain as a service</a></li>
 </ol>
 </div>
 
