@@ -21,7 +21,7 @@ title: Quotes
 
 > The rest of my life starts right now.
 
-> Leave or try my best for narrow possibility to live.
+> Leave or fight for narrow possibility to live.
 
 > Think out of the box.
 
