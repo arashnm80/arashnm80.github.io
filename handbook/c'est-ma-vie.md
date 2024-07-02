@@ -28,6 +28,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "Easy or hard",
         "Everything or nothing",
         "Fair or unfair",
+        "ّFast or slow",
         "Free or slaved",
         "Loneliness or belonging",
         "Paradise or hell",
@@ -37,6 +38,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "Safe or risky",
         "Simple or complicated",
         "Strong or weak",
+        "Sure or doutful",
         "Victim or vigilante",
         "Win or lose",
     ];
