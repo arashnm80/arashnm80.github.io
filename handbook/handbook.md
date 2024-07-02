@@ -33,16 +33,17 @@ permalink: /handbook/
 ### 2
 <div class="items">
 <ol>
+    <li><a href="./plan">Plan</a> </li>
     <li><a href="./newton's-third-law">Newton's Third law</a> </li>
     <li><a href="./action">Action</a> </li>
     <li><a href="./i-dentity">I-dentity</a> </li>
-    <li><a href="./uncertainty">Uncertainty</a> </li>
 </ol>
 </div>
 
 ### 3
 <div class="items">
 <ol>
+    <li><a href="./uncertainty">Uncertainty</a> </li>
     <li><a href="./sort">Sort</a> </li>
     <li><a href="./non-zero-effort">Non-Zero Effort</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
     <li><a href="./streak">Streak</a> </li>
@@ -50,7 +51,6 @@ permalink: /handbook/
     <li><a href="./begin-again">Begin Again</a></li>
     <li><a href="./fight">Fight</a></li>
     <li><a href="./experience">Experience</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
-    <li><a href="./dopamine">Dopamine</a></li>
 </ol>
 </div>
 
@@ -61,6 +61,7 @@ permalink: /handbook/
     <li><a href="./reboot">Reboot</a></li>
     <li><a href="./fear-courage">Fear & Courage</a></li>
     <li><a href="./pomodoro">Pomodoro</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
+    <li><a href="./dopamine">Dopamine</a></li>
     <li><a href="./risk">Risk</a></li>
     <li><a href="./hobby-as-a-service">Hobby as a Service</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./hidden-progress">Hidden Progress</a></li>
