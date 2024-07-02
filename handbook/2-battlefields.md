@@ -45,5 +45,5 @@ At the same time:
 2. Turn fights into plays.
 
 ---
-1. Continue to fight under higher levels of pressure
-2. Provide circumstances with lower pressure for myself.
+1. Continue to fight under higher levels of pressure, stress and distraction.
+2. Provide circumstances with lower pressure, stress and distraction for myself.
