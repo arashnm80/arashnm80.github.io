@@ -81,6 +81,8 @@ title: Quotes
 
 > I'm not center of the world but I am center of my world.
 
+> Soft as a leaf, strong as a trunk.
+
 > Wealth is having assets that earn while I sleep.
 
 > It's not about how big an army is, it's about who is the general.
@@ -134,6 +136,8 @@ title: Quotes
 > I just try to live every day as if I've deliberately come back to this one day, to enjoy it, as if it was the full final day of my extraordinary, ordinary life.
 
 > Diff between 121 and 120 mins is nothing, diff between 1' and 0' is everything.
+
+> Am I willing to succeed with cost of everybody disliking me?
 
 > Everybody thinks their loneliness is the biggest loneliness in the world.
 

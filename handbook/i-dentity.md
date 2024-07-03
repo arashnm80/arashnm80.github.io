@@ -31,3 +31,5 @@ Respect everyone and give a shit about no one, in fact don't even think about an
 > If I can't fix myself how can I fix the world?
 
 > I'm not center of the world but I am center of my world.
+
+> Soft as a leaf, strong as a trunk.
