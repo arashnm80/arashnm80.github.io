@@ -38,6 +38,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "Paradise or hell",
         "Pleasure or pain",
         "Predictable or chaotic",
+        "Red pill or blue",
         "Rich or poor",
         "Safe or risky",
         "Simple or complicated",
