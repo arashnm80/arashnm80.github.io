@@ -26,6 +26,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "I choose or don't choose",
         "Best or worst",
         "Calm or stressed",
+        "Certain or doubtful",
         "Euphoric or depressed",
         "Easy or hard",
         "Everything or nothing",
@@ -41,7 +42,6 @@ document.addEventListener("DOMContentLoaded", function() {
         "Safe or risky",
         "Simple or complicated",
         "Strong or weak",
-        "Sure or doubtful",
         "Victim or vigilante",
         "Win or lose",
     ];
