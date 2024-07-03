@@ -12,4 +12,4 @@ title: Action
 ### Porn vs. Sex
 
 ### Action produces information
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">“Action produces information. Just keep doing stuff.”<br><br>— Brian Armstrong<br><br> <a href="https://t.co/r0GgkShFHV">pic.twitter.com/r0GgkShFHV</a></p>&mdash; Reads with Ravi (@readswithravi) <a href="https://twitter.com/readswithravi/status/1806421270017298457?ref_src=twsrc%5Etfw">June 27, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">“Action produces information. Just keep doing stuff.” <a href="https://t.co/3aWJWp03mQ">pic.twitter.com/3aWJWp03mQ</a></p>&mdash; Z Fellows (@zfellows_) <a href="https://twitter.com/zfellows_/status/1742198243700740185?ref_src=twsrc%5Etfw">January 2, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
