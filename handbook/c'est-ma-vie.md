@@ -35,6 +35,8 @@ document.addEventListener("DOMContentLoaded", function() {
         "Free or slave",
         "Lion or rat",
         "Lonely or belonging",
+        "Male or female",
+        "Optional or compulsory",
         "Paradise or hell",
         "Pleasure or pain",
         "Predictable or chaotic",
