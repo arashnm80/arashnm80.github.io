@@ -23,6 +23,10 @@ title: Quotes
 
 > Leave or fight for narrow possibility to live.
 
+> Streak is the most important metric for success.
+
+> تو یه گلوله‌ی طلایی نداری، صدتا گلوله‌ی سربی داری. باید انقدر بزنی تا بخوره به هدف
+
 > Think out of the box.
 
 > If you have to walk through an unpleasant path, what can you do to make it more bearable or even turn the tide and use it to your advantage?
@@ -168,10 +172,6 @@ title: Quotes
 > Only being present in the game triggers many opportunities by itself.
 
 > Do it if it's the biggest thing I can do.
-
-> Streak is the most important metric for success.
-
-> تو یه گلوله‌ی طلایی نداری، صدتا گلوله‌ی سربی داری. باید انقدر بزنی تا بخوره به هدف
 
 > I'm gonna think out of the box.
 

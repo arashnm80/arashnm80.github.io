@@ -46,7 +46,7 @@ permalink: /handbook/
     <li><a href="./uncertainty">Uncertainty</a> </li>
     <li><a href="./sort">Sort</a> </li>
     <li><a href="./non-zero-effort">Non-Zero Effort</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
-    <li><a href="./streak">Streak</a> </li>
+    <li><a href="./consistency">Consistency</a> </li>
     <li><a href="./sleep">Sleep</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./begin-again">Begin Again</a></li>
     <li><a href="./fight">Fight</a></li>
