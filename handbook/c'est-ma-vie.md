@@ -4,12 +4,12 @@ title: C'est ma vie
 ---
 
 <span id="sentence-container">I leave or live, <strong>this is my life.</strong></span><br>
-**So what am I going to do with it, who do I choose to be and what do I choose to do now?**
+**So what am I going to do with it, who do I choose to be and what do I choose to do [now](../no-time-for-caution)?**
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     const sentences = [
-        "I leave or live",
+        "I <a href=\"../c'est-la-vie\">leave or live</a>",
         "I accept or refuse",
         "I am or I'm not",
         "I do or do not",
@@ -65,8 +65,8 @@ document.addEventListener("DOMContentLoaded", function() {
     // // Set initial sentence
     showNextSentence()
 
-    // Change sentence every 3 seconds
-    setInterval(showNextSentence, 3000);
+    // Change sentence every few seconds
+    setInterval(showNextSentence, 4000);
 
     // Set up initial fade-in effect
     sentenceContainer.style.transition = 'opacity 0.5s ease-in-out';
