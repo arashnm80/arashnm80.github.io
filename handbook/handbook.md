@@ -63,11 +63,9 @@ permalink: /handbook/
     <li><a href="./pomodoro">Pomodoro</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./dopamine">Dopamine</a></li>
     <li><a href="./risk">Risk</a></li>
-    <li><a href="./hobby-as-a-service">Hobby as a Service</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./hidden-progress">Hidden Progress</a></li>
     <li><a href="./plan-a-b">Plan A & B</a></li>
     <li><a href="./2-battlefields">2 Battlefields</a></li>
-    <li><a href="./near-zero-cost">Near Zero Cost</a></li>
     <li><a href="./destination-path">Destination & Path</a></li>
     <li><a href="./80-20">80-20</a></li>
     <li><a href="./seize">Seize</a></li>
@@ -85,6 +83,8 @@ permalink: /handbook/
     <li><a href="./subconscious">Subconscious</a></li>
     <li><a href="./people">People</a></li>
     <li><a href="./will">Will</a></li>
+    <li><a href="./hobby-as-a-service">Hobby as a Service</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
+    <li><a href="./near-zero-cost">Near Zero Cost</a></li>
     <li><a href="./domino-effect">Domino Effect</a></li>
     <li><a href="./narrow-way-through">Narrow way through</a></li>
     <li><a href="./chain-reaction">Chain Reaction</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
@@ -95,21 +95,19 @@ permalink: /handbook/
     <li><a href="./skin-in-the-game">Skin in the game</a></li>
     <li><a href="./cbt">CBT</a></li>
     <li><a href="./bitcoin">Bitcoin</a></li>
+    <li><a href="./mrbeast">MrBeast</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
     <li><a href="./creativity">Creativity</a></li>
     <li><a href="./freedom">Freedom</a></li>
     <li><a href="./move-forward">Move Forward</a></li>
     <li><a href="./smart">Smart</a></li>
     <li><a href="./teacher">Teacher</a></li>
-    <li><a href="./mrbeast">MrBeast</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
     <li><a href="./immerse">Immerse</a></li>
     <li><a href="./omniscient">Omniscient</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
-    <li><a href="./skill-tree">Skill Tree</a></li>
     <li><a href="./mind-opiums">Mind Opiums</a></li>
     <li><a href="./focus-shower">focus shower</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./optimism-pessimism">Optimism & Pessimism</a></li>
     <li><a href="./shot">Shot</a></li>
     <li><a href="./boredom">Boredom</a></li>
-    <li><a href="./lose">lose</a></li>
     <li><a href="./potential">Potential</a></li>
     <li><a href="./niksen">niksen</a></li>
     <li><a href="./fuck">Fuck</a></li>
@@ -121,11 +119,13 @@ permalink: /handbook/
 <ol>
     <li><a href="./perfection">Perfection</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
     <li><a href="./right-questions">right questions</a></li>
+    <li><a href="./lose">lose</a></li>
     <li><a href="./words">Words</a></li>
     <li><a href="./brush-teeth">Brush Teeth</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./rest-reinforcement">Rest & Reinforcement</a></li>
     <li><a href="./boom">Boom</a></li>
     <li><a href="./patience">Patience</a></li>
+    <li><a href="./skill-tree">Skill Tree</a></li>
     <li><a href="./leader">Leader</a></li>
     <li><a href="./wild">Wild</a></li>
     <li><a href="./improvise">Improvise</a></li>
