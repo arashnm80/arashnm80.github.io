@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "Fast or slow",
         "Free or slaved",
         "Lion or rat",
-        "Loneliness or belonging",
+        "Lonely or belonging",
         "Paradise or hell",
         "Pleasure or pain",
         "Predictable or chaotic",
@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "Safe or risky",
         "Simple or complicated",
         "Strong or weak",
-        "Sure or doutful",
+        "Sure or doubtful",
         "Victim or vigilante",
         "Win or lose",
     ];
