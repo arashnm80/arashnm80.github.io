@@ -23,10 +23,6 @@ title: Quotes
 
 > Leave or fight for narrow possibility to live.
 
-> Streak is the most important metric for success.
-
-> تو یه گلوله‌ی طلایی نداری، صدتا گلوله‌ی سربی داری. باید انقدر بزنی تا بخوره به هدف
-
 > Think out of the box.
 
 > If you have to walk through an unpleasant path, what can you do to make it more bearable or even turn the tide and use it to your advantage?
@@ -60,6 +56,8 @@ title: Quotes
 > No matter how much I can stretch, in the end I have a limited rope. The challenge is to maximize the area.
 
 > It takes 10 years to become an overnight success.
+
+> hope is product of self-trust.
 
 > Everybody in the world is a compass for me. A reminder of where I want to be and where I don't.
 
@@ -144,6 +142,10 @@ title: Quotes
 > Surround myself with people 20% better than me.
 
 > I choose not to think about people.
+
+> Streak is the most important metric for success.
+
+> تو یه گلوله‌ی طلایی نداری، صدتا گلوله‌ی سربی داری. باید انقدر بزنی تا بخوره به هدف
 
 > Anybody can do it, question is who does?
 

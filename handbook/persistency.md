@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Consistency
+title: Persistency
 ---
 
 No matter of quality level, the challenge is to keep it everyday.
