@@ -136,6 +136,7 @@ permalink: /handbook/
     <li><a href="./leave">Leave</a></li>
     <li><a href="./eyes">Eyes</a></li>
     <li><a href="./evolution">Evolution</a></li>
+    <li><a href="./hope">Hope</a></li>
 </ol>
 </div>
 
