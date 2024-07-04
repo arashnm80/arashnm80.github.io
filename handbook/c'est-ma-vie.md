@@ -47,6 +47,8 @@ document.addEventListener("DOMContentLoaded", function() {
         "Safe or risky",
         "Simple or complicated",
         "Strong or weak",
+        "Too many choices or no choice at all",
+        "Too much time or no time at all",
         "Victim or vigilante",
         "Win or lose",
     ];
