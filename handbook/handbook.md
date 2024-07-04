@@ -44,8 +44,8 @@ permalink: /handbook/
 <div class="items">
 <ol>
     <li><a href="./uncertainty">Uncertainty</a> </li>
+    <li><a href="./quality-levels">Quality Levels</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
     <li><a href="./sort">Sort</a> </li>
-    <li><a href="./non-zero-effort">Non-Zero Effort</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
     <li><a href="./persistency">Persistency</a> </li>
     <li><a href="./sleep">Sleep</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./begin-again">Begin Again</a></li>
@@ -57,7 +57,6 @@ permalink: /handbook/
 ### 4
 <div class="items">
 <ol>
-    <li><a href="./minimum-viable-product">Minimum Viable Product</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
     <li><a href="./reboot">Reboot</a></li>
     <li><a href="./fear-courage">Fear & Courage</a></li>
     <li><a href="./pomodoro">Pomodoro</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>

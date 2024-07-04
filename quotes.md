@@ -51,10 +51,6 @@ title: Quotes
 
 > I can do whatever the fu*k I can do.
 
-> To become great, I should become good first.
-
-> No matter how much I can stretch, in the end I have a limited rope. The challenge is to maximize the area.
-
 > It takes 10 years to become an overnight success.
 
 > hope is product of self-trust.
@@ -134,8 +130,6 @@ title: Quotes
 > Would I have chosen to be born or not?
 
 > I just try to live every day as if I've deliberately come back to this one day, to enjoy it, as if it was the full final day of my extraordinary, ordinary life.
-
-> Diff between 121 and 120 mins is nothing, diff between 1' and 0' is everything.
 
 > Am I willing to succeed with cost of everybody disliking me?
 
