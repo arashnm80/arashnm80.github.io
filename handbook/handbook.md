@@ -139,6 +139,7 @@ permalink: /handbook/
     <li><a href="./evolution">Evolution</a></li>
     <li><a href="./hope">Hope</a></li>
     <li><a href="./other">Other</a></li>
+    <li><a href="./life-factor">Life Factor</a></li>
 </ol>
 </div>
 
