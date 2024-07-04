@@ -4,7 +4,7 @@ title: C'est ma vie
 ---
 
 <span id="sentence-container">I leave or live, <strong>this is my life.</strong></span><br>
-**So what am I going to do with it, who do I choose to be and what do I choose to do [now](../no-time-for-caution)?**
+**So who am I being and what am I doing [now](../no-time-for-caution)?**
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
