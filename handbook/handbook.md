@@ -69,8 +69,8 @@ permalink: /handbook/
     <li><a href="./destination-path">Destination & Path</a></li>
     <li><a href="./80-20">80-20</a></li>
     <li><a href="./seize">Seize</a></li>
+    <li><a href="./biggest-problem">Biggest Problem</a></li>
     <li><a href="./shame">Shame</a></li>
-    <li><a href="./idea-person">Idea person</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./victim">Victim</a></li>
     <li><a href="./art-of-racing-in-the-rain">Art of racing in the rain</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
 </ol>
@@ -80,6 +80,7 @@ permalink: /handbook/
 <div class="items">
 <ol>
     <li><a href="./good-enough">Good Enough</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
+    <li><a href="./idea-person">Idea person</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./subconscious">Subconscious</a></li>
     <li><a href="./people">People</a></li>
     <li><a href="./will">Will</a></li>
@@ -109,7 +110,6 @@ permalink: /handbook/
     <li><a href="./shot">Shot</a></li>
     <li><a href="./boredom">Boredom</a></li>
     <li><a href="./potential">Potential</a></li>
-    <li><a href="./niksen">niksen</a></li>
     <li><a href="./fuck">Fuck</a></li>
 </ol>
 </div>
@@ -120,6 +120,7 @@ permalink: /handbook/
     <li><a href="./perfection">Perfection</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
     <li><a href="./right-questions">right questions</a></li>
     <li><a href="./lose">lose</a></li>
+    <li><a href="./niksen">niksen</a></li>
     <li><a href="./words">Words</a></li>
     <li><a href="./brush-teeth">Brush Teeth</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./rest-reinforcement">Rest & Reinforcement</a></li>
