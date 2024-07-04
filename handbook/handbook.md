@@ -90,6 +90,7 @@ permalink: /handbook/
     <li><a href="./narrow-way-through">Narrow way through</a></li>
     <li><a href="./chain-reaction">Chain Reaction</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./multitask">Multitask</a></li>
+    <li><a href="./life-factor">Life Factor</a></li>
     <li><a href="./system-1-2">System 1 & 2</a></li>
     <li><a href="./renewable-energy">Renewable energy</a></li>
     <li><a href="./portrait-painting">Portrait Painting</a></li>
@@ -107,7 +108,6 @@ permalink: /handbook/
     <li><a href="./mind-opiums">Mind Opiums</a></li>
     <li><a href="./focus-shower">focus shower</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./optimism-pessimism">Optimism & Pessimism</a></li>
-    <li><a href="./shot">Shot</a></li>
     <li><a href="./boredom">Boredom</a></li>
     <li><a href="./potential">Potential</a></li>
     <li><a href="./fuck">Fuck</a></li>
@@ -127,6 +127,7 @@ permalink: /handbook/
     <li><a href="./boom">Boom</a></li>
     <li><a href="./patience">Patience</a></li>
     <li><a href="./skill-tree">Skill Tree</a></li>
+    <li><a href="./shot">Shot</a></li>
     <li><a href="./leader">Leader</a></li>
     <li><a href="./wild">Wild</a></li>
     <li><a href="./improvise">Improvise</a></li>
@@ -139,7 +140,6 @@ permalink: /handbook/
     <li><a href="./evolution">Evolution</a></li>
     <li><a href="./hope">Hope</a></li>
     <li><a href="./other">Other</a></li>
-    <li><a href="./life-factor">Life Factor</a></li>
 </ol>
 </div>
 
