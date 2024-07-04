@@ -69,8 +69,6 @@ title: Quotes
 
 > Every great painter paints what he is.
 
-> I'm gonna change the world and I'm not gonna ask for permission.
-
 > A great writer writes like there is no one else in the world to read.
 
 > If I can't fix myself how can I fix the world?
@@ -78,6 +76,8 @@ title: Quotes
 > I'm not center of the world but I am center of my world.
 
 > Soft as a leaf, strong as a trunk.
+
+> I'm gonna change the world and I'm not gonna ask for permission.
 
 > Wealth is having assets that earn while I sleep.
 
@@ -138,8 +138,6 @@ title: Quotes
 > Long-term games with long-term people.
 
 > Surround myself with people 20% better than me.
-
-> I choose not to think about people.
 
 > Streak is the most important metric for success.
 

@@ -7,4 +7,4 @@ title: People
 
 > Surround myself with people 20% better than me.
 
-> I choose not to think about people.
+I choose not to think about people.
