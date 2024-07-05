@@ -8,3 +8,6 @@ When I am at somewhere that can't work on my main goal I have a clear mind and c
 - When I'm washing dishes
 - When I'm out to do shopping for home
 - When I'm in the car getting back from somewhere
+
+I can define some constant routines to create this situation manually, e.g. :
+- morning walk or run routine
