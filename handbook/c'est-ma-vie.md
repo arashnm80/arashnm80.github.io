@@ -42,6 +42,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "<a href='../life-factor'>Pleasure or pain</a>",
         "<a href='../uncertainty'>Predictable or chaotic</a>",
         "Proud or ashamed",
+        "Reason or excuse",
         "<a href='../mind-opiums'>Red pill or blue</a>",
         "Rich or poor",
         "Safe or risky",
@@ -49,6 +50,8 @@ document.addEventListener("DOMContentLoaded", function() {
         "Strong or weak",
         "Too many choices or no choice at all",
         "Too much time or no time at all",
+        "True or false",
+        "Truth or lie",
         "Victim or vigilante",
         "Win or lose",
     ];
