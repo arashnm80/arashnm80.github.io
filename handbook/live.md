@@ -15,10 +15,10 @@ In other terms it means to be healthy **(99%)**, wealthy **(20%)** free **(5%)**
 - Listen to music
 - Walk under rain
 - pool
+- spend time with family and friends
 - workout
 - eat
 - drink
-- spend time with family and friends
 - play
 - work in intriguing fields
 - travel around the world
