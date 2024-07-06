@@ -11,6 +11,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const sentences = [
         "<a href=\"../c'est-la-vie\">I leave or live</a>",
         "I accept or refuse",
+        "I smile or frown",
         "I am or I'm not",
         "I do or don't",
         "I can or can't",
@@ -18,6 +19,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "I try or don't try",
         "I feel or don't feel",
         "I have or don't have",
+        "I know or don't know",
         "I like or don't like",
         "I need or don't need",
         "I rest or don't rest",
