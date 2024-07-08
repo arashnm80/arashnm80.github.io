@@ -3,6 +3,8 @@ layout: page
 title: Freedom
 ---
 
+![free cow](https://external-preview.redd.it/h1xJ3j6oG7R0H-p2_hkpCpJQf6dYTcxDgMH4wm-z0S4.jpg)
+
 What is freedom?  
 To be free of compulsion, fighting, multitasking, fear, shame.
 
