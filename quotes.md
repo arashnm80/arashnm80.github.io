@@ -113,7 +113,7 @@ title: Quotes
 
 > If I don't know what I want, I can't judge myself for not achieving it.
 
-> Time is my most precious asset and ultimate currency of my life.
+> Time is ultimate currency of my life.
 
 > Time's running out like a cup of coffee, so whatever I have to do it right fu*king now.
 

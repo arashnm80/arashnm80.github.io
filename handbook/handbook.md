@@ -25,8 +25,8 @@ permalink: /handbook/
 ### 1
 <div class="items">
 <ol>
-    <li><a href="./no-time-for-caution">No time for caution</a> <button style="color:Black" onclick="filterItems('core')" class="btn tag core">⬤ core</button></li>
-    <li><a href="./c'est-la-vie">C'est la vie</a> <button style="color:Black" onclick="filterItems('core')" class="btn tag core">⬤ core</button></li>
+    <li><a href="./no-time-for-caution">No time for caution</a></li>
+    <li><a href="./c'est-la-vie">C'est la vie</a></li>
 </ol>
 </div>
 
