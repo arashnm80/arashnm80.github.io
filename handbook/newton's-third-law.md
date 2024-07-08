@@ -15,7 +15,7 @@ World is an ocean of options and possibilites and to choose one of them means to
 
 ### Source Dubiety
 For every choice there is always dubiety about the source triggering all the thoughts:  
-*Maybe it's what I'm forced to do, maybe it's what I want to do, maybe it's what I choose to do, maybe it's what beaten into my source code by my parents and society.*  
+*Maybe it's what I'm forced to do, maybe it's what I want to do, maybe it's what I choose to do, maybe it's what beaten into my source code by my parents and society, ...*  
 But no matter which one is true, in the end I have to choose.
 
 ### Buridan's Ass
