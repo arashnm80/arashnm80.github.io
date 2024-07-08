@@ -3,8 +3,8 @@ layout: page
 title: C'est la vie
 ---
 
+I'm not in good enough position to live with positive life factor and I defy to be only alive, so this is my choice:
+
 > Leave or fight for narrow possibility to live.
 
-Maybe it's what I'm forced to do, maybe it's what I want to do, maybe it's what I choose to do, maybe it's what beaten into my source code by my parents and society.
-
-Either case, this is who I am being and what I'm doing now.
+This is the price I choose to pay: to fight and not rest and live only through [multitasking](../multitask) till either of them happens.

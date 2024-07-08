@@ -13,6 +13,11 @@ title: "Newton's third law: Choose & Exchange"
 ### Exchange
 World is an ocean of options and possibilites and to choose one of them means to lose the others, so every choice has an exchange in its essence. This whole life is a big trading system, it's to constantly exchange assests with each other and one who can't stand to lose anything will gain nothing.
 
+### Dubiety
+For every choice there is always dubiety about the source triggering all the thoughts:  
+*Maybe it's what I'm forced to do, maybe it's what I want to do, maybe it's what I choose to do, maybe it's what beaten into my source code by my parents and society.*  
+But no matter which one is true, in the end I have to choose.
+
 ### Buridan's Ass
 Not choosing is a choice itself and most of the time the worst one.
 ![buridan's ass 1](https://64.media.tumblr.com/20255ed6da20b355d944a95324a186f7/tumblr_o3rf5cM3RE1senxz2o1_1280.jpg)

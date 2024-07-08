@@ -135,6 +135,8 @@ title: Quotes
 
 > Everybody thinks their loneliness is the biggest loneliness in the world.
 
+> When life gets you down and you feel unloved and worthless, just remember you’ll be dead one day.
+
 > Long-term games with long-term people.
 
 > Surround myself with people 20% better than me.
