@@ -3,10 +3,10 @@ layout: page
 title: C'est ma vie
 ---
 
-<span id="sentence-container">I leave or live, <strong>this is my life.</strong></span><br>
-**So who am I being and what am I doing [now](../no-time-for-caution)?**
+<span id="sentence-container">Paradise or hell, <strong>this is my life.</strong></span><br>
+**So [who](../i-dentity) am I being and what am I [doing](../action) [now](../no-time-for-caution)?**
 
-<script>
+<!-- <script>
 document.addEventListener("DOMContentLoaded", function() {
     const sentences = [
         "<a href=\"../c'est-la-vie\">I leave or live</a>",
@@ -87,13 +87,4 @@ document.addEventListener("DOMContentLoaded", function() {
     // Set up initial fade-in effect
     sentenceContainer.style.transition = 'opacity 0.5s ease-in-out';
 });
-</script>
-
-<!-- <style>
-#sentence-container {
-    transition: opacity 0.5s ease-in-out;
-    opacity: 1;
-    /* font-size: 1.5em;
-    margin: 20px; */
-}
-</style> -->
+</script> -->

@@ -14,3 +14,9 @@ I can define some constant routines to create this situation manually, e.g. :
 
 ### quotes
 > When life gets you down and you feel unloved and worthless, just remember you’ll be dead one day.
+
+### island analogy
+I'm on a small stinky island with limited resources only enough to stay alive. As far as my eyes can see there is just ocean. I have mainly 3 options:
+1. to end my life and refuse it
+2. to struggle to survive and stay alive in this shitty island
+3. to start swimming with maximum power to reach maybe a bigger island to be able to live

@@ -91,6 +91,8 @@ title: Quotes
 
 > I'm not going to fool myself, and I'm the easiest person to fool.
 
+> The big picture is very simple.
+
 > The only way is to move forward.
 
 > I just Keep Moving Forward Till I've Killed My Enemies.
