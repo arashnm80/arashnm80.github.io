@@ -4,7 +4,7 @@ title: C'est ma vie
 ---
 
 <span id="sentence-container">Paradise or hell, <strong>this is my life.</strong></span><br>
-**So [who](../i-dentity) am I being and what am I [doing](../action) [now](../no-time-for-caution)?**
+So [who](../i-dentity) am I being and what am I [doing](../action) [now](../no-time-for-caution)?
 
 <!-- <script>
 document.addEventListener("DOMContentLoaded", function() {
