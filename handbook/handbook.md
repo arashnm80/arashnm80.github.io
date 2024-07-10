@@ -72,6 +72,7 @@ permalink: /handbook/
     <li><a href="./biggest-problem">Biggest Problem</a></li>
     <li><a href="./shame">Shame</a></li>
     <li><a href="./art-of-racing-in-the-rain">Art of racing in the rain</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
+    <li><a href="./freedom">Freedom</a></li>
     <li><a href="./victim">Victim</a></li>
 </ol>
 </div>
@@ -94,7 +95,6 @@ permalink: /handbook/
     <li><a href="./portrait-painting">Portrait Painting</a></li>
     <li><a href="./skin-in-the-game">Skin in the game</a></li>
     <li><a href="./cbt">CBT</a></li>
-    <li><a href="./freedom">Freedom</a></li>
     <li><a href="./bitcoin">Bitcoin</a></li>
     <li><a href="./mrbeast">MrBeast</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
     <li><a href="./creativity">Creativity</a></li>
