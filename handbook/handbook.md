@@ -79,8 +79,6 @@ permalink: /handbook/
 ### 5
 <div class="items">
 <ol>
-    <li><a href="./leave">Leave</a></li>
-    <li><a href="./live">Live</a></li>
     <li><a href="./idea-person">Idea person</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./subconscious">Subconscious</a></li>
     <li><a href="./people">People</a></li>
