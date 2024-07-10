@@ -97,6 +97,7 @@ permalink: /handbook/
     <li><a href="./cbt">CBT</a></li>
     <li><a href="./bitcoin">Bitcoin</a></li>
     <li><a href="./mrbeast">MrBeast</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
+    <li><a href="./naval">Naval</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
     <li><a href="./creativity">Creativity</a></li>
     <li><a href="./move-forward">Move Forward</a></li>
     <li><a href="./smart">Smart</a></li>
