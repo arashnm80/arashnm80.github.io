@@ -139,6 +139,7 @@ permalink: /handbook/
     <li><a href="./evolution">Evolution</a></li>
     <li><a href="./hope">Hope</a></li>
     <li><a href="./minimalism">Minimalism</a></li>
+    <li><a href="./local-maximum">Local maximum</a></li>
     <li><a href="./other">Other</a></li>
 </ol>
 </div>
