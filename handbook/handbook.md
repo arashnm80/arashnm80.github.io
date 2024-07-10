@@ -72,16 +72,18 @@ permalink: /handbook/
     <li><a href="./biggest-problem">Biggest Problem</a></li>
     <li><a href="./shame">Shame</a></li>
     <li><a href="./art-of-racing-in-the-rain">Art of racing in the rain</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
+    <li><a href="./victim">Victim</a></li>
 </ol>
 </div>
 
 ### 5
 <div class="items">
 <ol>
+    <li><a href="./leave">Leave</a></li>
+    <li><a href="./live">Live</a></li>
     <li><a href="./idea-person">Idea person</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./subconscious">Subconscious</a></li>
     <li><a href="./people">People</a></li>
-    <li><a href="./victim">Victim</a></li>
     <li><a href="./will">Will</a></li>
     <li><a href="./hobby-as-a-service">Hobby as a Service</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./near-zero-cost">Near Zero Cost</a></li>
@@ -123,8 +125,6 @@ permalink: /handbook/
     <li><a href="./rest-reinforcement">Rest & Reinforcement</a></li>
     <li><a href="./boom">Boom</a></li>
     <li><a href="./patience">Patience</a></li>
-    <li><a href="./live">Live</a></li>
-    <li><a href="./leave">Leave</a></li>
     <li><a href="./skill-tree">Skill Tree</a></li>
     <li><a href="./shot">Shot</a></li>
     <li><a href="./leader">Leader</a></li>
