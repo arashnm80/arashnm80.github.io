@@ -33,18 +33,18 @@ permalink: /handbook/
 ### 2
 <div class="items">
 <ol>
-    <li><a href="./newton's-third-law">Newton's Third law</a> </li>
-    <li><a href="./multitask">Multitask</a></li>
-    <li><a href="./action">Action</a> </li>
     <li><a href="./i-dentity">I-dentity</a> </li>
+    <li><a href="./newton's-third-law">Newton's Third law</a> </li>
+    <li><a href="./uncertainty">Uncertainty</a> </li>
+    <li><a href="./action">Action</a> </li>
 </ol>
 </div>
 
 ### 3
 <div class="items">
 <ol>
+    <li><a href="./multitask">Multitask</a></li>
     <li><a href="./plan">Plan</a> </li>
-    <li><a href="./uncertainty">Uncertainty</a> </li>
     <li><a href="./quality-levels">Quality Levels</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
     <li><a href="./sort">Sort</a> </li>
     <li><a href="./persistency">Persistency</a> </li>
@@ -58,13 +58,13 @@ permalink: /handbook/
 <div class="items">
 <ol>
     <li><a href="./reboot">Reboot</a></li>
+    <li><a href="./plan-a-b">Plan A & B</a></li>
     <li><a href="./fear-courage">Fear & Courage</a></li>
     <li><a href="./begin-again">Begin Again</a></li>
     <li><a href="./pomodoro">Pomodoro</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./dopamine">Dopamine</a></li>
     <li><a href="./risk">Risk</a></li>
     <li><a href="./hidden-progress">Hidden Progress</a></li>
-    <li><a href="./plan-a-b">Plan A & B</a></li>
     <li><a href="./2-battlefields">2 Battlefields</a></li>
     <li><a href="./destination-path">Destination & Path</a></li>
     <li><a href="./80-20">80-20</a></li>
