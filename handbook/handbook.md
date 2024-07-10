@@ -117,6 +117,7 @@ permalink: /handbook/
 ### 6
 <div class="items">
 <ol>
+    <li><a href="./local-maximum">Local maximum</a></li>
     <li><a href="./right-questions">right questions</a></li>
     <li><a href="./lose">lose</a></li>
     <li><a href="./niksen">niksen</a></li>
@@ -137,7 +138,6 @@ permalink: /handbook/
     <li><a href="./evolution">Evolution</a></li>
     <li><a href="./hope">Hope</a></li>
     <li><a href="./minimalism">Minimalism</a></li>
-    <li><a href="./local-maximum">Local maximum</a></li>
     <li><a href="./other">Other</a></li>
 </ol>
 </div>
