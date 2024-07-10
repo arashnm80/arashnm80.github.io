@@ -3,8 +3,8 @@ layout: page
 title: C'est ma vie
 ---
 
-<span id="sentence-container">Paradise or hell, <strong>this is my life.</strong></span><br>
-So [who](../i-dentity) am I being and what am I [doing](../action) [now](../no-time-for-caution)?
+<span id="sentence-container">Paradis ou enfer, <strong>これは私の人生です。</strong></span><br>
+では、qui suis-je et que fais-je maintenant?
 
 <!-- <script>
 document.addEventListener("DOMContentLoaded", function() {
