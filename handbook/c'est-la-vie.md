@@ -58,3 +58,7 @@ If I'm gonna lose some to get another if can be in different degrees:
 But I think I'm gonna go for 0 rest. I have 0 interest to be only alive and since where I am right now is only being alive let's fuck it. I'm pay 100% and become nothing to get everything. this gamble either falls and I die in the most negative and absolute minimum point of LF or it wins and get sth positive.
 
 The problem is that I have some positive LF moments but all of them altoghether are near zero. Even in the best case when I am totally free I'm mostly experiencing zero level LF. So basiacally my life is divided to moments with pain, depression, sadness, anger, fight, ... which are negative LF (70% of my life), moments with no feeling and emptiness which are in the best case zero LF (25% of my life) and moments with pleasure, joy and happiness which are positive LF (at most 5% of my life)
+
+So if I'm gonna put it in the island anology it's like I have 2 options:
+1. to die
+2. **to fight and endure pain for some better island that might not exist at all, if exists is far far away, and even if I reach it might turn out to be another unwanted useless property for me**
