@@ -13,8 +13,8 @@ title: C'est ma vie
         2024-07-11:<br>
         <strong>
             I <a href="../newton's-third-law">choose</a> a <a href="../life-factor">goal</a> for my life,<br>
-            I <a href="../newton's-third-law">choose</a> a <a href="../seven">plan</a> for my goal,<br>
-            I <a href="../newton's-third-law">choose</a> to <a href="../action">act</a> for my plan.
+            I choose a <a href="../seven">plan</a> for my goal,<br>
+            I choose to <a href="../action">act</a> for my plan.
         </strong>
     </span>
 </span>
