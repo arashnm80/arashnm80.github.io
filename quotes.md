@@ -153,6 +153,12 @@ title: Quotes
 
 > Anybody can do it, question is who does?
 
+> Diff between 121 and 120 mins is nothing, diff between 1' and 0' is everything.
+
+> To become great, I should become good first.
+
+> No matter how much I can stretch, in the end I have a limited rope. The challenge is to maximize the area.
+
 > I'm born righ now in this situation, with this knowledge and experience, so what am I gonna do now?
 
 > Any change is a mean to produce energy.
