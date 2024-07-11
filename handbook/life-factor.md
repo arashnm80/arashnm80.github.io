@@ -16,7 +16,7 @@ If it's in the positive side and monotonic increasing then maximizing LF means t
 But deciding is not never this easy. There is always randomness, uncertainty, probabilities, chance, doubt, actions, time, depression, pain, and shitload of other factors thatn make the computation as hard as an infinite degree infinite order mathematical equation which is impossible to solve absolutely and is only possible to be estimated with concepts like numerical analysis.
 
 ## C'est la vie
-> Leave or fight for narrow possibility to live.
+> **Leave or fight for narrow possibility to live.**
 
 Instead of complaining, shouting and crying *C'est la vie* has an acceptence inside it. 
 

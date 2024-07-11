@@ -81,7 +81,7 @@ title: Quotes
 
 > It's not about how big an army is, it's about who is the general.
 
-> Leave or fight for narrow possibility to live.
+> **Leave or fight for narrow possibility to live.**
 
 > A real loser is someone who's so afraid of not winning he doesn't even try.
 
