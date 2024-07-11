@@ -12,7 +12,7 @@ title: C'est ma vie
     <span>
         2024-07-11:<br>
         <strong>
-            I choose a <a href="../life-factor">plan</a> for my life,<br>
+            I choose a <a href="../life-factor">goal</a> for my life,<br>
             I choose a <a href="../seven">plan</a> for my goal,<br>
             I choose to <a href="../action">act</a> for my plan.
         </strong>
