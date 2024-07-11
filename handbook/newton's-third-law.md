@@ -31,3 +31,7 @@ Not choosing is a choice itself and most of the time the worst one.
 
 ### Paradox of choice
 ![paradox of choice](https://images.prismic.io/sketchplanations/2a283de2-2249-4fb0-8de8-0f550a7fdefe_SP+694+-+The+paradox+of+choice.png?auto=compress%2Cformat&fit=max&w=750&q=50)
+
+### Adagio
+> The perfect decision making duration is 8 minutes and 34 seconds.
+Everyday I wake up I listen to Adagio and decide whether to leave or to stay and fight one more day.
