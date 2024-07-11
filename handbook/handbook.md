@@ -72,6 +72,7 @@ permalink: /handbook/
     <li><a href="./chain-reaction">Chain Reaction</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./subconscious">Subconscious</a></li>
     <li><a href="./people">People</a></li>
+    <li><a href="./minimalism">Minimalism</a></li>
 </ol>
 </div>
 
@@ -96,7 +97,6 @@ permalink: /handbook/
     <li><a href="./economy">Economy</a></li>
     <li><a href="./smart">Smart</a></li>
     <li><a href="./teacher">Teacher</a></li>
-    <li><a href="./minimalism">Minimalism</a></li>
     <li><a href="./immerse">Immerse</a></li>
     <li><a href="./omniscient">Omniscient</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
     <li><a href="./mind-opiums">Mind Opiums</a></li>
