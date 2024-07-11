@@ -5,10 +5,10 @@ title: C'est ma vie
 
 <span id="sentence-container">
     <strong>
-        Paradis ou enfer, これは私の人生です<br>
-        では、who am I <a href="../newton's-third-law">choosing</a> to be and what am I choosing to do <a href="../no-time-for-caution">今</a>?
+        Paradise or hell, this is my life.<br>
+        So, who am I <a href="../newton's-third-law">choosing</a> to be and what am I choosing to do <a href="../no-time-for-caution">今</a>?
     </strong>
-    <br><br>
+    <!-- <br><br>
     <span>
         2024-07-11:<br>
         <strong>
@@ -16,7 +16,7 @@ title: C'est ma vie
             I choose a <a href="../seven">plan</a> for my goal,<br>
             I choose to <a href="../action">act</a> for my plan.
         </strong>
-    </span>
+    </span> -->
 </span>
 
 ## I-dentity
