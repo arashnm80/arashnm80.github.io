@@ -1,8 +1,8 @@
 ---
-title: Strategy
+title: Seven
 ---
 
-The plan is to start from almost hell and try to ascend
+The plan is to start from almost hell and try to ascend to heaven.
 
 ### Chapter 1: Free Fridays
 I am at the very first step. I have some resources like a little knowledge and money so I'm not starting from zero and I've experienced many ups and downs but there's a very very long path ahead.

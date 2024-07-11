@@ -26,7 +26,7 @@ permalink: /handbook/
 <div class="items">
 <ol>
     <li><a href="./life-factor">Life Factor</a> <button style="color:Blue" onclick="filterItems('goal')" class="btn tag goal">⬤ goal</button></li>
-    <li><a href="./strategy">Strategy</a> <button style="color:Green" onclick="filterItems('plan')" class="btn tag plan">⬤ plan</button></li>
+    <li><a href="./seven">Seven</a> <button style="color:Green" onclick="filterItems('plan')" class="btn tag plan">⬤ plan</button></li>
 </ol>
 </div>
 
@@ -116,10 +116,10 @@ permalink: /handbook/
 ### 6
 <div class="items">
 <ol>
-    <li><a href="./right-questions">right questions</a></li>
     <li><a href="./lose">lose</a></li>
     <li><a href="./niksen">niksen</a></li>
     <li><a href="./words">Words</a></li>
+    <li><a href="./right-questions">right questions</a></li>
     <li><a href="./brush-teeth">Brush Teeth</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./rest-reinforcement">Rest & Reinforcement</a></li>
     <li><a href="./boom">Boom</a></li>
