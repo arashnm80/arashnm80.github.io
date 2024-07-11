@@ -2,7 +2,7 @@
 title: Life Factor
 ---
 
-LF = Integral of (Pleasure - Pain) throughout life.
+**LF = Integral of (Pleasure - Pain) throughout life.**
 
 If positive, it's a worthwhile life called *living* and it's worth to be repeated again.
 
