@@ -36,14 +36,14 @@ permalink: /handbook/
     <li><a href="./life-factor">Life Factor</a> <button style="color:Blue" onclick="filterItems('goal')" class="btn tag goal">⬤ goal</button></li>
     <li><a href="./seven">Seven</a> <button style="color:Green" onclick="filterItems('plan')" class="btn tag plan">⬤ plan</button></li>
     <li><a href="./action">Action</a> </li>
-    <li><a href="./uncertainty">Uncertainty</a> </li>
+    <li><a href="./quality-levels">Quality Levels</a></li>
 </ol>
 </div>
 
 ### 3
 <div class="items">
 <ol>
-    <li><a href="./quality-levels">Quality Levels</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
+    <li><a href="./uncertainty">Uncertainty</a> </li>
     <li><a href="./multitask">Multitask</a></li>
     <li><a href="./fight">Fight</a></li>
     <li><a href="./persistency">Persistency</a> </li>
