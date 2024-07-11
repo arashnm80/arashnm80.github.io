@@ -17,8 +17,6 @@ title: Quotes
 
 > The rest of my life starts right now.
 
-> My time is limited, I'm not gonna waste it living someone else’s life.
-
 > Think out of the box.
 
 > If you have to walk through an unpleasant path, what can you do to make it more bearable or even turn the tide and use it to your advantage?
@@ -124,6 +122,8 @@ title: Quotes
 > Everybody thinks their loneliness is the biggest loneliness in the world.
 
 > When life gets you down and you feel unloved and worthless, just remember you’ll be dead one day.
+
+> My time is limited, I'm not gonna waste it living someone else’s life.
 
 > Everybody in the world is a compass for me. A reminder of where I want to be and where I don't.
 

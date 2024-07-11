@@ -15,6 +15,9 @@ I can define some constant routines to create this situation manually, e.g. :
 ### quotes
 > When life gets you down and you feel unloved and worthless, just remember you’ll be dead one day.
 
+## I-dentity
+> My time is limited, I'm not gonna waste it living someone else’s life.
+
 ### People
 Respect everyone and give a shit about no one, in fact don't even think about anyone. Do what you believe is best not what society enforce on you.
 

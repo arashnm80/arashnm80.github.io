@@ -19,8 +19,7 @@ title: C'est ma vie
     </span> -->
 </span>
 
-## I-dentity
-> My time is limited, I'm not gonna waste it living someone else’s life.
+
 
 
 
