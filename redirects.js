@@ -4,7 +4,7 @@ const path = require('path');
 
 // Load redirects from _redirects.yml
 const redirectsFile = fs.readFileSync('_redirects.yml', 'utf8');
-const redirects = yaml.safeLoad(redirectsFile).redirects;
+const redirects = yaml.load(redirectsFile).redirects;
 
 // Ensure the _redirects directory exists
 const redirectsDir = path.join(__dirname, '_redirects');
@@ -14,11 +14,11 @@ if (!fs.existsSync(redirectsDir)) {
 
 // Generate markdown files for each redirect
 redirects.forEach(redirect => {
-    const fromPaths = redirect.from;
+    const fromPaths = Array.isArray(redirect.from) ? redirect.from : [redirect.from];
     const toUrl = redirect.to;
 
     fromPaths.forEach(fromPath => {
-        const trimmedPath = fromPath.trim('/');
+        const trimmedPath = fromPath.replace(/^\//, '').replace(/\/$/, ''); // Remove leading and trailing slashes
         const filename = path.join(redirectsDir, `${trimmedPath}.md`);
 
         // Create markdown content
