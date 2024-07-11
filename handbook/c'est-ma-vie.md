@@ -5,8 +5,8 @@ title: C'est ma vie
 
 <span id="sentence-container">
     <strong>
-        Paradise or hell, this is my life.<br>
-        So, who am I <a href="../newton's-third-law">choosing</a> to be and what am I choosing to do <a href="../no-time-for-caution">今</a>?
+        paradis ou enfer, これは私の人生です。<br>
+        では、qui suis-je et que fais-je 今?
     </strong>
     <!-- <br><br>
     <span>
