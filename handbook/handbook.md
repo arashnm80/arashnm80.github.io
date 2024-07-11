@@ -48,7 +48,7 @@ permalink: /handbook/
     <li><a href="./experience">Experience</a></li>
     <li><a href="./plan-a-b">Plan A & B</a></li>
     <li><a href="./fear-courage">Fear & Courage</a></li>
-    <li><a href="./reboot">Reboot</a></li>
+    <li><a href="./reboot">Reboot</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
     <li><a href="./dopamine">Dopamine</a></li>
     <li><a href="./pomodoro">Pomodoro</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
 </ol>
