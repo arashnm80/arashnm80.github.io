@@ -21,3 +21,4 @@ title: Words
 - vehement
 - one man army
 - knack
+- blitz

@@ -18,15 +18,15 @@ permalink: /handbook/
 ### 0
 <div class="items">
 <ol>
-    <li><a href="./c'est-ma-vie">C'est ma vie</a> <button style="color:Black" onclick="filterItems('core')" class="btn tag core">⬤ core</button></li>
+    <li><a href="./c'est-ma-vie">C'est ma vie</a> <button style="color:Black" onclick="filterItems('genesis')" class="btn tag genesis">⬤ genesis</button></li>
 </ol>
 </div>
 
 ### 1
 <div class="items">
 <ol>
-    <li><a href="./goal">Goal</a> </li>
-    <li><a href="./plan">Plan</a> </li>
+    <li><a href="./life-factor">Life Factor</a> <button style="color:Blue" onclick="filterItems('goal')" class="btn tag goal">⬤ goal</button></li>
+    <li><a href="./strategy">Strategy</a> <button style="color:Black" onclick="filterItems('plan')" class="btn tag plan">⬤ plan</button></li>
 </ol>
 </div>
 
@@ -35,16 +35,16 @@ permalink: /handbook/
 <ol>
     <li><a href="./no-time-for-caution">No time for caution</a></li>
     <li><a href="./c'est-la-vie">C'est la vie</a></li>
-    <li><a href="./i-dentity">I-dentity</a> </li>
     <li><a href="./newton's-third-law">Newton's Third law</a> </li>
-    <li><a href="./uncertainty">Uncertainty</a> </li>
-    <li><a href="./action">Action</a> </li>
+    <li><a href="./i-dentity">I-dentity</a> </li>
 </ol>
 </div>
 
 ### 3
 <div class="items">
 <ol>
+    <li><a href="./action">Action</a> </li>
+    <li><a href="./uncertainty">Uncertainty</a> </li>
     <li><a href="./multitask">Multitask</a></li>
     <li><a href="./quality-levels">Quality Levels</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
     <li><a href="./sort">Sort</a> </li>
@@ -90,7 +90,6 @@ permalink: /handbook/
     <li><a href="./domino-effect">Domino Effect</a></li>
     <li><a href="./narrow-way-through">Narrow way through</a></li>
     <li><a href="./chain-reaction">Chain Reaction</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
-    <li><a href="./life-factor">Life Factor</a></li>
     <li><a href="./system-1-2">System 1 & 2</a></li>
     <li><a href="./renewable-energy">Renewable energy</a></li>
     <li><a href="./portrait-painting">Portrait Painting</a></li>
