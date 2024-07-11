@@ -91,7 +91,7 @@ title: Quotes
 
 > I'm not going to fool myself, and I'm the easiest person to fool.
 
-> The big picture is very simple.
+> It might be a labyrinth but the big picture is very simple.
 
 > The only way is to move forward.
 
