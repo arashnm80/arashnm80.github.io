@@ -1,7 +1,10 @@
 redirects:
+  - from: /github # single redirect example
+    to: https://github.com/Arashnm80
+  - from: # multiple redirects example
+    - /twitter
+    - /x
+    to: https://www.twitter.com/Arashnm80
   - from:
     - /youtube
-    - /yt
     to: https://www.youtube.com/@Arashnm80
-  - from: /twitter
-    to: https://www.twitter.com/Arashnm80
