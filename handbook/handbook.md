@@ -75,15 +75,15 @@ permalink: /handbook/
 <div class="items">
 <ol>
     <li><a href="./victim">Victim</a></li>
-    <li><a href="./idea-person">Idea person</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
+    <li><a href="./chain-reaction">Chain Reaction</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./subconscious">Subconscious</a></li>
     <li><a href="./people">People</a></li>
+    <li><a href="./idea-person">Idea person</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./will">Will</a></li>
     <li><a href="./hobby-as-a-service">Hobby as a Service</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./near-zero-cost">Near Zero Cost</a></li>
     <li><a href="./domino-effect">Domino Effect</a></li>
     <li><a href="./narrow-way-through">Narrow way through</a></li>
-    <li><a href="./chain-reaction">Chain Reaction</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./system-1-2">System 1 & 2</a></li>
     <li><a href="./portrait-painting">Portrait Painting</a></li>
     <li><a href="./renewable-energy">Renewable energy</a></li>
