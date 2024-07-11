@@ -28,7 +28,7 @@ const extractQuotes = (directory, outputFile) => {
                 lines.forEach((line) => {
                     if (line.startsWith('> ')) {
                         line = line.replace(/\[(.*?)\]\(.*?\)/g, '$1'); // remove markdown links
-                        line = line.replace(/\*\*/g, ''); // remove "**" if text is bold
+                        line = line.replace(/\*\*/g, ''); // remove every "**" if text is bold
                         quotes += line + '\n\n';
                     }
                 });

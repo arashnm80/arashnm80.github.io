@@ -121,7 +121,7 @@ title: Quotes
 
 > The perfect decision making duration is 8 minutes and 34 seconds.
 
-> Time is ultimate currency of my life.
+> Time is the most precious and ultimate currency of my life.
 
 > Time's running out like a cup of coffee, so whatever I have to do it right fu*king now.
 

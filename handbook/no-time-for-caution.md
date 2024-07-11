@@ -3,13 +3,9 @@ layout: page
 title: No time for caution
 ---
 
-<!-- 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5aaXqH8rgKZxg61HjECldi?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
--->
-
 Too many days, months and years of my life have passed and too few are left. I have to start acting right now and think about parameters and improvements over time later.
 
-> Time is ultimate [currency](../newton's-third-law) of my life.
+> **Time is the most precious and ultimate currency of my life.**
 
 > Time's running out like a cup of coffee, so whatever I have to do it right fu*king now.
 
