@@ -107,6 +107,8 @@ title: Quotes
 
 > Success is to seize narrow short-term golden windows.
 
+> Inspiration is perishable, act on it immediately.
+
 > The right way to work is like a lion.
 
 > The only way of getting somewhere is to leave something behind.
