@@ -13,6 +13,9 @@
 - install: `bundle install`
 - run: `bundle exec jekyll serve`
 
+## prerequisites
+- ```npm install js-yaml```
+
 ```
 node quotes.js; bundle install; bundle exec jekyll serve;
 ```

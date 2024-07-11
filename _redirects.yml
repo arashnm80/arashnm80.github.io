@@ -1,5 +1,7 @@
 redirects:
-  - from: /youtube
+  - from:
+    - /youtube
+    - /yt
     to: https://www.youtube.com/@Arashnm80
   - from: /twitter
     to: https://www.twitter.com/Arashnm80
