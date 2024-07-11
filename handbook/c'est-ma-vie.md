@@ -6,7 +6,7 @@ title: C'est ma vie
 <span id="sentence-container">
     <strong>
         Paradis ou enfer, これは私の人生です<br>
-        では、<a href="../newton's-third-law">who am I choosing to be and what am I choosing to do</a> <a href="../no-time-for-caution">今</a>?
+        では、who am I <a href="../newton's-third-law">choosing</a> to be and what am I choosing to do <a href="../no-time-for-caution">今</a>?
     </strong>
     <br><br>
     <span>
