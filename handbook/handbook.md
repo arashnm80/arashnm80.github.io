@@ -25,14 +25,16 @@ permalink: /handbook/
 ### 1
 <div class="items">
 <ol>
-    <li><a href="./no-time-for-caution">No time for caution</a></li>
-    <li><a href="./c'est-la-vie">C'est la vie</a></li>
+    <li><a href="./goal">Goal</a> </li>
+    <li><a href="./plan">Plan</a> </li>
 </ol>
 </div>
 
 ### 2
 <div class="items">
 <ol>
+    <li><a href="./no-time-for-caution">No time for caution</a></li>
+    <li><a href="./c'est-la-vie">C'est la vie</a></li>
     <li><a href="./i-dentity">I-dentity</a> </li>
     <li><a href="./newton's-third-law">Newton's Third law</a> </li>
     <li><a href="./uncertainty">Uncertainty</a> </li>
@@ -44,7 +46,6 @@ permalink: /handbook/
 <div class="items">
 <ol>
     <li><a href="./multitask">Multitask</a></li>
-    <li><a href="./plan">Plan</a> </li>
     <li><a href="./quality-levels">Quality Levels</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
     <li><a href="./sort">Sort</a> </li>
     <li><a href="./persistency">Persistency</a> </li>
