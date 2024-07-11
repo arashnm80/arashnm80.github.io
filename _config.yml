@@ -34,6 +34,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap # https://github.com/jekyll/jekyll-sitemap
   - jekyll-paginate # https://jekyllrb.com/docs/pagination/
+  - jekyll-git_metadata
 
 # Exclude from processing.
 # The following items will not be processed, by default.

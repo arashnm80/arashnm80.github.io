@@ -138,8 +138,7 @@ permalink: /handbook/
 </ol>
 </div>
 
-
-
+Latest change: {{commit_date}}
 
 
 
