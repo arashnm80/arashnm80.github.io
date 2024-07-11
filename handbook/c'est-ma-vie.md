@@ -3,7 +3,12 @@ layout: page
 title: C'est ma vie
 ---
 
-<span id="sentence-container"><strong>Paradis ou enfer, これは私の人生です<br>では、qui suis-je et que fais-je <a href=../no-time-for-caution>今</a>?</strong></span>
+<span id="sentence-container">
+    <strong>
+        Paradis ou enfer, これは私の人生です<br>
+        では、qui suis-je et que fais-je <a href="../no-time-for-caution">今</a>?
+    </strong>
+</span>
 
 ## I-dentity
 
