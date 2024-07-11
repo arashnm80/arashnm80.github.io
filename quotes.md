@@ -169,8 +169,6 @@ title: Quotes
 
 > Marketing is like sex, only losers pay for it.
 
-> Leave or fight for narrow possibility to live.
-
 > Am I ashamed becuase I'm not who I want to be or because I'm not what society says I have to be?
 
 > Don't be sorry, be better.

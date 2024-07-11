@@ -1,10 +1,14 @@
 ---
-title: Seven
+title: Leave or Fight for narrow possibility to Live
 ---
 
-> **Leave or fight for narrow possibility to live.**
+## Leave
 
-The plan is to start from almost hell and try to ascend to heaven.
+## Fight for narrow possibility to Live
+
+### Chapter 1: Free Fridays
+
+<!-- The plan is to start from almost hell and try to ascend to heaven.
 
 I'm gonna divide weeks into 2 parts:
 
@@ -23,4 +27,4 @@ In the beginning I have some resources like a little knowledge, money, followers
 
 ### Chapter 1: Free Fridays
 My first priority in this chapter is to get rid of anchors chained to my feet:  
-sru and teacher tasks.
+sru and teacher tasks. -->

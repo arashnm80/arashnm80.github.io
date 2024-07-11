@@ -3,7 +3,9 @@ layout: page
 title: No time for caution
 ---
 
-Too many days, months and years of my life have passed and too few are left. I have to start acting right now and think about parameters and improvements over time later.
+⚠
+
+<!-- Too many days, months and years of my life have passed and too few are left. I have to start acting right now and think about parameters and improvements over time later.
 
 > **Time is the most precious and ultimate currency of my life.**
 
@@ -89,4 +91,4 @@ document.addEventListener("DOMContentLoaded", function() {
     // Set an interval to update text every second (1000 milliseconds)
     const intervalId = setInterval(updateText, 1000);
 });
-</script> -->
+</script> --> -->
