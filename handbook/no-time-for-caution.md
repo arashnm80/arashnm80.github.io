@@ -14,8 +14,6 @@ Too many days, months and years of my life have passed and too few are left. I h
 > This life, this year, this year, this second
 ![this-life-this-day-this-day-this-second](../../assets/this-life-this-day-this-day-this-second.jpg)
 
-> [My](../i-dentity) time is limited, I'm not gonna waste it living someone else’s life.
-
 > I won't get rich by renting out my time.
 
 ### Time Travel

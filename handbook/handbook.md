@@ -135,11 +135,7 @@ permalink: /handbook/
 </ol>
 </div>
 
-<div>
-Latest change: {{ site.github.build_date }}
-</div>
 
-Latest change: {{ site.github.build_date }}
 
 
 
