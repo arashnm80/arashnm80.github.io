@@ -26,7 +26,7 @@ permalink: /handbook/
 <div class="items">
 <ol>
     <li><a href="./life-factor">Life Factor</a> <button style="color:Blue" onclick="filterItems('goal')" class="btn tag goal">⬤ goal</button></li>
-    <li><a href="./strategy">Strategy</a> <button style="color:Black" onclick="filterItems('plan')" class="btn tag plan">⬤ plan</button></li>
+    <li><a href="./strategy">Strategy</a> <button style="color:Green" onclick="filterItems('plan')" class="btn tag plan">⬤ plan</button></li>
 </ol>
 </div>
 
