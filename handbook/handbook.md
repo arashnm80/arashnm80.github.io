@@ -16,14 +16,14 @@ permalink: /handbook/
 <!-- <button onclick="filterItems('all')" class="btn">Show All</button> -->
 
 ### 0
-<div class="items" style="font-size: 30px;">
+<div class="items">
 <ol>
     <li><a href="./c'est-ma-vie">C'est ma vie</a></li>
 </ol>
 </div>
 
 ### 1
-<div class="items" style="font-size: 28px;">
+<div class="items">
 <ol>
     <li><a href="./leave-or-fight-for-narrow-possibility-to-live">Leave or Fight for narrow possibility to live</a></li>
     <li><a href="./no-time-for-caution">No time for caution</a></li>
@@ -31,7 +31,7 @@ permalink: /handbook/
 </div>
 
 ### 2
-<div class="items" style="font-size: 26px;">
+<div class="items">
 <ol>
     <li><a href="./newton's-third-law">Newton's Third law: Sort, Choose, Exchange</a></li>
     <li><a href="./life-factor">Life Factor</a></li>
@@ -41,7 +41,7 @@ permalink: /handbook/
 </div>
 
 ### 3
-<div class="items" style="font-size: 24px;">
+<div class="items">
 <ol>
     <li><a href="./multitask">Multitask</a></li>
     <li><a href="./persistency">Persistency</a> </li>
@@ -55,7 +55,7 @@ permalink: /handbook/
 </div>
 
 ### 4
-<div class="items" style="font-size: 22px;">
+<div class="items">
 <ol>
     <li><a href="./sleep">Sleep</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./begin-again">Begin Again</a></li>
@@ -72,7 +72,7 @@ permalink: /handbook/
 </div>
 
 ### 5
-<div class="items" style="font-size: 20px;">
+<div class="items">
 <ol>
     <li><a href="./victim">Victim</a></li>
     <li><a href="./idea-person">Idea person</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
@@ -109,7 +109,7 @@ permalink: /handbook/
 </div>
 
 ### 6
-<div class="items" style="font-size: 18px;">
+<div class="items">
 <ol>
     <li><a href="./lose">lose</a></li>
     <li><a href="./niksen">niksen</a></li>
