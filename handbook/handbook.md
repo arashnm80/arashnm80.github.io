@@ -16,7 +16,7 @@ permalink: /handbook/
 <!-- <button onclick="filterItems('all')" class="btn">Show All</button> -->
 
 ### 0
-<div class="items">
+<div class="items" style="font-size: 14px;">
 <ol>
     <li><a href="./c'est-ma-vie">C'est ma vie</a></li>
 </ol>
