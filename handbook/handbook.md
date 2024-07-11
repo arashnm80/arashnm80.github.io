@@ -25,8 +25,8 @@ permalink: /handbook/
 ### 1
 <div class="items">
 <ol>
-    <li><a href="./no-time-for-caution">No time for caution</a> <button style="color:Black" onclick="filterItems('core')" class="btn tag core">⬤ core</button></li>
-    <li><a href="./newton's-third-law">Newton's Third law</a> <button style="color:Black" onclick="filterItems('core')" class="btn tag core">⬤ core</button></li>
+    <li><a href="./no-time-for-caution">No time for caution</a> <button style="color:Red" onclick="filterItems('core')" class="btn tag core">⬤ core</button></li>
+    <li><a href="./newton's-third-law">Newton's Third law</a> <button style="color:Red" onclick="filterItems('core')" class="btn tag core">⬤ core</button></li>
 </ol>
 </div>
 
