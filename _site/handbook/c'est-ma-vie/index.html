@@ -43,44 +43,127 @@
   </header>
 
   <div class="post-content">
-    <!-- 
-I [leave or live](../c'est-la-vie), **this is my life.**  
-I am or I'm not, **this is my life.**  
-I do or do not, **this is my life.**  
-I can or I can't, **this is my life.**  
-I act or don't act, **this is my life.**  
-I try or don't try, **this is my life.**  
-I have or don't have, **this is my life.**  
-I like or don't like, **this is my life.**  
-I need or don't need, **this is my life.**  
-I want or don't want, **this is my life.**  
-I choose or don't choose, **this is my life.**  
-I accept or refuse, **this is my life.**  
-Win or lose, easy or hard, possible or impossible, **this is my life.**  
-Best or worst, black or white, paradise or hell, **this is my life.**  
-**So what am I going to do with it, who do I choose to be and what do I choose to do [now](../no-time-for-caution)?** -->
+    <p><span id="sentence-container">
+    <strong>
+        Paradis ou enfer, これは私の人生です<br />
+        では、qui suis-je et que fais-je <a href="../no-time-for-caution">今</a>?
+    </strong>
+    &lt;p&gt;
+        2024-07-11:<br />
+        I’m gonna choose a goal for my life,<br /></span></p>
 
-<p><span id="sentence-container">I leave or live, <strong>this is my life.</strong></span><br />
-<strong>So what am I going to do with it, who do I choose to be and what do I choose to do <a href="../no-time-for-caution">now</a>?</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;/p&gt; &lt;/span&gt;
+</code></pre></div></div>
 
-<script>
+<h2 id="i-dentity">I-dentity</h2>
+
+<h3 id="zero-censorship-policy">Zero censorship policy</h3>
+<p>I’m gonna be 100% myself.</p>
+
+<h3 id="people">People</h3>
+<p>Respect everyone and give a shit about no one, in fact don’t even think about anyone. Do what you believe is best not what society enforce on you.</p>
+
+<blockquote>
+  <p>Everybody in the world is a compass for me. A reminder of where I want to be and where I don’t.</p>
+</blockquote>
+
+<h3 id="character">Character</h3>
+<blockquote>
+  <p>I’m gonna be the change I want to see in the world.</p>
+</blockquote>
+
+<blockquote>
+  <p>We accept the life we think we deserve.</p>
+</blockquote>
+
+<blockquote>
+  <p>Become so big that this world seem small next to you.</p>
+</blockquote>
+
+<blockquote>
+  <p>If I don’t do it, I want to be the person who doesn’t want it, not one who can’t.</p>
+</blockquote>
+
+<blockquote>
+  <p>We are here to drink beer. We are here to kill war. We are here to laugh at the odds and live our lives so well that Death will tremble to take us.</p>
+</blockquote>
+
+<blockquote>
+  <p>Every great painter paints what he is.</p>
+</blockquote>
+
+<blockquote>
+  <p>A great writer writes like there is no one else in the world to read.</p>
+</blockquote>
+
+<blockquote>
+  <p>If I can’t fix myself how can I fix the world?</p>
+</blockquote>
+
+<blockquote>
+  <p>I’m not center of the world but I am center of my world.</p>
+</blockquote>
+
+<blockquote>
+  <p>Soft as a leaf, strong as a trunk.</p>
+</blockquote>
+
+<h3 id="rogue">Rogue</h3>
+<blockquote>
+  <p>I’m gonna change the world and I’m not gonna ask for permission.</p>
+</blockquote>
+
+<!-- <script>
 document.addEventListener("DOMContentLoaded", function() {
     const sentences = [
-        "I leave or live",
+        "<a href=\"../c'est-la-vie\">I leave or live</a>",
+        "I accept or refuse",
+        "I smile or frown",
         "I am or I'm not",
-        "I do or do not",
+        "I do or don't",
         "I can or can't",
         "I act or don't act",
         "I try or don't try",
+        "I feel or don't feel",
         "I have or don't have",
+        "I know or don't know",
         "I like or don't like",
         "I need or don't need",
+        "I rest or don't rest",
         "I want or don't want",
-        "I fight or don't fight",
+        "<a href='../fight'>I fight or don't fight</a>",
         "I choose or don't choose",
-        "I accept or refuse",
-        "Win or lose, easy or hard, possible or impossible",
-        "Best or worst, black or white, paradise or hell",
+        "Best or worst",
+        "Calm or stressed",
+        "Certain or doubtful",
+        "Euphoric or depressed",
+        "Easy or hard",
+        "<a href='../biggest-problem'>Everything or nothing</a>",
+        "Fair or unfair",
+        "Fast or slow",
+        "<a href='../freedom'>Free or slave</a>",
+        "Lion or rat",
+        "Lonely or belonging",
+        "Male or female",
+        "Meaningful or meaningless",
+        "Moral or immoral",
+        "Optional or compulsory",
+        "Paradise or hell",
+        "<a href='../life-factor'>Pleasure or pain</a>",
+        "<a href='../uncertainty'>Predictable or chaotic</a>",
+        "Proud or ashamed",
+        "Reason or excuse",
+        "<a href='../mind-opiums'>Red pill or blue</a>",
+        "Rich or poor",
+        "Safe or risky",
+        "Simple or complicated",
+        "Strong or weak",
+        "Too many choices or no choice at all",
+        "Too much time or no time at all",
+        "True or false",
+        "Truth or lie",
+        "Victim or vigilante",
+        "Win or lose",
     ];
 
     const boldText = "this is my life."; // The bold text you want to append
@@ -103,27 +186,15 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     // // Set initial sentence
-    // const initialSentence = getRandomSentence();
-    // sentenceContainer.innerHTML = initialSentence + ' <strong>' + boldText + '</strong>';
-
     showNextSentence()
 
-    // Change sentence every 3 seconds
-    setInterval(showNextSentence, 3000);
+    // Change sentence every few seconds
+    setInterval(showNextSentence, 4000);
 
     // Set up initial fade-in effect
     sentenceContainer.style.transition = 'opacity 0.5s ease-in-out';
 });
-</script>
-
-<!-- <style>
-#sentence-container {
-    transition: opacity 0.5s ease-in-out;
-    opacity: 1;
-    /* font-size: 1.5em;
-    margin: 20px; */
-}
-</style> -->
+</script> -->
 
   </div>
 

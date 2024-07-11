@@ -10,8 +10,9 @@ title: C'est ma vie
     </strong>
     <p>
         2024-07-11:<br>
-        I'm gonna choose a goal for my life,<br>
-        
+        I choose a goal for my life,<br>
+        I choose a plan for my goal,<br>
+        I choose to act for my goal.
     </p>
 </span>
 
