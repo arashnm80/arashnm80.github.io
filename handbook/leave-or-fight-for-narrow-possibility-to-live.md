@@ -7,8 +7,8 @@ title: Leave or Fight for narrow possibility to Live
 or
 
 - **Fight for narrow possibility to Live**
-  - Strategy: Seven steps from hell to heaven
-    - Chapter 1: 1-6
+  - Seven Layer Strategy
+    1. Free Friday
 
 <!-- The plan is to start from almost hell and try to ascend to heaven.
 
