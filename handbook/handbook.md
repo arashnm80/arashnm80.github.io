@@ -138,8 +138,11 @@ permalink: /handbook/
 </ol>
 </div>
 
-Latest change: {{commit_date}}
+<div>
+Latest change: {{ site.github.build_date }}
+</div>
 
+Latest change: {{ site.github.build_date }}
 
 
 
