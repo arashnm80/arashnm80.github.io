@@ -34,8 +34,8 @@ permalink: /handbook/
 <div class="items">
 <ol>
     <li><a href="./newton's-third-law">Newton's Third law</a> <button style="color:Gray" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
-    <li><a href="./life-factor">Life Factor</a> <button style="color:Blue" onclick="filterItems('goal')" class="btn tag goal">⬤ goal</button></li>
-    <li><a href="./seven">Seven</a> <button style="color:Green" onclick="filterItems('plan')" class="btn tag plan">⬤ plan</button></li>
+    <li><a href="./life-factor">Life Factor</a> <button style="color:Green" onclick="filterItems('goal')" class="btn tag goal">⬤ goal</button></li>
+    <li><a href="./seven">Seven</a> <button style="color:Blue" onclick="filterItems('plan')" class="btn tag plan">⬤ plan</button></li>
     <li><a href="./uncertainty">Uncertainty</a> <button style="color:Gray" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
 </ol>
 </div>
