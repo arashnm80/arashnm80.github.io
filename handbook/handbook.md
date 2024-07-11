@@ -25,8 +25,8 @@ permalink: /handbook/
 ### 1
 <div class="items">
 <ol>
-    <li><a href="./no-time-for-caution">No time for caution</a> <button style="color:Red" onclick="filterItems('core')" class="btn tag core">⬤ core</button></li>
-    <li><a href="./newton's-third-law">Newton's Third law</a> <button style="color:Red" onclick="filterItems('core')" class="btn tag core">⬤ core</button></li>
+    <li><a href="./no-time-for-caution">No time for caution</a> <button style="color:Gray" onclick="filterItems('core')" class="btn tag core">⬤ core</button></li>
+    <li><a href="./newton's-third-law">Newton's Third law</a> <button style="color:Gray" onclick="filterItems('core')" class="btn tag core">⬤ core</button></li>
 </ol>
 </div>
 
@@ -35,7 +35,7 @@ permalink: /handbook/
 <ol>
     <li><a href="./life-factor">Life Factor</a> <button style="color:Blue" onclick="filterItems('goal')" class="btn tag goal">⬤ goal</button></li>
     <li><a href="./seven">Seven</a> <button style="color:Green" onclick="filterItems('plan')" class="btn tag plan">⬤ plan</button></li>
-    <li><a href="./action">Action</a> </li>
+    <li><a href="./fight">Fight</a> <button style="color:Red" onclick="filterItems('action')" class="btn tag action">⬤ action</button></li>
     <li><a href="./quality-levels">Quality Levels</a></li>
 </ol>
 </div>
@@ -45,7 +45,6 @@ permalink: /handbook/
 <ol>
     <li><a href="./uncertainty">Uncertainty</a> </li>
     <li><a href="./multitask">Multitask</a></li>
-    <li><a href="./fight">Fight</a></li>
     <li><a href="./persistency">Persistency</a> </li>
     <li><a href="./experience">Experience</a></li>
     <li><a href="./plan-a-b">Plan A & B</a></li>

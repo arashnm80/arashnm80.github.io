@@ -5,10 +5,6 @@ title: Quotes
 
 > 90% of all outcomes are derived from 10% of causes.
 
-> Talk is cheap, show me the code.
-
-> I'm gonna live my choices through real life actions.
-
 > I choose to be the same person in the best or worst possible situation.
 
 > The scope of one's personality is defined by the magnitude of that problem which is capable of driving a person out of his wits.
@@ -68,6 +64,10 @@ title: Quotes
 > When injustice becomes law, rebellion becomes duty.
 
 > Make every bullet count.
+
+> Talk is cheap, show me the code.
+
+> I'm gonna live my choices through real life actions.
 
 > Fu*k, I only live once.
 
