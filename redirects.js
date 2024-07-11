@@ -14,9 +14,8 @@ if (!fs.existsSync(redirectsDir)) {
 
 // Delete all previous files in _redirects
 fs.readdirSync('_redirects').forEach(file => {
-    const filePath = path.join(directory, file);
+    const filePath = path.join('_redirects', file);
     fs.unlinkSync(filePath);
-    console.log(`Deleted ${filePath}`);
 });
 
 // Generate markdown files for each redirect

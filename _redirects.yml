@@ -8,3 +8,7 @@ redirects:
   - from:
     - /youtube
     to: https://www.youtube.com/@Arashnm80
+  - from:
+    - /youtube-persian
+    - /persian-youtube
+    to: https://www.youtube.com/@Arashnm80_Persian
