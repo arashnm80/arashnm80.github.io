@@ -115,6 +115,8 @@ title: Quotes
 
 > The only way of getting somewhere is to leave something behind.
 
+> Do it if it's the biggest thing I can do.
+
 > My choice is not what I'm thinking, saying or writing but what I'm actually doing right now.
 
 > If I don't know what I want, I can't judge myself for not achieving it.
@@ -186,8 +188,6 @@ title: Quotes
 > No matter of probabilities, I'm gonna take 100% of the shots.
 
 > Only being present in the game triggers many opportunities by itself.
-
-> Do it if it's the biggest thing I can do.
 
 > I'm gonna think out of the box.
 

@@ -5,6 +5,17 @@ title: "Newton's third law: Choose & Exchange"
 
 > The only way of getting somewhere is to leave something behind.
 
+### Sort
+> Do it if it's the biggest thing I can do.
+
+Life is to contantly writed sorted lists and act based on them. We have a limited life and have to learn to say no to many things.
+
+#### Priorities & Anti-Priorities
+
+#### Length & Width
+Lenght: for each task I should go through hierarchy of quality levels step by step without jumping ahead.  
+Width: as long as I haven't accomplished tasks with higher priority I should not jump to the tasks with lower ones.
+
 ### Choose
 > My choice is not what I'm thinking, saying or writing but what I'm actually [doing](../action) right [now](../no-time-for-caution).
 
