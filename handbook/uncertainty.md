@@ -5,6 +5,8 @@ title: Uncertainty
 
 > Certainty never exists and it's not an excuse to do nothing.
 
+In fact probabilities with very high number in our mind are called certainty, which a mathematician knows in actual world absolute 0 or 1 doesn't exist. but this doesn't mean my actions worth nothing. They have a huge impact on everything and they are the parameter in control of ourselves in this big mess.
+
 ### Jackson Pollock
 ![Jackson Pollock's no. 5](https://www.jackson-pollock.org/assets/img/paintings/number-5.jpg)
 
@@ -27,5 +29,13 @@ Does true random exist or is it just lack of information?
 
 Although randomness exists, I can hack my [luck](../luck) and increase or decrease probabilities by my [actions](../action).
 
-### What else???
-> What I don't know? What I haven't thought of? What I haven't tried?
+### Risk
+> Any worthwhile venture involves risk.
+
+Risk is the natural product of uncertainty. It's the relationship between sizes of outcome and danger.
+
+> The three most harmful addictions are heroin, carbohydrates, and a monthly salary.
+
+> World is full of lonely people afraid to make the first move.
+
+> I'm not gonna let the fear of striking out keep me from playing the game.

@@ -60,7 +60,6 @@ permalink: /handbook/
     <li><a href="./begin-again">Begin Again</a></li>
     <li><a href="./pomodoro">Pomodoro</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./dopamine">Dopamine</a></li>
-    <li><a href="./risk">Risk</a></li>
     <li><a href="./90-10">90-10</a></li>
     <li><a href="./hidden-progress">Hidden Progress</a></li>
     <li><a href="./2-battlefields">2 Battlefields</a></li>

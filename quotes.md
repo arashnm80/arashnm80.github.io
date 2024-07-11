@@ -169,14 +169,6 @@ title: Quotes
 
 > Any change is a mean to produce energy.
 
-> Any worthwhile venture involves risk.
-
-> The three most harmful addictions are heroin, carbohydrates, and a monthly salary.
-
-> World is full of lonely people afraid to make the first move.
-
-> I'm not gonna let the fear of striking out keep me from playing the game.
-
 > Marketing is like sex, only losers pay for it.
 
 > Am I ashamed becuase I'm not who I want to be or because I'm not what society says I have to be?
@@ -195,7 +187,13 @@ title: Quotes
 
 > No one actually knows what the hell they're doing. Everyone is just working off their current best guess.
 
-> What I don't know? What I haven't thought of? What I haven't tried?
+> Any worthwhile venture involves risk.
+
+> The three most harmful addictions are heroin, carbohydrates, and a monthly salary.
+
+> World is full of lonely people afraid to make the first move.
+
+> I'm not gonna let the fear of striking out keep me from playing the game.
 
 > Whether I am a victim or not, I'm not gonna complain about it. I'm just gonna put my head down and soldier through it.
 
