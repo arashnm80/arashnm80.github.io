@@ -42,13 +42,14 @@ permalink: /handbook/
 
 ### 3
 <div class="items">
-    <li><a href="./quality-levels">Quality Levels</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
 <ol>
+    <li><a href="./quality-levels">Quality Levels</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
     <li><a href="./sort">Sort</a> </li>
     <li><a href="./multitask">Multitask</a></li>
     <li><a href="./fight">Fight</a></li>
     <li><a href="./persistency">Persistency</a> </li>
     <li><a href="./experience">Experience</a></li>
+    <li><a href="./plan-a-b">Plan A & B</a></li>
 </ol>
 </div>
 
@@ -57,7 +58,6 @@ permalink: /handbook/
 <ol>
     <li><a href="./sleep">Sleep</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./reboot">Reboot</a></li>
-    <li><a href="./plan-a-b">Plan A & B</a></li>
     <li><a href="./fear-courage">Fear & Courage</a></li>
     <li><a href="./begin-again">Begin Again</a></li>
     <li><a href="./pomodoro">Pomodoro</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
