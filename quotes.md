@@ -21,8 +21,6 @@ title: Quotes
 
 > The rest of my life starts right now.
 
-> Leave or fight for narrow possibility to live.
-
 > Think out of the box.
 
 > If you have to walk through an unpleasant path, what can you do to make it more bearable or even turn the tide and use it to your advantage?
@@ -82,6 +80,8 @@ title: Quotes
 > Wealth is having assets that earn while I sleep.
 
 > It's not about how big an army is, it's about who is the general.
+
+> Leave or fight for narrow possibility to live.
 
 > A real loser is someone who's so afraid of not winning he doesn't even try.
 
