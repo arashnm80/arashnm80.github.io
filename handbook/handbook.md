@@ -89,15 +89,15 @@ permalink: /handbook/
     <li><a href="./narrow-way-through">Narrow way through</a></li>
     <li><a href="./chain-reaction">Chain Reaction</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./system-1-2">System 1 & 2</a></li>
-    <li><a href="./renewable-energy">Renewable energy</a></li>
     <li><a href="./portrait-painting">Portrait Painting</a></li>
+    <li><a href="./renewable-energy">Renewable energy</a></li>
     <li><a href="./naval">Naval</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
     <li><a href="./skin-in-the-game">Skin in the game</a></li>
     <li><a href="./cbt">CBT</a></li>
-    <li><a href="./bitcoin">Bitcoin</a></li>
     <li><a href="./mrbeast">MrBeast</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
     <li><a href="./creativity">Creativity</a></li>
     <li><a href="./move-forward">Move Forward</a></li>
+    <li><a href="./economy">Economy</a></li>
     <li><a href="./smart">Smart</a></li>
     <li><a href="./teacher">Teacher</a></li>
     <li><a href="./immerse">Immerse</a></li>
