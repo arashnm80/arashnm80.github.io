@@ -34,6 +34,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap # https://github.com/jekyll/jekyll-sitemap
   - jekyll-paginate # https://jekyllrb.com/docs/pagination/
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -75,4 +76,4 @@ defaults:
     values:
       layout: "page"              # The layout you want to apply
 exclude:
-  - _old_files
+  - old_files

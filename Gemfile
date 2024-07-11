@@ -43,3 +43,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap' # https://github.com/jekyll/jekyll-sitemap
 gem 'jekyll-paginate'
+gem 'jekyll-redirect-from'
