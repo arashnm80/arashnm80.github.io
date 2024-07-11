@@ -75,5 +75,7 @@ defaults:
       type: "pages"               # The type can be "pages" or "posts"
     values:
       layout: "page"              # The layout you want to apply
+include:
+  - _redirects
 exclude:
   - old_files
