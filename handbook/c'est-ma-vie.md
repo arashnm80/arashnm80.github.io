@@ -4,7 +4,7 @@ title: C'est ma vie
 ---
 
 <span id="sentence-container">Paradis ou enfer, <strong>これは私の人生です。</strong></span><br>
-では、qui suis-je et que fais-je maintenant?
+では、qui suis-je et que fais-je 今?
 
 <!-- <script>
 document.addEventListener("DOMContentLoaded", function() {
