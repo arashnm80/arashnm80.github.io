@@ -91,8 +91,8 @@ permalink: /handbook/
     <li><a href="./system-1-2">System 1 & 2</a></li>
     <li><a href="./renewable-energy">Renewable energy</a></li>
     <li><a href="./portrait-painting">Portrait Painting</a></li>
-    <li><a href="./skin-in-the-game">Skin in the game</a></li>
     <li><a href="./naval">Naval</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
+    <li><a href="./skin-in-the-game">Skin in the game</a></li>
     <li><a href="./cbt">CBT</a></li>
     <li><a href="./bitcoin">Bitcoin</a></li>
     <li><a href="./mrbeast">MrBeast</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
@@ -117,8 +117,8 @@ permalink: /handbook/
 <ol>
     <li><a href="./lose">lose</a></li>
     <li><a href="./niksen">niksen</a></li>
-    <li><a href="./words">Words</a></li>
     <li><a href="./right-questions">right questions</a></li>
+    <li><a href="./words">Words</a></li>
     <li><a href="./brush-teeth">Brush Teeth</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./rest-reinforcement">Rest & Reinforcement</a></li>
     <li><a href="./boom">Boom</a></li>

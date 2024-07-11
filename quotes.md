@@ -109,6 +109,8 @@ title: Quotes
 
 > Inspiration is perishable, act on it immediately.
 
+> Work hard as hard as you can.
+
 > The right way to work is like a lion.
 
 > The only way of getting somewhere is to leave something behind.

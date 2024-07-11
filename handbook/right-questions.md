@@ -7,6 +7,6 @@ title: Asking the right questions
 - What do I want?
 - What do I have to do?
 - What can I do?
-- What is the best choice?
+- What is the best choice for me?
 - How would I live my life if I was 10 times richer than now?
-- What are costs and benefits?
+- What are costs and benefits for me?

@@ -4,6 +4,8 @@ title: Naval
 
 > Inspiration is perishable, act on it immediately.
 
+> Work hard as hard as you can.
+
 ### Lion Work
 > The right way to work is like a lion.
 
