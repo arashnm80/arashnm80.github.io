@@ -25,18 +25,18 @@ permalink: /handbook/
 ### 1
 <div class="items">
 <ol>
-    <li><a href="./life-factor">Life Factor</a> <button style="color:Blue" onclick="filterItems('goal')" class="btn tag goal">⬤ goal</button></li>
-    <li><a href="./seven">Seven</a> <button style="color:Green" onclick="filterItems('plan')" class="btn tag plan">⬤ plan</button></li>
+    <li><a href="./no-time-for-caution">No time for caution</a></li>
+    <li><a href="./newton's-third-law">Newton's Third law</a> </li>
 </ol>
 </div>
 
 ### 2
 <div class="items">
 <ol>
-    <li><a href="./no-time-for-caution">No time for caution</a></li>
+    <li><a href="./life-factor">Life Factor</a> <button style="color:Blue" onclick="filterItems('goal')" class="btn tag goal">⬤ goal</button></li>
+    <li><a href="./seven">Seven</a> <button style="color:Green" onclick="filterItems('plan')" class="btn tag plan">⬤ plan</button></li>
     <li><a href="./action">Action</a> </li>
     <li><a href="./uncertainty">Uncertainty</a> </li>
-    <li><a href="./newton's-third-law">Newton's Third law</a> </li>
 </ol>
 </div>
 
