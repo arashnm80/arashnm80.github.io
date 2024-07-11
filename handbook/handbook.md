@@ -18,7 +18,7 @@ permalink: /handbook/
 ### 0
 <div class="items">
 <ol>
-    <li><a href="./c'est-ma-vie">C'est ma vie</a> <button style="color:Black" onclick="filterItems('core')" class="btn tag core">⬤ core</button></li>
+    <li><a href="./c'est-ma-vie">C'est ma vie</a></li>
 </ol>
 </div>
 
