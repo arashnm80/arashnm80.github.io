@@ -2,6 +2,8 @@
 title: Seven
 ---
 
+> **Leave or fight for narrow possibility to live.**
+
 The plan is to start from almost hell and try to ascend to heaven.
 
 I'm gonna divide weeks into 2 parts:

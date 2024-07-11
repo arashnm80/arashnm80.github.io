@@ -57,8 +57,6 @@ title: Quotes
 
 > It's not about how big an army is, it's about who is the general.
 
-> Leave or fight for narrow possibility to live.
-
 > A real loser is someone who's so afraid of not winning he doesn't even try.
 
 > If I'm not failing I'm not operating at the edge. if I'm not operating at the edge, I'm not learning as much as I can.
@@ -170,6 +168,8 @@ title: Quotes
 > Any change is a mean to produce energy.
 
 > Marketing is like sex, only losers pay for it.
+
+> Leave or fight for narrow possibility to live.
 
 > Am I ashamed becuase I'm not who I want to be or because I'm not what society says I have to be?
 
