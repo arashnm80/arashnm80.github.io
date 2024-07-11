@@ -36,7 +36,7 @@ permalink: /handbook/
     <li><a href="./newton's-third-law">Newton's Third law: Sort, Choose, Exchange</a></li>
     <li><a href="./life-factor">Life Factor</a></li>
     <li><a href="./uncertainty">Uncertainty</a></li>
-    <li><a href="./quality-levels">Quality Levels</a> <button style="color:Gray" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
+    <li><a href="./quality-levels">Quality Levels</a></li>
 </ol>
 </div>
 
