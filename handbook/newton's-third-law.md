@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Newton's third law: Choose & Exchange"
+title: "Newton's third law: Sort, Choose, Exchange"
 ---
 
 > The only way of getting somewhere is to leave something behind.
