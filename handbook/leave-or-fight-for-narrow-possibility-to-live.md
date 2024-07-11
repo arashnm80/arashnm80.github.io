@@ -5,8 +5,8 @@ title: Leave or Fight for narrow possibility to Live
 ## Leave
 
 ## Fight for narrow possibility to Live
-
-### Chapter 1: Free Fridays
+### Seven steps from hell to heaven
+#### Chapter 1: Free Fridays
 
 <!-- The plan is to start from almost hell and try to ascend to heaven.
 

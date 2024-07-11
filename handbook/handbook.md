@@ -25,16 +25,16 @@ permalink: /handbook/
 ### 1
 <div class="items">
 <ol>
+    <li><a href="./leave-or-fight-for-narrow-possibility-to-live">Leave or Fight for narrow possibility to live</a> <button style="color:Blue" onclick="filterItems('plan')" class="btn tag plan">⬤ plan</button></li>
     <li><a href="./no-time-for-caution">No time for caution</a> <button style="color:Gray" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
-    <li><a href="./newton's-third-law">Newton's Third law</a> <button style="color:Gray" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
 </ol>
 </div>
 
 ### 2
 <div class="items">
 <ol>
+    <li><a href="./newton's-third-law">Newton's Third law: Sort, Choose, Exchange</a> <button style="color:Gray" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
     <li><a href="./life-factor">Life Factor</a> <button style="color:Green" onclick="filterItems('goal')" class="btn tag goal">⬤ goal</button></li>
-    <li><a href="./leave-or-fight-for-narrow-possibility-to-live">Leave or Fight for narrow possibility to live</a> <button style="color:Blue" onclick="filterItems('plan')" class="btn tag plan">⬤ plan</button></li>
     <li><a href="./fight">Fight</a> <button style="color:Red" onclick="filterItems('action')" class="btn tag action">⬤ action</button></li>
     <li><a href="./uncertainty">Uncertainty</a> <button style="color:Gray" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
 </ol>
