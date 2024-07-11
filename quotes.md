@@ -3,7 +3,7 @@ layout: page
 title: Quotes
 ---
 
-> 80% of all outcomes are derived from 20% of causes.
+> 90% of all outcomes are derived from 10% of causes.
 
 > Talk is cheap, show me the code.
 

@@ -44,18 +44,18 @@ permalink: /handbook/
 <div class="items">
     <li><a href="./quality-levels">Quality Levels</a> <button style="color:MediumSeaGreen" onclick="filterItems('quality-level')" class="btn tag quality-level">⬤ quality-level</button></li>
 <ol>
-    <li><a href="./multitask">Multitask</a></li>
     <li><a href="./sort">Sort</a> </li>
-    <li><a href="./persistency">Persistency</a> </li>
-    <li><a href="./sleep">Sleep</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
+    <li><a href="./multitask">Multitask</a></li>
     <li><a href="./fight">Fight</a></li>
-    <li><a href="./experience">Experience</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
+    <li><a href="./persistency">Persistency</a> </li>
+    <li><a href="./experience">Experience</a></li>
 </ol>
 </div>
 
 ### 4
 <div class="items">
 <ol>
+    <li><a href="./sleep">Sleep</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./reboot">Reboot</a></li>
     <li><a href="./plan-a-b">Plan A & B</a></li>
     <li><a href="./fear-courage">Fear & Courage</a></li>
@@ -63,22 +63,22 @@ permalink: /handbook/
     <li><a href="./pomodoro">Pomodoro</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./dopamine">Dopamine</a></li>
     <li><a href="./risk">Risk</a></li>
+    <li><a href="./90-10">90-10</a></li>
     <li><a href="./hidden-progress">Hidden Progress</a></li>
     <li><a href="./2-battlefields">2 Battlefields</a></li>
     <li><a href="./destination-path">Destination & Path</a></li>
-    <li><a href="./80-20">80-20</a></li>
     <li><a href="./seize">Seize</a></li>
     <li><a href="./biggest-problem">Biggest Problem</a></li>
-    <li><a href="./shame">Shame</a></li>
     <li><a href="./art-of-racing-in-the-rain">Art of racing in the rain</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
     <li><a href="./freedom">Freedom</a></li>
-    <li><a href="./victim">Victim</a></li>
 </ol>
 </div>
 
 ### 5
 <div class="items">
 <ol>
+    <li><a href="./shame">Shame</a></li>
+    <li><a href="./victim">Victim</a></li>
     <li><a href="./idea-person">Idea person</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./subconscious">Subconscious</a></li>
     <li><a href="./people">People</a></li>
