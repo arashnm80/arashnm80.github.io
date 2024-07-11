@@ -207,11 +207,11 @@ title: Quotes
 
 > The best way to predict the future is to invent it.
 
-> With great pe**s comes great responsibility
+> With great pes comes great responsibility
 
-> I'm gonna be man of focus, commitment and sheer fu**ing will.
+> I'm gonna be man of focus, commitment and sheer fuing will.
 
-> Success is my only motherf**ing option, failure's not.
+> Success is my only motherfing option, failure's not.
 
 > If there are no more good movies to watch anymore, it's time for me to become a director and create my own masterpieces.
 
