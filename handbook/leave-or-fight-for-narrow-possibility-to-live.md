@@ -2,8 +2,11 @@
 title: Leave or Fight for narrow possibility to Live
 ---
 
-- Leave
-- Fight for narrow possibility to Live
+- **Leave**
+
+or
+
+- **Fight for narrow possibility to Live**
   - Seven steps from hell to heaven
     - Chapter 1: Free Fridays
 

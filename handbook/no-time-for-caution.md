@@ -3,11 +3,10 @@ layout: page
 title: No time for caution
 ---
 
-⚠
+> **Time is the most precious and ultimate currency of my life.**
 
 <!-- Too many days, months and years of my life have passed and too few are left. I have to start acting right now and think about parameters and improvements over time later.
 
-> **Time is the most precious and ultimate currency of my life.**
 
 > Time's running out like a cup of coffee, so whatever I have to do it right fu*king now.
 
@@ -28,7 +27,13 @@ title: No time for caution
 > I just try to live every day as if I've deliberately come back to this one day, to enjoy it, as if it was the full final day of my extraordinary, ordinary life.
 
 ### Make every second count
-Either I sleep, work, sex, watch movie, exercise, play, fight, ... I should use every second for sth worthwhile.
+Either I sleep, work, sex, watch movie, exercise, play, fight, ... I should use every second for sth worthwhile. -->
+
+
+
+
+
+
 
 <!-- <div id="disappearing-text"></div>
 <br>
@@ -91,4 +96,4 @@ document.addEventListener("DOMContentLoaded", function() {
     // Set an interval to update text every second (1000 milliseconds)
     const intervalId = setInterval(updateText, 1000);
 });
-</script> --> -->
+</script> -->

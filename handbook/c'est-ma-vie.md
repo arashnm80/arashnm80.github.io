@@ -4,8 +4,10 @@ title: C'est ma vie
 ---
 
 <span id="sentence-container">
+    <strong>
         paradis ou enfer, これは私の人生です。<br>
         では、qui suis-je et que fais-je 今?
+    </strong>
     <!-- <br><br>
     <span>
         2024-07-11:<br>
