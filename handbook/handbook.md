@@ -26,7 +26,7 @@ permalink: /handbook/
 <div class="items">
 <ol>
     <li><a href="./leave-or-fight-for-narrow-possibility-to-live">Leave or Fight for narrow possibility to live</a></li>
-    <li><a href="./no-time-for-caution">No time for caution</a> <button style="color:Gray" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
+    <li><a href="./no-time-for-caution">No time for caution</a></li>
 </ol>
 </div>
 
