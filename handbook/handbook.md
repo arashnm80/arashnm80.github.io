@@ -102,6 +102,7 @@ permalink: /handbook/
     <li><a href="./teacher">Teacher</a></li>
     <li><a href="./immerse">Immerse</a></li>
     <li><a href="./omniscient">Omniscient</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
+    <li><a href="./minimalism">Minimalism</a></li>
     <li><a href="./mind-opiums">Mind Opiums</a></li>
     <li><a href="./focus-shower">focus shower</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./optimism-pessimism">Optimism & Pessimism</a></li>
@@ -133,7 +134,6 @@ permalink: /handbook/
     <li><a href="./eyes">Eyes</a></li>
     <li><a href="./evolution">Evolution</a></li>
     <li><a href="./hope">Hope</a></li>
-    <li><a href="./minimalism">Minimalism</a></li>
     <li><a href="./other">Other</a></li>
 </ol>
 </div>
