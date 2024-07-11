@@ -8,6 +8,7 @@ title: C'est ma vie
         Paradis ou enfer, これは私の人生です<br>
         では、qui suis-je et que fais-je <a href="../no-time-for-caution">今</a>?
     </strong>
+    <br>
     <span>
         2024-07-11:<br>
         I choose a goal for my life,<br>
