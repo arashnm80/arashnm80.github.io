@@ -6,6 +6,46 @@ title: C'est ma vie
 <span id="sentence-container">Paradis ou enfer, <strong>これは私の人生です。</strong></span><br>
 では、qui suis-je et que fais-je 今?
 
+## I-dentity
+
+### Zero censorship policy
+I'm gonna be 100% myself.
+
+### People
+Respect everyone and give a shit about no one, in fact don't even think about anyone. Do what you believe is best not what society enforce on you.
+
+> Everybody in the world is a compass for me. A reminder of where I want to be and where I don't.
+
+### Character
+> I'm gonna be the change I want to see in the world.
+
+> We accept the life we think we deserve.
+
+> Become so big that this world seem small next to you.
+
+> If I don't do it, I want to be the person who doesn't want it, not one who can't.
+
+> We are here to drink beer. We are here to kill war. We are here to laugh at the odds and live our lives so well that Death will tremble to take us.
+
+> Every great painter paints what he is.
+
+> A great writer writes like there is no one else in the world to read.
+
+> If I can't fix myself how can I fix the world?
+
+> I'm not center of the world but I am center of my world.
+
+> Soft as a leaf, strong as a trunk.
+
+### Rogue
+> I'm gonna change the world and I'm not gonna ask for permission.
+
+
+
+
+
+
+
 <!-- <script>
 document.addEventListener("DOMContentLoaded", function() {
     const sentences = [

@@ -3,6 +3,8 @@ layout: page
 title: Uncertainty
 ---
 
+> Certainty never exists and it's not an excuse to do nothing.
+
 ### Jackson Pollock
 ![Jackson Pollock's no. 5](https://www.jackson-pollock.org/assets/img/paintings/number-5.jpg)
 

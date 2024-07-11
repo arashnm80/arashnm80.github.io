@@ -21,6 +21,30 @@ title: Quotes
 
 > The rest of my life starts right now.
 
+> Everybody in the world is a compass for me. A reminder of where I want to be and where I don't.
+
+> I'm gonna be the change I want to see in the world.
+
+> We accept the life we think we deserve.
+
+> Become so big that this world seem small next to you.
+
+> If I don't do it, I want to be the person who doesn't want it, not one who can't.
+
+> We are here to drink beer. We are here to kill war. We are here to laugh at the odds and live our lives so well that Death will tremble to take us.
+
+> Every great painter paints what he is.
+
+> A great writer writes like there is no one else in the world to read.
+
+> If I can't fix myself how can I fix the world?
+
+> I'm not center of the world but I am center of my world.
+
+> Soft as a leaf, strong as a trunk.
+
+> I'm gonna change the world and I'm not gonna ask for permission.
+
 > Think out of the box.
 
 > If you have to walk through an unpleasant path, what can you do to make it more bearable or even turn the tide and use it to your advantage?
@@ -52,30 +76,6 @@ title: Quotes
 > It takes 10 years to become an overnight success.
 
 > hope is product of self-trust.
-
-> Everybody in the world is a compass for me. A reminder of where I want to be and where I don't.
-
-> I'm gonna be the change I want to see in the world.
-
-> We accept the life we think we deserve.
-
-> Become so big that this world seem small next to you.
-
-> If I don't do it, I want to be the person who doesn't want it, not one who can't.
-
-> We are here to drink beer. We are here to kill war. We are here to laugh at the odds and live our lives so well that Death will tremble to take us.
-
-> Every great painter paints what he is.
-
-> A great writer writes like there is no one else in the world to read.
-
-> If I can't fix myself how can I fix the world?
-
-> I'm not center of the world but I am center of my world.
-
-> Soft as a leaf, strong as a trunk.
-
-> I'm gonna change the world and I'm not gonna ask for permission.
 
 > Wealth is having assets that earn while I sleep.
 
@@ -186,6 +186,8 @@ title: Quotes
 > Do it if it's the biggest thing I can do.
 
 > I'm gonna think out of the box.
+
+> Certainty never exists and it's not an excuse to do nothing.
 
 > No one actually knows what the hell they're doing. Everyone is just working off their current best guess.
 
