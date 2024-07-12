@@ -25,7 +25,7 @@ permalink: /handbook/
 ### 1
 <div class="items">
 <ol>
-    <li><a href="./leave-or-fight-for-narrow-possibility-to-live">Leave or Fight for narrow possibility to Live</a></li>
+    <li><a href="./c'est-la-vie">C'est la vie</a></li>
     <li><a href="./no-time-for-caution">No time for caution</a></li>
 </ol>
 </div>

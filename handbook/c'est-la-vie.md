@@ -1,5 +1,5 @@
 ---
-title: Leave or Fight for narrow possibility to Live
+title: C'est la vie
 ---
 
 - **Leave**
