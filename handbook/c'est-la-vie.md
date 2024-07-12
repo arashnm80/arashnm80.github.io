@@ -8,7 +8,7 @@ or
 
 - **Fight for narrow possibility to Live**
   - Seven Layer Strategy
-    - 1 - 6
+    - -5
 
 <!-- The plan is to start from almost hell and try to ascend to heaven.
 
