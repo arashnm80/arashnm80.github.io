@@ -2,8 +2,10 @@
 title: Fight
 ---
 
+To fight against pain, hardship, tiredness, sadness, depression, boredom, anger, shame, uncertainty, weakness, despair, obstacles, burdens, failures, expectations, limits, odds, time, nature, people, world.
+
 ### Assault
-> How many fights do you have in yourself?
+> How many fights do I have in myself?
 ![eren yeager](../../assets/have-more-fight.png)
 
 ### [Seize](../seize)

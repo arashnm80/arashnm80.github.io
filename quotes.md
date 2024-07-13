@@ -31,7 +31,7 @@ title: Quotes
 
 > Qui ose gagne.
 
-> How many fights do you have in yourself?
+> How many fights do I have in myself?
 
 > I'm gonna bruteforce my way to success.
 
