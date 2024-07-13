@@ -32,7 +32,7 @@ Although randomness exists, I can hack my [luck](../luck) and increase or decrea
 ### Risk
 > Any worthwhile venture involves risk.
 
-Risk is the natural product of uncertainty. It's the relationship between sizes of outcome and danger.
+Risk is the natural product of uncertainty. It's the relationship between sizes of outcome and danger. Every choice is a gamble with it's own risk
 
 > The three most harmful addictions are heroin, carbohydrates, and a monthly salary.
 
