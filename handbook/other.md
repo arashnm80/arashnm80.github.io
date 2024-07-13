@@ -46,3 +46,6 @@ Respect everyone and give a shit about no one, in fact don't even think about an
 
 ### Rogue
 > I'm gonna change the world and I'm not gonna ask for permission.
+
+### Too far for Ronaldo to think about it
+https://www.youtube.com/watch?v=tvC2rIMjCUc
