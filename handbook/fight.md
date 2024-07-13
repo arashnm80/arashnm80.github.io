@@ -2,7 +2,7 @@
 title: Fight
 ---
 
-To fight against pain, fear, hardship, tiredness, sadness, depression, boredom, anger, shame, uncertainty, weakness, obsession, despair, inertia, obstacles, burdens, failures, expectations, defaults, limits, odds, time, nature, people, world.
+To fight against pain, fear, hardship, tiredness, sadness, depression, boredom, anger, shame, uncertainty, weakness, obsession, despair, inertia`, obstacles, burdens, failures, expectations, defaults, limits, odds, time, nature, people, world.
 
 ### Assault
 > How many fights do I have in myself?
