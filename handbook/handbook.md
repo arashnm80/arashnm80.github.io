@@ -10,7 +10,7 @@ permalink: /handbook/
         border: 1px solid #ccc;
         background-color: transparent;
         cursor: pointer;
-    } */
+    }
 </style>
 
 <!-- <button onclick="filterItems('all')" class="btn">Show All</button> -->

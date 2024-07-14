@@ -6,7 +6,7 @@ title: C'est la vie
 
 or
 
-- **Fight for narrow possibility to Live**
+- **Assault for narrow possibility to Live**
   - 七層の戦略
     - -5
 
