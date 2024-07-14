@@ -26,16 +26,15 @@ permalink: /handbook/
 <div class="items">
 <ol>
     <li><a href="./c'est-la-vie">C'est la vie</a></li>
-    <li><a href="./no-time-for-caution">No time for caution</a></li>
+    <li><a href="./life-factor">Life Factor</a></li>
 </ol>
 </div>
 
 ### 2
 <div class="items">
 <ol>
+    <li><a href="./no-time-for-caution">No time for caution</a></li>
     <li><a href="./newton's-third-law">Newton's Third law: Sort, Choose, Exchange</a></li>
-    <li><a href="./life-factor">Life Factor</a></li>
-    <li><a href="./uncertainty">Uncertainty</a></li>
     <li><a href="./fight">Fight</a></li>
     <li><a href="./action">Action</a></li>
 </ol>
@@ -44,6 +43,7 @@ permalink: /handbook/
 ### 3
 <div class="items">
 <ol>
+    <li><a href="./uncertainty">Uncertainty</a></li>
     <li><a href="./quality-levels">Quality Levels</a></li>
     <li><a href="./multitask">Multitask</a></li>
     <li><a href="./persistency">Persistency</a> </li>
@@ -64,8 +64,8 @@ permalink: /handbook/
     <li><a href="./90-10">90-10</a></li>
     <li><a href="./hidden-progress">Hidden Progress</a></li>
     <li><a href="./2-battlefields">2 Battlefields</a></li>
+    <li><a href="./carnet-mental">Carnet mental</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
     <li><a href="./destination-path">Destination & Path</a></li>
-    <li><a href="./seize">Seize</a></li>
     <li><a href="./biggest-problem">Biggest Problem</a></li>
     <li><a href="./art-of-racing-in-the-rain">Art of racing in the rain</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
     <li><a href="./freedom">Freedom</a></li>
