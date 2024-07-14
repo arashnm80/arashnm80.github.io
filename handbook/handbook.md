@@ -38,13 +38,13 @@ permalink: /handbook/
     <li><a href="./uncertainty">Uncertainty</a></li>
     <li><a href="./fight">Fight</a></li>
     <li><a href="./action">Action</a></li>
-    <li><a href="./quality-levels">Quality Levels</a></li>
 </ol>
 </div>
 
 ### 3
 <div class="items">
 <ol>
+    <li><a href="./quality-levels">Quality Levels</a></li>
     <li><a href="./multitask">Multitask</a></li>
     <li><a href="./persistency">Persistency</a> </li>
     <li><a href="./experience">Experience</a></li>
