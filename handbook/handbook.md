@@ -37,6 +37,7 @@ permalink: /handbook/
     <li><a href="./life-factor">Life Factor</a></li>
     <li><a href="./uncertainty">Uncertainty</a></li>
     <li><a href="./fight">Fight</a></li>
+    <li><a href="./action">Action</a></li>
     <li><a href="./quality-levels">Quality Levels</a></li>
 </ol>
 </div>
