@@ -74,6 +74,7 @@ permalink: /handbook/
     <li><a href="./chain-reaction">Chain Reaction</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./subconscious">Subconscious</a></li>
     <li><a href="./people">People</a></li>
+    <li><a href="./dirac-delta-function">Dirac delta function</a></li>
     <li><a href="./minimalism">Minimalism</a></li>
 </ol>
 </div>

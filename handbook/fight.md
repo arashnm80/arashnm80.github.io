@@ -2,7 +2,7 @@
 title: Fight
 ---
 
-To fight against pain, fear, hardship, tiredness, sadness, depression, boredom, anger, shame, uncertainty, weakness, obsession, despair, inertia`, obstacles, burdens, failures, expectations, defaults, limits, odds, majority, time, nature, people, world.
+To fight against pain, fear, hardship, tiredness, sadness, depression, boredom, anger, shame, uncertainty, weakness, obsession, despair, inertia, obstacles, burdens, failures, expectations, defaults, limits, odds, majority, time, nature, people, world.
 
 ### **Assault**
 Chain-fight tirelessly and outlast any imaginable limit
@@ -24,3 +24,5 @@ Chain-fight tirelessly and outlast any imaginable limit
 
 ### Hardworking
 > Make every bullet count.
+
+### Testing the limits of human spirit
