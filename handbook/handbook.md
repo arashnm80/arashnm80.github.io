@@ -25,16 +25,16 @@ permalink: /handbook/
 ### 1
 <div class="items">
 <ol>
+    <li><a href="./no-time-for-caution">No time for caution</a></li>
     <li><a href="./c'est-la-vie">C'est la vie</a></li>
-    <li><a href="./life-factor">Life Factor</a></li>
 </ol>
 </div>
 
 ### 2
 <div class="items">
 <ol>
-    <li><a href="./no-time-for-caution">No time for caution</a></li>
     <li><a href="./newton's-third-law">Newton's Third law: Sort, Choose, Exchange</a></li>
+    <li><a href="./life-factor">Life Factor</a></li>
     <li><a href="./fight">Fight</a></li>
     <li><a href="./action">Action</a></li>
 </ol>
