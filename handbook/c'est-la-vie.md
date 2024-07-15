@@ -7,8 +7,7 @@ title: C'est la vie
 or
 
 - **Assault for narrow possibility to Live**
-  - 七層の戦略
-    - -5
+  - - to + 5 Strategy
 
 <!-- The plan is to start from almost hell and try to ascend to heaven.
 
