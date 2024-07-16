@@ -56,9 +56,9 @@ permalink: /handbook/
 
 ### 4
 <div class="items">
+<ol>
     <li><a href="./dopamine">Dopamine</a></li>
     <li><a href="./pomodoro">Pomodoro</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
-<ol>
     <li><a href="./sleep">Sleep</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./begin-again">Begin Again</a></li>
     <li><a href="./90-10">90-10</a></li>
