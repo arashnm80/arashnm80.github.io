@@ -51,13 +51,13 @@ permalink: /handbook/
     <li><a href="./plan-a-b">Plan A & B</a></li>
     <li><a href="./fear-courage">Fear & Courage</a></li>
     <li><a href="./reboot">Reboot</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
-    <li><a href="./dopamine">Dopamine</a></li>
-    <li><a href="./pomodoro">Pomodoro</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
 </ol>
 </div>
 
 ### 4
 <div class="items">
+    <li><a href="./dopamine">Dopamine</a></li>
+    <li><a href="./pomodoro">Pomodoro</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
 <ol>
     <li><a href="./sleep">Sleep</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./begin-again">Begin Again</a></li>
@@ -73,15 +73,15 @@ permalink: /handbook/
     <li><a href="./victim">Victim</a></li>
     <li><a href="./chain-reaction">Chain Reaction</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./subconscious">Subconscious</a></li>
-    <li><a href="./people">People</a></li>
-    <li><a href="./dirac-delta-function">Dirac delta function</a></li>
-    <li><a href="./minimalism">Minimalism</a></li>
 </ol>
 </div>
 
 ### 5
 <div class="items">
 <ol>
+    <li><a href="./people">People</a></li>
+    <li><a href="./dirac-delta-function">Dirac delta function</a></li>
+    <li><a href="./minimalism">Minimalism</a></li>
     <li><a href="./idea-person">Idea person</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./will">Will</a></li>
     <li><a href="./hobby-as-a-service">Hobby as a Service</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
