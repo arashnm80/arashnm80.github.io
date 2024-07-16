@@ -133,6 +133,7 @@ permalink: /handbook/
     <li><a href="./eyes">Eyes</a></li>
     <li><a href="./evolution">Evolution</a></li>
     <li><a href="./hope">Hope</a></li>
+    <li><a href="./leverage">Leverage</a></li>
     <li><a href="./other">Other</a></li>
 </ol>
 </div>
