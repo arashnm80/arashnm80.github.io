@@ -125,6 +125,7 @@ permalink: /handbook/
     <li><a href="./skill-tree">Skill Tree</a></li>
     <li><a href="./shot">Shot</a></li>
     <li><a href="./leader">Leader</a></li>
+    <li><a href="./leverage">Leverage</a></li>
     <li><a href="./wild">Wild</a></li>
     <li><a href="./improvise">Improvise</a></li>
     <li><a href="./sale">Sale</a></li>
@@ -133,7 +134,6 @@ permalink: /handbook/
     <li><a href="./eyes">Eyes</a></li>
     <li><a href="./evolution">Evolution</a></li>
     <li><a href="./hope">Hope</a></li>
-    <li><a href="./leverage">Leverage</a></li>
     <li><a href="./other">Other</a></li>
 </ol>
 </div>
