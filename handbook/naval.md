@@ -6,6 +6,8 @@ title: Naval
 
 > Work hard as hard as you can.
 
+> The only real test of intelligence is if you get what you want out of life.
+
 ### Lion Work
 > The right way to work is like a lion.
 

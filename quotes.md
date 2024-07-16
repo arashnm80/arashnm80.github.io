@@ -85,6 +85,8 @@ title: Quotes
 
 > Work hard as hard as you can.
 
+> The only real test of intelligence is if you get what you want out of life.
+
 > The right way to work is like a lion.
 
 > The only way of getting somewhere is to leave something behind.
