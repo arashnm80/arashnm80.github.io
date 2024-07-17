@@ -9,6 +9,8 @@ title: Quotes
 
 > I'm gonna live my choices through real life actions.
 
+> I'm goddamn tired, but inaction changes nothing.
+
 > I choose to be the same person in the best or worst possible situation.
 
 > The scope of one's personality is defined by the magnitude of that problem which is capable of driving a person out of his wits.
@@ -34,6 +36,8 @@ title: Quotes
 > Big people make big choices.
 
 > Qui ose gagne.
+
+> The reason to fight is to get rid of it.
 
 > How many fights do I have in myself?
 

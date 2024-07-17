@@ -111,15 +111,15 @@ permalink: /handbook/
     <li><a href="./lose">lose</a></li>
     <li><a href="./niksen">niksen</a></li>
     <li><a href="./right-questions">right questions</a></li>
-    <li><a href="./words">Words</a></li>
-    <li><a href="./brush-teeth">Brush Teeth</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
-    <li><a href="./rest-reinforcement">Rest & Reinforcement</a></li>
 </ol>
 </div>
 
 ### 6
 <div class="items">
 <ol>
+    <li><a href="./words">Words</a></li>
+    <li><a href="./brush-teeth">Brush Teeth</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
+    <li><a href="./rest-reinforcement">Rest & Reinforcement</a></li>
     <li><a href="./boom">Boom</a></li>
     <li><a href="./patience">Patience</a></li>
     <li><a href="./skill-tree">Skill Tree</a></li>

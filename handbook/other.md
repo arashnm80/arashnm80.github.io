@@ -18,6 +18,8 @@ I can define some constant routines to create this situation manually, e.g. :
 ## I-dentity
 > My time is limited, I'm not gonna waste it living someone else’s life.
 
+One creature dies in the water and the other in the air. We are not the same.
+
 ### People
 Respect everyone and give a shit about no one, in fact don't even think about anyone. Do what you believe is best not what society enforce on you.
 

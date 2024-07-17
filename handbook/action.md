@@ -16,3 +16,6 @@ title: Action
 
 ### Action Book
 Only write and take note of titles and key points. The main contents should be written as my actions in real life.
+
+### 不作為
+> I'm goddamn tired, but inaction changes nothing.
