@@ -29,6 +29,8 @@ If I'm gonna be a perfectionist and maximize things I should do it in all direct
 > No matter how much I can stretch, in the end I have a limited rope. The challenge is to maximize the area.
 
 ### 4. perfection
+> Sacrifice 1 perfect to get 4 good-enoughs.
+
 Perfection is almost always impossible and must be avoided. I might never reach the step 7 of my full free weekday plan. I might rest many times in my work days and I might work in many of my free days. There are always many exceptions and many times that I will break my own laws and principles. 100% sure that I can't accomplish any plan 100% successful but 90% sure I can do them 90%. I can't define exact absolute paths but I can take a star as my compass and follow the generic path.
 
 This also means I can be open to changes and no need to bo so rigid. e.g. it may be called Free Fridays but I can switch it back and forth with other days as much as possible depending on the situations.

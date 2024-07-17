@@ -167,6 +167,8 @@ title: Quotes
 
 > No matter how much I can stretch, in the end I have a limited rope. The challenge is to maximize the area.
 
+> Sacrifice 1 perfect to get 4 good-enoughs.
+
 > I'm born righ now in this situation, with this knowledge and experience, so what am I gonna do now?
 
 > Any change is a mean to produce energy.
