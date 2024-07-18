@@ -101,6 +101,8 @@ title: Quotes
 
 > If I don't know what I want, I can't judge myself for not achieving it.
 
+> To earn more than everybody, you should be willing to lose and sacrifice more than everybody.
+
 > The perfect decision making duration is 8 minutes and 34 seconds.
 
 > Time's running out like a cup of coffee, so whatever I have to do it right fu*king now.
@@ -150,6 +152,8 @@ title: Quotes
 > Soft as a leaf, strong as a trunk.
 
 > I'm gonna change the world and I'm not gonna ask for permission.
+
+> Can somebody that is totally ok to leave this world right now, have a passion to live?
 
 > Long-term games with long-term people.
 

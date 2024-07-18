@@ -47,3 +47,11 @@ At the same time:
 ---
 1. Continue to fight under higher levels of pressure, stress and distraction.
 2. Provide circumstances with lower pressure, stress and distraction for myself.
+
+---
+1. Save more time percentage in every activity, big or small.
+2. Optimize big time consuming activities first.
+
+---
+1. Gain skill and knowledge and create value.
+2. Find people with those qualities and hire them.

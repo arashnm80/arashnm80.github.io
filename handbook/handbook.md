@@ -62,8 +62,8 @@ permalink: /handbook/
     <li><a href="./sleep">Sleep</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./begin-again">Begin Again</a></li>
     <li><a href="./90-10">90-10</a></li>
-    <li><a href="./hidden-progress">Hidden Progress</a></li>
     <li><a href="./2-battlefields">2 Battlefields</a></li>
+    <li><a href="./hidden-progress">Hidden Progress</a></li>
     <li><a href="./freedom">Freedom</a></li>
     <li><a href="./shame">Shame</a></li>
     <li><a href="./carnet-mental">Carnet mental</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
@@ -129,6 +129,7 @@ permalink: /handbook/
     <li><a href="./wild">Wild</a></li>
     <li><a href="./improvise">Improvise</a></li>
     <li><a href="./sale">Sale</a></li>
+    <li><a href="./passion">Passion</a></li>
     <li><a href="./pain">Pain</a></li>
     <li><a href="./jensen-huang">Jensen Huang</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
     <li><a href="./eyes">Eyes</a></li>
