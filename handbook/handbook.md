@@ -64,12 +64,12 @@ permalink: /handbook/
     <li><a href="./90-10">90-10</a></li>
     <li><a href="./hidden-progress">Hidden Progress</a></li>
     <li><a href="./2-battlefields">2 Battlefields</a></li>
+    <li><a href="./freedom">Freedom</a></li>
+    <li><a href="./shame">Shame</a></li>
     <li><a href="./carnet-mental">Carnet mental</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
     <li><a href="./destination-path">Destination & Path</a></li>
     <li><a href="./biggest-problem">Biggest Problem</a></li>
     <li><a href="./art-of-racing-in-the-rain">Art of racing in the rain</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
-    <li><a href="./freedom">Freedom</a></li>
-    <li><a href="./shame">Shame</a></li>
     <li><a href="./victim">Victim</a></li>
     <li><a href="./chain-reaction">Chain Reaction</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./subconscious">Subconscious</a></li>
@@ -129,11 +129,12 @@ permalink: /handbook/
     <li><a href="./wild">Wild</a></li>
     <li><a href="./improvise">Improvise</a></li>
     <li><a href="./sale">Sale</a></li>
-    <li><a href="./pain-as-a-service">Pain as a service</a></li>
+    <li><a href="./pain">Pain</a></li>
     <li><a href="./jensen-huang">Jensen Huang</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
     <li><a href="./eyes">Eyes</a></li>
     <li><a href="./evolution">Evolution</a></li>
     <li><a href="./hope">Hope</a></li>
+    <li><a href="./mental-model">Mental Model</a></li>
     <li><a href="./other">Other</a></li>
 </ol>
 </div>
