@@ -3,32 +3,19 @@ layout: page
 title: C'est ma vie
 ---
 
-<span id="sentence-container">
+**
+Paradise and hell, this is life.  
+But whatever this is, this is my life.  
+So who am I and what am I doing now?
+**
+
+<!-- <span id="sentence-container">
     <strong>
         これは天国と地獄です。Such is life. <br>
         Mais quoi que ce soit, c'est ma vie. <br>
         では、qui suis-je et que fais-je 今?
     </strong>
-    <!-- <br><br>
-    <span>
-        2024-07-11:<br>
-        <strong>
-            I choose a <a href="../life-factor">goal</a> for my life,<br>
-            I choose a <a href="../seven">plan</a> for my goal,<br>
-            I choose to <a href="../action">act</a> for my plan.
-        </strong>
-    </span> -->
-</span>
-
-
-
-
-
-
-
-
-
-
+</span> -->
 
 <!-- <script>
 document.addEventListener("DOMContentLoaded", function() {
