@@ -3,11 +3,11 @@ layout: page
 title: C'est ma vie
 ---
 
-**
-Paradise and hell, this is life.  
-But whatever this is, this is my life.  
+<strong>
+Paradise and hell, this is life.<br>
+But whatever this is, this is my life.<br>
 So who am I and what am I doing now?
-**
+</strong>
 
 <!-- <span id="sentence-container">
     <strong>
