@@ -5,7 +5,8 @@ title: C'est ma vie
 
 <span id="sentence-container">
     <strong>
-        Paradis ou enfer, これは私の人生です。<br>
+        これは天国と地獄です。Such is life. <br>
+        Mais quoi que ce soit, c'est ma vie. <br>
         では、qui suis-je et que fais-je 今?
     </strong>
     <!-- <br><br>
