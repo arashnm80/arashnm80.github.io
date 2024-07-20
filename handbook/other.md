@@ -15,6 +15,10 @@ I can define some constant routines to create this situation manually, e.g. :
 ### quotes
 > When life gets you down and you feel unloved and worthless, just remember you’ll be dead one day.
 
+> Fu*k, I only live once.
+
+> I can do whatever the fu*k I can do.
+
 ## I-dentity
 > My time is limited, I'm not gonna waste it living someone else’s life.
 

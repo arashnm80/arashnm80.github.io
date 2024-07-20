@@ -49,10 +49,6 @@ title: Quotes
 
 > Make every bullet count.
 
-> Fu*k, I only live once.
-
-> I can do whatever the fu*k I can do.
-
 > It takes 10 years to become an overnight success.
 
 > hope is product of self-trust.
@@ -126,6 +122,10 @@ title: Quotes
 > Everybody thinks their loneliness is the biggest loneliness in the world.
 
 > When life gets you down and you feel unloved and worthless, just remember you’ll be dead one day.
+
+> Fu*k, I only live once.
+
+> I can do whatever the fu*k I can do.
 
 > My time is limited, I'm not gonna waste it living someone else’s life.
 

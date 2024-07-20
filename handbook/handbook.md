@@ -25,7 +25,7 @@ permalink: /handbook/
 ### 1
 <div class="items">
 <ol>
-    <li><a href="./c'est-la-vie">C'est la vie</a></li>
+    <li><a href="./fuck">fuck</a></li>
     <li><a href="./no-time-for-caution">No time for caution</a></li>
 </ol>
 </div>
@@ -107,7 +107,6 @@ permalink: /handbook/
     <li><a href="./optimism-pessimism">Optimism & Pessimism</a></li>
     <li><a href="./boredom">Boredom</a></li>
     <li><a href="./potential">Potential</a></li>
-    <li><a href="./fuck">Fuck</a></li>
     <li><a href="./lose">lose</a></li>
     <li><a href="./niksen">niksen</a></li>
     <li><a href="./right-questions">right questions</a></li>
