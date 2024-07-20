@@ -25,7 +25,7 @@ permalink: /handbook/
 ### 1
 <div class="items">
 <ol>
-    <li><a href="./fuck">fuck</a></li>
+    <li><a href="./fuck">FUCK</a></li>
     <li><a href="./no-time-for-caution">No time for caution</a></li>
 </ol>
 </div>
