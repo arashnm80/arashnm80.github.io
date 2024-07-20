@@ -1,5 +1,5 @@
 ---
-title: Fuck
+title: All-In
 ---
 
 - **Leave**
