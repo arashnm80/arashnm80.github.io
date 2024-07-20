@@ -5,7 +5,7 @@ title: C'est ma vie
 
 <strong>
 Paradise and hell, this is life.<br>
-But whatever this is, this is my life.<br>
+But either way, this is my life.<br>
 So who am I and what am I doing now?
 </strong>
 
