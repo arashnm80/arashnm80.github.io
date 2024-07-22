@@ -1,5 +1,5 @@
 ---
-title: All-In
+title: Plunge into hell
 ---
 
 - **Leave**
