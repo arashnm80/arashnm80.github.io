@@ -28,9 +28,12 @@ World is an ocean of options and possibilites and to choose one of them means to
 
 > To earn more than everybody, you should be willing to lose and sacrifice more than everybody.
 
+### Probabilities
+Every choice is gamble. but when its probability is a very high number we simply take it as an absolute 100
+
 ### Source Dubiety
 For every choice there is always dubiety about the source triggering all the thoughts:  
-*Maybe it's what I'm forced to do, maybe it's what I want to do, maybe it's what I choose to do, maybe it's what beaten into my source code by my parents and society, ...*  
+*Maybe it's what I'm forced to do, maybe it's what I want to do, maybe it's what I choose to do, maybe it's what beaten into my source code by my parents and society, Maybe it's my fear or pride or ego or superego or id that's choosing, maybe it's all a big conspiracy theory ...*  
 But no matter which one is true, in the end I have to choose.
 
 ### Buridan's Ass
