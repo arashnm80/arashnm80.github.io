@@ -25,7 +25,7 @@ permalink: /handbook/
 ### 1
 <div class="items">
 <ol>
-    <li><a href="./plunge-into-hell">Plunge into hell</a></li>
+    <li><a href="./plunge">Plunge</a></li>
     <li><a href="./no-time-for-caution">No time for caution</a></li>
 </ol>
 </div>
