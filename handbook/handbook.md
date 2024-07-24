@@ -44,11 +44,11 @@ permalink: /handbook/
 <div class="items">
 <ol>
     <li><a href="./uncertainty">Uncertainty</a></li>
+    <li><a href="./plan-a-b">Plan A & B</a></li>
     <li><a href="./quality-levels">Quality Levels</a></li>
     <li><a href="./multitask">Multitask</a></li>
     <li><a href="./persistency">Persistency</a> </li>
     <li><a href="./experience">Experience</a></li>
-    <li><a href="./plan-a-b">Plan A & B</a></li>
     <li><a href="./fear-courage">Fear & Courage</a></li>
     <li><a href="./reboot">Reboot</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
 </ol>
