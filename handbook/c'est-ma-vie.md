@@ -9,8 +9,6 @@ But in the end, this is my life.<br>
 So who am I and what am I doing now?
 </strong>
 
-> Live a life I can be proud of.
-
 <!-- <span id="sentence-container">
     <strong>
         これは天国と地獄です。Such is life. <br>

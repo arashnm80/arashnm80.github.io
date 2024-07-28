@@ -23,8 +23,6 @@ title: Quotes
 
 > The rest of my life starts right now.
 
-> Live a life I can be proud of.
-
 > Think out of the box.
 
 > If you have to walk through an unpleasant path, what can you do to make it more bearable or even turn the tide and use it to your advantage?
@@ -128,6 +126,8 @@ title: Quotes
 > Fu*k, I only live once.
 
 > I can do whatever the fu*k I can do.
+
+> Live a life I can be proud of.
 
 > My time is limited, I'm not gonna waste it living someone else’s life.
 

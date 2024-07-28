@@ -19,6 +19,8 @@ I can define some constant routines to create this situation manually, e.g. :
 
 > I can do whatever the fu*k I can do.
 
+> Live a life I can be proud of.
+
 ## I-dentity
 > My time is limited, I'm not gonna waste it living someone else’s life.
 
