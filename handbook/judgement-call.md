@@ -6,7 +6,7 @@ title: Judgement call
 
 or
 
-- **sacrifice, gamble and assault through hell for narrow possibility to Live**
+- **assault through hell for narrow possibility to Live**
 
 <!-- The plan is to start from almost hell and try to ascend to heaven.
 
