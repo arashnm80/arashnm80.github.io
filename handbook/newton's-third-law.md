@@ -51,4 +51,5 @@ Not choosing is a choice itself and most of the time the worst one.
 
 ### Adagio
 > The perfect decision making duration is 8 minutes and 34 seconds.
+
 Everyday I wake up I listen to Adagio and decide whether to leave or to stay and fight one more day.
