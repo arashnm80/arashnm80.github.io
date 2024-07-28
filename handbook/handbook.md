@@ -25,8 +25,8 @@ permalink: /handbook/
 ### 1
 <div class="items">
 <ol>
-    <li><a href="./no-time-for-caution">No time for caution</a></li>
     <li><a href="./judgement-call">Judgement call</a></li>
+    <li><a href="./no-time-for-caution">No time for caution</a></li>
 </ol>
 </div>
 
