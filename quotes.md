@@ -23,6 +23,8 @@ title: Quotes
 
 > The rest of my life starts right now.
 
+> Live a life I can be proud of.
+
 > Think out of the box.
 
 > If you have to walk through an unpleasant path, what can you do to make it more bearable or even turn the tide and use it to your advantage?
@@ -71,8 +73,6 @@ title: Quotes
 
 > I just Keep Moving Forward Till I've Killed My Enemies.
 
-> I always want it to be a project that, if successful, will make the rest of my career look like a footnote.
-
 > You're crazy until you're successful, then you are a genius.
 
 > It's much easier to get 5M views on one video than 50K views on 100 videos.
@@ -98,6 +98,8 @@ title: Quotes
 > If I don't know what I want, I can't judge myself for not achieving it.
 
 > To earn more than everybody, you should be willing to lose and sacrifice more than everybody.
+
+> Everything comes at a price.
 
 > The perfect decision making duration is 8 minutes and 34 seconds.
 
@@ -178,6 +180,8 @@ title: Quotes
 > Any change is a mean to produce energy.
 
 > Marketing is like sex, only losers pay for it.
+
+> I always want it to be a project that, if successful, will make the rest of my career look like a footnote.
 
 > Am I ashamed becuase I'm not who I want to be or because I'm not what society says I have to be?
 

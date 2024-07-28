@@ -25,14 +25,15 @@ permalink: /handbook/
 ### 1
 <div class="items">
 <ol>
-    <li><a href="./judgement-call">Judgement call</a></li>
     <li><a href="./no-time-for-caution">No time for caution</a></li>
+    <li><a href="./judgement-call">Judgement call</a></li>
 </ol>
 </div>
 
 ### 2
 <div class="items">
 <ol>
+    <li><a href="./strategy">strategy</a></li>
     <li><a href="./newton's-third-law">Newton's Third law: Sort, Choose, Exchange</a></li>
     <li><a href="./life-factor">Life Factor</a></li>
     <li><a href="./fight">Fight</a></li>
@@ -131,11 +132,13 @@ permalink: /handbook/
     <li><a href="./passion">Passion</a></li>
     <li><a href="./pain">Pain</a></li>
     <li><a href="./jensen-huang">Jensen Huang</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
+    <li><a href="./sam-altman">sam altman</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
     <li><a href="./eyes">Eyes</a></li>
     <li><a href="./evolution">Evolution</a></li>
     <li><a href="./hope">Hope</a></li>
     <li><a href="./mental-model">Mental Model</a></li>
     <li><a href="./other">Other</a></li>
+    <li><a href="./switch-cost">switch cost</a></li>
 </ol>
 </div>
 

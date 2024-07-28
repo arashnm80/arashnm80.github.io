@@ -6,8 +6,7 @@ title: Judgement call
 
 or
 
-- **Assault through hell for narrow possibility to Live**
-  - -5 to +5 戦略
+- **gamble, sacrifice and assault through hell for narrow possibility to Live**
 
 <!-- The plan is to start from almost hell and try to ascend to heaven.
 

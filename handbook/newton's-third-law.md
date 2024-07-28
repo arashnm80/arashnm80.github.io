@@ -28,6 +28,8 @@ World is an ocean of options and possibilites and to choose one of them means to
 
 > To earn more than everybody, you should be willing to lose and sacrifice more than everybody.
 
+> Everything comes at a price.
+
 ### Probabilities
 Every choice is gamble. but when its probability is a very high number we simply take it as an absolute 100
 
