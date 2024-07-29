@@ -41,8 +41,8 @@ At the same time:
 2. Increase general level of my energy.
 
 ---
-1. Increase my capacity to fight.
-2. Turn fights into plays.
+1. Increase my capacity to fight in painful fields.
+2. Turn fights into plays in joyful fields.
 
 ---
 1. Continue to fight under higher levels of pressure, stress and distraction.

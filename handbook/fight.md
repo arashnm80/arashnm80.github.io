@@ -28,3 +28,12 @@ Outlast countless number of chain-fights
 > Make every bullet count.
 
 ### Testing the limits of human spirit
+
+### breaking walls
+breaking the wall of programmed defaults like detroit game. wall of limits, fears, pride, ... and whatever is barring from growth.
+
+### multitask
+listening to a good music even in hell has its joy. best case scenario it will make the situation LF positive and in the worst cast it at least will make it less negative.
+
+### game
+fighting in the enjoyable fields will turn it into a playing

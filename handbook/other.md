@@ -57,3 +57,9 @@ Respect everyone and give a shit about no one, in fact don't even think about an
 
 ### Too far for Ronaldo to think about it
 https://www.youtube.com/watch?v=tvC2rIMjCUc
+
+### match answer with question
+match the size of my answers to the questions with the size of effort the asker has put into thinking, trying, studying, investigating, ... before asking it from me.
+
+### most people are NPCs
+https://www.youtube.com/watch?v=69B6WaURHD0
