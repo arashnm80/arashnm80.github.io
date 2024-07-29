@@ -207,6 +207,8 @@ title: Quotes
 
 > I'm not gonna let the fear of striking out keep me from playing the game.
 
+> I'm not sure if it's possible or not but the only way to find out is to try with everything I've got.
+
 > Whether I am a victim or not, I'm not gonna complain about it. I'm just gonna put my head down and soldier through it.
 
 > If I want to be the one in a billion person, I should live in a way that those other 999,999,999 people won't even imagine.

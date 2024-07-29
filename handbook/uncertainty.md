@@ -39,3 +39,6 @@ Risk is the natural product of uncertainty. It's the relationship between sizes 
 > World is full of lonely people afraid to make the first move.
 
 > I'm not gonna let the fear of striking out keep me from playing the game.
+
+### try
+> I'm not sure if it's possible or not but the only way to find out is to try with everything I've got.

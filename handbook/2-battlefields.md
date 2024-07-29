@@ -55,3 +55,11 @@ At the same time:
 ---
 1. Gain skill and knowledge and create value.
 2. Find people with those qualities and hire them.
+
+---
+1. Become more rich and more powerful to be able to delegate as a leader and manager.
+2. try to delegate even now that you are not very rich and are in the beginning of the road.
+
+---
+1. have good metaphors and analogy for every concept.
+2. see every concept in its pure raw form without needing furthur analogies.
