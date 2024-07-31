@@ -1,8 +1,3 @@
----
-layout: page
-title: No time for caution
----
-
 **Time is the most precious and ultimate currency of life.**
 
 Too many days, months and years of my life have passed and too few are left. I have to start acting right now and think about parameters and improvements over time later.

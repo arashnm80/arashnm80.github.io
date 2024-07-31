@@ -2,5 +2,5 @@
 
 or
 
-- **try my best for narrow possibility to Live**
+- **do my best for narrow possibility to Live**
 
