@@ -2,4 +2,4 @@
 
 or
 
-- **fight with everything I've got for narrow possibility to Live**
+- **assault through hell for narrow possibility to Live**
