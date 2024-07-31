@@ -1,8 +1,6 @@
-
-
 - **Leave**
 
 or
 
-- **assault through hell for narrow possibility to Live**
+- **try my best for narrow possibility to Live**
 

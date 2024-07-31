@@ -26,7 +26,7 @@ permalink: /handbook/
 <div class="items">
 <ol>
     <li><a href="./no-time-for-caution">No time for caution</a></li>
-    <li><a href="./refuse-or-accept">refuse-or-accept</a></li>
+    <li><a href="./refuse-or-accept"></a></li>
 </ol>
 </div>
 
