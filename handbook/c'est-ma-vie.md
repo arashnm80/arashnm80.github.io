@@ -1,8 +1,3 @@
----
-layout: page
-title: "{{ page.path | split: '/' | last | split: '.' | first | capitalize }}"
----
-
 <strong>
 Paradise and hell; this is life.<br>
 But in the end, this is my life.<br>
