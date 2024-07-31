@@ -1,5 +1,1 @@
-- **Leave**
-
-or
-
-- **fight with everything I've got for narrow possibility to Live**
+**leave or fight with everything I've got for narrow possibility to Live**

@@ -1,6 +1,4 @@
----
-title: Action
----
+**in the end, the only thing matters is my actions.**
 
 > Talk is cheap, show me the code.
 

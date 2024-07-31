@@ -18,34 +18,34 @@ permalink: /handbook/
 ### 0
 <div class="items">
 <ol>
-    <li><a class="dynamic-link" href="./c'est-ma-vie"></a></li>
+    <li><a class="dynamic-link" href="./c'est-ma-vie"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
 </ol>
 </div>
 
 ### 1
 <div class="items">
 <ol>
-    <li><a class="dynamic-link" href="./no-time-for-caution"></a></li>
-    <li><a class="dynamic-link" href="./refuse-or-accept"></a></li>
+    <li><a class="dynamic-link" href="./no-time-for-caution"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
+    <li><a class="dynamic-link" href="./refuse-or-accept"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
 </ol>
 </div>
 
 ### 2
 <div class="items">
 <ol>
-    <li><a class="dynamic-link" href="./choice"></a></li>
-    <li><a class="dynamic-link" href="./life-factor"></a></li>
-    <li><a class="dynamic-link" href="./action"></a></li>
-    <li><a class="dynamic-link" href="./fight"></a></li>
+    <li><a class="dynamic-link" href="./choice"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
+    <li><a class="dynamic-link" href="./action"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
+    <li><a class="dynamic-link" href="./life-factor"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
+    <li><a class="dynamic-link" href="./strategy"></a></li>
 </ol>
 </div>
 
 ### 3
 <div class="items">
 <ol>
-    <li><a class="dynamic-link" href="./strategy"></a></li>
+    <li><a class="dynamic-link" href="./fight"></a></li>
     <li><a class="dynamic-link" href="./sort"></a></li>
-    <li><a href="./plan-a-b">Plan A & B</a></li>
+    <li><a class="dynamic-link" href="./plan-a-b"></a></li>
     <li><a href="./quality-levels">Quality Levels</a></li>
     <li><a href="./multitask">Multitask</a></li>
     <li><a href="./persistency">Persistency</a> </li>

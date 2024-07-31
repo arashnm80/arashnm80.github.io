@@ -1,10 +1,10 @@
-**LF = Integral of (Pleasure - Pain) throughout life.**
+**LF is lifetime Integral of (Pleasure - Pain) and maximizing it is the ultimate goal of life.**
 
-<!-- If positive, it's a worthwhile life called *living* and it's worth to be repeated again.
+If positive, it's a worthwhile life called *living* and it's worth to be repeated again.
 
 If negetave, it's a wasted life called *only being alive* and would have been better to leave in the first place and it would have been better to not be born at all.
 
-I no longer believe in Mind opiums like God or Ideals like Spider-man. I simply see LF as the ultimate metric for measuring life, so I decide **maximizing the LF** as ultimate goal of my life.
+I no longer believe in Mind opiums like God or Ideals like Spider-man. I simply see LF as the ultimate metric for measuring life, so I decide maximizing the LF as ultimate goal of my life.
 
 If it's in the negative side and monotonic decreasing then maximizing LF means to leave this world.  
 If it's in the positive side and monotonic increasing then maximizing LF means to live as much as more years as possible.
@@ -69,4 +69,4 @@ The problem is that I have some positive LF moments but all of them altoghether 
 
 So if I'm gonna put it in the island anology it's like I have 2 options:
 1. to die
-2. **to fight and endure pain for some better island that might not exist at all, if exists is far far away, and even if I reach it might turn out to be another unwanted useless property for me** -->
+2. to fight and endure pain for some better island that might not exist at all, if exists is far far away, and even if I reach it might turn out to be another unwanted useless property for me

@@ -1,6 +1,6 @@
 **Time is the most precious and ultimate currency of life. so I have to act right now.**
 
-<!-- Too many days, months and years of my life have passed and too few are left. I have to start acting right now and think about parameters and improvements over time later.
+Too many days, months and years of my life have passed and too few are left. I have to start acting right now and think about parameters and improvements over time later.
 
 > Time's running out like a cup of coffee, so whatever I have to do it right fu*king now.
 
@@ -23,4 +23,4 @@
 > I just try to live every day as if I've deliberately come back to this one day, to enjoy it, as if it was the full final day of my extraordinary, ordinary life.
 
 ### Make every second count
-Either I sleep, work, sex, watch movie, exercise, play, fight, ... I should use every second for sth worthwhile. -->
+Either I sleep, work, sex, watch movie, exercise, play, fight, ... I should use every second for sth worthwhile.
