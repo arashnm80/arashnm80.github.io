@@ -25,10 +25,6 @@ title: Quotes
 
 > newton's third law, The only way of getting somewhere is to leave something behind.
 
-> 50% chance of winning 1 or 10% chance of winning 5?
-
-> Do it if it's the biggest thing I can do.
-
 > My choice is not what I'm thinking, saying or writing but what I'm actually doing right now.
 
 > If I don't know what I want, I can't judge myself for not achieving it.
@@ -38,6 +34,22 @@ title: Quotes
 > Everything comes at a price.
 
 > The perfect decision making duration is 8 minutes and 34 seconds.
+
+> Certainty never exists and it's not an excuse to do nothing.
+
+> No one actually knows what the hell they're doing. Everyone is just working off their current best guess.
+
+> Any worthwhile venture involves risk.
+
+> The three most harmful addictions are heroin, carbohydrates, and a monthly salary.
+
+> World is full of lonely people afraid to make the first move.
+
+> I'm not gonna let the fear of striking out keep me from playing the game.
+
+> 50% chance of winning 1 or 10% chance of winning 5?
+
+> I'm not sure if it's possible or not but the only way to find out is to try with everything I've got.
 
 > Think out of the box.
 
@@ -193,21 +205,9 @@ title: Quotes
 
 > Only being present in the game triggers many opportunities by itself.
 
+> Do it if it's the biggest thing I can do.
+
 > I'm gonna think out of the box.
-
-> Certainty never exists and it's not an excuse to do nothing.
-
-> No one actually knows what the hell they're doing. Everyone is just working off their current best guess.
-
-> Any worthwhile venture involves risk.
-
-> The three most harmful addictions are heroin, carbohydrates, and a monthly salary.
-
-> World is full of lonely people afraid to make the first move.
-
-> I'm not gonna let the fear of striking out keep me from playing the game.
-
-> I'm not sure if it's possible or not but the only way to find out is to try with everything I've got.
 
 > Whether I am a victim or not, I'm not gonna complain about it. I'm just gonna put my head down and soldier through it.
 

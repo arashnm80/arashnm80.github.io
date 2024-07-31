@@ -44,7 +44,7 @@ permalink: /handbook/
 <div class="items">
 <ol>
     <li><a class="dynamic-link" href="./strategy"></a></li>
-    <li><a href="./uncertainty">Uncertainty</a></li>
+    <li><a class="dynamic-link" href="./sort"></a></li>
     <li><a href="./plan-a-b">Plan A & B</a></li>
     <li><a href="./quality-levels">Quality Levels</a></li>
     <li><a href="./multitask">Multitask</a></li>

@@ -2,5 +2,4 @@
 
 or
 
-- **do my best for narrow possibility to Live**
-
+- **fight with everything I've got for narrow possibility to Live**
