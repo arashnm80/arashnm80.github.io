@@ -1,6 +1,6 @@
 ---
 layout: page
-title: C'est ma vie
+title: "{{ page.path | split: '/' | last | split: '.' | first | capitalize }}"
 ---
 
 <strong>

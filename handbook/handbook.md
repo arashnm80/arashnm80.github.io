@@ -25,8 +25,8 @@ permalink: /handbook/
 ### 1
 <div class="items">
 <ol>
-    <li><a class="dynamic-link">./no-time-for-caution</a></li>
-    <li><a class="dynamic-link">./refuse-or-accept</a></li>
+    <li><a class="dynamic-link" href="./no-time-for-caution"></a></li>
+    <li><a class="dynamic-link" href="./refuse-or-accept"></a></li>
 </ol>
 </div>
 
