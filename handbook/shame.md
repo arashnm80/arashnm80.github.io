@@ -9,4 +9,4 @@ Shame is a tool used by parents and society to tame us.
 
 > Don't be sorry, be better.
 
-> Fuck euphemism.
+Fuck euphemism.

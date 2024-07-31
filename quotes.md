@@ -187,8 +187,6 @@ title: Quotes
 
 > Don't be sorry, be better.
 
-> Fuck euphemism.
-
 > No matter of probabilities, I'm gonna take 100% of the shots.
 
 > Only being present in the game triggers many opportunities by itself.
