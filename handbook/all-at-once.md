@@ -1,0 +1,1 @@
+I'm sorting and prioritizing things but I shouldn't think linear cause reality can be non-linear, circular, multidimensional, paradoxical. so I should care about some more than the others but I should care, think, do all of them at the same time.

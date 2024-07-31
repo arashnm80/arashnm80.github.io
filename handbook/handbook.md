@@ -47,6 +47,7 @@ permalink: /handbook/
     <li><a class="dynamic-link" href="./fight"></a></li>
     <li><a class="dynamic-link" href="./sort"></a></li>
     <li><a class="dynamic-link" href="./quality-levels"></a></li>
+    <li><a class="dynamic-link" href="./all-at-once"></a></li>
     <li><a href="./multitask">Multitask</a></li>
     <li><a href="./persistency">Persistency</a> </li>
     <li><a href="./experience">Experience</a></li>
