@@ -35,7 +35,7 @@ permalink: /handbook/
 <ol>
     <li><a class="dynamic-link" href="./life-factor"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
     <li><a class="dynamic-link" href="./action"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
-    <li><a class="dynamic-link" href="./plan-a-b"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
+    <li><a class="dynamic-link" href="./plan-a-b"></a> <button style="color:LightGreen" onclick="filterItems('choice')" class="btn tag choice">⬤ choice</button></li>
     <li><a class="dynamic-link" href="./refuse-or-accept"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
 </ol>
 </div>
@@ -43,7 +43,7 @@ permalink: /handbook/
 ### 3
 <div class="items">
 <ol>
-    <li><a class="dynamic-link" href="./-5to+5strategy"></a></li>
+    <li><a class="dynamic-link" href="./-5to+5"></a></li>
     <li><a class="dynamic-link" href="./fight"></a></li>
     <li><a class="dynamic-link" href="./sort"></a></li>
     <li><a class="dynamic-link" href="./quality-levels"></a></li>
