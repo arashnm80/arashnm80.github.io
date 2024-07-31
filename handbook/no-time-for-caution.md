@@ -1,4 +1,4 @@
-**Time is the most precious and ultimate currency of life. so I have to act right now.**
+**Time is the most precious and ultimate currency of life. whatever I'm gonna do with my life, I have to do it right now.**
 
 Too many days, months and years of my life have passed and too few are left. I have to start acting right now and think about parameters and improvements over time later.
 
