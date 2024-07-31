@@ -43,7 +43,7 @@ permalink: /handbook/
 ### 3
 <div class="items">
 <ol>
-    <li><a class="dynamic-link" href="./-5to+5"></a></li>
+    <li><a class="dynamic-link" href="./-5to+5"></a> <button style="color:MediumAquaMarine" onclick="filterItems('strategy')" class="btn tag strategy">⬤ strategy</button></li>
     <li><a class="dynamic-link" href="./fight"></a></li>
     <li><a class="dynamic-link" href="./sort"></a></li>
     <li><a class="dynamic-link" href="./quality-levels"></a></li>
