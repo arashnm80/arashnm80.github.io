@@ -25,6 +25,8 @@ title: Quotes
 
 > newton's third law, The only way of getting somewhere is to leave something behind.
 
+> 50% chance of winning 1 or 10% chance of winning 5?
+
 > Do it if it's the biggest thing I can do.
 
 > My choice is not what I'm thinking, saying or writing but what I'm actually doing right now.
