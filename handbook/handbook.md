@@ -25,16 +25,16 @@ permalink: /handbook/
 ### 1
 <div class="items">
 <ol>
-    <li><a class="dynamic-link" href="./no-time-for-caution"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
-    <li><a class="dynamic-link" href="./choice"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
+    <li><a class="dynamic-link" href="./-5to+5"></a> <button style="color:MediumAquaMarine" onclick="filterItems('strategy')" class="btn tag strategy">⬤ strategy</button></li>
+    <li><a class="dynamic-link" href="./life-factor"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
 </ol>
 </div>
 
 ### 2
 <div class="items">
 <ol>
-    <li><a class="dynamic-link" href="./life-factor"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
-    <li><a class="dynamic-link" href="./action"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
+    <li><a class="dynamic-link" href="./no-time-for-caution"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
+    <li><a class="dynamic-link" href="./choice"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
     <li><a class="dynamic-link" href="./refuse-or-accept"></a> <button style="color:LightBlue" onclick="filterItems('choice')" class="btn tag choice">⬤ choice</button></li>
     <li><a class="dynamic-link" href="./plan-a-b"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
 </ol>
@@ -43,7 +43,7 @@ permalink: /handbook/
 ### 3
 <div class="items">
 <ol>
-    <li><a class="dynamic-link" href="./-5to+5"></a> <button style="color:MediumAquaMarine" onclick="filterItems('strategy')" class="btn tag strategy">⬤ strategy</button></li>
+    <li><a class="dynamic-link" href="./action"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
     <li><a class="dynamic-link" href="./fight"></a></li>
     <li><a class="dynamic-link" href="./sort"></a></li>
     <li><a class="dynamic-link" href="./quality-levels"></a></li>
