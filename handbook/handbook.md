@@ -18,32 +18,32 @@ permalink: /handbook/
 ### 0
 <div class="items">
 <ol>
-    <li><a class="dynamic-link">c'est-ma-vie</a></li>
+    <li><a class="dynamic-link" href="./c'est-ma-vie"></a></li>
 </ol>
 </div>
 
 ### 1
 <div class="items">
 <ol>
-    <li><a class="dynamic-link">no-time-for-caution</a></li>
-    <li><a class="dynamic-link">refuse-or-accept</a></li>
+    <li><a class="dynamic-link">./no-time-for-caution</a></li>
+    <li><a class="dynamic-link">./refuse-or-accept</a></li>
 </ol>
 </div>
 
 ### 2
 <div class="items">
 <ol>
-    <li><a class="dynamic-link">strategy</a></li>
-    <li><a class="dynamic-link">choice</a></li>
-    <li><a class="dynamic-link">life-factor</a></li>
-    <li><a class="dynamic-link">fight</a></li>
-    <li><a class="dynamic-link">action</a></li>
+    <li><a class="dynamic-link" href="./choice"></a></li>
+    <li><a class="dynamic-link" href="./life-factor"></a></li>
+    <li><a class="dynamic-link" href="./action"></a></li>
+    <li><a class="dynamic-link" href="./fight"></a></li>
 </ol>
 </div>
 
 ### 3
 <div class="items">
 <ol>
+    <li><a class="dynamic-link" href="./strategy"></a></li>
     <li><a href="./uncertainty">Uncertainty</a></li>
     <li><a href="./plan-a-b">Plan A & B</a></li>
     <li><a href="./quality-levels">Quality Levels</a></li>
@@ -185,10 +185,10 @@ permalink: /handbook/
         isFiltered = !isFiltered;
     }
 
-    // JavaScript to dynamically set the href attribute based on link text
+    // JavaScript to dynamically set the text content based on href attribute
     document.querySelectorAll('.dynamic-link').forEach(link => {
-        const text = link.textContent.trim();
-        link.setAttribute('href', `./${text}`);
+        const href = link.getAttribute('href').replace('./', '');
+        link.textContent = href;
     });
 
 </script>
