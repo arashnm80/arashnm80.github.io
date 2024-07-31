@@ -25,7 +25,7 @@ permalink: /handbook/
 ### 1
 <div class="items">
 <ol>
-    <li><a class="dynamic-link" href="./-5to+5"></a> <button style="color:SteelBlue" onclick="filterItems('plan-a')" class="btn tag plan-a">⬤ plan-a</button></li>
+    <li><a class="dynamic-link" href="./-5to+5"></a> <button style="color:SteelBlue" onclick="filterItems('strategy')" class="btn tag strategy">⬤ strategy</button></li>
     <li><a class="dynamic-link" href="./life-factor"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
 </ol>
 </div>
