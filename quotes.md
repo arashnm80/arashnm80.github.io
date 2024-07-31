@@ -23,7 +23,7 @@ title: Quotes
 
 > The rest of my life starts right now.
 
-> The only way of getting somewhere is to leave something behind.
+> newton's third law, The only way of getting somewhere is to leave something behind.
 
 > Do it if it's the biggest thing I can do.
 
