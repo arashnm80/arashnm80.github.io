@@ -18,15 +18,15 @@ permalink: /handbook/
 ### 0
 <div class="items">
 <ol>
-    <li><a href="./c'est-ma-vie">C'est ma vie</a></li>
+    <li><a class="dynamic-link">c'est-ma-vie</a></li>
 </ol>
 </div>
 
 ### 1
 <div class="items">
 <ol>
-    <li><a href="./no-time-for-caution">No time for caution</a></li>
-    <li><a href="./refuse-or-accept">refuse-or-accept</a></li>
+    <li><a class="dynamic-link">no-time-for-caution</a></li>
+    <li><a class="dynamic-link">refuse-or-accept</a></li>
 </ol>
 </div>
 
@@ -35,9 +35,9 @@ permalink: /handbook/
 <ol>
     <li><a class="dynamic-link">strategy</a></li>
     <li><a class="dynamic-link">choice</a></li>
-    <li><a href="./life-factor">Life Factor</a></li>
-    <li><a href="./fight">Fight</a></li>
-    <li><a href="./action">Action</a></li>
+    <li><a class="dynamic-link">life-factor</a></li>
+    <li><a class="dynamic-link">fight</a></li>
+    <li><a class="dynamic-link">action</a></li>
 </ol>
 </div>
 
