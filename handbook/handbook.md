@@ -33,8 +33,8 @@ permalink: /handbook/
 ### 2
 <div class="items">
 <ol>
-    <li><a href="./strategy">strategy</a></li>
-    <li><a href="./newton's-third-law">Newton's Third law: Sort, Choose, Exchange</a></li>
+    <li><a class="dynamic-link">strategy</a></li>
+    <li><a class="dynamic-link">choice</a></li>
     <li><a href="./life-factor">Life Factor</a></li>
     <li><a href="./fight">Fight</a></li>
     <li><a href="./action">Action</a></li>
@@ -147,42 +147,48 @@ permalink: /handbook/
 
 
 <script>
+    // filtering based on tag
     var isFiltered = false;
-    
     function filterItems(tag) {
         var containers = document.getElementsByClassName('items');
-    for (var j = 0; j < containers.length; j++) {
-        var items = containers[j].getElementsByTagName('li');
-        for (var i = 0; i < items.length; i++) {
-            var item = items[i];
-            var button = item.querySelector('button');
-            
-            if(isFiltered){ // it's already filtered so reset back and show all
-                item.style.display = 'list-item';
-                    if (button) {
-                        button.style.border = '1px solid #ccc';
-                        // button.style.backgroundColor = 'transparent'; // Change button background color
-                    }
-            } else {
-                // Check if there's no button or the button matches the tag
-                if (tag === 'all') {
-                    item.style.display = 'list-item'; // Show the item
-                } else if (!button && tag !== 'all'){
-                    item.style.display = 'none'; // Hide the item
-                } else if(button.classList.contains(tag)) {
-                    item.style.display = 'list-item'; // Show the item
-                    if (button) {
-                        button.style.border = '1px solid #000';
-                        // button.style.backgroundColor = 'LightCyan'; // Change button background color
-                    }
+        for (var j = 0; j < containers.length; j++) {
+            var items = containers[j].getElementsByTagName('li');
+            for (var i = 0; i < items.length; i++) {
+                var item = items[i];
+                var button = item.querySelector('button');
+                
+                if(isFiltered){ // it's already filtered so reset back and show all
+                    item.style.display = 'list-item';
+                        if (button) {
+                            button.style.border = '1px solid #ccc';
+                            // button.style.backgroundColor = 'transparent'; // Change button background color
+                        }
                 } else {
-                    item.style.display = 'none'; // Hide the item
+                    // Check if there's no button or the button matches the tag
+                    if (tag === 'all') {
+                        item.style.display = 'list-item'; // Show the item
+                    } else if (!button && tag !== 'all'){
+                        item.style.display = 'none'; // Hide the item
+                    } else if(button.classList.contains(tag)) {
+                        item.style.display = 'list-item'; // Show the item
+                        if (button) {
+                            button.style.border = '1px solid #000';
+                            // button.style.backgroundColor = 'LightCyan'; // Change button background color
+                        }
+                    } else {
+                        item.style.display = 'none'; // Hide the item
+                    }
                 }
             }
         }
+        
+        isFiltered = !isFiltered;
     }
-    
-    isFiltered = !isFiltered;
-}
+
+    // JavaScript to dynamically set the href attribute based on link text
+    document.querySelectorAll('.dynamic-link').forEach(link => {
+        const text = link.textContent.trim();
+        link.setAttribute('href', `./${text}`);
+    });
 
 </script>

@@ -23,6 +23,20 @@ title: Quotes
 
 > The rest of my life starts right now.
 
+> The only way of getting somewhere is to leave something behind.
+
+> Do it if it's the biggest thing I can do.
+
+> My choice is not what I'm thinking, saying or writing but what I'm actually doing right now.
+
+> If I don't know what I want, I can't judge myself for not achieving it.
+
+> To earn more than everybody, you should be willing to lose and sacrifice more than everybody.
+
+> Everything comes at a price.
+
+> The perfect decision making duration is 8 minutes and 34 seconds.
+
 > Think out of the box.
 
 > If you have to walk through an unpleasant path, what can you do to make it more bearable or even turn the tide and use it to your advantage?
@@ -86,20 +100,6 @@ title: Quotes
 > The only real test of intelligence is if you get what you want out of life.
 
 > The right way to work is like a lion.
-
-> The only way of getting somewhere is to leave something behind.
-
-> Do it if it's the biggest thing I can do.
-
-> My choice is not what I'm thinking, saying or writing but what I'm actually doing right now.
-
-> If I don't know what I want, I can't judge myself for not achieving it.
-
-> To earn more than everybody, you should be willing to lose and sacrifice more than everybody.
-
-> Everything comes at a price.
-
-> The perfect decision making duration is 8 minutes and 34 seconds.
 
 > Time's running out like a cup of coffee, so whatever I have to do it right fu*king now.
 
