@@ -1,3 +1,5 @@
+**fight is action against opposition**
+
 > The reason to fight is to get rid of it.
 
 To fight against pain, fear, hardship, tiredness, fatigue, sadness, depression, boredom, anger, shame, uncertainty, weakness, obsession, despair, inertia, obstacles, burdens, failures, expectations, defaults, limits, odds, majority, time, nature, people, world.
