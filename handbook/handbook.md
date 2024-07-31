@@ -36,7 +36,7 @@ permalink: /handbook/
     <li><a class="dynamic-link" href="./life-factor"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
     <li><a class="dynamic-link" href="./action"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
     <li><a class="dynamic-link" href="./refuse-or-accept"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
-    <li><a class="dynamic-link" href="./strategy"></a></li>
+    <li><a class="dynamic-link" href="./-5to+5strategy"></a></li>
 </ol>
 </div>
 
