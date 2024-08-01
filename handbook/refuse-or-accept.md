@@ -1,4 +1,4 @@
-I defy to be only alive. I'm gonna
+I defy to be only alive. I choose to
 
 - **Leave**
 
