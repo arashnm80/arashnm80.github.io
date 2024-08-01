@@ -1,4 +1,4 @@
-I defy to be only alive like a pig. I'm gonna
+I defy to be only alive. I'm gonna
 
 - **Leave**
 
