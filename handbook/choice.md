@@ -1,4 +1,4 @@
-**limitation, exchange, sacrifice, uncertainty, probability, gamble, risk, fuck**
+**limitation, exchange, sacrifice, uncertainty, probability, gamble, risk, fuck, judgement call**
 
 > newton's third law, The only way of getting somewhere is to leave something behind.
 
