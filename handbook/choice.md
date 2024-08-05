@@ -96,4 +96,4 @@ Risk is the natural product of uncertainty. It's the relationship between sizes 
 > I'm not sure if it's possible or not but the only way to find out is to try with everything I've got.
 
 ### pain and fear
-id, ego and super ego aside, we almost always know what is the best choice but we fail to choose it because it's almost always the scariest and most painful option.
+id, ego and super ego aside, we almost always know what is the best choice but we fail to choose it because it's almost always the scariest, hardest and most painful option.
