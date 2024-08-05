@@ -23,6 +23,14 @@ title: Quotes
 
 > The rest of my life starts right now.
 
+> When life gets you down and you feel unloved and worthless, just remember you’ll be dead one day.
+
+> Fu*k, I only live once.
+
+> I can do whatever the fu*k I can do.
+
+> Live a life I can be proud of.
+
 > lead people who lead people.
 
 > newton's third law, The only way of getting somewhere is to leave something behind.
@@ -140,14 +148,6 @@ title: Quotes
 > Am I willing to succeed with cost of everybody disliking me?
 
 > Everybody thinks their loneliness is the biggest loneliness in the world.
-
-> When life gets you down and you feel unloved and worthless, just remember you’ll be dead one day.
-
-> Fu*k, I only live once.
-
-> I can do whatever the fu*k I can do.
-
-> Live a life I can be proud of.
 
 > think simple and word hard
 

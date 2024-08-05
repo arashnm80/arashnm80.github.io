@@ -13,13 +13,6 @@ I can define some constant routines to create this situation manually, e.g. :
 - morning walk or run routine
 
 ### quotes
-> When life gets you down and you feel unloved and worthless, just remember you’ll be dead one day.
-
-> Fu*k, I only live once.
-
-> I can do whatever the fu*k I can do.
-
-> Live a life I can be proud of.
 
 > think simple and word hard
 
