@@ -1,0 +1,1 @@
+awareness of our bubbles and limited view fallacy will reduce stress.

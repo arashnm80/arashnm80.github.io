@@ -68,6 +68,8 @@ permalink: /handbook/
     <li><a class="dynamic-link" href="./hidden-progress"></a></li>
     <li><a class="dynamic-link" href="./freedom"></a></li>
     <li><a class="dynamic-link" href="./shame"></a></li>
+    <li><a class="dynamic-link" href="./stress"></a></li>
+    <li><a class="dynamic-link" href="./bubble"></a></li>
     <li><a class="dynamic-link" href="./carnet-mental"></a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
     <li><a class="dynamic-link" href="./destination-path"></a></li>
     <li><a class="dynamic-link" href="./passion"></a></li>
