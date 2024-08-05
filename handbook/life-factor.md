@@ -38,6 +38,8 @@ In other terms it means to be healthy, wealthy, free and have time to choose wha
 - travel around the world
 - Learn languages
 - dance
+- trampoline
+
 
 Of course the perfect life almost never has been possible but I want good enough level of it.
 

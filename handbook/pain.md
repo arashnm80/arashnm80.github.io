@@ -1,7 +1,3 @@
----
-title: Pain
----
-
 I believe I'm capable of enduring an infinite amount of pain.  
 Question is: Is there anything worthy for me to be willing to do so?
 

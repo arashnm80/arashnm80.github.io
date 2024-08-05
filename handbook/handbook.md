@@ -48,9 +48,9 @@ permalink: /handbook/
     <li><a class="dynamic-link" href="./quality-levels"></a></li>
     <li><a class="dynamic-link" href="./sort"></a></li>
     <li><a class="dynamic-link" href="./all-at-once"></a></li>
-    <li><a href="./multitask">Multitask</a></li>
-    <li><a href="./persistency">Persistency</a> </li>
-    <li><a href="./experience">Experience</a></li>
+    <li><a class="dynamic-link" href="./multitask"></a></li>
+    <li><a class="dynamic-link" href="./persistency"></a></li>
+    <li><a class="dynamic-link" href="./experience"></a></li>
     <li><a class="dynamic-link" href="./fear-courage"></a></li>
     <li><a class="dynamic-link" href="./reboot"></a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
 </ol>
@@ -62,9 +62,9 @@ permalink: /handbook/
     <li><a href="./dopamine">Dopamine</a></li>
     <li><a href="./pomodoro">Pomodoro</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a href="./sleep">Sleep</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
+    <li><a href="./2-battlefields">2 Battlefields</a></li>
     <li><a href="./begin-again">Begin Again</a></li>
     <li><a href="./90-10">90-10</a></li>
-    <li><a href="./2-battlefields">2 Battlefields</a></li>
     <li><a href="./hidden-progress">Hidden Progress</a></li>
     <li><a href="./freedom">Freedom</a></li>
     <li><a href="./shame">Shame</a></li>
@@ -140,8 +140,11 @@ permalink: /handbook/
     <li><a href="./evolution">Evolution</a></li>
     <li><a href="./hope">Hope</a></li>
     <li><a href="./mental-model">Mental Model</a></li>
-    <li><a href="./other">Other</a></li>
     <li><a href="./switch-cost">switch cost</a></li>
+    <li><a class="dynamic-link" href="./40-70"></a></li>
+    <li><a class="dynamic-link" href="./win-win"></a></li>
+    <li><a class="dynamic-link" href="./mess"></a></li>
+    <li><a class="dynamic-link" href="./other"></a></li>
 </ol>
 </div>
 

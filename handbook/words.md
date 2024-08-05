@@ -22,3 +22,4 @@ title: Words
 - one man army
 - knack
 - blitz
+- a little smart and hardworking as hell

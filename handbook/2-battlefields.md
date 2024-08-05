@@ -37,7 +37,7 @@ At the same time:
 2. Turn single taskings to multitaskings.
 
 ---
-1. Use my limited smartly on most important priorities.
+1. Use my limited energy smartly on most important priorities.
 2. Increase general level of my energy.
 
 ---
@@ -63,3 +63,7 @@ At the same time:
 ---
 1. have good metaphors and analogy for every concept.
 2. see every concept in its pure raw form without needing furthur analogies.
+
+---
+1. be able to finish any task with any given tool.
+2. use all the possible tools in the universe together to finish any task.

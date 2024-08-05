@@ -183,6 +183,8 @@ title: Quotes
 
 > Anybody can do it, question is who does?
 
+> Everybody knows what's the price, question is who is willing to pay?
+
 > Diff between 121 and 120 mins is nothing, diff between 1' and 0' is everything.
 
 > To become great, I should become good first.

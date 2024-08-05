@@ -1,7 +1,4 @@
----
-layout: page
-title: Begin Again
----
+Be someone who's always starting right now.
 
 > Starting is the most important and hardest step.
 

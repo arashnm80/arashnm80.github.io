@@ -1,0 +1,1 @@
+life is a mess. infinite things are always happening at the same time. we can't dominate all of it but we can try to get close as much as we can.
