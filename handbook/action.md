@@ -1,5 +1,7 @@
 **in the end, the only thing matters is my actions.**
 
+Doing any random action with any size toward any direction is way better than no action.
+
 > Talk is cheap, show me the code.
 
 > I'm gonna live my choices through real life actions.

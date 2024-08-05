@@ -21,6 +21,10 @@ I can define some constant routines to create this situation manually, e.g. :
 
 > Live a life I can be proud of.
 
+> think simple and word hard
+
+> Good is just what people call people who help them.
+
 ## I-dentity
 > My time is limited, I'm not gonna waste it living someone else’s life.
 

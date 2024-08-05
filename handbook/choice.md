@@ -25,6 +25,8 @@ World is an ocean of options and possibilites and to choose one of them means to
 
 > Everything comes at a price.
 
+> those who can't sacrifice anything, can't change anything and deserve nothing. If I can't let it go, it's not worth holding on to.
+
 ### Probabilities
 Every choice is gamble. but when its probability is a very high number we simply take it as an absolute 100
 
@@ -92,3 +94,6 @@ Risk is the natural product of uncertainty. It's the relationship between sizes 
 
 ### try
 > I'm not sure if it's possible or not but the only way to find out is to try with everything I've got.
+
+### pain and fear
+id, ego and super ego aside, we almost always know what is the best choice but we fail to choose it because it's almost always the scariest and most painful option.

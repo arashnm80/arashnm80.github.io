@@ -23,6 +23,8 @@ title: Quotes
 
 > The rest of my life starts right now.
 
+> lead people who lead people.
+
 > newton's third law, The only way of getting somewhere is to leave something behind.
 
 > My choice is not what I'm thinking, saying or writing but what I'm actually doing right now.
@@ -32,6 +34,8 @@ title: Quotes
 > To earn more than everybody, you should be willing to lose and sacrifice more than everybody.
 
 > Everything comes at a price.
+
+> those who can't sacrifice anything, can't change anything and deserve nothing. If I can't let it go, it's not worth holding on to.
 
 > The perfect decision making duration is 8 minutes and 34 seconds.
 
@@ -144,6 +148,10 @@ title: Quotes
 > I can do whatever the fu*k I can do.
 
 > Live a life I can be proud of.
+
+> think simple and word hard
+
+> Good is just what people call people who help them.
 
 > My time is limited, I'm not gonna waste it living someone else’s life.
 

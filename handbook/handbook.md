@@ -59,91 +59,91 @@ permalink: /handbook/
 ### 4
 <div class="items">
 <ol>
-    <li><a href="./dopamine">Dopamine</a></li>
-    <li><a href="./pomodoro">Pomodoro</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
-    <li><a href="./sleep">Sleep</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
-    <li><a href="./2-battlefields">2 Battlefields</a></li>
-    <li><a href="./begin-again">Begin Again</a></li>
-    <li><a href="./90-10">90-10</a></li>
-    <li><a href="./hidden-progress">Hidden Progress</a></li>
-    <li><a href="./freedom">Freedom</a></li>
-    <li><a href="./shame">Shame</a></li>
-    <li><a href="./carnet-mental">Carnet mental</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
-    <li><a href="./destination-path">Destination & Path</a></li>
-    <li><a href="./biggest-problem">Biggest Problem</a></li>
-    <li><a href="./art-of-racing-in-the-rain">Art of racing in the rain</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
-    <li><a href="./victim">Victim</a></li>
+    <li><a class="dynamic-link" href="./dopamine"></a></li>
+    <li><a class="dynamic-link" href="./pomodoro"></a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
+    <li><a class="dynamic-link" href="./2-battlefields"></a></li>
+    <li><a class="dynamic-link" href="./sleep"></a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
+    <li><a class="dynamic-link" href="./begin-again"></a></li>
+    <li><a class="dynamic-link" href="./90-10"></a></li>
+    <li><a class="dynamic-link" href="./hidden-progress"></a></li>
+    <li><a class="dynamic-link" href="./freedom"></a></li>
+    <li><a class="dynamic-link" href="./shame"></a></li>
+    <li><a class="dynamic-link" href="./carnet-mental"></a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
+    <li><a class="dynamic-link" href="./destination-path"></a></li>
+    <li><a class="dynamic-link" href="./passion"></a></li>
+    <li><a class="dynamic-link" href="./art-of-racing-in-the-rain"></a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
+    <li><a class="dynamic-link" href="./victim"></a></li>
     <li><a class="dynamic-link" href="./chain-reaction"></a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a class="dynamic-link" href="./arbitrage"></a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
-    <li><a href="./subconscious">Subconscious</a></li>
+    <li><a class="dynamic-link" href="./subconscious"></a></li>
 </ol>
 </div>
 
 ### 5
 <div class="items">
 <ol>
-    <li><a href="./people">People</a></li>
-    <li><a href="./dirac-delta-function">Dirac delta function</a></li>
-    <li><a href="./minimalism">Minimalism</a></li>
-    <li><a href="./idea-person">Idea person</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
-    <li><a href="./will">Will</a></li>
-    <li><a href="./hobby-as-a-service">Hobby as a Service</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
-    <li><a href="./near-zero-cost">Near Zero Cost</a></li>
-    <li><a href="./domino-effect">Domino Effect</a></li>
-    <li><a href="./narrow-way-through">Narrow way through</a></li>
-    <li><a href="./system-1-2">System 1 & 2</a></li>
-    <li><a href="./portrait-painting">Portrait Painting</a></li>
-    <li><a href="./renewable-energy">Renewable energy</a></li>
-    <li><a href="./naval">Naval</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
-    <li><a class="dynamic-link" href="./passion"></a></li>
-    <li><a href="./skin-in-the-game">Skin in the game</a></li>
-    <li><a href="./mrbeast">MrBeast</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
-    <li><a href="./cbt">CBT</a></li>
-    <li><a href="./creativity">Creativity</a></li>
-    <li><a href="./move-forward">Move Forward</a></li>
-    <li><a href="./economy">Economy</a></li>
-    <li><a href="./smart">Smart</a></li>
-    <li><a href="./teacher">Teacher</a></li>
-    <li><a href="./immerse">Immerse</a></li>
-    <li><a href="./omniscient">Omniscient</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
-    <li><a href="./mind-opiums">Mind Opiums</a></li>
-    <li><a href="./focus-shower">focus shower</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
-    <li><a href="./optimism-pessimism">Optimism & Pessimism</a></li>
-    <li><a href="./boredom">Boredom</a></li>
-    <li><a href="./potential">Potential</a></li>
-    <li><a href="./lose">lose</a></li>
-    <li><a href="./niksen">niksen</a></li>
-    <li><a href="./right-questions">right questions</a></li>
+    <li><a class="dynamic-link" href="./people"></a></li>
+    <li><a class="dynamic-link" href="./dirac-delta-function"></a></li>
+    <li><a class="dynamic-link" href="./minimalism"></a></li>
+    <li><a class="dynamic-link" href="./idea-person"></a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
+    <li><a class="dynamic-link" href="./will"></a></li>
+    <li><a class="dynamic-link" href="./hobby-as-a-service"></a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
+    <li><a class="dynamic-link" href="./near-zero-cost"></a></li>
+    <li><a class="dynamic-link" href="./domino-effect"></a></li>
+    <li><a class="dynamic-link" href="./narrow-way-through"></a></li>
+    <li><a class="dynamic-link" href="./system-1-2"></a></li>
+    <li><a class="dynamic-link" href="./portrait-painting"></a></li>
+    <li><a class="dynamic-link" href="./renewable-energy"></a></li>
+    <li><a class="dynamic-link" href="./naval"></a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
+    <li><a class="dynamic-link" href="./skin-in-the-game"></a></li>
+    <li><a class="dynamic-link" href="./mrbeast"></a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
+    <li><a class="dynamic-link" href="./cbt"></a></li>
+    <li><a class="dynamic-link" href="./creativity"></a></li>
+    <li><a class="dynamic-link" href="./move-forward"></a></li>
+    <li><a class="dynamic-link" href="./economy"></a></li>
+    <li><a class="dynamic-link" href="./smart"></a></li>
+    <li><a class="dynamic-link" href="./teacher"></a></li>
+    <li><a class="dynamic-link" href="./immerse"></a></li>
+    <li><a class="dynamic-link" href="./omniscient"></a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
+    <li><a class="dynamic-link" href="./mind-opiums"></a></li>
+    <li><a class="dynamic-link" href="./focus-shower"></a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
+    <li><a class="dynamic-link" href="./optimism-pessimism"></a></li>
+    <li><a class="dynamic-link" href="./boredom"></a></li>
+    <li><a class="dynamic-link" href="./potential"></a></li>
+    <li><a class="dynamic-link" href="./lose"></a></li>
+    <li><a class="dynamic-link" href="./niksen"></a></li>
+    <li><a class="dynamic-link" href="./right-questions"></a></li>
 </ol>
 </div>
 
 ### 6
 <div class="items">
 <ol>
-    <li><a href="./words">Words</a></li>
-    <li><a href="./brush-teeth">Brush Teeth</a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
-    <li><a href="./rest-reinforcement">Rest & Reinforcement</a></li>
-    <li><a href="./boom">Boom</a></li>
-    <li><a href="./patience">Patience</a></li>
-    <li><a href="./skill-tree">Skill Tree</a></li>
-    <li><a href="./shot">Shot</a></li>
-    <li><a href="./leader">Leader</a></li>
-    <li><a href="./leverage">Leverage</a></li>
-    <li><a href="./wild">Wild</a></li>
-    <li><a href="./improvise">Improvise</a></li>
-    <li><a href="./sale">Sale</a></li>
-    <li><a href="./pain">Pain</a></li>
-    <li><a href="./jensen-huang">Jensen Huang</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
-    <li><a href="./sam-altman">sam altman</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
+    <li><a class="dynamic-link" href="./words"></a></li>
+    <li><a class="dynamic-link" href="./brush-teeth"></a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
+    <li><a class="dynamic-link" href="./rest-reinforcement"></a></li>
+    <li><a class="dynamic-link" href="./boom"></a></li>
+    <li><a class="dynamic-link" href="./patience"></a></li>
+    <li><a class="dynamic-link" href="./skill-tree"></a></li>
+    <li><a class="dynamic-link" href="./shot"></a></li>
+    <li><a class="dynamic-link" href="./leader"></a></li>
+    <li><a class="dynamic-link" href="./leverage"></a></li>
+    <li><a class="dynamic-link" href="./wild"></a></li>
+    <li><a class="dynamic-link" href="./improvise"></a></li>
+    <li><a class="dynamic-link" href="./sale"></a></li>
+    <li><a class="dynamic-link" href="./pain"></a></li>
+    <li><a class="dynamic-link" href="./jensen-huang"></a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
+    <li><a class="dynamic-link" href="./sam-altman"></a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
     <li><a class="dynamic-link" href="./elon-musk"></a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
-    <li><a href="./eyes">Eyes</a></li>
-    <li><a href="./evolution">Evolution</a></li>
-    <li><a href="./hope">Hope</a></li>
-    <li><a href="./mental-model">Mental Model</a></li>
-    <li><a href="./switch-cost">switch cost</a></li>
+    <li><a class="dynamic-link" href="./eyes"></a></li>
+    <li><a class="dynamic-link" href="./evolution"></a></li>
+    <li><a class="dynamic-link" href="./hope"></a></li>
+    <li><a class="dynamic-link" href="./mental-model"></a></li>
+    <li><a class="dynamic-link" href="./switch-cost"></a></li>
     <li><a class="dynamic-link" href="./40-70"></a></li>
     <li><a class="dynamic-link" href="./win-win"></a></li>
     <li><a class="dynamic-link" href="./mess"></a></li>
+    <li><a class="dynamic-link" href="./length-and-width"></a></li>
     <li><a class="dynamic-link" href="./other"></a></li>
 </ol>
 </div>

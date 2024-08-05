@@ -67,3 +67,7 @@ At the same time:
 ---
 1. be able to finish any task with any given tool.
 2. use all the possible tools in the universe together to finish any task.
+
+---
+1. be able to sacrifice everything
+2. find better strategies to sacrifice less
