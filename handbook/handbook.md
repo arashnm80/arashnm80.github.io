@@ -51,8 +51,8 @@ permalink: /handbook/
     <li><a href="./multitask">Multitask</a></li>
     <li><a href="./persistency">Persistency</a> </li>
     <li><a href="./experience">Experience</a></li>
-    <li><a href="./fear-courage">Fear & Courage</a></li>
-    <li><a href="./reboot">Reboot</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
+    <li><a class="dynamic-link" href="./fear-courage"></a></li>
+    <li><a class="dynamic-link" href="./reboot"></a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
 </ol>
 </div>
 
@@ -73,7 +73,8 @@ permalink: /handbook/
     <li><a href="./biggest-problem">Biggest Problem</a></li>
     <li><a href="./art-of-racing-in-the-rain">Art of racing in the rain</a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
     <li><a href="./victim">Victim</a></li>
-    <li><a href="./chain-reaction">Chain Reaction</a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
+    <li><a class="dynamic-link" href="./chain-reaction"></a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
+    <li><a class="dynamic-link" href="./arbitrage"></a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a href="./subconscious">Subconscious</a></li>
 </ol>
 </div>
@@ -94,6 +95,7 @@ permalink: /handbook/
     <li><a href="./portrait-painting">Portrait Painting</a></li>
     <li><a href="./renewable-energy">Renewable energy</a></li>
     <li><a href="./naval">Naval</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
+    <li><a class="dynamic-link" href="./passion"></a></li>
     <li><a href="./skin-in-the-game">Skin in the game</a></li>
     <li><a href="./mrbeast">MrBeast</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
     <li><a href="./cbt">CBT</a></li>
@@ -130,10 +132,10 @@ permalink: /handbook/
     <li><a href="./wild">Wild</a></li>
     <li><a href="./improvise">Improvise</a></li>
     <li><a href="./sale">Sale</a></li>
-    <li><a href="./passion">Passion</a></li>
     <li><a href="./pain">Pain</a></li>
     <li><a href="./jensen-huang">Jensen Huang</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
     <li><a href="./sam-altman">sam altman</a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
+    <li><a class="dynamic-link" href="./elon-musk"></a> <button style="color:Gold" onclick="filterItems('legend')" class="btn tag legend">⬤ legend</button></li>
     <li><a href="./eyes">Eyes</a></li>
     <li><a href="./evolution">Evolution</a></li>
     <li><a href="./hope">Hope</a></li>

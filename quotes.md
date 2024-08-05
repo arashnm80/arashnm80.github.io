@@ -59,6 +59,8 @@ title: Quotes
 
 > With enough dopamine, all problems seem solvable.
 
+> plan to win or don't play at all.
+
 > Never make the same mistake twice.
 
 > Big people make big choices.
