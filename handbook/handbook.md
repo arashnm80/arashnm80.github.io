@@ -72,7 +72,7 @@ permalink: /handbook/
     <li><a class="dynamic-link" href="./stress"></a></li>
     <li><a class="dynamic-link" href="./carnet-mental"></a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
     <li><a class="dynamic-link" href="./destination-path"></a></li>
-    <li><a class="dynamic-link" href="./passion"></a></li>
+    <li><a class="dynamic-link" href="./passion"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
     <li><a class="dynamic-link" href="./art-of-racing-in-the-rain"></a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
     <li><a class="dynamic-link" href="./victim"></a></li>
     <li><a class="dynamic-link" href="./chain-reaction"></a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
