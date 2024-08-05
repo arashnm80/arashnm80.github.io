@@ -25,7 +25,7 @@ permalink: /handbook/
 ### 1
 <div class="items">
 <ol>
-    <li><a class="dynamic-link" href="./refuse-or-accept"></a> <button style="color:RebeccaPurple" onclick="filterItems('choice')" class="btn tag choice">⬤ choice</button></li>
+    <li><a class="dynamic-link" href="./refuse-or-accept"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
     <li><a class="dynamic-link" href="./-5to+5"></a> <button style="color:SteelBlue" onclick="filterItems('strategy')" class="btn tag strategy">⬤ strategy</button></li>
 </ol>
 </div>
@@ -68,8 +68,8 @@ permalink: /handbook/
     <li><a class="dynamic-link" href="./hidden-progress"></a></li>
     <li><a class="dynamic-link" href="./freedom"></a></li>
     <li><a class="dynamic-link" href="./shame"></a></li>
-    <li><a class="dynamic-link" href="./stress"></a></li>
     <li><a class="dynamic-link" href="./bubble"></a></li>
+    <li><a class="dynamic-link" href="./stress"></a></li>
     <li><a class="dynamic-link" href="./carnet-mental"></a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
     <li><a class="dynamic-link" href="./destination-path"></a></li>
     <li><a class="dynamic-link" href="./passion"></a></li>
