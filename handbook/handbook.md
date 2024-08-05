@@ -47,8 +47,6 @@ permalink: /handbook/
     <li><a class="dynamic-link" href="./fight"></a></li>
     <li><a class="dynamic-link" href="./quality-levels"></a></li>
     <li><a class="dynamic-link" href="./sort"></a></li>
-    <li><a class="dynamic-link" href="./all-at-once"></a></li>
-    <li><a class="dynamic-link" href="./multitask"></a></li>
     <li><a class="dynamic-link" href="./persistency"></a></li>
     <li><a class="dynamic-link" href="./experience"></a></li>
     <li><a class="dynamic-link" href="./fear-courage"></a></li>
@@ -59,6 +57,8 @@ permalink: /handbook/
 ### 4
 <div class="items">
 <ol>
+    <li><a class="dynamic-link" href="./multitask"></a></li>
+    <li><a class="dynamic-link" href="./all-at-once"></a></li>
     <li><a class="dynamic-link" href="./dopamine"></a></li>
     <li><a class="dynamic-link" href="./pomodoro"></a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a class="dynamic-link" href="./2-battlefields"></a></li>
