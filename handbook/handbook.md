@@ -15,6 +15,20 @@ permalink: /handbook/
 
 <!-- <button onclick="filterItems('all')" class="btn">Show All</button> -->
 
+<div id="all-items">
+  <ul>
+    <li><a class="dynamic-link" href="./c'est-ma-vie"></a></li>
+    <li><a class="dynamic-link" href="./refuse-or-accept"></a></li>
+    <li><a class="dynamic-link" href="./-5to+5"></a></li>
+    <li><a class="dynamic-link" href="./no-time-for-caution"></a></li>
+    <li><a class="dynamic-link" href="./choice"></a></li>
+  </ul>
+</div>
+
+<div id="organized-items"></div>
+
+---
+
 ### 0
 <div class="items">
 <ol>
@@ -198,5 +212,46 @@ permalink: /handbook/
         const href = link.getAttribute('href').replace('./', '');
         link.textContent = href;
     });
+
+
+    document.addEventListener('DOMContentLoaded', function () {
+    // Get all the list items
+    const allItems = document.querySelectorAll('#all-items ul li');
+    const organizedItemsContainer = document.getElementById('organized-items');
+    
+    // Initialize the starting variables
+    let section = 0;
+    let itemIndex = 0;
+
+    // Loop through the list items and categorize them by sections
+    while (itemIndex < allItems.length) {
+        // Calculate the number of items for the current section (2^section)
+        const itemsInSection = Math.pow(2, section);
+        
+        // Create a new section heading and div
+        const sectionTitle = document.createElement('h3');
+        sectionTitle.textContent = section;
+        
+        const sectionDiv = document.createElement('div');
+        sectionDiv.classList.add('items');
+        
+        const sectionList = document.createElement('ol');
+        
+        // Add the items to the current section
+        for (let i = 0; i < itemsInSection && itemIndex < allItems.length; i++) {
+            sectionList.appendChild(allItems[itemIndex]);
+            itemIndex++;
+        }
+        
+        // Append the section to the organized-items container
+        sectionDiv.appendChild(sectionList);
+        organizedItemsContainer.appendChild(sectionTitle);
+        organizedItemsContainer.appendChild(sectionDiv);
+        
+        // Move to the next section
+        section++;
+    }
+});
+
 
 </script>
