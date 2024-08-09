@@ -207,4 +207,4 @@ document.addEventListener('DOMContentLoaded', function () {
 </style>
 
 
-<button onclick="filterItems('all')" class="btn">Show All</button>
+<!-- <button onclick="filterItems('all')" class="btn">Show All</button> -->
