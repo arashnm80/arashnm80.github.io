@@ -222,6 +222,7 @@ document.addEventListener("DOMContentLoaded", function() {
         var tag = item.getAttribute("data-tag");
         var anchor = document.createElement("a");
         anchor.href = href;
+        anchor.href.textContent = item.getAttribute("data-href").replace('./', '');
         item.appendChild(anchor);
         
         if (tag) {
