@@ -127,6 +127,21 @@ permalink: /handbook/
 
 
 <script>
+    function stringToColor(str) {
+        // Hash function to generate a consistent number from a string
+        let hash = 0;
+        for (let i = 0; i < str.length; i++) {
+            hash = str.charCodeAt(i) + ((hash << 5) - hash);
+        }
+
+        // Convert hash to an RGB color
+        const color = (hash & 0x00FFFFFF)
+            .toString(16)
+            .toUpperCase()
+            .padStart(6, '0');
+        return `#${color}`;
+    }
+
     // filtering based on tag
     var isFiltered = false;
     function filterItems(tag) {
@@ -235,6 +250,7 @@ document.addEventListener("DOMContentLoaded", function() {
             button.classList.add("btn", "tag", tag);
             button.style.color = tag === "strategy" ? "SteelBlue" : tag === "superpower" ? "MediumPurple" : "Chocolate";
             button.style.color = "blue"; // test
+            button.style.color = stringToColor(tag); // test
             button.textContent = "⬤ " + tag;
             button.onclick = function() { filterItems(tag); };
             item.appendChild(button);
