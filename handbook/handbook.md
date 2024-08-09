@@ -25,7 +25,100 @@ permalink: /handbook/
 
 <div id="all-items">
   <ul>
-    <li><a href="./c'est-ma-vie"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
+    <li data-href="./c'est-ma-vie" data-tag="principle"></li>
+    <li data-href="./refuse-or-accept" data-tag="principle"></li>
+    <li data-href="./-5to+5" data-tag="strategy"></li>
+    <li data-href="./no-time-for-caution" data-tag="principle"></li>
+    <li data-href="./choice" data-tag="principle"></li>
+    <li data-href="./life-factor" data-tag="principle"></li>
+    <li data-href="./plan-a-b" data-tag="principle"></li>
+    <li data-href="./action" data-tag="principle"></li>
+    <li data-href="./fight" data-tag=""></li>
+    <li data-href="./quality-levels" data-tag=""></li>
+    <li data-href="./sort" data-tag=""></li>
+    <li data-href="./persistency" data-tag=""></li>
+    <li data-href="./experience" data-tag=""></li>
+    <li data-href="./fear-courage" data-tag=""></li>
+    <li data-href="./reboot" data-tag="superpower"></li>
+    <li data-href="./multitask" data-tag=""></li>
+    <li data-href="./all-at-once" data-tag=""></li>
+    <li data-href="./dopamine" data-tag=""></li>
+    <li data-href="./pomodoro" data-tag="habit"></li>
+    <li data-href="./2-battlefields" data-tag=""></li>
+    <li data-href="./sleep" data-tag="habit"></li>
+    <li data-href="./begin-again" data-tag=""></li>
+    <li data-href="./90-10" data-tag=""></li>
+    <li data-href="./hidden-progress" data-tag=""></li>
+    <li data-href="./freedom" data-tag=""></li>
+    <li data-href="./shame" data-tag=""></li>
+    <li data-href="./bubble" data-tag=""></li>
+    <li data-href="./stress" data-tag=""></li>
+    <li data-href="./carnet-mental" data-tag="superpower"></li>
+    <li data-href="./destination-path" data-tag=""></li>
+    <li data-href="./passion" data-tag="principle"></li>
+    <li data-href="./art-of-racing-in-the-rain" data-tag="superpower"></li>
+    <li data-href="./victim" data-tag=""></li>
+    <li data-href="./chain-reaction" data-tag="game-changer"></li>
+    <li data-href="./arbitrage" data-tag="game-changer"></li>
+    <li data-href="./subconscious" data-tag=""></li>
+    <li data-href="./people" data-tag=""></li>
+    <li data-href="./dirac-delta-function" data-tag=""></li>
+    <li data-href="./minimalism" data-tag=""></li>
+    <li data-href="./idea-person" data-tag="game-changer"></li>
+    <li data-href="./will" data-tag=""></li>
+    <li data-href="./hobby-as-a-service" data-tag="game-changer"></li>
+    <li data-href="./near-zero-cost" data-tag=""></li>
+    <li data-href="./domino-effect" data-tag=""></li>
+    <li data-href="./narrow-way-through" data-tag=""></li>
+    <li data-href="./system-1-2" data-tag=""></li>
+    <li data-href="./portrait-painting" data-tag=""></li>
+    <li data-href="./renewable-energy" data-tag=""></li>
+    <li data-href="./naval" data-tag="legend"></li>
+    <li data-href="./skin-in-the-game" data-tag=""></li>
+    <li data-href="./mrbeast" data-tag="legend"></li>
+    <li data-href="./cbt" data-tag=""></li>
+    <li data-href="./creativity" data-tag=""></li>
+    <li data-href="./move-forward" data-tag=""></li>
+    <li data-href="./economy" data-tag=""></li>
+    <li data-href="./smart" data-tag=""></li>
+    <li data-href="./teacher" data-tag=""></li>
+    <li data-href="./immerse" data-tag=""></li>
+    <li data-href="./omniscient" data-tag="superpower"></li>
+    <li data-href="./mind-opiums" data-tag=""></li>
+    <li data-href="./focus-shower" data-tag="habit"></li>
+    <li data-href="./optimism-pessimism" data-tag=""></li>
+    <li data-href="./boredom" data-tag=""></li>
+    <li data-href="./potential" data-tag=""></li>
+    <li data-href="./lose" data-tag=""></li>
+    <li data-href="./niksen" data-tag=""></li>
+    <li data-href="./right-questions" data-tag=""></li>
+    <li data-href="./words" data-tag=""></li>
+    <li data-href="./brush-teeth" data-tag="habit"></li>
+    <li data-href="./rest-reinforcement" data-tag=""></li>
+    <li data-href="./boom" data-tag=""></li>
+    <li data-href="./patience" data-tag=""></li>
+    <li data-href="./skill-tree" data-tag=""></li>
+    <li data-href="./shot" data-tag=""></li>
+    <li data-href="./leader" data-tag=""></li>
+    <li data-href="./leverage" data-tag=""></li>
+    <li data-href="./wild" data-tag=""></li>
+    <li data-href="./improvise" data-tag=""></li>
+    <li data-href="./sale" data-tag=""></li>
+    <li data-href="./pain" data-tag=""></li>
+    <li data-href="./jensen-huang" data-tag="legend"></li>
+    <li data-href="./sam-altman" data-tag="legend"></li>
+    <li data-href="./elon-musk" data-tag="legend"></li>
+    <li data-href="./eyes" data-tag=""></li>
+    <li data-href="./evolution" data-tag=""></li>
+    <li data-href="./hope" data-tag=""></li>
+    <li data-href="./mental-model" data-tag=""></li>
+    <li data-href="./switch-cost" data-tag=""></li>
+    <li data-href="./40-70" data-tag=""></li>
+    <li data-href="./win-win" data-tag=""></li>
+    <li data-href="./mess" data-tag=""></li>
+    <li data-href="./length-and-width" data-tag=""></li>
+    <li data-href="./other" data-tag=""></li>
+    <!-- <li><a href="./c'est-ma-vie"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
     <li><a href="./refuse-or-accept"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
     <li><a href="./-5to+5"></a> <button style="color:SteelBlue" onclick="filterItems('strategy')" class="btn tag strategy">⬤ strategy</button></li>
     <li><a href="./no-time-for-caution"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
@@ -117,7 +210,7 @@ permalink: /handbook/
     <li><a href="./win-win"></a></li>
     <li><a href="./mess"></a></li>
     <li><a href="./length-and-width"></a></li>
-    <li><a href="./other"></a></li>
+    <li><a href="./other"></a></li> -->
   </ul>
 </div>
 
@@ -127,6 +220,8 @@ permalink: /handbook/
 
 
 <script>
+    
+    // generate color hash for string
     function stringToColor(str) {
         // Hash function to generate a consistent number from a string
         let hash = 0;
@@ -248,9 +343,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (tag) {
             var button = document.createElement("button");
             button.classList.add("btn", "tag", tag);
-            button.style.color = tag === "strategy" ? "SteelBlue" : tag === "superpower" ? "MediumPurple" : "Chocolate";
-            button.style.color = "blue"; // test
-            button.style.color = stringToColor(tag); // test
+            button.style.color = stringToColor(tag);
             button.textContent = "⬤ " + tag;
             button.onclick = function() { filterItems(tag); };
             item.appendChild(button);
