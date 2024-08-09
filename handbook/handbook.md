@@ -219,10 +219,10 @@ document.addEventListener("DOMContentLoaded", function() {
     
     items.forEach(function(item) {
         var href = item.getAttribute("data-href");
+        href.textContent = item.getAttribute("data-href").replace('./', '');
         var tag = item.getAttribute("data-tag");
         var anchor = document.createElement("a");
         anchor.href = href;
-        anchor.href.textContent = item.getAttribute("data-href").replace('./', '');
         item.appendChild(anchor);
         
         if (tag) {
