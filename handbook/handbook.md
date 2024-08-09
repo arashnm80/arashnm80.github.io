@@ -17,11 +17,27 @@ permalink: /handbook/
 
 <div id="all-items">
   <ul>
-    <li><a class="dynamic-link" href="./c'est-ma-vie"></a></li>
-    <li><a class="dynamic-link" href="./refuse-or-accept"></a></li>
-    <li><a class="dynamic-link" href="./-5to+5"></a></li>
-    <li><a class="dynamic-link" href="./no-time-for-caution"></a></li>
-    <li><a class="dynamic-link" href="./choice"></a></li>
+    <li><a class="dynamic-link" href="./multitask"></a></li>
+    <li><a class="dynamic-link" href="./all-at-once"></a></li>
+    <li><a class="dynamic-link" href="./dopamine"></a></li>
+    <li><a class="dynamic-link" href="./pomodoro"></a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
+    <li><a class="dynamic-link" href="./2-battlefields"></a></li>
+    <li><a class="dynamic-link" href="./sleep"></a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
+    <li><a class="dynamic-link" href="./begin-again"></a></li>
+    <li><a class="dynamic-link" href="./90-10"></a></li>
+    <li><a class="dynamic-link" href="./hidden-progress"></a></li>
+    <li><a class="dynamic-link" href="./freedom"></a></li>
+    <li><a class="dynamic-link" href="./shame"></a></li>
+    <li><a class="dynamic-link" href="./bubble"></a></li>
+    <li><a class="dynamic-link" href="./stress"></a></li>
+    <li><a class="dynamic-link" href="./carnet-mental"></a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
+    <li><a class="dynamic-link" href="./destination-path"></a></li>
+    <li><a class="dynamic-link" href="./passion"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
+    <li><a class="dynamic-link" href="./art-of-racing-in-the-rain"></a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
+    <li><a class="dynamic-link" href="./victim"></a></li>
+    <li><a class="dynamic-link" href="./chain-reaction"></a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
+    <li><a class="dynamic-link" href="./arbitrage"></a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
+    <li><a class="dynamic-link" href="./subconscious"></a></li>
   </ul>
 </div>
 
@@ -214,6 +230,7 @@ permalink: /handbook/
     });
 
 
+    // categorize in power of 2 notion
     document.addEventListener('DOMContentLoaded', function () {
     // Get all the list items
     const allItems = document.querySelectorAll('#all-items ul li');
