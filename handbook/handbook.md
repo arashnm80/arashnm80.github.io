@@ -12,8 +12,8 @@ permalink: /handbook/
 <li data-href="./life-factor" data-tag="principle"></li>
 <li data-href="./plan-a-b" data-tag="principle"></li>
 <li data-href="./action" data-tag="principle"></li>
-<li data-href="./fight"></li>
-<li data-href="./quality-levels"></li>
+<li data-href="./fight" data-tag=""></li>
+<li data-href="./quality-levels" data-tag="test"></li>
 <li data-href="./sort"></li>
 <li data-href="./persistency"></li>
 <li data-href="./experience"></li>
@@ -234,6 +234,7 @@ document.addEventListener("DOMContentLoaded", function() {
             var button = document.createElement("button");
             button.classList.add("btn", "tag", tag);
             button.style.color = tag === "strategy" ? "SteelBlue" : tag === "superpower" ? "MediumPurple" : "Chocolate";
+            button.style.color = "blue"; // test
             button.textContent = "⬤ " + tag;
             button.onclick = function() { filterItems(tag); };
             item.appendChild(button);
