@@ -4,25 +4,6 @@ title: Handbook
 permalink: /handbook/
 ---
 
-<li data-href="./c'est-ma-vie" data-tag="principle"></li>
-<li data-href="./refuse-or-accept" data-tag="principle"></li>
-<li data-href="./-5to+5" data-tag="strategy"></li>
-<li data-href="./no-time-for-caution" data-tag="principle"></li>
-<li data-href="./choice" data-tag="principle"></li>
-<li data-href="./life-factor" data-tag="principle"></li>
-<li data-href="./plan-a-b" data-tag="principle"></li>
-<li data-href="./action" data-tag="principle"></li>
-<li data-href="./fight" data-tag=""></li>
-<li data-href="./quality-levels" data-tag="test"></li>
-<li data-href="./sort"></li>
-<li data-href="./persistency"></li>
-<li data-href="./experience"></li>
-<li data-href="./fear-courage"></li>
-<li data-href="./reboot" data-tag="superpower"></li>
-<li data-href="./multitask"></li>
-
----
-
 <div id="all-items">
   <ul>
     <li data-href="./c'est-ma-vie" data-tag="principle"></li>
@@ -275,83 +256,83 @@ permalink: /handbook/
         isFiltered = !isFiltered;
     }
 
-// two main josb:
-// 1. convert my simplified html to regular one with href and colored buttons
-// 2. categorize in power of 2 notion
-document.addEventListener('DOMContentLoaded', function () {
+    // two main josb:
+    // 1. convert my simplified html to regular one with href and colored buttons
+    // 2. categorize in power of 2 notion
+    document.addEventListener('DOMContentLoaded', function () {
 
-    // job 1
-        var items = document.querySelectorAll("li[data-href]");
-        
-        items.forEach(function(item) {
-            var href = item.getAttribute("data-href");
-            var tag = item.getAttribute("data-tag");
+        // job 1
+            var items = document.querySelectorAll("li[data-href]");
             
-            // Create anchor element and set href
-            var anchor = document.createElement("a");
-            anchor.href = href;
-            
-            // Set text content to href without the "./"
-            anchor.textContent = href.replace('./', '');
-            item.appendChild(anchor);
-            
-            // If there's a tag, create the button element
-            if (tag) {
-                var button = document.createElement("button");
-                button.classList.add("btn", "tag", tag);
-                button.style.color = stringToColor(tag);
-                button.textContent = "⬤ " + tag;
-                button.onclick = function() { filterItems(tag); };
-                item.appendChild(button);
-            }
-        });
-
-
-    // job 2
-        // Get all the list items
-        const allItems = document.querySelectorAll('#all-items ul li');
-        const organizedItemsContainer = document.getElementById('organized-items');
-
-        // Initialize the starting variables
-        let section = 0;
-        let itemIndex = 0;
-
-        // Loop through the list items and categorize them by sections
-        while (itemIndex < allItems.length) {
-            // Calculate the number of items for the current section (2^section)
-            const itemsInSection = Math.pow(2, section);
-            
-            // Create a new section heading and div
-            const sectionTitle = document.createElement('h3');
-            sectionTitle.textContent = section;
-            
-            const sectionDiv = document.createElement('div');
-            sectionDiv.classList.add('items');
-            
-            const sectionList = document.createElement('ol');
-            
-            // Add the items to the current section
-            for (let i = 0; i < itemsInSection && itemIndex < allItems.length; i++) {
-                // const listItem = allItems[itemIndex];
-                // const link = listItem.querySelector('a');
+            items.forEach(function(item) {
+                var href = item.getAttribute("data-href");
+                var tag = item.getAttribute("data-tag");
                 
-                // // Update the link text content based on the href attribute
-                // const href = link.getAttribute('href').replace('./', '');
-                // link.textContent = href;
+                // Create anchor element and set href
+                var anchor = document.createElement("a");
+                anchor.href = href;
                 
-                sectionList.appendChild(listItem);
-                itemIndex++;
+                // Set text content to href without the "./"
+                anchor.textContent = href.replace('./', '');
+                item.appendChild(anchor);
+                
+                // If there's a tag, create the button element
+                if (tag) {
+                    var button = document.createElement("button");
+                    button.classList.add("btn", "tag", tag);
+                    button.style.color = stringToColor(tag);
+                    button.textContent = "⬤ " + tag;
+                    button.onclick = function() { filterItems(tag); };
+                    item.appendChild(button);
+                }
+            });
+
+
+        // job 2
+            // Get all the list items
+            const allItems = document.querySelectorAll('#all-items ul li');
+            const organizedItemsContainer = document.getElementById('organized-items');
+
+            // Initialize the starting variables
+            let section = 0;
+            let itemIndex = 0;
+
+            // Loop through the list items and categorize them by sections
+            while (itemIndex < allItems.length) {
+                // Calculate the number of items for the current section (2^section)
+                const itemsInSection = Math.pow(2, section);
+                
+                // Create a new section heading and div
+                const sectionTitle = document.createElement('h3');
+                sectionTitle.textContent = section;
+                
+                const sectionDiv = document.createElement('div');
+                sectionDiv.classList.add('items');
+                
+                const sectionList = document.createElement('ol');
+                
+                // Add the items to the current section
+                for (let i = 0; i < itemsInSection && itemIndex < allItems.length; i++) {
+                    // const listItem = allItems[itemIndex];
+                    // const link = listItem.querySelector('a');
+                    
+                    // // Update the link text content based on the href attribute
+                    // const href = link.getAttribute('href').replace('./', '');
+                    // link.textContent = href;
+                    
+                    sectionList.appendChild(listItem);
+                    itemIndex++;
+                }
+                
+                // Append the section to the organized-items container
+                sectionDiv.appendChild(sectionList);
+                organizedItemsContainer.appendChild(sectionTitle);
+                organizedItemsContainer.appendChild(sectionDiv);
+                
+                // Move to the next section
+                section++;
             }
-            
-            // Append the section to the organized-items container
-            sectionDiv.appendChild(sectionList);
-            organizedItemsContainer.appendChild(sectionTitle);
-            organizedItemsContainer.appendChild(sectionDiv);
-            
-            // Move to the next section
-            section++;
-        }
-});
+    });
 
 
 // document.addEventListener("DOMContentLoaded", function() {
