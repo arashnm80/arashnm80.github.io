@@ -4,6 +4,25 @@ title: Handbook
 permalink: /handbook/
 ---
 
+<li data-href="./c'est-ma-vie" data-tag="principle"></li>
+<li data-href="./refuse-or-accept" data-tag="principle"></li>
+<li data-href="./-5to+5" data-tag="strategy"></li>
+<li data-href="./no-time-for-caution" data-tag="principle"></li>
+<li data-href="./choice" data-tag="principle"></li>
+<li data-href="./life-factor" data-tag="principle"></li>
+<li data-href="./plan-a-b" data-tag="principle"></li>
+<li data-href="./action" data-tag="principle"></li>
+<li data-href="./fight"></li>
+<li data-href="./quality-levels"></li>
+<li data-href="./sort"></li>
+<li data-href="./persistency"></li>
+<li data-href="./experience"></li>
+<li data-href="./fear-courage"></li>
+<li data-href="./reboot" data-tag="superpower"></li>
+<li data-href="./multitask"></li>
+
+---
+
 <div id="all-items">
   <ul>
     <li><a href="./c'est-ma-vie"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
@@ -192,6 +211,28 @@ document.addEventListener('DOMContentLoaded', function () {
         // Move to the next section
         section++;
     }
+});
+
+
+document.addEventListener("DOMContentLoaded", function() {
+    var items = document.querySelectorAll("li[data-href]");
+    
+    items.forEach(function(item) {
+        var href = item.getAttribute("data-href");
+        var tag = item.getAttribute("data-tag");
+        var anchor = document.createElement("a");
+        anchor.href = href;
+        item.appendChild(anchor);
+        
+        if (tag) {
+            var button = document.createElement("button");
+            button.classList.add("btn", "tag", tag);
+            button.style.color = tag === "strategy" ? "SteelBlue" : tag === "superpower" ? "MediumPurple" : "Chocolate";
+            button.textContent = "⬤ " + tag;
+            button.onclick = function() { filterItems(tag); };
+            item.appendChild(button);
+        }
+    });
 });
 
 
