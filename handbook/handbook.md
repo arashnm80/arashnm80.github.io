@@ -269,8 +269,8 @@ document.addEventListener("DOMContentLoaded", function() {
         var anchor = document.createElement("a");
         anchor.href = href;
         
-        // Set text content to href without the "./"
-        anchor.textContent = href.replace('./', '');
+        // Set text content to href without the "./" + one extra space in the end for readability
+        anchor.textContent = href.replace('./', '') + " ";
         item.appendChild(anchor);
         
         // If there's a tag, create the button element
