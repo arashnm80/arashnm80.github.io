@@ -219,12 +219,17 @@ document.addEventListener("DOMContentLoaded", function() {
     
     items.forEach(function(item) {
         var href = item.getAttribute("data-href");
-        href.textContent = item.getAttribute("data-href").replace('./', '');
         var tag = item.getAttribute("data-tag");
+        
+        // Create anchor element and set href
         var anchor = document.createElement("a");
         anchor.href = href;
+        
+        // Set text content to href without the "./"
+        anchor.textContent = href.replace('./', '');
         item.appendChild(anchor);
         
+        // If there's a tag, create the button element
         if (tag) {
             var button = document.createElement("button");
             button.classList.add("btn", "tag", tag);
@@ -235,6 +240,7 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     });
 });
+
 
 </script>
 
