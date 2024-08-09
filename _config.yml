@@ -78,4 +78,4 @@ defaults:
 include:
   - _redirects
 exclude:
-  - old_files
+  - _archive

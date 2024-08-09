@@ -1,18 +1,31 @@
----
-layout: page
-title: Handbook
-permalink: /handbook/
----
-
-<div id="all-items">
-  <ul>
+### 0
+<div class="items">
+<ol>
     <li><a class="dynamic-link" href="./c'est-ma-vie"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
+</ol>
+</div>
+
+### 1
+<div class="items">
+<ol>
     <li><a class="dynamic-link" href="./refuse-or-accept"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
     <li><a class="dynamic-link" href="./-5to+5"></a> <button style="color:SteelBlue" onclick="filterItems('strategy')" class="btn tag strategy">⬤ strategy</button></li>
+</ol>
+</div>
+
+### 2
+<div class="items">
+<ol>
     <li><a class="dynamic-link" href="./no-time-for-caution"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
     <li><a class="dynamic-link" href="./choice"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
     <li><a class="dynamic-link" href="./life-factor"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
     <li><a class="dynamic-link" href="./plan-a-b"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
+</ol>
+</div>
+
+### 3
+<div class="items">
+<ol>
     <li><a class="dynamic-link" href="./action"></a> <button style="color:Chocolate" onclick="filterItems('principle')" class="btn tag principle">⬤ principle</button></li>
     <li><a class="dynamic-link" href="./fight"></a></li>
     <li><a class="dynamic-link" href="./quality-levels"></a></li>
@@ -21,6 +34,12 @@ permalink: /handbook/
     <li><a class="dynamic-link" href="./experience"></a></li>
     <li><a class="dynamic-link" href="./fear-courage"></a></li>
     <li><a class="dynamic-link" href="./reboot"></a> <button style="color:MediumPurple" onclick="filterItems('superpower')" class="btn tag superpower">⬤ superpower</button></li>
+</ol>
+</div>
+
+### 4
+<div class="items">
+<ol>
     <li><a class="dynamic-link" href="./multitask"></a></li>
     <li><a class="dynamic-link" href="./all-at-once"></a></li>
     <li><a class="dynamic-link" href="./dopamine"></a></li>
@@ -42,6 +61,12 @@ permalink: /handbook/
     <li><a class="dynamic-link" href="./chain-reaction"></a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a class="dynamic-link" href="./arbitrage"></a> <button style="color:Crimson" onclick="filterItems('game-changer')" class="btn tag game-changer">⬤ game-changer</button></li>
     <li><a class="dynamic-link" href="./subconscious"></a></li>
+</ol>
+</div>
+
+### 5
+<div class="items">
+<ol>
     <li><a class="dynamic-link" href="./people"></a></li>
     <li><a class="dynamic-link" href="./dirac-delta-function"></a></li>
     <li><a class="dynamic-link" href="./minimalism"></a></li>
@@ -73,6 +98,12 @@ permalink: /handbook/
     <li><a class="dynamic-link" href="./lose"></a></li>
     <li><a class="dynamic-link" href="./niksen"></a></li>
     <li><a class="dynamic-link" href="./right-questions"></a></li>
+</ol>
+</div>
+
+### 6
+<div class="items">
+<ol>
     <li><a class="dynamic-link" href="./words"></a></li>
     <li><a class="dynamic-link" href="./brush-teeth"></a> <button style="color:Orange" onclick="filterItems('habit')" class="btn tag habit">⬤ habit</button></li>
     <li><a class="dynamic-link" href="./rest-reinforcement"></a></li>
@@ -99,110 +130,5 @@ permalink: /handbook/
     <li><a class="dynamic-link" href="./mess"></a></li>
     <li><a class="dynamic-link" href="./length-and-width"></a></li>
     <li><a class="dynamic-link" href="./other"></a></li>
-  </ul>
+</ol>
 </div>
-
-<div id="organized-items"></div>
-
-
-
-
-<script>
-    // filtering based on tag
-    var isFiltered = false;
-    function filterItems(tag) {
-        var containers = document.getElementsByClassName('items');
-        for (var j = 0; j < containers.length; j++) {
-            var items = containers[j].getElementsByTagName('li');
-            for (var i = 0; i < items.length; i++) {
-                var item = items[i];
-                var button = item.querySelector('button');
-                
-                if(isFiltered){ // it's already filtered so reset back and show all
-                    item.style.display = 'list-item';
-                        if (button) {
-                            button.style.border = '1px solid #ccc';
-                            // button.style.backgroundColor = 'transparent'; // Change button background color
-                        }
-                } else {
-                    // Check if there's no button or the button matches the tag
-                    if (tag === 'all') {
-                        item.style.display = 'list-item'; // Show the item
-                    } else if (!button && tag !== 'all'){
-                        item.style.display = 'none'; // Hide the item
-                    } else if(button.classList.contains(tag)) {
-                        item.style.display = 'list-item'; // Show the item
-                        if (button) {
-                            button.style.border = '1px solid #000';
-                            // button.style.backgroundColor = 'LightCyan'; // Change button background color
-                        }
-                    } else {
-                        item.style.display = 'none'; // Hide the item
-                    }
-                }
-            }
-        }
-        
-        isFiltered = !isFiltered;
-    }
-
-    // JavaScript to dynamically set the text content based on href attribute
-    document.querySelectorAll('.dynamic-link').forEach(link => {
-        const href = link.getAttribute('href').replace('./', '');
-        link.textContent = href;
-    });
-
-
-    // categorize in power of 2 notion
-    document.addEventListener('DOMContentLoaded', function () {
-    // Get all the list items
-    const allItems = document.querySelectorAll('#all-items ul li');
-    const organizedItemsContainer = document.getElementById('organized-items');
-    
-    // Initialize the starting variables
-    let section = 0;
-    let itemIndex = 0;
-
-    // Loop through the list items and categorize them by sections
-    while (itemIndex < allItems.length) {
-        // Calculate the number of items for the current section (2^section)
-        const itemsInSection = Math.pow(2, section);
-        
-        // Create a new section heading and div
-        const sectionTitle = document.createElement('h3');
-        sectionTitle.textContent = section;
-        
-        const sectionDiv = document.createElement('div');
-        sectionDiv.classList.add('items');
-        
-        const sectionList = document.createElement('ol');
-        
-        // Add the items to the current section
-        for (let i = 0; i < itemsInSection && itemIndex < allItems.length; i++) {
-            sectionList.appendChild(allItems[itemIndex]);
-            itemIndex++;
-        }
-        
-        // Append the section to the organized-items container
-        sectionDiv.appendChild(sectionList);
-        organizedItemsContainer.appendChild(sectionTitle);
-        organizedItemsContainer.appendChild(sectionDiv);
-        
-        // Move to the next section
-        section++;
-    }
-});
-
-
-</script>
-
-<style>
-    .btn {
-        border-radius: 10px;
-        border: 1px solid #ccc;
-        background-color: transparent;
-        cursor: pointer;
-    }
-</style>
-
-<!-- <button onclick="filterItems('all')" class="btn">Show All</button> -->
