@@ -342,12 +342,12 @@ document.addEventListener("DOMContentLoaded", function() {
                 
                 // Add the items to the current section
                 for (let i = 0; i < itemsInSection && itemIndex < allItems.length; i++) {
-                    // const listItem = allItems[itemIndex];
-                    // const link = listItem.querySelector('a');
+                    const listItem = allItems[itemIndex];
+                    const link = listItem.querySelector('a');
                     
-                    // // Update the link text content based on the href attribute
-                    // const href = link.getAttribute('href').replace('./', '');
-                    // link.textContent = href;
+                    // Update the link text content based on the href attribute
+                    const href = link.getAttribute('href').replace('./', '');
+                    link.textContent = href;
                     
                     sectionList.appendChild(listItem);
                     itemIndex++;
