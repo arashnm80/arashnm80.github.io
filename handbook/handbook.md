@@ -278,6 +278,35 @@ permalink: /handbook/
 
 // categorize in power of 2 notion + set text of hyperlinks
 document.addEventListener('DOMContentLoaded', function () {
+
+
+    var items = document.querySelectorAll("li[data-href]");
+    
+    items.forEach(function(item) {
+        var href = item.getAttribute("data-href");
+        var tag = item.getAttribute("data-tag");
+        
+        // Create anchor element and set href
+        var anchor = document.createElement("a");
+        anchor.href = href;
+        
+        // Set text content to href without the "./"
+        anchor.textContent = href.replace('./', '');
+        item.appendChild(anchor);
+        
+        // If there's a tag, create the button element
+        if (tag) {
+            var button = document.createElement("button");
+            button.classList.add("btn", "tag", tag);
+            button.style.color = stringToColor(tag);
+            button.textContent = "⬤ " + tag;
+            button.onclick = function() { filterItems(tag); };
+            item.appendChild(button);
+        }
+    });
+
+
+
     // Get all the list items
     const allItems = document.querySelectorAll('#all-items ul li');
     const organizedItemsContainer = document.getElementById('organized-items');
@@ -324,32 +353,32 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 
-document.addEventListener("DOMContentLoaded", function() {
-    var items = document.querySelectorAll("li[data-href]");
+// document.addEventListener("DOMContentLoaded", function() {
+//     var items = document.querySelectorAll("li[data-href]");
     
-    items.forEach(function(item) {
-        var href = item.getAttribute("data-href");
-        var tag = item.getAttribute("data-tag");
+//     items.forEach(function(item) {
+//         var href = item.getAttribute("data-href");
+//         var tag = item.getAttribute("data-tag");
         
-        // Create anchor element and set href
-        var anchor = document.createElement("a");
-        anchor.href = href;
+//         // Create anchor element and set href
+//         var anchor = document.createElement("a");
+//         anchor.href = href;
         
-        // Set text content to href without the "./"
-        anchor.textContent = href.replace('./', '');
-        item.appendChild(anchor);
+//         // Set text content to href without the "./"
+//         anchor.textContent = href.replace('./', '');
+//         item.appendChild(anchor);
         
-        // If there's a tag, create the button element
-        if (tag) {
-            var button = document.createElement("button");
-            button.classList.add("btn", "tag", tag);
-            button.style.color = stringToColor(tag);
-            button.textContent = "⬤ " + tag;
-            button.onclick = function() { filterItems(tag); };
-            item.appendChild(button);
-        }
-    });
-});
+//         // If there's a tag, create the button element
+//         if (tag) {
+//             var button = document.createElement("button");
+//             button.classList.add("btn", "tag", tag);
+//             button.style.color = stringToColor(tag);
+//             button.textContent = "⬤ " + tag;
+//             button.onclick = function() { filterItems(tag); };
+//             item.appendChild(button);
+//         }
+//     });
+// });
 
 
 </script>
