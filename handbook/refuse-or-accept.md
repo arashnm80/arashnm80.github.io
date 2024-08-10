@@ -6,7 +6,6 @@ or
 
 these are the most absolute 2 valid options that i can see in front of me. no matter i think and feel 99-1 or 50-50, I have to choose and act 100-0. and of course there are some other options too but their outcome are all below those 2.
 
-
 ### Life Factor
 **LF is lifetime Integral of (Pleasure - Pain) and maximizing it is the ultimate goal of life.**
 
@@ -20,6 +19,9 @@ If it's in the negative side and monotonic decreasing then maximizing LF means t
 If it's in the positive side and monotonic increasing then maximizing LF means to live as much as more years as possible.
 
 But deciding is not never this easy. There is always randomness, uncertainty, probabilities, chance, doubt, actions, time, depression, pain, and shitload of other factors thatn make the computation as hard as an infinite degree infinite order mathematical equation which is impossible to solve absolutely and is only possible to be estimated with concepts like numerical analysis.
+
+### biggest problem
+my biggest problem is that i don't have a passion and don't find this world worthy of living. i find myself in a negetive LF situation (like -3), then i think of solutions and the best strategies include huge pain, hardship and sacrifices (like -10 to -15) and if i endure all of it the future i can see for my personality is better but still negative (like -1 to 0)
 
 ### Live
 What does it mean to live?
