@@ -103,7 +103,7 @@ permalink: /handbook/
 
 <div id="organized-items"></div>
 
-
+latest update: `{{ site.time | date: "%B %d, %Y" }}`
 
 
 <script>
