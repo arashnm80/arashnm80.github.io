@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-{% assign page_title = page.title | default: page.url | split: '/' | last | replace: '-', ' ' | capitalize %}
+{% assign page_title = page.title | default: page.url | split: '/' | last | replace: '-', ' ' %}
 
 <head>
     <title>{{ page_title }}</title>
