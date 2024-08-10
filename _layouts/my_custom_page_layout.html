@@ -1,8 +1,10 @@
 ---
 layout: page
 <!-- title: "{{ page.url | split: '/' | last | replace: '-', ' ' | capitalize }}" -->
-title: "{{ page.url }}"
+<!-- title: "{{ page.url }}" -->
 ---
+
+<title>{{ page.title | default: page.url | split: '/' | last | replace: '-', ' ' | capitalize }}</title>
 
 {{ content }}
 
