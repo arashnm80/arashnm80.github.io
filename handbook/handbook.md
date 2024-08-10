@@ -269,9 +269,14 @@ permalink: /handbook/
             var anchor = document.createElement("a");
             anchor.href = href;
             
-            // Set text content to href without the "./" + one extra space in the end for readability
-            anchor.textContent = href.replace('./', '') + " ";
+            // Set text content to href without the "./"
+            anchor.textContent = href.replace('./', '');
             item.appendChild(anchor);
+
+            // one extra space between text and button for readability
+            var space = document.createElement("span");
+            space.textContent = " ";
+            item.appendChild(space);
             
             // If there's a tag, create the button element
             if (tag) {
