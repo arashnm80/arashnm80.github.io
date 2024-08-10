@@ -13,9 +13,9 @@ permalink: /handbook/
     <li data-href="./choice" data-tag="principle"></li>
     <li data-href="./plan-a-b" data-tag="principle"></li>
     <li data-href="./action" data-tag="principle"></li>
+    <li data-href="./sort" data-tag=""></li>
     <li data-href="./fight" data-tag=""></li>
     <li data-href="./quality-levels" data-tag=""></li>
-    <li data-href="./sort" data-tag=""></li>
     <li data-href="./persistency" data-tag=""></li>
     <li data-href="./experience" data-tag=""></li>
     <li data-href="./gom-jabbar" data-tag="superpower"></li>
@@ -36,7 +36,6 @@ permalink: /handbook/
     <li data-href="./stress" data-tag=""></li>
     <li data-href="./carnet-mental" data-tag="superpower"></li>
     <li data-href="./destination-path" data-tag=""></li>
-    <li data-href="./passion" data-tag="principle"></li>
     <li data-href="./art-of-racing-in-the-rain" data-tag="superpower"></li>
     <li data-href="./victim" data-tag=""></li>
     <li data-href="./chain-reaction" data-tag="game-changer"></li>
