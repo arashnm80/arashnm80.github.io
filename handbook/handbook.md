@@ -11,9 +11,9 @@ permalink: /handbook/
     <li data-href="./-5to+5" data-tag="strategy"></li>
     <li data-href="./no-time-for-caution" data-tag="principle"></li>
     <li data-href="./choice" data-tag="principle"></li>
-    <li data-href="./plan-a-b" data-tag="principle"></li>
-    <li data-href="./action" data-tag="principle"></li>
     <li data-href="./sort" data-tag=""></li>
+    <li data-href="./action" data-tag="principle"></li>
+    <li data-href="./plan-a-b" data-tag="principle"></li>
     <li data-href="./fight" data-tag=""></li>
     <li data-href="./quality-levels" data-tag=""></li>
     <li data-href="./persistency" data-tag=""></li>
@@ -24,9 +24,9 @@ permalink: /handbook/
     <li data-href="./multitask" data-tag=""></li>
     <li data-href="./all-at-once" data-tag=""></li>
     <li data-href="./dopamine" data-tag=""></li>
-    <li data-href="./pomodoro" data-tag="habit"></li>
+    <li data-href="./pomodoro" data-tag="routine"></li>
     <li data-href="./2-battlefields" data-tag=""></li>
-    <li data-href="./sleep" data-tag="habit"></li>
+    <li data-href="./sleep" data-tag="routine"></li>
     <li data-href="./begin-again" data-tag=""></li>
     <li data-href="./90-10" data-tag=""></li>
     <li data-href="./hidden-progress" data-tag=""></li>
@@ -65,7 +65,7 @@ permalink: /handbook/
     <li data-href="./immerse" data-tag=""></li>
     <li data-href="./omniscient" data-tag="superpower"></li>
     <li data-href="./mind-opiums" data-tag=""></li>
-    <li data-href="./focus-shower" data-tag="habit"></li>
+    <li data-href="./focus-shower" data-tag="routine"></li>
     <li data-href="./optimism-pessimism" data-tag=""></li>
     <li data-href="./boredom" data-tag=""></li>
     <li data-href="./potential" data-tag=""></li>
@@ -73,7 +73,7 @@ permalink: /handbook/
     <li data-href="./niksen" data-tag=""></li>
     <li data-href="./right-questions" data-tag=""></li>
     <li data-href="./words" data-tag=""></li>
-    <li data-href="./brush-teeth" data-tag="habit"></li>
+    <li data-href="./brush-teeth" data-tag="routine"></li>
     <li data-href="./rest-reinforcement" data-tag=""></li>
     <li data-href="./boom" data-tag=""></li>
     <li data-href="./patience" data-tag=""></li>
@@ -82,12 +82,12 @@ permalink: /handbook/
     <li data-href="./leader" data-tag=""></li>
     <li data-href="./leverage" data-tag=""></li>
     <li data-href="./wild" data-tag=""></li>
+    <li data-href="./elon-musk" data-tag="legend"></li>
     <li data-href="./improvise" data-tag=""></li>
     <li data-href="./sale" data-tag=""></li>
     <li data-href="./pain" data-tag=""></li>
     <li data-href="./jensen-huang" data-tag="legend"></li>
     <li data-href="./sam-altman" data-tag="legend"></li>
-    <li data-href="./elon-musk" data-tag="legend"></li>
     <li data-href="./eyes" data-tag=""></li>
     <li data-href="./evolution" data-tag=""></li>
     <li data-href="./hope" data-tag=""></li>
