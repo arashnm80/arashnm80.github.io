@@ -15,8 +15,8 @@ permalink: /handbook/
     <li data-href="./action" data-tag="principle"></li>
     <li data-href="./plan-a-b" data-tag="principle"></li>
     <li data-href="./fight" data-tag=""></li>
-    <li data-href="./quality-levels" data-tag=""></li>
-    <li data-href="./persistency" data-tag=""></li>
+    <li data-href="./quality-levels" data-tag="principle"></li>
+    <li data-href="./persistency" data-tag="principle"></li>
     <li data-href="./experience" data-tag=""></li>
     <li data-href="./gom-jabbar" data-tag="superpower"></li>
     <li data-href="./routine" data-tag=""></li>
@@ -26,7 +26,7 @@ permalink: /handbook/
     <li data-href="./multitask" data-tag=""></li>
     <li data-href="./all-at-once" data-tag=""></li>
     <li data-href="./dopamine" data-tag=""></li>
-    <li data-href="./2-battlefields" data-tag=""></li>
+    <li data-href="./2-battlefields" data-tag="principle"></li>
     <li data-href="./begin-again" data-tag=""></li>
     <li data-href="./90-10" data-tag=""></li>
     <li data-href="./hidden-progress" data-tag=""></li>
@@ -94,7 +94,6 @@ permalink: /handbook/
     <li data-href="./40-70" data-tag=""></li>
     <li data-href="./win-win" data-tag=""></li>
     <li data-href="./mess" data-tag=""></li>
-    <li data-href="./length-and-width" data-tag=""></li>
     <li data-href="./overcorrection" data-tag="tool"></li>
     <li data-href="./other" data-tag=""></li>
   </ul>

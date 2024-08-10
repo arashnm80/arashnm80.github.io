@@ -4,3 +4,7 @@ Life is to contantly writed sorted lists and act based on them. We have a limite
 
 ### eat the frog
 if i be able to face my biggest fear, pain, ... then i can do anything else too.
+
+### length and width
+length: sort things to in different levels.  
+width: sort things in each level.
