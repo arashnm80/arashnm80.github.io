@@ -1,9 +1,6 @@
-doing nothing
-
 **Paradise and hell; this is life.**  
 **But in the end, this is my life.**  
 **So who am I and what am I doing now?**
-
 
 > When life gets you down and you feel unloved and worthless, just remember you’ll be dead one day.
 
