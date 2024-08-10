@@ -123,7 +123,7 @@ title: Quotes
 
 > Work hard as hard as you can.
 
-> The only real test of intelligence is if you get what you want out of life.
+> The only real test of intelligence is if you get what you want out of life. (but what if it doesn't exist or i don't want anything?)
 
 > The right way to work is like a lion.
 
