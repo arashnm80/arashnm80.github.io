@@ -257,37 +257,35 @@ permalink: /handbook/
     }
 
 
-
-document.addEventListener("DOMContentLoaded", function() {
-    var items = document.querySelectorAll("li[data-href]");
-    
-    items.forEach(function(item) {
-        var href = item.getAttribute("data-href");
-        var tag = item.getAttribute("data-tag");
+    // convert my simplified html to official one with href and colored buttons
+    document.addEventListener("DOMContentLoaded", function() {
+        var items = document.querySelectorAll("li[data-href]");
         
-        // Create anchor element and set href
-        var anchor = document.createElement("a");
-        anchor.href = href;
-        
-        // Set text content to href without the "./" + one extra space in the end for readability
-        anchor.textContent = href.replace('./', '') + " ";
-        item.appendChild(anchor);
-        
-        // If there's a tag, create the button element
-        if (tag) {
-            var button = document.createElement("button");
-            button.classList.add("btn", "tag", tag);
-            button.style.color = stringToColor(tag);
-            button.textContent = "⬤ " + tag;
-            button.onclick = function() { filterItems(tag); };
-            item.appendChild(button);
-        }
+        items.forEach(function(item) {
+            var href = item.getAttribute("data-href");
+            var tag = item.getAttribute("data-tag");
+            
+            // Create anchor element and set href
+            var anchor = document.createElement("a");
+            anchor.href = href;
+            
+            // Set text content to href without the "./" + one extra space in the end for readability
+            anchor.textContent = href.replace('./', '') + " ";
+            item.appendChild(anchor);
+            
+            // If there's a tag, create the button element
+            if (tag) {
+                var button = document.createElement("button");
+                button.classList.add("btn", "tag", tag);
+                button.style.color = stringToColor(tag);
+                button.textContent = "⬤ " + tag;
+                button.onclick = function() { filterItems(tag); };
+                item.appendChild(button);
+            }
+        });
     });
-});
 
-    // two main josb:
-    // 1. convert my simplified html to regular one with href and colored buttons
-    // 2. categorize in power of 2 notion
+    // categorize in power of 2 notion
     document.addEventListener('DOMContentLoaded', function () {
 
         // // job 1
@@ -343,11 +341,11 @@ document.addEventListener("DOMContentLoaded", function() {
                 // Add the items to the current section
                 for (let i = 0; i < itemsInSection && itemIndex < allItems.length; i++) {
                     const listItem = allItems[itemIndex];
-                    const link = listItem.querySelector('a');
+                    // const link = listItem.querySelector('a');
                     
-                    // Update the link text content based on the href attribute
-                    const href = link.getAttribute('href').replace('./', '');
-                    link.textContent = href;
+                    // // Update the link text content based on the href attribute
+                    // const href = link.getAttribute('href').replace('./', '');
+                    // link.textContent = href;
                     
                     sectionList.appendChild(listItem);
                     itemIndex++;
