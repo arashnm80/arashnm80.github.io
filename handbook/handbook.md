@@ -96,6 +96,7 @@ permalink: /handbook/
     <li data-href="./mess" data-tag=""></li>
     <li data-href="./overcorrection" data-tag="tool"></li>
     <li data-href="./swing-trading" data-tag=""></li>
+    <li data-href="./darwin" data-tag=""></li>
     <li data-href="./other" data-tag=""></li>
   </ul>
 </div>
