@@ -6,12 +6,11 @@ permalink: /handbook/
 
 <div id="all-items">
   <ul>
-    <li data-href="./c'est-ma-vie" data-tag="principle"></li>
-    <li data-href="./refuse-or-accept" data-tag="principle"></li>
+    <li data-href="./c'est-ma-vie" data-tag="core"></li>
+    <li data-href="./refuse-or-accept" data-tag="core"></li>
     <li data-href="./-5to+5" data-tag="strategy"></li>
     <li data-href="./no-time-for-caution" data-tag="principle"></li>
     <li data-href="./choice" data-tag="principle"></li>
-    <li data-href="./life-factor" data-tag="principle"></li>
     <li data-href="./plan-a-b" data-tag="principle"></li>
     <li data-href="./action" data-tag="principle"></li>
     <li data-href="./fight" data-tag=""></li>
@@ -19,6 +18,7 @@ permalink: /handbook/
     <li data-href="./sort" data-tag=""></li>
     <li data-href="./persistency" data-tag=""></li>
     <li data-href="./experience" data-tag=""></li>
+    <li data-href="./gom-jabbar" data-tag="superpower"></li>
     <li data-href="./fear-courage" data-tag=""></li>
     <li data-href="./reboot" data-tag="superpower"></li>
     <li data-href="./multitask" data-tag=""></li>
