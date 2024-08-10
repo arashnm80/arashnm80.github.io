@@ -3,3 +3,4 @@
 - focous shower + cold shower
 - brush teeth
 - ambidexterity: switch left and right
+- pull up door
