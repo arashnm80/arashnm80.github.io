@@ -1,21 +1,16 @@
 ---
 layout: page
 ---
+
 <title>
     {{ page.title | default: page.url | split: '/' | last | replace: '-', ' ' | capitalize }}
 </title>
-<!-- <header class="post-header">
+
+<header class="post-header">
     <h1 class="post-title">
         {{ page.title | default: page.url | split: '/' | last | replace: '-', ' ' | capitalize }}
     </h1>
-</header> -->
-<!-- <main class="page-content" aria-label="Content"> -->
-    <!-- <article class="post"> -->
-        <!-- <header class="post-header"> -->
-            <h1 class="post-title">Niksen</h1>
-        <!-- </header> -->
-    <!-- </article> -->
-<!-- </main> -->
+</header>
 
 {{ content }}
 
