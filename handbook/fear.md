@@ -1,7 +1,4 @@
----
-layout: page
-title: Fear & Courage
----
+Courage is not the absence of fear. Courage is the willingness to act in spite of my fear.
 
 > Big people make big [choices](../newton's-third-law).
 

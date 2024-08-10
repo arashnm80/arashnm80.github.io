@@ -11,6 +11,7 @@ permalink: /handbook/
     <li data-href="./no-time-for-caution" data-tag="core"></li>
     <li data-href="./-5to+5" data-tag="strategy"></li>
     <li data-href="./choice" data-tag="principle"></li>
+    <li data-href="./fear" data-tag=""></li>
     <li data-href="./sort" data-tag="principle"></li>
     <li data-href="./action" data-tag="principle"></li>
     <li data-href="./fight" data-tag=""></li>
@@ -21,12 +22,11 @@ permalink: /handbook/
     <li data-href="./gom-jabbar" data-tag="superpower"></li>
     <li data-href="./routine" data-tag=""></li>
     <li data-href="./removals" data-tag=""></li>
-    <li data-href="./fear-courage" data-tag=""></li>
     <li data-href="./reboot" data-tag="superpower"></li>
     <li data-href="./multitask" data-tag=""></li>
     <li data-href="./all-at-once" data-tag=""></li>
-    <li data-href="./dopamine" data-tag=""></li>
     <li data-href="./2-battlefields" data-tag="principle"></li>
+    <li data-href="./dopamine" data-tag=""></li>
     <li data-href="./bubble" data-tag=""></li>
     <li data-href="./begin-again" data-tag=""></li>
     <li data-href="./90-10" data-tag=""></li>
