@@ -99,6 +99,7 @@ permalink: /handbook/
     <li data-href="./swing-trading" data-tag="tool"></li>
     <li data-href="./do-the-right-thing" data-tag=""></li>
     <li data-href="./parkinson-law" data-tag=""></li>
+    <li data-href="./form-and-content" data-tag=""></li>
     <li data-href="./other" data-tag=""></li>
   </ul>
 </div>
