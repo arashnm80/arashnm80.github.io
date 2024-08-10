@@ -55,12 +55,6 @@ In other terms it means to be **free** healthy, wealthy and have time to choose 
 
 Of course the perfect life almost never has been possible but I want good enough level of it.
 
-### Leave
-What does it mean to leave?
-
-To end all of these struggles.  
-To say no to this proposed life.
-
 ### passion
 > Can somebody that is totally ok to leave this world right now, have a passion to live?
 
@@ -80,6 +74,15 @@ my biggest problem is The fact that technically I can do everything but realisti
 So in this paradox if *I can do everything* is actually true, can I turn the tide and find a way to live or the best option for me remains leaving?
 
 one thing that is hurting me is the fact that even some of my biggest passions look to be only less negative points. they are just less pain, they are not joy.
+
+### Leave
+What does it mean to leave?
+
+To end all of these struggles.  
+To say no to this proposed life.
+
+### pain
+
 
 ### Negative local maximum - island analogy
 ![negative-local-maximum-island-analogy](../../assets/negative-local-maximum-island-analogy.jpg)

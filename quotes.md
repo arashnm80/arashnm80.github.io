@@ -69,8 +69,6 @@ title: Quotes
 
 > Thoughts, words, actions, habits, character, destiny
 
-> With enough dopamine, all problems seem solvable.
-
 > plan to win or don't play at all.
 
 > Never make the same mistake twice.

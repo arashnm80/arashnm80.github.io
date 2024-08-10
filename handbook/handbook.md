@@ -19,14 +19,13 @@ permalink: /handbook/
     <li data-href="./persistency" data-tag=""></li>
     <li data-href="./experience" data-tag=""></li>
     <li data-href="./gom-jabbar" data-tag="superpower"></li>
+    <li data-href="./routine" data-tag=""></li>
     <li data-href="./fear-courage" data-tag=""></li>
     <li data-href="./reboot" data-tag="superpower"></li>
     <li data-href="./multitask" data-tag=""></li>
     <li data-href="./all-at-once" data-tag=""></li>
     <li data-href="./dopamine" data-tag=""></li>
-    <li data-href="./pomodoro" data-tag="routine"></li>
     <li data-href="./2-battlefields" data-tag=""></li>
-    <li data-href="./sleep" data-tag="routine"></li>
     <li data-href="./begin-again" data-tag=""></li>
     <li data-href="./90-10" data-tag=""></li>
     <li data-href="./hidden-progress" data-tag=""></li>
@@ -65,7 +64,6 @@ permalink: /handbook/
     <li data-href="./immerse" data-tag=""></li>
     <li data-href="./omniscient" data-tag="superpower"></li>
     <li data-href="./mind-opiums" data-tag=""></li>
-    <li data-href="./focus-shower" data-tag="routine"></li>
     <li data-href="./optimism-pessimism" data-tag=""></li>
     <li data-href="./boredom" data-tag=""></li>
     <li data-href="./potential" data-tag=""></li>
@@ -73,7 +71,6 @@ permalink: /handbook/
     <li data-href="./niksen" data-tag=""></li>
     <li data-href="./right-questions" data-tag=""></li>
     <li data-href="./words" data-tag=""></li>
-    <li data-href="./brush-teeth" data-tag="routine"></li>
     <li data-href="./rest-reinforcement" data-tag=""></li>
     <li data-href="./patience" data-tag=""></li>
     <li data-href="./skill-tree" data-tag=""></li>
@@ -84,19 +81,19 @@ permalink: /handbook/
     <li data-href="./elon-musk" data-tag="character"></li>
     <li data-href="./improvise" data-tag=""></li>
     <li data-href="./sale" data-tag=""></li>
-    <li data-href="./pain" data-tag=""></li>
+    <li data-href="./pain-as-a-service" data-tag=""></li>
     <li data-href="./jensen-huang" data-tag="character"></li>
     <li data-href="./sam-altman" data-tag="character"></li>
     <li data-href="./eyes" data-tag=""></li>
     <li data-href="./evolution" data-tag=""></li>
     <li data-href="./hope" data-tag=""></li>
+    <li data-href="./big-picture" data-tag=""></li>
     <li data-href="./mental-model" data-tag=""></li>
     <li data-href="./switch-cost" data-tag=""></li>
     <li data-href="./40-70" data-tag=""></li>
     <li data-href="./win-win" data-tag=""></li>
     <li data-href="./mess" data-tag=""></li>
     <li data-href="./length-and-width" data-tag=""></li>
-    <li data-href="./big-picture" data-tag=""></li>
     <li data-href="./other" data-tag=""></li>
   </ul>
 </div>

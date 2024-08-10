@@ -1,0 +1,4 @@
+- pomodoro: 20 min segmentation is the best method for not losing the track of time and evaluating my productivity.
+- sleep: Just like dopamine with good high quality sleep many of problems just go away.
+- focous shower + cold shower
+- brush teeth
