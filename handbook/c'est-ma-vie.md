@@ -10,3 +10,5 @@
 > I can do whatever the fu*k I can do.
 
 > Live a life I can be proud of.
+
+do things and live for myself not for the world and others.

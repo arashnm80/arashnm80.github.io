@@ -74,7 +74,7 @@ defaults:
       path: "handbook" # Adjust the path to your folder
       type: "pages"               # The type can be "pages" or "posts"
     values:
-      layout: "custom_layout"              # The layout you want to apply
+      layout: "custom_layout_2"              # The layout you want to apply
   # - scope:
   #     path: "handbook" # Adjust the path to your folder
   #     type: "pages"               # The type can be "pages" or "posts"
