@@ -34,7 +34,6 @@ permalink: /handbook/
     <li data-href="./shame" data-tag=""></li>
     <li data-href="./bubble" data-tag=""></li>
     <li data-href="./stress" data-tag=""></li>
-    <li data-href="./carnet-mental" data-tag="superpower"></li>
     <li data-href="./destination-path" data-tag=""></li>
     <li data-href="./art-of-racing-in-the-rain" data-tag="superpower"></li>
     <li data-href="./victim" data-tag=""></li>
@@ -53,6 +52,7 @@ permalink: /handbook/
     <li data-href="./system-1-2" data-tag=""></li>
     <li data-href="./portrait-painting" data-tag=""></li>
     <li data-href="./renewable-energy" data-tag=""></li>
+    <li data-href="./carnet-mental" data-tag="superpower"></li>
     <li data-href="./naval" data-tag="character"></li>
     <li data-href="./skin-in-the-game" data-tag=""></li>
     <li data-href="./mrbeast" data-tag="character"></li>
@@ -75,7 +75,6 @@ permalink: /handbook/
     <li data-href="./words" data-tag=""></li>
     <li data-href="./brush-teeth" data-tag="routine"></li>
     <li data-href="./rest-reinforcement" data-tag=""></li>
-    <li data-href="./boom" data-tag=""></li>
     <li data-href="./patience" data-tag=""></li>
     <li data-href="./skill-tree" data-tag=""></li>
     <li data-href="./shot" data-tag=""></li>
