@@ -71,12 +71,12 @@ permalink: /handbook/
     <li data-href="./lose" data-tag=""></li>
     <li data-href="./niksen" data-tag=""></li>
     <li data-href="./right-questions" data-tag=""></li>
-    <li data-href="./words" data-tag=""></li>
     <li data-href="./rest-reinforcement" data-tag=""></li>
+    <li data-href="./leader" data-tag=""></li>
+    <li data-href="./words" data-tag=""></li>
     <li data-href="./patience" data-tag=""></li>
     <li data-href="./skill-tree" data-tag=""></li>
     <li data-href="./shot" data-tag=""></li>
-    <li data-href="./leader" data-tag=""></li>
     <li data-href="./leverage" data-tag=""></li>
     <li data-href="./wild" data-tag=""></li>
     <li data-href="./elon-musk" data-tag="character"></li>
@@ -88,6 +88,7 @@ permalink: /handbook/
     <li data-href="./eyes" data-tag=""></li>
     <li data-href="./evolution" data-tag=""></li>
     <li data-href="./hope" data-tag=""></li>
+    <li data-href="./darwin" data-tag="principle"></li>
     <li data-href="./big-picture" data-tag=""></li>
     <li data-href="./mental-model" data-tag=""></li>
     <li data-href="./switch-cost" data-tag=""></li>
@@ -95,8 +96,8 @@ permalink: /handbook/
     <li data-href="./win-win" data-tag=""></li>
     <li data-href="./mess" data-tag=""></li>
     <li data-href="./overcorrection" data-tag="tool"></li>
-    <li data-href="./swing-trading" data-tag=""></li>
-    <li data-href="./darwin" data-tag=""></li>
+    <li data-href="./swing-trading" data-tag="tool"></li>
+    <li data-href="./do-the-right-thing" data-tag=""></li>
     <li data-href="./other" data-tag=""></li>
   </ul>
 </div>

@@ -1,1 +1,3 @@
 everything is for survival. love, sex, child, work, food, friend, ...
+
+it's very simple: consider in the beginning 99% didn't give a shit about survival and 1% did. so after some time the first group perishes and only second group remains. that's why everything is about survival now.
