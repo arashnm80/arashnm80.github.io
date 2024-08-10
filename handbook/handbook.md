@@ -13,8 +13,8 @@ permalink: /handbook/
     <li data-href="./choice" data-tag="principle"></li>
     <li data-href="./sort" data-tag="principle"></li>
     <li data-href="./action" data-tag="principle"></li>
-    <li data-href="./plan-a-b" data-tag="principle"></li>
     <li data-href="./fight" data-tag=""></li>
+    <li data-href="./plan-a-b" data-tag="principle"></li>
     <li data-href="./quality-levels" data-tag="principle"></li>
     <li data-href="./persistency" data-tag="principle"></li>
     <li data-href="./experience" data-tag=""></li>

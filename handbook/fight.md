@@ -1,4 +1,4 @@
-**fight is action against opposition**
+**fight is action against opposition. change always faces maximum opposition and minimum support, so fighting is the necessary base of any change.**
 
 > The reason to fight is to get rid of it.
 
