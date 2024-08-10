@@ -27,12 +27,12 @@ permalink: /handbook/
     <li data-href="./all-at-once" data-tag=""></li>
     <li data-href="./dopamine" data-tag=""></li>
     <li data-href="./2-battlefields" data-tag="principle"></li>
+    <li data-href="./bubble" data-tag=""></li>
     <li data-href="./begin-again" data-tag=""></li>
     <li data-href="./90-10" data-tag=""></li>
     <li data-href="./hidden-progress" data-tag=""></li>
     <li data-href="./freedom" data-tag=""></li>
     <li data-href="./shame" data-tag=""></li>
-    <li data-href="./bubble" data-tag=""></li>
     <li data-href="./stress" data-tag=""></li>
     <li data-href="./destination-path" data-tag=""></li>
     <li data-href="./art-of-racing-in-the-rain" data-tag="superpower"></li>
@@ -98,6 +98,7 @@ permalink: /handbook/
     <li data-href="./overcorrection" data-tag="tool"></li>
     <li data-href="./swing-trading" data-tag="tool"></li>
     <li data-href="./do-the-right-thing" data-tag=""></li>
+    <li data-href="./parkinson-law" data-tag=""></li>
     <li data-href="./other" data-tag=""></li>
   </ul>
 </div>

@@ -1,8 +1,3 @@
----
-layout: page
-title: Freedom
----
-
 ![free cow](https://external-preview.redd.it/h1xJ3j6oG7R0H-p2_hkpCpJQf6dYTcxDgMH4wm-z0S4.jpg?auto=webp&s=c98b191285fed84af5fc4f14349658940e046d99)
 
 What is freedom?  
