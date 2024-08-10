@@ -11,7 +11,7 @@ permalink: /handbook/
     <li data-href="./-5to+5" data-tag="strategy"></li>
     <li data-href="./no-time-for-caution" data-tag="principle"></li>
     <li data-href="./choice" data-tag="principle"></li>
-    <li data-href="./sort" data-tag=""></li>
+    <li data-href="./sort" data-tag="principle"></li>
     <li data-href="./action" data-tag="principle"></li>
     <li data-href="./plan-a-b" data-tag="principle"></li>
     <li data-href="./fight" data-tag=""></li>
@@ -53,9 +53,9 @@ permalink: /handbook/
     <li data-href="./system-1-2" data-tag=""></li>
     <li data-href="./portrait-painting" data-tag=""></li>
     <li data-href="./renewable-energy" data-tag=""></li>
-    <li data-href="./naval" data-tag="legend"></li>
+    <li data-href="./naval" data-tag="character"></li>
     <li data-href="./skin-in-the-game" data-tag=""></li>
-    <li data-href="./mrbeast" data-tag="legend"></li>
+    <li data-href="./mrbeast" data-tag="character"></li>
     <li data-href="./cbt" data-tag=""></li>
     <li data-href="./creativity" data-tag=""></li>
     <li data-href="./move-forward" data-tag=""></li>
@@ -82,12 +82,12 @@ permalink: /handbook/
     <li data-href="./leader" data-tag=""></li>
     <li data-href="./leverage" data-tag=""></li>
     <li data-href="./wild" data-tag=""></li>
-    <li data-href="./elon-musk" data-tag="legend"></li>
+    <li data-href="./elon-musk" data-tag="character"></li>
     <li data-href="./improvise" data-tag=""></li>
     <li data-href="./sale" data-tag=""></li>
     <li data-href="./pain" data-tag=""></li>
-    <li data-href="./jensen-huang" data-tag="legend"></li>
-    <li data-href="./sam-altman" data-tag="legend"></li>
+    <li data-href="./jensen-huang" data-tag="character"></li>
+    <li data-href="./sam-altman" data-tag="character"></li>
     <li data-href="./eyes" data-tag=""></li>
     <li data-href="./evolution" data-tag=""></li>
     <li data-href="./hope" data-tag=""></li>
@@ -97,6 +97,7 @@ permalink: /handbook/
     <li data-href="./win-win" data-tag=""></li>
     <li data-href="./mess" data-tag=""></li>
     <li data-href="./length-and-width" data-tag=""></li>
+    <li data-href="./big-picture" data-tag=""></li>
     <li data-href="./other" data-tag=""></li>
   </ul>
 </div>
