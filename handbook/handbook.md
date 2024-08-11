@@ -17,8 +17,8 @@ permalink: /handbook/
     <li data-href="./fight" data-tag=""></li>
     <li data-href="./plan-a-b" data-tag="principle"></li>
     <li data-href="./quality-levels" data-tag="principle"></li>
-    <li data-href="./persistency" data-tag="principle"></li>
     <li data-href="./experience" data-tag=""></li>
+    <li data-href="./persistency" data-tag="principle"></li>
     <li data-href="./gom-jabbar" data-tag="superpower"></li>
     <li data-href="./routine" data-tag=""></li>
     <li data-href="./removals" data-tag=""></li>
@@ -36,7 +36,7 @@ permalink: /handbook/
     <li data-href="./stress" data-tag=""></li>
     <li data-href="./destination-path" data-tag=""></li>
     <li data-href="./art-of-racing-in-the-rain" data-tag="superpower"></li>
-    <li data-href="./victim" data-tag=""></li>
+    <li data-href="./victim-mentality" data-tag=""></li>
     <li data-href="./chain-reaction" data-tag="game-changer"></li>
     <li data-href="./arbitrage" data-tag="game-changer"></li>
     <li data-href="./subconscious" data-tag=""></li>
@@ -60,6 +60,7 @@ permalink: /handbook/
     <li data-href="./creativity" data-tag=""></li>
     <li data-href="./move-forward" data-tag=""></li>
     <li data-href="./economy" data-tag=""></li>
+    <li data-href="./procrastination" data-tag=""></li>
     <li data-href="./smart" data-tag=""></li>
     <li data-href="./teacher" data-tag=""></li>
     <li data-href="./immerse" data-tag=""></li>
@@ -68,9 +69,9 @@ permalink: /handbook/
     <li data-href="./optimism-pessimism" data-tag=""></li>
     <li data-href="./boredom" data-tag=""></li>
     <li data-href="./potential" data-tag=""></li>
-    <li data-href="./lose" data-tag=""></li>
-    <li data-href="./niksen" data-tag=""></li>
     <li data-href="./right-questions" data-tag=""></li>
+    <li data-href="./niksen" data-tag=""></li>
+    <li data-href="./lose" data-tag=""></li>
     <li data-href="./rest-reinforcement" data-tag=""></li>
     <li data-href="./leader" data-tag=""></li>
     <li data-href="./words" data-tag=""></li>
@@ -90,6 +91,7 @@ permalink: /handbook/
     <li data-href="./eyes" data-tag=""></li>
     <li data-href="./evolution" data-tag=""></li>
     <li data-href="./hope" data-tag=""></li>
+    <li data-href="./ocd" data-tag=""></li>
     <li data-href="./big-picture" data-tag=""></li>
     <li data-href="./mental-model" data-tag=""></li>
     <li data-href="./switch-cost" data-tag=""></li>
@@ -101,7 +103,9 @@ permalink: /handbook/
     <li data-href="./parkinson-law" data-tag=""></li>
     <li data-href="./form-and-content" data-tag=""></li>
     <li data-href="./childhood" data-tag=""></li>
+    <li data-href="./what-if" data-tag=""></li>
     <li data-href="./other" data-tag=""></li>
+    <li><a href="./other" tag="hello"></a></li>
   </ul>
 </div>
 
@@ -167,19 +171,21 @@ permalink: /handbook/
 
     // convert my simplified html to official one with href and colored buttons
     document.addEventListener("DOMContentLoaded", function() {
-        var items = document.querySelectorAll("li[data-href]");
+        // var items = document.querySelectorAll("li[data-href]");
+        var items = document.querySelectorAll("li");
         
         items.forEach(function(item) {
-            var href = item.getAttribute("data-href");
-            var tag = item.getAttribute("data-tag");
+            var anchor = item.querySelector('a');
+            var href = anchor.getAttribute("href");
+            var tag = anchor.getAttribute("tag");
             
-            // Create anchor element and set href
-            var anchor = document.createElement("a");
-            anchor.href = href;
+            // // Create anchor element and set href
+            // var anchor = document.createElement("a");
+            // anchor.href = href;
             
             // Set text content to href without the "./"
             anchor.textContent = href.replace('./', '');
-            item.appendChild(anchor);
+            // item.appendChild(anchor);
 
             // one extra space between text and button for readability
             var space = document.createElement("span");

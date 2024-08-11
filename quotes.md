@@ -189,6 +189,8 @@ title: Quotes
 
 > Everybody knows what's the price, question is who is willing to pay?
 
+> The cold water doesn't get warmer if i jump late.
+
 > Diff between 121 and 120 mins is nothing, diff between 1' and 0' is everything.
 
 > To become great, I should become good first.
@@ -219,7 +221,7 @@ title: Quotes
 
 > I'm gonna think out of the box.
 
-> Whether I am a victim or not, I'm not gonna complain about it. I'm just gonna put my head down and soldier through it.
+> Whether I am a victim or not, thinking and complaining about it will change nothing. so the best choice is to get over it, put my head down and soldier through.
 
 > If I want to be the one in a billion person, I should live in a way that those other 999,999,999 people won't even imagine.
 

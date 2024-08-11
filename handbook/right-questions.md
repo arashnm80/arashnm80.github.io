@@ -1,8 +1,3 @@
----
-layout: page
-title: Asking the right questions
----
-
 - What is my first priority?
 - What do I want?
 - What do I have to do?
@@ -11,3 +6,4 @@ title: Asking the right questions
 - How would I live my life if I was 10 times richer than now?
 - What are costs and benefits for me?
 - What else??? What I don't know? What I haven't thought of? What I haven't tried?
+- what if??? what if i'm wrong? what if i'm right? what if i lose? what if i win?

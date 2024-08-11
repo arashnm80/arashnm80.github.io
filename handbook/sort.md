@@ -8,3 +8,5 @@ if i be able to face my biggest fear, pain, ... then i can do anything else too.
 ### length and width
 length: sort things to in different levels.  
 width: sort things in each level.
+
+in general move based on levels sorting and in each level move based on width sorting.
