@@ -2,6 +2,8 @@
 
 > newton's third law, The only way of getting somewhere is to leave something behind.
 
+> if i choose nothing, i will get nothing.
+
 We are constantly choosing every second of our life and even when we are doing nothing it's a choice itself. (Dubiety: Of course I know that we might have many options, few options or no option at all. I don't convince myself in mind opium way to believe there are always options for us. But generally speaking and not thinking strict: we are constantly choosing.)
 
 ### limitation
@@ -59,7 +61,7 @@ Life is a Jackson Pollock's painting. It's a mess. An ocean of randomness, infor
 
 When I understand this I see the [bigger picture](../think-out-of-the-box) and don't get obsessed with tiny details. Despite all of the complexities and excuses, big picture, what we have to do and what we can actually do is very simple.
 
-This complexity brings a huge mass of [uncertainty](../uncertainty) that can paralize the [perfectionist](../perfection) mind, although these countermeasures come to my mind:
+This complexity brings a huge mass of uncertainty that can paralize the perfectionist mind, although these countermeasures come to my mind:
 - Plan A & B
 - Satisfice
 - Good enough
@@ -67,7 +69,7 @@ This complexity brings a huge mass of [uncertainty](../uncertainty) that can par
 ### Probability
 > No one actually knows what the hell they're doing. Everyone is just working off their current best guess.
 
-Everything in this world has a probability. If I wait to become certain about everything, I can decide about nothing. [The key](../plan-a-b) is to be constantly moving based on my current best guess, while constantly reevaluating possibilities and probabilities on the move.
+Everything in this world has a probability. If I wait to become certain about everything, I can decide about nothing. The key is to be constantly moving based on my current best guess, while constantly reevaluating possibilities and probabilities on the move.
 
 ### Randomness
 Does true random exist or is it just lack of information?

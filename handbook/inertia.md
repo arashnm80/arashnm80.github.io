@@ -1,0 +1,1 @@
+any change always is faced with maximum opposition and minimum support. that's why we always have to fight and it's so hard to start things.

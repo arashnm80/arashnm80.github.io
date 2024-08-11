@@ -33,6 +33,8 @@ title: Quotes
 
 > newton's third law, The only way of getting somewhere is to leave something behind.
 
+> if i choose nothing, i will get nothing.
+
 > My choice is not what I'm thinking, saying or writing but what I'm actually doing right now.
 
 > If I don't know what I want, I can't judge myself for not achieving it.
@@ -64,6 +66,8 @@ title: Quotes
 > Think out of the box.
 
 > شاید ما افسرده نیستیم و فقط فرسوده ایم
+
+> We accept the life/love/job we think we deserve.
 
 > If you have to walk through an unpleasant path, what can you do to make it more bearable or even turn the tide and use it to your advantage?
 
@@ -156,8 +160,6 @@ title: Quotes
 > Everybody in the world is a compass for me. A reminder of where I want to be and where I don't.
 
 > I'm gonna be the change I want to see in the world.
-
-> We accept the life we think we deserve.
 
 > Become so big that this world seem small next to you.
 

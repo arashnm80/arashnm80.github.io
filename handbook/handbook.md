@@ -9,7 +9,7 @@ permalink: /handbook/
     <li><a href="./c'est-ma-vie" tag="core"></a></li>
     <li><a href="./refuse-or-accept" tag="core"></a></li>
     <li><a href="./no-time-for-caution" tag="core"></a></li>
-    <li><a href="./-5to+5" tag="strategy"></a></li>
+    <li><a href="./five-to-five" tag="strategy"></a></li>
     <li><a href="./choice" tag="principle"></a></li>
     <li><a href="./fear" tag=""></a></li>
     <li><a href="./sort" tag="principle"></a></li>
@@ -20,7 +20,7 @@ permalink: /handbook/
     <li><a href="./experience" tag=""></a></li>
     <li><a href="./persistency" tag="principle"></a></li>
     <li><a href="./gom-jabbar" tag="superpower"></a></li>
-    <li><a href="./routine" tag=""></a></li>
+    <li><a href="./habits-and-routines" tag=""></a></li>
     <li><a href="./removals" tag=""></a></li>
     <li><a href="./reboot" tag="superpower"></a></li>
     <li><a href="./multitask" tag=""></a></li>
@@ -38,51 +38,51 @@ permalink: /handbook/
     <li><a href="./art-of-racing-in-the-rain" tag="superpower"></a></li>
     <li><a href="./victim-mentality" tag=""></a></li>
     <li><a href="./chain-reaction" tag="game-changer"></a></li>
-    <li><a href="./arbitrage" tag="game-changer"></a></li>
     <li><a href="./subconscious" tag=""></a></li>
+    <li><a href="./arbitrage" tag="game-changer"></a></li>
     <li><a href="./people" tag=""></a></li>
     <li><a href="./dirac-delta-function" tag=""></a></li>
     <li><a href="./minimalism" tag=""></a></li>
-    <li><a href="./idea-person" tag="game-changer"></a></li>
     <li><a href="./will" tag=""></a></li>
+    <li><a href="./idea-person" tag="game-changer"></a></li>
     <li><a href="./hobby-as-a-service" tag="game-changer"></a></li>
-    <li><a href="./near-zero-cost" tag=""></a></li>
     <li><a href="./domino-effect" tag=""></a></li>
+    <li><a href="./near-zero-cost" tag=""></a></li>
     <li><a href="./narrow-way-through" tag=""></a></li>
     <li><a href="./system-1-2" tag=""></a></li>
     <li><a href="./portrait-painting" tag=""></a></li>
     <li><a href="./renewable-energy" tag=""></a></li>
-    <li><a href="./carnet-mental" tag="superpower"></a></li>
     <li><a href="./naval" tag="character"></a></li>
+    <li><a href="./carnet-mental" tag="superpower"></a></li>
     <li><a href="./skin-in-the-game" tag=""></a></li>
     <li><a href="./mrbeast" tag="character"></a></li>
-    <li><a href="./cbt" tag=""></a></li>
     <li><a href="./creativity" tag=""></a></li>
-    <li><a href="./move-forward" tag=""></a></li>
+    <li><a href="./cbt" tag=""></a></li>
     <li><a href="./economy" tag=""></a></li>
     <li><a href="./procrastination" tag=""></a></li>
+    <li><a href="./move-forward" tag=""></a></li>
     <li><a href="./smart" tag=""></a></li>
-    <li><a href="./teacher" tag=""></a></li>
     <li><a href="./immerse" tag=""></a></li>
     <li><a href="./omniscient" tag="superpower"></a></li>
     <li><a href="./mind-opiums" tag=""></a></li>
+    <li><a href="./teacher" tag=""></a></li>
     <li><a href="./glasses" tag=""></a></li>
-    <li><a href="./boredom" tag="problem"></a></li>
     <li><a href="./potential" tag=""></a></li>
     <li><a href="./right-questions" tag=""></a></li>
+    <li><a href="./boredom" tag="problem"></a></li>
+    <li><a href="./darwin" tag="principle"></a></li>
     <li><a href="./niksen" tag=""></a></li>
+    <li><a href="./leader" tag=""></a></li>
     <li><a href="./lose" tag=""></a></li>
     <li><a href="./rest-reinforcement" tag=""></a></li>
-    <li><a href="./leader" tag=""></a></li>
-    <li><a href="./words" tag=""></a></li>
     <li><a href="./patience" tag=""></a></li>
     <li><a href="./skill-tree" tag=""></a></li>
-    <li><a href="./shot" tag=""></a></li>
-    <li><a href="./darwin" tag="principle"></a></li>
-    <li><a href="./elon-musk" tag="character"></a></li>
     <li><a href="./leverage" tag=""></a></li>
-    <li><a href="./depression" tag="problem"></a></li>
+    <li><a href="./shot" tag=""></a></li>
+    <li><a href="./elon-musk" tag="character"></a></li>
+    <li><a href="./words" tag=""></a></li>
     <li><a href="./wild" tag=""></a></li>
+    <li><a href="./depression" tag="problem"></a></li>
     <li><a href="./improvise" tag=""></a></li>
     <li><a href="./sale" tag=""></a></li>
     <li><a href="./pain-as-a-service" tag=""></a></li>
@@ -99,12 +99,16 @@ permalink: /handbook/
     <li><a href="./40-70" tag=""></a></li>
     <li><a href="./win-win" tag=""></a></li>
     <li><a href="./mess" tag=""></a></li>
+    <li><a href="./flow" tag=""></a></li>
     <li><a href="./swing-trading" tag="tool"></a></li>
     <li><a href="./do-the-right-thing" tag=""></a></li>
     <li><a href="./parkinson-law" tag=""></a></li>
     <li><a href="./form-and-content" tag=""></a></li>
     <li><a href="./childhood" tag=""></a></li>
     <li><a href="./what-if" tag=""></a></li>
+    <li><a href="./inertia" tag=""></a></li>
+    <li><a href="./deserve" tag=""></a></li>
+    <li><a href="./monitor" tag=""></a></li>
     <li><a href="./other" tag=""></a></li>
   </ul>
 </div>

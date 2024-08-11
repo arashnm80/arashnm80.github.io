@@ -2,12 +2,17 @@
 
 or
 
-- **fight my best for narrow possibility to Live**
+- **do my best for narrow possibility to Live**
 
-these are the most absolute 2 valid options that i can see in front of me. no matter i think and feel 99-1 or 50-50, I have to choose and act 100-0. and of course there are some other options too but their outcome are all below those 2.
+these are the most valid options that i can see in front of me up to this moment. no matter i think and feel 99-1 or 50-50, I have to choose and act 100-0.  
+doing my best means to use everything i've got: all of my power, courage, potential, intelligence, ...  
+sometimes it might mean to fight with all of my power and sometimes might mean the opposite
 
 ### Life Factor
 **LF is lifetime Integral of (Pleasure - Pain) and maximizing it is the ultimate goal of life.**
+
+- value of life in youth is more so pleasure in that era should be counted higher than the one in old age.
+- also i think continuous long term joy or pain should be counted higher than the same amount in a short time frame. (maybe)
 
 If positive, it's a worthwhile life called *living* and it's worth to be repeated again.
 
@@ -110,4 +115,4 @@ So if I'm gonna put it in the island anology it's like I have 2 options:
 2. to fight and endure pain for some better island that might not exist at all, if exists is far far away, and even if I reach it might turn out to be another unwanted useless property for me
 
 ### doubt
-i usually think very pessimist about life, LF, pain, passion, hardship, ... **but what if i'm just exaggerating, bringing up excuses, fall in fallacy traps, fall for victim mentality, missing pieces of puzzle due to lack of patience, ... ?**
+i usually think very pessimist about life, LF, pain, passion, hardship, ... **but what if i'm just exaggerating, bringing up excuses, fall in fallacy traps, fall for victim mentality, missing pieces of puzzle due to lack of patience, ... ? what if my expectations are too high and unreal?**

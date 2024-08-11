@@ -5,3 +5,4 @@
 - ambidexterity: switch left and right
 - pull up door
 - don't hump
+- keep phone at eye level

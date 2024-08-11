@@ -31,8 +31,6 @@ Respect everyone and give a shit about no one, in fact don't even think about an
 ### Character
 > I'm gonna be the change I want to see in the world.
 
-> We accept the life we think we deserve.
-
 > Become so big that this world seem small next to you.
 
 > If I don't do it, I want to be the person who doesn't want it, not one who can't.
