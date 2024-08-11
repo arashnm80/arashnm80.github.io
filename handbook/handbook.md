@@ -32,11 +32,11 @@ permalink: /handbook/
     <li><a href="./90-10" tag=""></a></li>
     <li><a href="./hidden-progress" tag=""></a></li>
     <li><a href="./freedom" tag=""></a></li>
+    <li><a href="./victim-mentality" tag=""></a></li>
     <li><a href="./shame" tag=""></a></li>
     <li><a href="./stress" tag=""></a></li>
     <li><a href="./destination-path" tag=""></a></li>
     <li><a href="./art-of-racing-in-the-rain" tag="superpower"></a></li>
-    <li><a href="./victim-mentality" tag=""></a></li>
     <li><a href="./chain-reaction" tag="game-changer"></a></li>
     <li><a href="./subconscious" tag=""></a></li>
     <li><a href="./arbitrage" tag="game-changer"></a></li>
