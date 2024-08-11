@@ -61,6 +61,7 @@ permalink: /handbook/
     <li><a href="./economy" tag=""></a></li>
     <li><a href="./procrastination" tag=""></a></li>
     <li><a href="./move-forward" tag=""></a></li>
+    <li><a href="./ask" tag="weakness"></a></li>
     <li><a href="./smart" tag=""></a></li>
     <li><a href="./immerse" tag=""></a></li>
     <li><a href="./omniscient" tag="superpower"></a></li>
@@ -98,17 +99,18 @@ permalink: /handbook/
     <li><a href="./switch-cost" tag=""></a></li>
     <li><a href="./40-70" tag=""></a></li>
     <li><a href="./win-win" tag=""></a></li>
+    <li><a href="./childhood" tag=""></a></li>
     <li><a href="./mess" tag=""></a></li>
     <li><a href="./flow" tag=""></a></li>
     <li><a href="./swing-trading" tag="tool"></a></li>
     <li><a href="./do-the-right-thing" tag=""></a></li>
     <li><a href="./parkinson-law" tag=""></a></li>
     <li><a href="./form-and-content" tag=""></a></li>
-    <li><a href="./childhood" tag=""></a></li>
     <li><a href="./what-if" tag=""></a></li>
     <li><a href="./inertia" tag=""></a></li>
     <li><a href="./deserve" tag=""></a></li>
     <li><a href="./monitor" tag=""></a></li>
+    <li><a href="./ideas" tag=""></a></li>
     <li><a href="./other" tag=""></a></li>
   </ul>
 </div>

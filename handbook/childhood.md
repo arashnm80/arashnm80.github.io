@@ -1,1 +1,2 @@
+- by the way i was raised shame, guilt and fear became a core in my brain. but now that I'm aware and in control it's time to wipe everything, strart from scratch and program myself in the way i want.
 - when i was a child i always saw tired depressed grown ups in pain. i always wondered why are they like this? back then part of me was totally sure that i'm not going to end up like them, i'm going to be different and another part was afraid what if i turn just like them? i think i understand it now.
