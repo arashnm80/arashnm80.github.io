@@ -172,7 +172,8 @@ permalink: /handbook/
     // convert my simplified html to official one with href and colored buttons
     document.addEventListener("DOMContentLoaded", function() {
         // var items = document.querySelectorAll("li[data-href]");
-        var items = document.querySelectorAll("li");
+        // var items = document.querySelectorAll("li");
+        var items = document.querySelector('li');
         
         items.forEach(function(item) {
             var anchor = item.querySelector('a');
