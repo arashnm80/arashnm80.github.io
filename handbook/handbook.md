@@ -6,7 +6,7 @@ permalink: /handbook/
 
 <div id="all-items">
   <ul>
-    <li data-href="./c'est-ma-vie" data-tag="core"></li>
+    <!-- <li data-href="./c'est-ma-vie" data-tag="core"></li>
     <li data-href="./refuse-or-accept" data-tag="core"></li>
     <li data-href="./no-time-for-caution" data-tag="core"></li>
     <li data-href="./-5to+5" data-tag="strategy"></li>
@@ -104,7 +104,7 @@ permalink: /handbook/
     <li data-href="./form-and-content" data-tag=""></li>
     <li data-href="./childhood" data-tag=""></li>
     <li data-href="./what-if" data-tag=""></li>
-    <li data-href="./other" data-tag=""></li>
+    <li data-href="./other" data-tag=""></li> -->
     <li><a href="./other" tag="hello"></a></li>
   </ul>
 </div>
