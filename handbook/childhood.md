@@ -1,0 +1,1 @@
+- when i was a child i always saw tired depressed grown ups in pain. i always wondered why are they like this? back then part of me was totally sure that i'm not going to end up like them, i'm going to be different and another part was afraid what if i turn just like them? i think i understand it now.
