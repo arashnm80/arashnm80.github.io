@@ -23,8 +23,6 @@ title: Quotes
 
 > The rest of my life starts right now.
 
-> When life gets you down and you feel unloved and worthless, just remember you’ll be dead one day.
-
 > Fu*k, I only live once.
 
 > I can do whatever the fu*k I can do.
@@ -65,11 +63,15 @@ title: Quotes
 
 > Think out of the box.
 
+> شاید ما افسرده نیستیم و فقط فرسوده ایم
+
 > If you have to walk through an unpleasant path, what can you do to make it more bearable or even turn the tide and use it to your advantage?
 
 > Thoughts, words, actions, habits, character, destiny
 
 > plan to win or don't play at all.
+
+> don't optimize sth that should not have existed in the first place.
 
 > Never make the same mistake twice.
 
@@ -144,8 +146,6 @@ title: Quotes
 > I just try to live every day as if I've deliberately come back to this one day, to enjoy it, as if it was the full final day of my extraordinary, ordinary life.
 
 > Am I willing to succeed with cost of everybody disliking me?
-
-> Everybody thinks their loneliness is the biggest loneliness in the world.
 
 > think simple and word hard
 

@@ -10,3 +10,5 @@ length: sort things to in different levels.
 width: sort things in each level.
 
 in general move based on levels sorting and in each level move based on width sorting.
+
+### power of 2 method

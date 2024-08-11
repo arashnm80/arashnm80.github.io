@@ -85,7 +85,6 @@ To say no to this proposed life.
 
 ### pain
 
-
 ### Negative local maximum - island analogy
 ![negative-local-maximum-island-analogy](../../assets/negative-local-maximum-island-analogy.jpg)
 I'm on a small stinky island with limited resources only enough to stay alive. As far as my eyes can see there is just ocean. I have mainly 3 options:
@@ -109,3 +108,6 @@ The problem is that I have some positive LF moments but all of them altoghether 
 So if I'm gonna put it in the island anology it's like I have 2 options:
 1. to die
 2. to fight and endure pain for some better island that might not exist at all, if exists is far far away, and even if I reach it might turn out to be another unwanted useless property for me
+
+### doubt
+i usually think very pessimist about life, LF, pain, passion, hardship, ... **but what if i'm just exaggerating, bringing up excuses, fall in fallacy traps, fall for victim mentality, missing pieces of puzzle due to lack of patience, ... ?**

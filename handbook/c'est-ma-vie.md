@@ -2,8 +2,6 @@
 **But in the end, this is my life.**  
 **So who am I and what am I doing now?**
 
-> When life gets you down and you feel unloved and worthless, just remember you’ll be dead one day.
-
 > Fu*k, I only live once.
 
 > I can do whatever the fu*k I can do.

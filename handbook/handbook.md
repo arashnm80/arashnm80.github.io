@@ -66,8 +66,8 @@ permalink: /handbook/
     <li><a href="./immerse" tag=""></a></li>
     <li><a href="./omniscient" tag="superpower"></a></li>
     <li><a href="./mind-opiums" tag=""></a></li>
-    <li><a href="./optimism-pessimism" tag=""></a></li>
-    <li><a href="./boredom" tag=""></a></li>
+    <li><a href="./glasses" tag=""></a></li>
+    <li><a href="./boredom" tag="problem"></a></li>
     <li><a href="./potential" tag=""></a></li>
     <li><a href="./right-questions" tag=""></a></li>
     <li><a href="./niksen" tag=""></a></li>
@@ -78,10 +78,11 @@ permalink: /handbook/
     <li><a href="./patience" tag=""></a></li>
     <li><a href="./skill-tree" tag=""></a></li>
     <li><a href="./shot" tag=""></a></li>
-    <li><a href="./leverage" tag=""></a></li>
-    <li><a href="./wild" tag=""></a></li>
     <li><a href="./darwin" tag="principle"></a></li>
     <li><a href="./elon-musk" tag="character"></a></li>
+    <li><a href="./leverage" tag=""></a></li>
+    <li><a href="./depression" tag="problem"></a></li>
+    <li><a href="./wild" tag=""></a></li>
     <li><a href="./improvise" tag=""></a></li>
     <li><a href="./sale" tag=""></a></li>
     <li><a href="./pain-as-a-service" tag=""></a></li>
@@ -91,7 +92,7 @@ permalink: /handbook/
     <li><a href="./eyes" tag=""></a></li>
     <li><a href="./evolution" tag=""></a></li>
     <li><a href="./hope" tag=""></a></li>
-    <li><a href="./ocd" tag=""></a></li>
+    <li><a href="./ocd" tag="problem"></a></li>
     <li><a href="./big-picture" tag=""></a></li>
     <li><a href="./mental-model" tag=""></a></li>
     <li><a href="./switch-cost" tag=""></a></li>
