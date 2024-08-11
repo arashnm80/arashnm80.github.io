@@ -79,23 +79,23 @@ permalink: /handbook/
     <li data-href="./shot" data-tag=""></li>
     <li data-href="./leverage" data-tag=""></li>
     <li data-href="./wild" data-tag=""></li>
+    <li data-href="./darwin" data-tag="principle"></li>
     <li data-href="./elon-musk" data-tag="character"></li>
     <li data-href="./improvise" data-tag=""></li>
     <li data-href="./sale" data-tag=""></li>
     <li data-href="./pain-as-a-service" data-tag=""></li>
     <li data-href="./jensen-huang" data-tag="character"></li>
     <li data-href="./sam-altman" data-tag="character"></li>
+    <li data-href="./overcorrection" data-tag="tool"></li>
     <li data-href="./eyes" data-tag=""></li>
     <li data-href="./evolution" data-tag=""></li>
     <li data-href="./hope" data-tag=""></li>
-    <li data-href="./darwin" data-tag="principle"></li>
     <li data-href="./big-picture" data-tag=""></li>
     <li data-href="./mental-model" data-tag=""></li>
     <li data-href="./switch-cost" data-tag=""></li>
     <li data-href="./40-70" data-tag=""></li>
     <li data-href="./win-win" data-tag=""></li>
     <li data-href="./mess" data-tag=""></li>
-    <li data-href="./overcorrection" data-tag="tool"></li>
     <li data-href="./swing-trading" data-tag="tool"></li>
     <li data-href="./do-the-right-thing" data-tag=""></li>
     <li data-href="./parkinson-law" data-tag=""></li>
