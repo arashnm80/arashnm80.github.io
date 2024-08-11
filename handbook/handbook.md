@@ -6,108 +6,107 @@ permalink: /handbook/
 
 <div id="all-items">
   <ul>
-    <li><a href="./other" tag="hello"></a></li>
+    <li><a href="./c'est-ma-vie" tag="core"></a></li>
+    <li><a href="./refuse-or-accept" tag="core"></a></li>
+    <li><a href="./no-time-for-caution" tag="core"></a></li>
+    <li><a href="./-5to+5" tag="strategy"></a></li>
+    <li><a href="./choice" tag="principle"></a></li>
+    <li><a href="./fear" tag=""></a></li>
+    <li><a href="./sort" tag="principle"></a></li>
+    <li><a href="./action" tag="principle"></a></li>
+    <li><a href="./fight" tag=""></a></li>
+    <li><a href="./plan-a-b" tag="principle"></a></li>
+    <li><a href="./quality-levels" tag="principle"></a></li>
+    <li><a href="./experience" tag=""></a></li>
+    <li><a href="./persistency" tag="principle"></a></li>
+    <li><a href="./gom-jabbar" tag="superpower"></a></li>
+    <li><a href="./routine" tag=""></a></li>
+    <li><a href="./removals" tag=""></a></li>
+    <li><a href="./reboot" tag="superpower"></a></li>
+    <li><a href="./multitask" tag=""></a></li>
+    <li><a href="./all-at-once" tag=""></a></li>
+    <li><a href="./2-battlefields" tag="principle"></a></li>
+    <li><a href="./dopamine" tag=""></a></li>
+    <li><a href="./bubble" tag=""></a></li>
+    <li><a href="./begin-again" tag=""></a></li>
+    <li><a href="./90-10" tag=""></a></li>
+    <li><a href="./hidden-progress" tag=""></a></li>
+    <li><a href="./freedom" tag=""></a></li>
+    <li><a href="./shame" tag=""></a></li>
+    <li><a href="./stress" tag=""></a></li>
+    <li><a href="./destination-path" tag=""></a></li>
+    <li><a href="./art-of-racing-in-the-rain" tag="superpower"></a></li>
+    <li><a href="./victim-mentality" tag=""></a></li>
+    <li><a href="./chain-reaction" tag="game-changer"></a></li>
+    <li><a href="./arbitrage" tag="game-changer"></a></li>
+    <li><a href="./subconscious" tag=""></a></li>
+    <li><a href="./people" tag=""></a></li>
+    <li><a href="./dirac-delta-function" tag=""></a></li>
+    <li><a href="./minimalism" tag=""></a></li>
+    <li><a href="./idea-person" tag="game-changer"></a></li>
+    <li><a href="./will" tag=""></a></li>
+    <li><a href="./hobby-as-a-service" tag="game-changer"></a></li>
+    <li><a href="./near-zero-cost" tag=""></a></li>
+    <li><a href="./domino-effect" tag=""></a></li>
+    <li><a href="./narrow-way-through" tag=""></a></li>
+    <li><a href="./system-1-2" tag=""></a></li>
+    <li><a href="./portrait-painting" tag=""></a></li>
+    <li><a href="./renewable-energy" tag=""></a></li>
+    <li><a href="./carnet-mental" tag="superpower"></a></li>
+    <li><a href="./naval" tag="character"></a></li>
+    <li><a href="./skin-in-the-game" tag=""></a></li>
+    <li><a href="./mrbeast" tag="character"></a></li>
+    <li><a href="./cbt" tag=""></a></li>
+    <li><a href="./creativity" tag=""></a></li>
+    <li><a href="./move-forward" tag=""></a></li>
+    <li><a href="./economy" tag=""></a></li>
+    <li><a href="./procrastination" tag=""></a></li>
+    <li><a href="./smart" tag=""></a></li>
+    <li><a href="./teacher" tag=""></a></li>
+    <li><a href="./immerse" tag=""></a></li>
+    <li><a href="./omniscient" tag="superpower"></a></li>
+    <li><a href="./mind-opiums" tag=""></a></li>
+    <li><a href="./optimism-pessimism" tag=""></a></li>
+    <li><a href="./boredom" tag=""></a></li>
+    <li><a href="./potential" tag=""></a></li>
+    <li><a href="./right-questions" tag=""></a></li>
+    <li><a href="./niksen" tag=""></a></li>
+    <li><a href="./lose" tag=""></a></li>
+    <li><a href="./rest-reinforcement" tag=""></a></li>
+    <li><a href="./leader" tag=""></a></li>
+    <li><a href="./words" tag=""></a></li>
+    <li><a href="./patience" tag=""></a></li>
+    <li><a href="./skill-tree" tag=""></a></li>
+    <li><a href="./shot" tag=""></a></li>
+    <li><a href="./leverage" tag=""></a></li>
+    <li><a href="./wild" tag=""></a></li>
+    <li><a href="./darwin" tag="principle"></a></li>
+    <li><a href="./elon-musk" tag="character"></a></li>
+    <li><a href="./improvise" tag=""></a></li>
+    <li><a href="./sale" tag=""></a></li>
+    <li><a href="./pain-as-a-service" tag=""></a></li>
+    <li><a href="./jensen-huang" tag="character"></a></li>
+    <li><a href="./sam-altman" tag="character"></a></li>
+    <li><a href="./overcorrection" tag="tool"></a></li>
+    <li><a href="./eyes" tag=""></a></li>
+    <li><a href="./evolution" tag=""></a></li>
+    <li><a href="./hope" tag=""></a></li>
+    <li><a href="./ocd" tag=""></a></li>
+    <li><a href="./big-picture" tag=""></a></li>
+    <li><a href="./mental-model" tag=""></a></li>
+    <li><a href="./switch-cost" tag=""></a></li>
+    <li><a href="./40-70" tag=""></a></li>
+    <li><a href="./win-win" tag=""></a></li>
+    <li><a href="./mess" tag=""></a></li>
+    <li><a href="./swing-trading" tag="tool"></a></li>
+    <li><a href="./do-the-right-thing" tag=""></a></li>
+    <li><a href="./parkinson-law" tag=""></a></li>
+    <li><a href="./form-and-content" tag=""></a></li>
+    <li><a href="./childhood" tag=""></a></li>
+    <li><a href="./what-if" tag=""></a></li>
+    <li><a href="./other" tag=""></a></li>
   </ul>
 </div>
-    <!-- <li data-href="./c'est-ma-vie" data-tag="core"></li>
-    <li data-href="./refuse-or-accept" data-tag="core"></li>
-    <li data-href="./no-time-for-caution" data-tag="core"></li>
-    <li data-href="./-5to+5" data-tag="strategy"></li>
-    <li data-href="./choice" data-tag="principle"></li>
-    <li data-href="./fear" data-tag=""></li>
-    <li data-href="./sort" data-tag="principle"></li>
-    <li data-href="./action" data-tag="principle"></li>
-    <li data-href="./fight" data-tag=""></li>
-    <li data-href="./plan-a-b" data-tag="principle"></li>
-    <li data-href="./quality-levels" data-tag="principle"></li>
-    <li data-href="./experience" data-tag=""></li>
-    <li data-href="./persistency" data-tag="principle"></li>
-    <li data-href="./gom-jabbar" data-tag="superpower"></li>
-    <li data-href="./routine" data-tag=""></li>
-    <li data-href="./removals" data-tag=""></li>
-    <li data-href="./reboot" data-tag="superpower"></li>
-    <li data-href="./multitask" data-tag=""></li>
-    <li data-href="./all-at-once" data-tag=""></li>
-    <li data-href="./2-battlefields" data-tag="principle"></li>
-    <li data-href="./dopamine" data-tag=""></li>
-    <li data-href="./bubble" data-tag=""></li>
-    <li data-href="./begin-again" data-tag=""></li>
-    <li data-href="./90-10" data-tag=""></li>
-    <li data-href="./hidden-progress" data-tag=""></li>
-    <li data-href="./freedom" data-tag=""></li>
-    <li data-href="./shame" data-tag=""></li>
-    <li data-href="./stress" data-tag=""></li>
-    <li data-href="./destination-path" data-tag=""></li>
-    <li data-href="./art-of-racing-in-the-rain" data-tag="superpower"></li>
-    <li data-href="./victim-mentality" data-tag=""></li>
-    <li data-href="./chain-reaction" data-tag="game-changer"></li>
-    <li data-href="./arbitrage" data-tag="game-changer"></li>
-    <li data-href="./subconscious" data-tag=""></li>
-    <li data-href="./people" data-tag=""></li>
-    <li data-href="./dirac-delta-function" data-tag=""></li>
-    <li data-href="./minimalism" data-tag=""></li>
-    <li data-href="./idea-person" data-tag="game-changer"></li>
-    <li data-href="./will" data-tag=""></li>
-    <li data-href="./hobby-as-a-service" data-tag="game-changer"></li>
-    <li data-href="./near-zero-cost" data-tag=""></li>
-    <li data-href="./domino-effect" data-tag=""></li>
-    <li data-href="./narrow-way-through" data-tag=""></li>
-    <li data-href="./system-1-2" data-tag=""></li>
-    <li data-href="./portrait-painting" data-tag=""></li>
-    <li data-href="./renewable-energy" data-tag=""></li>
-    <li data-href="./carnet-mental" data-tag="superpower"></li>
-    <li data-href="./naval" data-tag="character"></li>
-    <li data-href="./skin-in-the-game" data-tag=""></li>
-    <li data-href="./mrbeast" data-tag="character"></li>
-    <li data-href="./cbt" data-tag=""></li>
-    <li data-href="./creativity" data-tag=""></li>
-    <li data-href="./move-forward" data-tag=""></li>
-    <li data-href="./economy" data-tag=""></li>
-    <li data-href="./procrastination" data-tag=""></li>
-    <li data-href="./smart" data-tag=""></li>
-    <li data-href="./teacher" data-tag=""></li>
-    <li data-href="./immerse" data-tag=""></li>
-    <li data-href="./omniscient" data-tag="superpower"></li>
-    <li data-href="./mind-opiums" data-tag=""></li>
-    <li data-href="./optimism-pessimism" data-tag=""></li>
-    <li data-href="./boredom" data-tag=""></li>
-    <li data-href="./potential" data-tag=""></li>
-    <li data-href="./right-questions" data-tag=""></li>
-    <li data-href="./niksen" data-tag=""></li>
-    <li data-href="./lose" data-tag=""></li>
-    <li data-href="./rest-reinforcement" data-tag=""></li>
-    <li data-href="./leader" data-tag=""></li>
-    <li data-href="./words" data-tag=""></li>
-    <li data-href="./patience" data-tag=""></li>
-    <li data-href="./skill-tree" data-tag=""></li>
-    <li data-href="./shot" data-tag=""></li>
-    <li data-href="./leverage" data-tag=""></li>
-    <li data-href="./wild" data-tag=""></li>
-    <li data-href="./darwin" data-tag="principle"></li>
-    <li data-href="./elon-musk" data-tag="character"></li>
-    <li data-href="./improvise" data-tag=""></li>
-    <li data-href="./sale" data-tag=""></li>
-    <li data-href="./pain-as-a-service" data-tag=""></li>
-    <li data-href="./jensen-huang" data-tag="character"></li>
-    <li data-href="./sam-altman" data-tag="character"></li>
-    <li data-href="./overcorrection" data-tag="tool"></li>
-    <li data-href="./eyes" data-tag=""></li>
-    <li data-href="./evolution" data-tag=""></li>
-    <li data-href="./hope" data-tag=""></li>
-    <li data-href="./ocd" data-tag=""></li>
-    <li data-href="./big-picture" data-tag=""></li>
-    <li data-href="./mental-model" data-tag=""></li>
-    <li data-href="./switch-cost" data-tag=""></li>
-    <li data-href="./40-70" data-tag=""></li>
-    <li data-href="./win-win" data-tag=""></li>
-    <li data-href="./mess" data-tag=""></li>
-    <li data-href="./swing-trading" data-tag="tool"></li>
-    <li data-href="./do-the-right-thing" data-tag=""></li>
-    <li data-href="./parkinson-law" data-tag=""></li>
-    <li data-href="./form-and-content" data-tag=""></li>
-    <li data-href="./childhood" data-tag=""></li>
-    <li data-href="./what-if" data-tag=""></li>
-    <li data-href="./other" data-tag=""></li> -->
 
 <div id="organized-items"></div>
 
@@ -169,24 +168,16 @@ permalink: /handbook/
     }
 
 
-    // convert my simplified html to official one with href and colored buttons
+    // update texts based on hrefs and add colored buttons based on tags
     document.addEventListener("DOMContentLoaded", function() {
         // var items = document.querySelectorAll("li[data-href]");
         var items = document.querySelectorAll("li");
-        // var items = document.querySelector('li');
         
         items.forEach(function(item) {
             var anchor = item.querySelector('a');
             var href = anchor.getAttribute("href");
             var tag = anchor.getAttribute("tag");
             anchor.textContent = href.replace('./', '');
-            
-            // // Create anchor element and set href
-            // var anchor = document.createElement("a");
-            // anchor.href = href;
-            
-            // Set text content to href without the "./"
-            // item.appendChild(anchor);
 
             // one extra space between text and button for readability
             var space = document.createElement("span");
