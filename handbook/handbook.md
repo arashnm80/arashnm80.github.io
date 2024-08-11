@@ -6,6 +6,9 @@ permalink: /handbook/
 
 <div id="all-items">
   <ul>
+    <li><a href="./other" tag="hello"></a></li>
+  </ul>
+</div>
     <!-- <li data-href="./c'est-ma-vie" data-tag="core"></li>
     <li data-href="./refuse-or-accept" data-tag="core"></li>
     <li data-href="./no-time-for-caution" data-tag="core"></li>
@@ -105,9 +108,6 @@ permalink: /handbook/
     <li data-href="./childhood" data-tag=""></li>
     <li data-href="./what-if" data-tag=""></li>
     <li data-href="./other" data-tag=""></li> -->
-    <li><a href="./other" tag="hello"></a></li>
-  </ul>
-</div>
 
 <div id="organized-items"></div>
 
@@ -172,20 +172,20 @@ permalink: /handbook/
     // convert my simplified html to official one with href and colored buttons
     document.addEventListener("DOMContentLoaded", function() {
         // var items = document.querySelectorAll("li[data-href]");
-        // var items = document.querySelectorAll("li");
-        var items = document.querySelector('li');
+        var items = document.querySelectorAll("li");
+        // var items = document.querySelector('li');
         
         items.forEach(function(item) {
             var anchor = item.querySelector('a');
             var href = anchor.getAttribute("href");
             var tag = anchor.getAttribute("tag");
+            anchor.textContent = href.replace('./', '');
             
             // // Create anchor element and set href
             // var anchor = document.createElement("a");
             // anchor.href = href;
             
             // Set text content to href without the "./"
-            anchor.textContent = href.replace('./', '');
             // item.appendChild(anchor);
 
             // one extra space between text and button for readability
