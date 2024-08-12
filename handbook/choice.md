@@ -19,9 +19,12 @@ my resources (time, money, power, people, ...) are limited. so I have to choose 
 ### Exchange
 World is an ocean of options and possibilites and to choose one of them means to lose the others, so every choice has an exchange in its essence. This whole life is a big trading system, it's to constantly exchange assests with each other and one who can't stand to lose anything will gain nothing.
 
-> To earn more than everybody, you should be willing to lose and sacrifice more than everybody.
-
 > Everything comes at a price.
+
+### sacrifice
+there are many occasions in which the only way to move on is to sacrifice and cut our own hand, otherwise we stuck in a certain point and don't go any further. question is, am i willing to cut my hand?
+
+> To earn more than everybody, you should be willing to lose and sacrifice more than everybody.
 
 > those who can't sacrifice anything, can't change anything and deserve nothing. If I can't let it go, it's not worth holding on to.
 

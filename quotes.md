@@ -39,9 +39,9 @@ title: Quotes
 
 > If I don't know what I want, I can't judge myself for not achieving it.
 
-> To earn more than everybody, you should be willing to lose and sacrifice more than everybody.
-
 > Everything comes at a price.
+
+> To earn more than everybody, you should be willing to lose and sacrifice more than everybody.
 
 > those who can't sacrifice anything, can't change anything and deserve nothing. If I can't let it go, it's not worth holding on to.
 
