@@ -82,6 +82,8 @@ So in this paradox if *I can do everything* is actually true, can I turn the tid
 
 one thing that is hurting me is the fact that even some of my biggest passions look to be only less negative points. they are just less pain, they are not joy.
 
+i don't know if i was like this from the first place or changed or forced or metamorphosed but i don't enjoy watching sky, peting animals, eating foods, ... like others.
+
 ### Leave
 What does it mean to leave?
 
