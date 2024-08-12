@@ -18,6 +18,8 @@ I can define some constant routines to create this situation manually, e.g. :
 
 > Good is just what people call people who help them.
 
+> don't runaway from bad to worse
+
 ## I-dentity
 > My time is limited, I'm not gonna waste it living someone else’s life.
 

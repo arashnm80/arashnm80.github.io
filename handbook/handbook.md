@@ -43,6 +43,7 @@ permalink: /handbook/
     <li><a href="./people" tag=""></a></li>
     <li><a href="./dirac-delta-function" tag=""></a></li>
     <li><a href="./minimalism" tag=""></a></li>
+    <li><a href="./believe" tag=""></a></li>
     <li><a href="./will" tag=""></a></li>
     <li><a href="./idea-person" tag="game-changer"></a></li>
     <li><a href="./hobby-as-a-service" tag="game-changer"></a></li>
@@ -111,6 +112,7 @@ permalink: /handbook/
     <li><a href="./deserve" tag=""></a></li>
     <li><a href="./monitor" tag=""></a></li>
     <li><a href="./ideas" tag=""></a></li>
+    <li><a href="./pride" tag=""></a></li>
     <li><a href="./other" tag=""></a></li>
   </ul>
 </div>

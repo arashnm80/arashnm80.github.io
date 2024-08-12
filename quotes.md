@@ -155,6 +155,8 @@ title: Quotes
 
 > Good is just what people call people who help them.
 
+> don't runaway from bad to worse
+
 > My time is limited, I'm not gonna waste it living someone else’s life.
 
 > Everybody in the world is a compass for me. A reminder of where I want to be and where I don't.
