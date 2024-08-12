@@ -35,6 +35,7 @@ permalink: /handbook/
     <li><a href="./victim-mentality" tag=""></a></li>
     <li><a href="./shame" tag=""></a></li>
     <li><a href="./stress" tag=""></a></li>
+    <li><a href="./believe" tag="principle"></a></li>
     <li><a href="./destination-path" tag=""></a></li>
     <li><a href="./art-of-racing-in-the-rain" tag="superpower"></a></li>
     <li><a href="./chain-reaction" tag="game-changer"></a></li>
@@ -43,7 +44,6 @@ permalink: /handbook/
     <li><a href="./people" tag=""></a></li>
     <li><a href="./dirac-delta-function" tag=""></a></li>
     <li><a href="./minimalism" tag=""></a></li>
-    <li><a href="./believe" tag=""></a></li>
     <li><a href="./will" tag=""></a></li>
     <li><a href="./idea-person" tag="game-changer"></a></li>
     <li><a href="./hobby-as-a-service" tag="game-changer"></a></li>
