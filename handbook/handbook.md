@@ -40,26 +40,26 @@ permalink: /handbook/
     <li><a href="./art-of-racing-in-the-rain" tag="superpower"></a></li>
     <li><a href="./chain-reaction" tag="game-changer"></a></li>
     <li><a href="./subconscious" tag=""></a></li>
-    <li><a href="./arbitrage" tag="game-changer"></a></li>
     <li><a href="./people" tag=""></a></li>
     <li><a href="./dirac-delta-function" tag=""></a></li>
     <li><a href="./minimalism" tag=""></a></li>
     <li><a href="./will" tag=""></a></li>
-    <li><a href="./idea-person" tag="game-changer"></a></li>
-    <li><a href="./hobby-as-a-service" tag="game-changer"></a></li>
     <li><a href="./domino-effect" tag=""></a></li>
     <li><a href="./near-zero-cost" tag=""></a></li>
+    <li><a href="./hobby-as-a-service" tag="game-changer"></a></li>
     <li><a href="./narrow-way-through" tag=""></a></li>
     <li><a href="./system-1-2" tag=""></a></li>
+    <li><a href="./naval" tag="character"></a></li>
     <li><a href="./portrait-painting" tag=""></a></li>
     <li><a href="./renewable-energy" tag=""></a></li>
-    <li><a href="./naval" tag="character"></a></li>
     <li><a href="./carnet-mental" tag="superpower"></a></li>
     <li><a href="./skin-in-the-game" tag=""></a></li>
-    <li><a href="./mrbeast" tag="character"></a></li>
+    <li><a href="./idea-person" tag="game-changer"></a></li>
     <li><a href="./creativity" tag=""></a></li>
+    <li><a href="./mrbeast" tag="character"></a></li>
     <li><a href="./cbt" tag=""></a></li>
     <li><a href="./economy" tag=""></a></li>
+    <li><a href="./arbitrage" tag="game-changer"></a></li>
     <li><a href="./procrastination" tag=""></a></li>
     <li><a href="./move-forward" tag=""></a></li>
     <li><a href="./ask" tag="weakness"></a></li>
@@ -80,19 +80,19 @@ permalink: /handbook/
     <li><a href="./patience" tag=""></a></li>
     <li><a href="./skill-tree" tag=""></a></li>
     <li><a href="./leverage" tag=""></a></li>
-    <li><a href="./shot" tag=""></a></li>
     <li><a href="./elon-musk" tag="character"></a></li>
+    <li><a href="./shot" tag=""></a></li>
     <li><a href="./words" tag=""></a></li>
     <li><a href="./wild" tag=""></a></li>
     <li><a href="./depression" tag="problem"></a></li>
     <li><a href="./improvise" tag=""></a></li>
     <li><a href="./sale" tag=""></a></li>
-    <li><a href="./pain-as-a-service" tag=""></a></li>
     <li><a href="./jensen-huang" tag="character"></a></li>
-    <li><a href="./sam-altman" tag="character"></a></li>
+    <li><a href="./pain-as-a-service" tag=""></a></li>
     <li><a href="./overcorrection" tag="tool"></a></li>
     <li><a href="./eyes" tag=""></a></li>
     <li><a href="./evolution" tag=""></a></li>
+    <li><a href="./sam-altman" tag="character"></a></li>
     <li><a href="./hope" tag=""></a></li>
     <li><a href="./ocd" tag="problem"></a></li>
     <li><a href="./big-picture" tag=""></a></li>
