@@ -10,10 +10,10 @@ permalink: /handbook/
     <li><a href="./refuse-or-accept" tag="core"></a></li>
     <li><a href="./no-time-for-caution" tag="core"></a></li>
     <li><a href="./five-to-five" tag="strategy"></a></li>
-    <li><a href="./choice" tag="principle"></a></li>
-    <li><a href="./fear" tag=""></a></li>
-    <li><a href="./sort" tag="principle"></a></li>
     <li><a href="./action" tag="principle"></a></li>
+    <li><a href="./choice" tag="principle"></a></li>
+    <li><a href="./sort" tag="principle"></a></li>
+    <li><a href="./fear" tag=""></a></li>
     <li><a href="./fight" tag=""></a></li>
     <li><a href="./plan-a-b" tag="principle"></a></li>
     <li><a href="./quality-levels" tag="principle"></a></li>

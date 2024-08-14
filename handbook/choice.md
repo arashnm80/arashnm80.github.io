@@ -1,4 +1,4 @@
-**limitation, exchange, sacrifice, uncertainty, probability, gamble, risk, fuck, judgement call**
+**limitation, exchange, sacrifice, uncertainty, probability, gamble, risk, fuck, judgement call, try**
 
 > newton's third law, The only way of getting somewhere is to leave something behind.
 
@@ -95,6 +95,8 @@ Risk is the natural product of uncertainty. It's the relationship between sizes 
 
 ### try
 > I'm not sure if it's possible or not but the only way to find out is to try with everything I've got.
+
+i can choose to do many things. they might be possible or impossible, i might be able to commit to them till the end or leave them half way through, but what matters is that how much i realy try?
 
 ### pain and fear
 id, ego and super ego aside, we almost always know what is the best choice but we fail to choose it because it's almost always the scariest, hardest and most painful option.
