@@ -92,7 +92,6 @@ permalink: /handbook/
     <li><a href="./eyes" tag=""></a></li>
     <li><a href="./evolution" tag=""></a></li>
     <li><a href="./sam-altman" tag="character"></a></li>
-    <li><a href="./hope" tag=""></a></li>
     <li><a href="./ocd" tag="problem"></a></li>
     <li><a href="./big-picture" tag=""></a></li>
     <li><a href="./mental-model" tag=""></a></li>

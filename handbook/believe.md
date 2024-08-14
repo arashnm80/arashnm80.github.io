@@ -10,3 +10,6 @@ they work in the similar way by making everything easy for us. when we decide to
 everybody sees the world through their own glasses. optimisim, pessimism, realism, rationalism, transparent, opaque, ...
 
 Everybody thinks their loneliness/pain/depression/sadness/confusion/... is the biggest one in the world.
+
+### hope
+> hope is product of self-trust.

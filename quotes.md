@@ -23,6 +23,8 @@ title: Quotes
 
 > The rest of my life starts right now.
 
+> hope is product of self-trust.
+
 > Fu*k, I only live once.
 
 > I can do whatever the fu*k I can do.
@@ -96,8 +98,6 @@ title: Quotes
 > Make every bullet count.
 
 > It takes 10 years to become an overnight success.
-
-> hope is product of self-trust.
 
 > Wealth is having assets that earn while I sleep.
 
