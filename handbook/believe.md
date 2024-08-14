@@ -5,3 +5,8 @@ and another very important factor: consider a contest between 100 people with 10
 ### negative beliefs
 excuses, victim mentality, weak mentality, loser mentality, ...  
 they work in the similar way by making everything easy for us. when we decide to believe these for ourselves it it's easy to get rid of guilty conscience of not trying, sit down and not fight, be a failure and be proud of it.
+
+### glasses
+everybody sees the world through their own glasses. optimisim, pessimism, realism, rationalism, transparent, opaque, ...
+
+Everybody thinks their loneliness/pain/depression/sadness/confusion/... is the biggest one in the world.

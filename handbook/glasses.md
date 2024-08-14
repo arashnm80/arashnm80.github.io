@@ -1,3 +1,0 @@
-everybody sees the world through their own glasses. optimisim, pessimism, realism, rationalism, transparent, opaque, ...
-
-Everybody thinks their loneliness/pain/depression/sadness/confusion/... is the biggest one in the world.

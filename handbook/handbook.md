@@ -57,27 +57,26 @@ permalink: /handbook/
     <li><a href="./idea-person" tag="game-changer"></a></li>
     <li><a href="./creativity" tag=""></a></li>
     <li><a href="./mrbeast" tag="character"></a></li>
+    <li><a href="./procrastination" tag=""></a></li>
     <li><a href="./cbt" tag=""></a></li>
     <li><a href="./economy" tag=""></a></li>
     <li><a href="./arbitrage" tag="game-changer"></a></li>
-    <li><a href="./procrastination" tag=""></a></li>
     <li><a href="./move-forward" tag=""></a></li>
     <li><a href="./ask" tag="weakness"></a></li>
     <li><a href="./smart" tag=""></a></li>
     <li><a href="./immerse" tag=""></a></li>
     <li><a href="./omniscient" tag="superpower"></a></li>
     <li><a href="./mind-opiums" tag=""></a></li>
-    <li><a href="./teacher" tag=""></a></li>
-    <li><a href="./glasses" tag=""></a></li>
     <li><a href="./potential" tag=""></a></li>
     <li><a href="./right-questions" tag=""></a></li>
+    <li><a href="./leader" tag=""></a></li>
     <li><a href="./boredom" tag="problem"></a></li>
     <li><a href="./darwin" tag="principle"></a></li>
     <li><a href="./niksen" tag=""></a></li>
-    <li><a href="./leader" tag=""></a></li>
     <li><a href="./lose" tag=""></a></li>
     <li><a href="./rest-reinforcement" tag=""></a></li>
     <li><a href="./patience" tag=""></a></li>
+    <li><a href="./teacher" tag=""></a></li>
     <li><a href="./skill-tree" tag=""></a></li>
     <li><a href="./leverage" tag=""></a></li>
     <li><a href="./elon-musk" tag="character"></a></li>
