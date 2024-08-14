@@ -1,5 +1,7 @@
 **in the end, the only thing matters is my actions.**
 
+we almost always know the best choice but acting toward it is almost always very hard. it's like being a dragonrider, your brain know the path but your dragon is powerful yet a wild animal
+
 Doing any random action with any size toward any direction is way better than no action.
 
 > Talk is cheap, show me the code.
