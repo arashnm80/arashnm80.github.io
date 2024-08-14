@@ -128,3 +128,5 @@ cause so far i've had 4 major collapses during sth unwanted and stressful with a
 these 4 have been the most deppressing and dark days for me but did i feel without passion oustide those periods too? i guess mostly not.
 
 and the importance of this *what if* is better understood while i remind myself this fact: ok it's an unwanted bullshit task or let's even call it painful, but in reality it takes 1 to 2 weeks while i've been lingering around for 6 fucking months🤯.
+
+for so many years i have seen myself too good for this world. i've seen the world beneath me and not worthy. but this begs the question: *what any special thing have i done so far to see myself this mighty? any big sacriface? any special fear conquered? ...*
