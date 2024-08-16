@@ -128,7 +128,8 @@ cause so far i've had 4 major collapses during sth unwanted and stressful with a
 - writing article for roshd magazine
 - last 6 months of sru ending project
 - last months of research center student contests
-these 4 have been the most deppressing and dark days for me but did i feel without passion oustide those periods too? i guess mostly not.
+these have been the most deppressing and dark days for me but did i feel without passion oustide those periods too? i guess mostly not.  
+in all those past breakdowns i did nothing until all their deadlines ended and i lost their related game and moved on to next other games. but with having this experience these many times, do i let it happen again?
 
 and the importance of this *what if* is better understood while i remind myself this fact: ok it's an unwanted bullshit task or let's even call it painful, but in reality it takes 1 to 2 weeks while i've been lingering around for 6 fucking months🤯.
 
