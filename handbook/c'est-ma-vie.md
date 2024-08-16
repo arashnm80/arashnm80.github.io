@@ -1,4 +1,4 @@
-**Paradise and hell; such is life.**  
+**Paradise or hell; such is life.**  
 **But in the end, this is my life.**  
 **So who am I and what am I doing now?**
 
@@ -14,3 +14,4 @@ do things and live for myself not for the world and others.
 every person is different from the other. the hardest thing for one can be the easiest for the other and vice versa. focus and understand on your own strengths and weaknesses.
 
 ### identity
+first priority is me. my time, my health, my need, my choice, my feeling, ...
