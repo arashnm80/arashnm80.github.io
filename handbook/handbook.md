@@ -21,11 +21,10 @@ permalink: /handbook/
     <li><a href="./persistency" tag="principle"></a></li>
     <li><a href="./gom-jabbar" tag="superpower"></a></li>
     <li><a href="./habits-and-routines" tag=""></a></li>
+    <li><a href="./2-battlefields" tag="principle"></a></li>
     <li><a href="./removals" tag=""></a></li>
     <li><a href="./reboot" tag="superpower"></a></li>
     <li><a href="./multitask" tag=""></a></li>
-    <li><a href="./all-at-once" tag=""></a></li>
-    <li><a href="./2-battlefields" tag="principle"></a></li>
     <li><a href="./dopamine" tag=""></a></li>
     <li><a href="./bubble" tag=""></a></li>
     <li><a href="./begin-again" tag=""></a></li>

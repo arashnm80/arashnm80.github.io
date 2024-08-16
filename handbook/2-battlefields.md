@@ -1,8 +1,3 @@
----
-layout: page
-title: 2 Battlefields
----
-
 At the same time:
 
 1. Try to become more bulletproof to resist heavier bullets
@@ -71,3 +66,7 @@ At the same time:
 ---
 1. be able to sacrifice everything
 2. find better strategies to sacrifice less
+
+---
+1. follow the passions i already have
+2. search to discover more passions
