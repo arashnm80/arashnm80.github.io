@@ -1,0 +1,3 @@
+- statistics
+- track on repeat
+- lower or upper case

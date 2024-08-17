@@ -22,7 +22,7 @@ permalink: /handbook/
     <li><a href="./gom-jabbar" tag="superpower"></a></li>
     <li><a href="./habits-and-routines" tag=""></a></li>
     <li><a href="./2-battlefields" tag="principle"></a></li>
-    <li><a href="./removals" tag=""></a></li>
+    <li><a href="./ignores-and-removals" tag=""></a></li>
     <li><a href="./reboot" tag="superpower"></a></li>
     <li><a href="./multitask" tag=""></a></li>
     <li><a href="./dopamine" tag=""></a></li>
