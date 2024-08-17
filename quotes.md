@@ -43,10 +43,6 @@ title: Quotes
 
 > The perfect decision making duration is 8 minutes and 34 seconds.
 
-> Certainty never exists and it's not an excuse to do nothing.
-
-> No one actually knows what the hell they're doing. Everyone is just working off their current best guess.
-
 > Any worthwhile venture involves risk.
 
 > The three most harmful addictions are heroin, carbohydrates, and a monthly salary.
@@ -226,6 +222,8 @@ title: Quotes
 > I'm gonna think out of the box.
 
 > No matter of probabilities, take 100% of the shots.
+
+> Certainty never exists and it's not an excuse to do nothing.
 
 > Whether I am a victim or not, thinking and complaining about it will change nothing. so the best choice is to get over it, put my head down and soldier through.
 
