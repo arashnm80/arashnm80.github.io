@@ -25,8 +25,6 @@ title: Quotes
 
 > hope is product of self-trust.
 
-> Fu*k, I only live once.
-
 > I can do whatever the fu*k I can do.
 
 > lead people who lead people.
