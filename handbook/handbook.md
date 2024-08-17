@@ -12,7 +12,7 @@ permalink: /handbook/
     <li><a href="./choice" tag="principle"></a></li>
     <li><a href="./i-dentity" tag="principle"></a></li>
     <li><a href="./action" tag="principle"></a></li>
-    <li><a href="./five-to-five" tag="strategy"></a></li>
+    <li><a href="./strategy" tag=""></a></li>
     <li><a href="./sort" tag="principle"></a></li>
     <li><a href="./fear" tag=""></a></li>
     <li><a href="./fight" tag=""></a></li>
