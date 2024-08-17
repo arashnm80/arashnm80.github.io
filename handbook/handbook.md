@@ -16,7 +16,7 @@ permalink: /handbook/
     <li><a href="./sort" tag="principle"></a></li>
     <li><a href="./fear" tag=""></a></li>
     <li><a href="./fight" tag=""></a></li>
-    <li><a href="./plan-a-b" tag="principle"></a></li>
+    <li><a href="./plan-a-and-b" tag="principle"></a></li>
     <li><a href="./quality-levels" tag="principle"></a></li>
     <li><a href="./experience" tag=""></a></li>
     <li><a href="./persistency" tag="principle"></a></li>
