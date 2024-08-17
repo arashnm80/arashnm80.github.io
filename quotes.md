@@ -181,6 +181,8 @@ title: Quotes
 
 > I'm gonna change the world and I'm not gonna ask for permission.
 
+> Can somebody that is totally ok to leave this world right now, have a passion to live?
+
 > Long-term games with long-term people.
 
 > Surround myself with people 20% better than me.
@@ -204,8 +206,6 @@ title: Quotes
 > Sacrifice 1 perfect to get 4 good-enoughs.
 
 > I'm born righ now in this situation, with this knowledge and experience, so what am I gonna do now?
-
-> Can somebody that is totally ok to leave this world right now, have a passion to live?
 
 > Any change is a mean to produce energy.
 
