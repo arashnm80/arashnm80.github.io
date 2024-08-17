@@ -5,6 +5,9 @@ ends with 1 fight slot cause perfection never exists and even in the best case a
 - 6/7 fight slots: do nothing but fight with all of my power to increase my LF(get rid of chains, gain more freedom, make money, ...) until i be able to change one more slot from fight to freedom
 - 1/7 freedom slot: try to live, give up fight and do whatever I enjoy
 
+### no strategy
+improvise everything
+
 ### 40-20
 40 min fight, 20 min live
 
