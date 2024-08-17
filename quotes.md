@@ -25,8 +25,6 @@ title: Quotes
 
 > hope is product of self-trust.
 
-> I can do whatever the fu*k I can do.
-
 > lead people who lead people.
 
 > newton's third law, The only way of getting somewhere is to leave something behind.
@@ -136,6 +134,8 @@ title: Quotes
 > This life, this year, this year, this second
 
 > I won't get rich by renting out my time.
+
+> i only live once.
 
 > Assess every choice with a single question: "If I time-travel to past, do I repeat it again the same?"
 

@@ -55,6 +55,7 @@ permalink: /handbook/
     <li><a href="./narrow-way-through" tag=""></a></li>
     <li><a href="./system-1-2" tag=""></a></li>
     <li><a href="./naval" tag="character"></a></li>
+    <li><a href="./fuck" tag=""></a></li>
     <li><a href="./portrait-painting" tag=""></a></li>
     <li><a href="./renewable-energy" tag=""></a></li>
     <li><a href="./carnet-mental" tag="superpower"></a></li>
