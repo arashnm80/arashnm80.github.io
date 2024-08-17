@@ -2,23 +2,37 @@ What does it mean to live?
 
 Mathematically it means to have positive life factor.
 
-In other terms it means to be **free** healthy, wealthy and have time to choose whatever I whim and most importantly be able to enjoy them:
+In other terms it means to be **free**, healthy, wealthy and have time to choose whatever I whim and most importantly **be able to enjoy** them (Of course the perfect life would never be possible but I want good enough level of it):
 - sleep, rest, niksen and do nothing
 - lie down on grass
-- partner to love, be loved and sex
+- to love and be loved
+  - date
+  - partner
+  - sex
 - Be my true self
 - watch movies and series
 - music
-- Walk under rain
-- pool
+  - play my own
+  - create my own
+  - instrumental
+  - jazz
+  - pop
+  - multilingual
+- water
+  - Walk under rain
+  - swim
+  - sea
+  - pool
 - spend time with family and friends
 - workout
 - eat
   - cashew
   - olive
+  - peanut butter
 - drink
   - coffee
   - juice
+  - تخم شربتی
 - play
   - trampoline
 - work in intriguing fields
@@ -28,5 +42,7 @@ In other terms it means to be **free** healthy, wealthy and have time to choose 
   - programming
   - psychology
 - dance
-
-Of course the perfect life almost never has been possible but I want good enough level of it.
+- sport
+  - soccer
+  - freesbee
+  - swim
