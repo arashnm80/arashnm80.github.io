@@ -26,14 +26,14 @@ permalink: /handbook/
     <li><a href="./reboot" tag="superpower"></a></li>
     <li><a href="./multitask" tag=""></a></li>
     <li><a href="./dopamine" tag=""></a></li>
-    <li><a href="./bubble" tag=""></a></li>
-    <li><a href="./begin-again" tag=""></a></li>
     <li><a href="./life-factor" tag=""></a></li>
+    <li><a href="./passion" tag=""></a></li>
     <li><a href="./live" tag=""></a></li>
     <li><a href="./leave" tag=""></a></li>
+    <li><a href="./bubble" tag=""></a></li>
+    <li><a href="./begin-again" tag=""></a></li>
     <li><a href="./pain" tag=""></a></li>
     <li><a href="./negative-local-maximum" tag=""></a></li>
-    <li><a href="./passion" tag=""></a></li>
     <li><a href="./90-10" tag=""></a></li>
     <li><a href="./hidden-progress" tag=""></a></li>
     <li><a href="./freedom" tag=""></a></li>
