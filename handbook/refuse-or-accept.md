@@ -6,6 +6,6 @@ or
 
 - **total war for narrow possibility to Live**
 
-> no matter i think and feel 99 or 1, I have to choose and act 100.
+so the best strategy is to **always reassess first one while residing in second one**
 
-> the best strategy is to *always reside in second one and 
+> no matter i think and feel 99 or 1, I have to choose and act 100.
