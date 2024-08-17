@@ -181,6 +181,8 @@ title: Quotes
 
 > i have to choose what do i want
 
+> fuck others
+
 > Long-term games with long-term people.
 
 > Surround myself with people 20% better than me.

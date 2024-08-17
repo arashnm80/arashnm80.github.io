@@ -10,6 +10,7 @@ permalink: /handbook/
     <li><a href="./refuse-or-accept" tag="core"></a></li>
     <li><a href="./no-time-for-caution" tag="core"></a></li>
     <li><a href="./choice" tag="principle"></a></li>
+    <li><a href="./me" tag="principle"></a></li>
     <li><a href="./i-dentity" tag="principle"></a></li>
     <li><a href="./action" tag="principle"></a></li>
     <li><a href="./strategy" tag=""></a></li>
@@ -40,12 +41,12 @@ permalink: /handbook/
     <li><a href="./victim-mentality" tag=""></a></li>
     <li><a href="./shame" tag=""></a></li>
     <li><a href="./stress" tag=""></a></li>
+    <li><a href="./people" tag=""></a></li>
     <li><a href="./believe" tag="principle"></a></li>
     <li><a href="./destination-path" tag=""></a></li>
     <li><a href="./art-of-racing-in-the-rain" tag="superpower"></a></li>
     <li><a href="./chain-reaction" tag="game-changer"></a></li>
     <li><a href="./subconscious" tag=""></a></li>
-    <li><a href="./people" tag=""></a></li>
     <li><a href="./dirac-delta-function" tag=""></a></li>
     <li><a href="./minimalism" tag=""></a></li>
     <li><a href="./will" tag=""></a></li>
