@@ -95,7 +95,6 @@ permalink: /handbook/
     <li><a href="./sale" tag=""></a></li>
     <li><a href="./jensen-huang" tag="character"></a></li>
     <li><a href="./pain-as-a-service" tag=""></a></li>
-    <li><a href="./eyes" tag=""></a></li>
     <li><a href="./evolution" tag=""></a></li>
     <li><a href="./sam-altman" tag="character"></a></li>
     <li><a href="./ocd" tag="problem"></a></li>
@@ -110,6 +109,7 @@ permalink: /handbook/
     <li><a href="./flow" tag=""></a></li>
     <li><a href="./swing-trading" tag="tool"></a></li>
     <li><a href="./do-the-right-thing" tag=""></a></li>
+    <li><a href="./eyes" tag=""></a></li>
     <li><a href="./parkinson-law" tag=""></a></li>
     <li><a href="./form-and-content" tag=""></a></li>
     <li><a href="./what-if" tag=""></a></li>
