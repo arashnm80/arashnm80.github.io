@@ -1,5 +1,5 @@
-### best guess
-**No one actually knows what the hell they're doing. Everyone is just working off their current best guess. question is: what are my best guesses and am i living up to them?**
+### current best guess
+**No one actually knows what the hell they're doing. Everyone is just working off their current best guess. question is: what are my current best guesses and am i living up to them?**
 
 ### certainty
 > Certainty never exists and it's not an excuse to do nothing.
