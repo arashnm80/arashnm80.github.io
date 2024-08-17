@@ -18,3 +18,8 @@ So in this paradox if *I can do everything* is actually true, can I turn the tid
 one thing that is hurting me is the fact that even some of my biggest passions look to be only less negative points. they are just less pain, they are not joy.
 
 i don't know if i was like this from the first place or changed or forced or metamorphosed but i don't enjoy watching sky, peting animals, eating foods, ... like others.
+
+### choose
+> i have to choose what do i want
+
+although some passions are involuntarily written into our source codes (by nature or nurture), we can choose or should choose some others. e.g. passion for sports and need to be the 1st in the world might be hardcore of our personality but the ability to choose what sport can be in our hand for the most part.

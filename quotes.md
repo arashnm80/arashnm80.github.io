@@ -179,6 +179,8 @@ title: Quotes
 
 > Can somebody that is totally ok to leave this world right now, have a passion to live?
 
+> i have to choose what do i want
+
 > Long-term games with long-term people.
 
 > Surround myself with people 20% better than me.
