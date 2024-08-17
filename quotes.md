@@ -215,13 +215,13 @@ title: Quotes
 
 > Don't be sorry, be better.
 
-> No matter of probabilities, I'm gonna take 100% of the shots.
-
 > Only being present in the game triggers many opportunities by itself.
 
 > Do it if it's the biggest thing I can do.
 
 > I'm gonna think out of the box.
+
+> No matter of probabilities, take 100% of the shots.
 
 > Whether I am a victim or not, thinking and complaining about it will change nothing. so the best choice is to get over it, put my head down and soldier through.
 

@@ -1,0 +1,1 @@
+> No matter of probabilities, take 100% of the shots.

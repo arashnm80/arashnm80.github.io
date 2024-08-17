@@ -20,8 +20,8 @@ permalink: /handbook/
     <li><a href="./quality-levels" tag="principle"></a></li>
     <li><a href="./experience" tag=""></a></li>
     <li><a href="./persistency" tag="principle"></a></li>
-    <li><a href="./habits-and-routines" tag=""></a></li>
     <li><a href="./2-battlefields" tag="principle"></a></li>
+    <li><a href="./habits-and-routines" tag=""></a></li>
     <li><a href="./ignores-and-removals" tag=""></a></li>
     <li><a href="./reboot" tag="superpower"></a></li>
     <li><a href="./multitask" tag=""></a></li>
@@ -86,7 +86,7 @@ permalink: /handbook/
     <li><a href="./skill-tree" tag=""></a></li>
     <li><a href="./leverage" tag=""></a></li>
     <li><a href="./elon-musk" tag="character"></a></li>
-    <li><a href="./shot" tag=""></a></li>
+    <li><a href="./try" tag=""></a></li>
     <li><a href="./words" tag=""></a></li>
     <li><a href="./wild" tag=""></a></li>
     <li><a href="./depression" tag="problem"></a></li>
