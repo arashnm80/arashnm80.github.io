@@ -18,3 +18,5 @@ true or false, big or small, good or bad, if sth doesn't impact my actions then 
 
 ### biggest problem
 my biggest problem is that i don't have a passion and don't find this world worthy of living. i find myself in a negetive LF situation (like -3), then i think of solutions and the best strategies include huge pain, hardship and sacrifices (like -10 to -15) and if i endure all of it the future i can see for my personality is better but still negative (like -1 to 0)
+
+#### Priorities & Anti-Priorities

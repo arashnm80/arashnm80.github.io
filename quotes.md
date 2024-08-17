@@ -29,17 +29,15 @@ title: Quotes
 
 > I can do whatever the fu*k I can do.
 
-> Live a life I can be proud of.
-
 > lead people who lead people.
 
 > newton's third law, The only way of getting somewhere is to leave something behind.
 
 > if i choose nothing, i will get nothing.
 
-> My choice is not what I'm thinking, saying or writing but what I'm actually doing right now.
-
 > If I don't know what I want, I can't judge myself for not achieving it.
+
+> My choice is not what I'm thinking, saying or writing but what I'm actually doing right now.
 
 > Everything comes at a price.
 

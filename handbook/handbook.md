@@ -10,6 +10,7 @@ permalink: /handbook/
     <li><a href="./refuse-or-accept" tag="core"></a></li>
     <li><a href="./no-time-for-caution" tag="core"></a></li>
     <li><a href="./choice" tag="principle"></a></li>
+    <li><a href="./i-dentity" tag="principle"></a></li>
     <li><a href="./action" tag="principle"></a></li>
     <li><a href="./five-to-five" tag="strategy"></a></li>
     <li><a href="./sort" tag="principle"></a></li>
@@ -97,6 +98,7 @@ permalink: /handbook/
     <li><a href="./evolution" tag=""></a></li>
     <li><a href="./sam-altman" tag="character"></a></li>
     <li><a href="./ocd" tag="problem"></a></li>
+    <li><a href="./paradox-of-choice" tag="book"></a></li>
     <li><a href="./big-picture" tag=""></a></li>
     <li><a href="./mental-model" tag=""></a></li>
     <li><a href="./switch-cost" tag=""></a></li>
