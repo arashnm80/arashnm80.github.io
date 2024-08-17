@@ -1,6 +1,6 @@
 first priority is me. my life, my time, my health, my need, my desire, my choice, my feeling, ...
 
-for most of my life i've always been thinking about others, their right, their feeling, what's best for them, ... and i kind of lost myself in this process.
+for most of my life i've always been thinking about others, their right, their feeling, what's best for them, ... and i kind of lost myself in this process. it's time to abandon the past and live for myself.
 
 i want to be myself and live a life i can be proud of. i want to do things and live for myself not for the world and others.
 
