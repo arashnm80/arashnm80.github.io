@@ -4,7 +4,10 @@
 
 To fight against pain, fear, hardship, tiredness, fatigue, sadness, depression, boredom, anger, shame, uncertainty, weakness, obsession, despair, inertia, obstacles, burdens, failures, expectations, defaults, limits, odds, majority, time, nature, people, world.
 
-### **Assault**
+### total war
+a type of warfare where a country or a group mobilizes all of its resources—military, economic, and civilian—towards the war effort, often disregarding the rules of war or civilian safety.
+
+### Assault
 Outlast countless number of chain-fights
 > **How many fights do I have in myself?**
 ![eren yeager](../../assets/have-more-fight.png)
