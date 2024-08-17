@@ -1,0 +1,1 @@
+i'm thinking about here as an open source diary or map or plan or book or sth. all of it is personal and only for myself but maybe it would benefit somebody else too so it's written public. though that may backfire in some private aspects to myself too.
