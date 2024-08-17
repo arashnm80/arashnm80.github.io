@@ -25,6 +25,9 @@ there are many occasions in which the only way to move on is to sacrifice and cu
 
 > those who can't sacrifice anything, can't change anything and deserve nothing. If I can't let it go, it's not worth holding on to.
 
+### trade off & sweet spot
+it's a trade off. the final reason is to live in peace free from fighting but to gain that i have to fight. so if i fight all of my time it would be opposite of living and if i don't fight at all i will gain nothing. so i have to choose a sweet spot in the middle.
+
 ### Probabilities
 Every choice is gamble. but when its probability is a very high number we simply take it as an absolute 100
 
