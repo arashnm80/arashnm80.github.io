@@ -11,3 +11,5 @@ ends with 1 fight slot cause perfection never exists and even in the best case a
 ### half half
 change fight and live every week, day, 8 hours, 1 hour, 30 min, ...
 
+### one per day
+one movie or sex per day and fight for rest of the day
