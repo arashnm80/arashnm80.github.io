@@ -10,6 +10,7 @@ permalink: /handbook/
     <li><a href="./refuse-or-accept" tag="core"></a></li>
     <li><a href="./no-time-for-caution" tag="core"></a></li>
     <li><a href="./choice" tag="principle"></a></li>
+    <li><a href="./uncertainty" tag="principle"></a></li>
     <li><a href="./me" tag="principle"></a></li>
     <li><a href="./i-dentity" tag="principle"></a></li>
     <li><a href="./action" tag="principle"></a></li>
