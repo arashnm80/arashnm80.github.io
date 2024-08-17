@@ -78,15 +78,16 @@ permalink: /handbook/
     <li><a href="./leader" tag=""></a></li>
     <li><a href="./boredom" tag="problem"></a></li>
     <li><a href="./darwin" tag="principle"></a></li>
-    <li><a href="./niksen" tag=""></a></li>
-    <li><a href="./lose" tag=""></a></li>
     <li><a href="./rest-reinforcement" tag=""></a></li>
     <li><a href="./patience" tag=""></a></li>
+    <li><a href="./lose" tag=""></a></li>
+    <li><a href="./niksen" tag=""></a></li>
     <li><a href="./teacher" tag=""></a></li>
-    <li><a href="./skill-tree" tag=""></a></li>
+    <li><a href="./overcorrection" tag="tool"></a></li>
     <li><a href="./leverage" tag=""></a></li>
-    <li><a href="./elon-musk" tag="character"></a></li>
     <li><a href="./try" tag=""></a></li>
+    <li><a href="./skill-tree" tag=""></a></li>
+    <li><a href="./elon-musk" tag="character"></a></li>
     <li><a href="./words" tag=""></a></li>
     <li><a href="./wild" tag=""></a></li>
     <li><a href="./depression" tag="problem"></a></li>
@@ -94,7 +95,6 @@ permalink: /handbook/
     <li><a href="./sale" tag=""></a></li>
     <li><a href="./jensen-huang" tag="character"></a></li>
     <li><a href="./pain-as-a-service" tag=""></a></li>
-    <li><a href="./overcorrection" tag="tool"></a></li>
     <li><a href="./eyes" tag=""></a></li>
     <li><a href="./evolution" tag=""></a></li>
     <li><a href="./sam-altman" tag="character"></a></li>
