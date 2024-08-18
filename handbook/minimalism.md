@@ -1,7 +1,3 @@
----
-title: Minimalism
----
-
 Keep it simple.
 
 > It might be a labyrinth but the big picture is very simple.
