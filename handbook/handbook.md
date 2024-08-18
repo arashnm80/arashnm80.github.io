@@ -16,14 +16,14 @@ permalink: /handbook/
     <li><a href="./action" tag="principle"></a></li>
     <li><a href="./sort" tag="principle"></a></li>
     <li><a href="./strategy" tag=""></a></li>
-    <li><a href="./fear" tag=""></a></li>
+    <li><a href="./fear" tag="problem"></a></li>
     <li><a href="./fight" tag=""></a></li>
     <li><a href="./plan-a-and-b" tag="principle"></a></li>
     <li><a href="./quality-levels" tag="principle"></a></li>
     <li><a href="./experience" tag=""></a></li>
     <li><a href="./persistency" tag="principle"></a></li>
     <li><a href="./2-battlefields" tag="principle"></a></li>
-    <li><a href="./pain" tag=""></a></li>
+    <li><a href="./pain" tag="problem"></a></li>
     <li><a href="./habits-and-routines" tag=""></a></li>
     <li><a href="./ignores-and-removals" tag=""></a></li>
     <li><a href="./reboot" tag="superpower"></a></li>
@@ -42,8 +42,8 @@ permalink: /handbook/
     <li><a href="./hidden-progress" tag=""></a></li>
     <li><a href="./victim-mentality" tag=""></a></li>
     <li><a href="./everything-everywhere-all-at-once" tag="principle"></a></li>
-    <li><a href="./shame" tag=""></a></li>
-    <li><a href="./stress" tag=""></a></li>
+    <li><a href="./shame" tag="problem"></a></li>
+    <li><a href="./stress" tag="problem"></a></li>
     <li><a href="./people" tag=""></a></li>
     <li><a href="./believe" tag=""></a></li>
     <li><a href="./destination-and-path" tag=""></a></li>
@@ -100,12 +100,12 @@ permalink: /handbook/
     <li><a href="./jensen-huang" tag="character"></a></li>
     <li><a href="./pain-as-a-service" tag=""></a></li>
     <li><a href="./evolution" tag=""></a></li>
+    <li><a href="./paradox-of-choice" tag="book"></a></li>
     <li><a href="./sam-altman" tag="character"></a></li>
     <li><a href="./parkinson-law" tag=""></a></li>
     <li><a href="./win-win" tag=""></a></li>
     <li><a href="./ocd" tag="problem"></a></li>
     <li><a href="./childhood" tag=""></a></li>
-    <li><a href="./paradox-of-choice" tag="book"></a></li>
     <li><a href="./40-70" tag=""></a></li>
     <li><a href="./big-picture" tag=""></a></li>
     <li><a href="./mental-model" tag=""></a></li>
