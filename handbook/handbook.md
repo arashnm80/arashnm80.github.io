@@ -79,6 +79,7 @@ permalink: /handbook/
     <li><a href="./potential" tag=""></a></li>
     <li><a href="./right-questions" tag=""></a></li>
     <li><a href="./leader" tag=""></a></li>
+    <li><a href="./overcorrection" tag="tool"></a></li>
     <li><a href="./boredom" tag="problem"></a></li>
     <li><a href="./darwin" tag="principle"></a></li>
     <li><a href="./rest-reinforcement" tag=""></a></li>
@@ -86,7 +87,6 @@ permalink: /handbook/
     <li><a href="./lose" tag=""></a></li>
     <li><a href="./niksen" tag=""></a></li>
     <li><a href="./teacher" tag=""></a></li>
-    <li><a href="./overcorrection" tag="tool"></a></li>
     <li><a href="./leverage" tag=""></a></li>
     <li><a href="./try" tag=""></a></li>
     <li><a href="./skill-tree" tag=""></a></li>
@@ -100,19 +100,19 @@ permalink: /handbook/
     <li><a href="./pain-as-a-service" tag=""></a></li>
     <li><a href="./evolution" tag=""></a></li>
     <li><a href="./sam-altman" tag="character"></a></li>
+    <li><a href="./parkinson-law" tag=""></a></li>
+    <li><a href="./win-win" tag=""></a></li>
     <li><a href="./ocd" tag="problem"></a></li>
     <li><a href="./paradox-of-choice" tag="book"></a></li>
     <li><a href="./big-picture" tag=""></a></li>
     <li><a href="./mental-model" tag=""></a></li>
     <li><a href="./switch-cost" tag=""></a></li>
     <li><a href="./40-70" tag=""></a></li>
-    <li><a href="./win-win" tag=""></a></li>
     <li><a href="./childhood" tag=""></a></li>
     <li><a href="./flow" tag=""></a></li>
     <li><a href="./swing-trading" tag="tool"></a></li>
     <li><a href="./do-the-right-thing" tag=""></a></li>
     <li><a href="./eyes" tag=""></a></li>
-    <li><a href="./parkinson-law" tag=""></a></li>
     <li><a href="./form-and-content" tag=""></a></li>
     <li><a href="./what-if" tag=""></a></li>
     <li><a href="./inertia" tag=""></a></li>
