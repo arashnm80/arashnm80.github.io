@@ -124,6 +124,8 @@ permalink: /handbook/
     <li><a href="./pride" tag=""></a></li>
     <li><a href="./monitor" tag=""></a></li>
     <li><a href="./ideas" tag=""></a></li>
+    <li><a href="./money" tag=""></a></li>
+    <li><a href="./ryan-trahan" tag="character"></a></li>
     <li><a href="./norm" tag=""></a></li>
     <li><a href="./open-source-diary" tag=""></a></li>
     <li><a href="./other" tag=""></a></li>
