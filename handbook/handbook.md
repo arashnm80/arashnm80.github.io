@@ -27,11 +27,11 @@ permalink: /handbook/
     <li><a href="./habits-and-routines" tag=""></a></li>
     <li><a href="./ignores-and-removals" tag=""></a></li>
     <li><a href="./reboot" tag="superpower"></a></li>
+    <li><a href="./passion" tag=""></a></li>
     <li><a href="./multitask" tag=""></a></li>
     <li><a href="./comparison" tag="tool"></a></li>
     <li><a href="./dopamine" tag=""></a></li>
     <li><a href="./life-factor" tag=""></a></li>
-    <li><a href="./passion" tag=""></a></li>
     <li><a href="./live" tag="passion"></a></li>
     <li><a href="./leave" tag="passion"></a></li>
     <li><a href="./bubble" tag=""></a></li>
@@ -95,6 +95,7 @@ permalink: /handbook/
     <li><a href="./teacher" tag=""></a></li>
     <li><a href="./skill-tree" tag=""></a></li>
     <li><a href="./words" tag=""></a></li>
+    <li><a href="./hedonic-treadmill" tag=""></a></li>
     <li><a href="./improvise" tag=""></a></li>
     <li><a href="./sale" tag=""></a></li>
     <li><a href="./jensen-huang" tag="character"></a></li>
