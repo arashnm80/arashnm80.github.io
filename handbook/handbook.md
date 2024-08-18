@@ -28,6 +28,7 @@ permalink: /handbook/
     <li><a href="./ignores-and-removals" tag=""></a></li>
     <li><a href="./reboot" tag="superpower"></a></li>
     <li><a href="./multitask" tag=""></a></li>
+    <li><a href="./comparison" tag="tool"></a></li>
     <li><a href="./dopamine" tag=""></a></li>
     <li><a href="./life-factor" tag=""></a></li>
     <li><a href="./passion" tag=""></a></li>
@@ -37,7 +38,6 @@ permalink: /handbook/
     <li><a href="./begin-again" tag=""></a></li>
     <li><a href="./negative-local-maximum" tag=""></a></li>
     <li><a href="./90-10" tag=""></a></li>
-    <li><a href="./comparison" tag="tool"></a></li>
     <li><a href="./hidden-progress" tag=""></a></li>
     <li><a href="./freedom" tag="passion"></a></li>
     <li><a href="./victim-mentality" tag=""></a></li>
@@ -56,14 +56,15 @@ permalink: /handbook/
     <li><a href="./domino-effect" tag=""></a></li>
     <li><a href="./near-zero-cost" tag=""></a></li>
     <li><a href="./hobby-as-a-service" tag="game-changer"></a></li>
+    <li><a href="./skin-in-the-game" tag=""></a></li>
     <li><a href="./narrow-way-through" tag=""></a></li>
+    <li><a href="./overcorrection" tag="tool"></a></li>
     <li><a href="./system-1-and-2" tag=""></a></li>
     <li><a href="./naval" tag="character"></a></li>
     <li><a href="./fuck" tag=""></a></li>
     <li><a href="./portrait-painting" tag=""></a></li>
     <li><a href="./renewable-energy" tag=""></a></li>
     <li><a href="./carnet-mental" tag="superpower"></a></li>
-    <li><a href="./skin-in-the-game" tag=""></a></li>
     <li><a href="./idea-person" tag="game-changer"></a></li>
     <li><a href="./creativity" tag=""></a></li>
     <li><a href="./mrbeast" tag="character"></a></li>
@@ -73,7 +74,6 @@ permalink: /handbook/
     <li><a href="./arbitrage" tag="game-changer"></a></li>
     <li><a href="./move-forward" tag=""></a></li>
     <li><a href="./ask" tag="weakness"></a></li>
-    <li><a href="./overcorrection" tag="tool"></a></li>
     <li><a href="./immerse" tag=""></a></li>
     <li><a href="./smart" tag=""></a></li>
     <li><a href="./omniscient" tag="superpower"></a></li>
