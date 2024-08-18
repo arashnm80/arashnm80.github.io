@@ -183,6 +183,8 @@ title: Quotes
 
 > Surround myself with people 20% better than me.
 
+> don't care about people more than amount they care about themselves.
+
 > Streak is the most important metric for success.
 
 > تو یه گلوله‌ی طلایی نداری، صدتا گلوله‌ی سربی داری. باید انقدر بزنی تا بخوره به هدف

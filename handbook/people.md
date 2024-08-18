@@ -4,6 +4,8 @@
 
 > Surround myself with people 20% better than me.
 
+> don't care about people more than amount they care about themselves.
+
 I choose not to think about people.
 
 ### source
