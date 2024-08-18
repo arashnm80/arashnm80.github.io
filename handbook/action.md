@@ -1,4 +1,4 @@
-**in the end, the only thing matters is my actions.**
+i can ideate, think and write a whole lifetime in this handbook collection but in the end, **the only thing that matters is my actions.**
 
 we almost always know the best choice but acting toward it is almost always very hard. it's like being a dragonrider, your brain know the path but your dragon is powerful yet a wild animal
 
