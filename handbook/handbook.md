@@ -9,13 +9,13 @@ permalink: /handbook/
     <li><a href="./c'est-ma-vie" tag="core"></a></li>
     <li><a href="./refuse-or-accept" tag="core"></a></li>
     <li><a href="./no-time-for-caution" tag="core"></a></li>
+    <li><a href="./me" tag="principle"></a></li>
     <li><a href="./uncertainty" tag="principle"></a></li>
     <li><a href="./choice" tag="principle"></a></li>
-    <li><a href="./me" tag="principle"></a></li>
     <li><a href="./i-dentity" tag="principle"></a></li>
     <li><a href="./action" tag="principle"></a></li>
-    <li><a href="./strategy" tag=""></a></li>
     <li><a href="./sort" tag="principle"></a></li>
+    <li><a href="./strategy" tag=""></a></li>
     <li><a href="./fear" tag=""></a></li>
     <li><a href="./fight" tag=""></a></li>
     <li><a href="./plan-a-and-b" tag="principle"></a></li>
