@@ -96,6 +96,7 @@ permalink: /handbook/
     <li><a href="./elon-musk" tag="character"></a></li>
     <li><a href="./niksen" tag=""></a></li>
     <li><a href="./teacher" tag=""></a></li>
+    <li><a href="./knowledge" tag=""></a></li>
     <li><a href="./hedonic-treadmill" tag=""></a></li>
     <li><a href="./skill-tree" tag=""></a></li>
     <li><a href="./words" tag=""></a></li>
