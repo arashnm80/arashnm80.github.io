@@ -21,8 +21,8 @@ permalink: /handbook/
     <li><a href="./plan-a-and-b" tag="principle"></a></li>
     <li><a href="./quality-levels" tag="principle"></a></li>
     <li><a href="./experience" tag=""></a></li>
-    <li><a href="./persistency" tag="principle"></a></li>
     <li><a href="./2-battlefields" tag="principle"></a></li>
+    <li><a href="./persistency" tag="principle"></a></li>
     <li><a href="./pain" tag="problem"></a></li>
     <li><a href="./habits-and-routines" tag=""></a></li>
     <li><a href="./ignores-and-removals" tag=""></a></li>
@@ -46,6 +46,7 @@ permalink: /handbook/
     <li><a href="./shame" tag="problem"></a></li>
     <li><a href="./stress" tag="problem"></a></li>
     <li><a href="./believe" tag=""></a></li>
+    <li><a href="./lost-chance" tag=""></a></li>
     <li><a href="./destination-and-path" tag=""></a></li>
     <li><a href="./art-of-racing-in-the-rain" tag="superpower"></a></li>
     <li><a href="./chain-reaction" tag="game-changer"></a></li>
@@ -55,6 +56,7 @@ permalink: /handbook/
     <li><a href="./domino-effect" tag=""></a></li>
     <li><a href="./near-zero-cost" tag=""></a></li>
     <li><a href="./will" tag=""></a></li>
+    <li><a href="./regret" tag=""></a></li>
     <li><a href="./hobby-as-a-service" tag="game-changer"></a></li>
     <li><a href="./skin-in-the-game" tag=""></a></li>
     <li><a href="./narrow-way-through" tag=""></a></li>

@@ -70,3 +70,11 @@ At the same time **try** to:
 ---
 1. follow the passions i already have
 1. search to discover more passions
+
+---
+1. forcast, predict and plan more steps ahead
+1. improvise and choose the best in current moment
+
+---
+1. dive right into cold water
+1. immerse slowly cm by cm
