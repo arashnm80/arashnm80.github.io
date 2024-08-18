@@ -23,6 +23,7 @@ permalink: /handbook/
     <li><a href="./experience" tag=""></a></li>
     <li><a href="./persistency" tag="principle"></a></li>
     <li><a href="./2-battlefields" tag="principle"></a></li>
+    <li><a href="./pain" tag=""></a></li>
     <li><a href="./habits-and-routines" tag=""></a></li>
     <li><a href="./ignores-and-removals" tag=""></a></li>
     <li><a href="./reboot" tag="superpower"></a></li>
@@ -34,7 +35,6 @@ permalink: /handbook/
     <li><a href="./leave" tag=""></a></li>
     <li><a href="./bubble" tag=""></a></li>
     <li><a href="./begin-again" tag=""></a></li>
-    <li><a href="./pain" tag=""></a></li>
     <li><a href="./negative-local-maximum" tag=""></a></li>
     <li><a href="./90-10" tag=""></a></li>
     <li><a href="./hidden-progress" tag=""></a></li>
@@ -103,11 +103,11 @@ permalink: /handbook/
     <li><a href="./paradox-of-choice" tag="book"></a></li>
     <li><a href="./big-picture" tag=""></a></li>
     <li><a href="./mental-model" tag=""></a></li>
+    <li><a href="./everything-everywhere-all-at-once" tag="principle"></a></li>
     <li><a href="./switch-cost" tag=""></a></li>
     <li><a href="./40-70" tag=""></a></li>
     <li><a href="./win-win" tag=""></a></li>
     <li><a href="./childhood" tag=""></a></li>
-    <li><a href="./everything-everywhere-all-at-once" tag=""></a></li>
     <li><a href="./flow" tag=""></a></li>
     <li><a href="./swing-trading" tag="tool"></a></li>
     <li><a href="./do-the-right-thing" tag=""></a></li>
