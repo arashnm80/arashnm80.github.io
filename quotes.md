@@ -223,7 +223,7 @@ title: Quotes
 
 > No matter of probabilities, take 100% of the shots.
 
-> Certainty never exists and it's not an excuse to do nothing.
+> Certainty almost never exists and it's not an excuse to do nothing.
 
 > Whether I am a victim or not, thinking and complaining about it will change nothing. so the best choice is to get over it, put my head down and soldier through.
 
