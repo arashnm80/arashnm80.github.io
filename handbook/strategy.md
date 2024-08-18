@@ -17,7 +17,7 @@ change fight and live every week, day, 8 hours, 1 hour, 30 min, ...
 one movie or sex per day and fight for rest of the day
 
 ### no strategy
-improvise everything
+improvise everything. sometimes the best and sometimes the worst strategy.
 
 ### 40-20
 40 min fight, 20 min live
