@@ -31,14 +31,14 @@ permalink: /handbook/
     <li><a href="./dopamine" tag=""></a></li>
     <li><a href="./life-factor" tag=""></a></li>
     <li><a href="./passion" tag=""></a></li>
-    <li><a href="./live" tag=""></a></li>
-    <li><a href="./leave" tag=""></a></li>
+    <li><a href="./live" tag="passion"></a></li>
+    <li><a href="./leave" tag="passion"></a></li>
     <li><a href="./bubble" tag=""></a></li>
     <li><a href="./begin-again" tag=""></a></li>
     <li><a href="./negative-local-maximum" tag=""></a></li>
     <li><a href="./90-10" tag=""></a></li>
     <li><a href="./hidden-progress" tag=""></a></li>
-    <li><a href="./freedom" tag=""></a></li>
+    <li><a href="./freedom" tag="passion"></a></li>
     <li><a href="./victim-mentality" tag=""></a></li>
     <li><a href="./everything-everywhere-all-at-once" tag="principle"></a></li>
     <li><a href="./shame" tag=""></a></li>
@@ -72,23 +72,23 @@ permalink: /handbook/
     <li><a href="./arbitrage" tag="game-changer"></a></li>
     <li><a href="./move-forward" tag=""></a></li>
     <li><a href="./ask" tag="weakness"></a></li>
-    <li><a href="./smart" tag=""></a></li>
+    <li><a href="./overcorrection" tag="tool"></a></li>
     <li><a href="./immerse" tag=""></a></li>
+    <li><a href="./smart" tag=""></a></li>
     <li><a href="./omniscient" tag="superpower"></a></li>
     <li><a href="./mind-opiums" tag=""></a></li>
     <li><a href="./potential" tag=""></a></li>
     <li><a href="./right-questions" tag=""></a></li>
-    <li><a href="./leader" tag=""></a></li>
-    <li><a href="./overcorrection" tag="tool"></a></li>
-    <li><a href="./boredom" tag="problem"></a></li>
     <li><a href="./darwin" tag="principle"></a></li>
+    <li><a href="./leader" tag=""></a></li>
+    <li><a href="./boredom" tag="problem"></a></li>
     <li><a href="./rest-reinforcement" tag=""></a></li>
     <li><a href="./patience" tag=""></a></li>
+    <li><a href="./try" tag=""></a></li>
     <li><a href="./lose" tag=""></a></li>
     <li><a href="./niksen" tag=""></a></li>
     <li><a href="./teacher" tag=""></a></li>
     <li><a href="./leverage" tag=""></a></li>
-    <li><a href="./try" tag=""></a></li>
     <li><a href="./skill-tree" tag=""></a></li>
     <li><a href="./elon-musk" tag="character"></a></li>
     <li><a href="./words" tag=""></a></li>
