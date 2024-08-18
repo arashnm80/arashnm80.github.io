@@ -49,6 +49,7 @@ permalink: /handbook/
     <li><a href="./lost-chance" tag=""></a></li>
     <li><a href="./destination-and-path" tag=""></a></li>
     <li><a href="./art-of-racing-in-the-rain" tag="superpower"></a></li>
+    <li><a href="./ryan-trahan" tag="character"></a></li>
     <li><a href="./chain-reaction" tag="game-changer"></a></li>
     <li><a href="./subconscious" tag=""></a></li>
     <li><a href="./dirac-delta-function" tag=""></a></li>
@@ -125,7 +126,6 @@ permalink: /handbook/
     <li><a href="./monitor" tag=""></a></li>
     <li><a href="./ideas" tag=""></a></li>
     <li><a href="./money" tag=""></a></li>
-    <li><a href="./ryan-trahan" tag="character"></a></li>
     <li><a href="./norm" tag=""></a></li>
     <li><a href="./open-source-diary" tag=""></a></li>
     <li><a href="./other" tag=""></a></li>
