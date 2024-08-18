@@ -1,4 +1,4 @@
-strategies if accepting to stay
+strategies for war
 
 ### -5 to +5 (6 days fight and 1 day live to 1 day fight and 6 days live)
 starts with 1 free slot (although i might be able to endure even without it) to remember what I'm figting for, use what i'm fighting for and evaluate to continue fighting or leave this world.  
