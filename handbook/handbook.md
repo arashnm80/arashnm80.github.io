@@ -52,6 +52,7 @@ permalink: /handbook/
     <li><a href="./minimalism" tag=""></a></li>
     <li><a href="./will" tag=""></a></li>
     <li><a href="./domino-effect" tag=""></a></li>
+    <li><a href="./everything-everywhere-all-at-once" tag="principle"></a></li>
     <li><a href="./near-zero-cost" tag=""></a></li>
     <li><a href="./hobby-as-a-service" tag="game-changer"></a></li>
     <li><a href="./narrow-way-through" tag=""></a></li>
@@ -103,7 +104,6 @@ permalink: /handbook/
     <li><a href="./paradox-of-choice" tag="book"></a></li>
     <li><a href="./big-picture" tag=""></a></li>
     <li><a href="./mental-model" tag=""></a></li>
-    <li><a href="./everything-everywhere-all-at-once" tag="principle"></a></li>
     <li><a href="./switch-cost" tag=""></a></li>
     <li><a href="./40-70" tag=""></a></li>
     <li><a href="./win-win" tag=""></a></li>
