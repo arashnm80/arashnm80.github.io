@@ -66,5 +66,5 @@ Risk is the natural product of uncertainty. It's the relationship between sizes 
 
 i can choose to do many things. they might be possible or impossible, i might be able to commit to them till the end or leave them half way through, but what matters is that how much i realy try?
 
-### pain and fear
+### hard choice
 id, ego and super ego aside, we almost always know what is the best choice but we fail to choose it because it's almost always the scariest, hardest and most painful option.
