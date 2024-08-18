@@ -37,6 +37,7 @@ permalink: /handbook/
     <li><a href="./begin-again" tag=""></a></li>
     <li><a href="./negative-local-maximum" tag=""></a></li>
     <li><a href="./90-10" tag=""></a></li>
+    <li><a href="./comparison" tag="tool"></a></li>
     <li><a href="./hidden-progress" tag=""></a></li>
     <li><a href="./freedom" tag="passion"></a></li>
     <li><a href="./victim-mentality" tag=""></a></li>
