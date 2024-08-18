@@ -9,13 +9,13 @@ permalink: /handbook/
     <li><a href="./c'est-ma-vie" tag="core"></a></li>
     <li><a href="./refuse-or-accept" tag="core"></a></li>
     <li><a href="./no-time-for-caution" tag="core"></a></li>
+    <li><a href="./strategy" tag=""></a></li>
     <li><a href="./me" tag="principle"></a></li>
     <li><a href="./i-dentity" tag="principle"></a></li>
     <li><a href="./uncertainty" tag="principle"></a></li>
     <li><a href="./choice" tag="principle"></a></li>
     <li><a href="./action" tag="principle"></a></li>
     <li><a href="./sort" tag="principle"></a></li>
-    <li><a href="./strategy" tag=""></a></li>
     <li><a href="./fear" tag="problem"></a></li>
     <li><a href="./fight" tag=""></a></li>
     <li><a href="./plan-a-and-b" tag="principle"></a></li>
@@ -38,13 +38,13 @@ permalink: /handbook/
     <li><a href="./begin-again" tag=""></a></li>
     <li><a href="./freedom" tag="passion"></a></li>
     <li><a href="./negative-local-maximum" tag=""></a></li>
+    <li><a href="./people" tag=""></a></li>
     <li><a href="./90-10" tag=""></a></li>
     <li><a href="./hidden-progress" tag=""></a></li>
     <li><a href="./victim-mentality" tag=""></a></li>
     <li><a href="./everything-everywhere-all-at-once" tag="principle"></a></li>
     <li><a href="./shame" tag="problem"></a></li>
     <li><a href="./stress" tag="problem"></a></li>
-    <li><a href="./people" tag=""></a></li>
     <li><a href="./believe" tag=""></a></li>
     <li><a href="./destination-and-path" tag=""></a></li>
     <li><a href="./art-of-racing-in-the-rain" tag="superpower"></a></li>
