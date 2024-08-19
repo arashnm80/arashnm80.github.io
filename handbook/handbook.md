@@ -56,6 +56,7 @@ permalink: /handbook/
     <li><a href="./art-of-racing-in-the-rain" tag="superpower"></a></li>
     <li><a href="./ryan-trahan" tag="character"></a></li>
     <li><a href="./chain-reaction" tag="game-changer"></a></li>
+    <li><a href="./try" tag="tool"></a></li>
     <li><a href="./subconscious" tag=""></a></li>
     <li><a href="./dirac-delta-function" tag=""></a></li>
     <li><a href="./minimalism" tag=""></a></li>
@@ -81,7 +82,6 @@ permalink: /handbook/
     <li><a href="./arbitrage" tag="tool"></a></li>
     <li><a href="./leader" tag=""></a></li>
     <li><a href="./move-forward" tag=""></a></li>
-    <li><a href="./try" tag="tool"></a></li>
     <li><a href="./ask" tag="challenge"></a></li>
     <li><a href="./mind-opiums" tag=""></a></li>
     <li><a href="./immerse" tag=""></a></li>
