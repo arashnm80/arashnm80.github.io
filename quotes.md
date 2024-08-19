@@ -197,6 +197,8 @@ title: Quotes
 
 > The cold water doesn't get warmer if i jump late.
 
+> fear, pain or maybe both.
+
 > Diff between 121 and 120 mins is nothing, diff between 1' and 0' is everything.
 
 > To become great, I should become good first.

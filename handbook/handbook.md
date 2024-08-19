@@ -47,12 +47,12 @@ permalink: /handbook/
     <li><a href="./shame" tag="obstacle"></a></li>
     <li><a href="./stress" tag="obstacle"></a></li>
     <li><a href="./believe" tag="tool"></a></li>
+    <li><a href="./procrastination" tag="obstacle"></a></li>
     <li><a href="./lost-chance" tag=""></a></li>
     <li><a href="./destination-and-path" tag=""></a></li>
     <li><a href="./art-of-racing-in-the-rain" tag="superpower"></a></li>
     <li><a href="./ryan-trahan" tag="character"></a></li>
     <li><a href="./chain-reaction" tag="game-changer"></a></li>
-    <li><a href="./procrastination" tag="obstacle"></a></li>
     <li><a href="./subconscious" tag=""></a></li>
     <li><a href="./dirac-delta-function" tag=""></a></li>
     <li><a href="./minimalism" tag=""></a></li>

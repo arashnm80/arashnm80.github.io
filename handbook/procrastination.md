@@ -1,5 +1,7 @@
 > The cold water doesn't get warmer if i jump late.
 
+> fear, pain or maybe both.
+
 procrastination is running away from the unwanted: pain, fear, hardship, hurt, ...
 
 We all procrastinate - whether it's about our career or everyday decisions. but the quicker we act and jump, the quicker we learn from the outcome - good or bad.
