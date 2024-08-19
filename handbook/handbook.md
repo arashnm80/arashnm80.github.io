@@ -206,7 +206,7 @@ permalink: /handbook/
             var anchor = item.querySelector('a');
             var href = anchor.getAttribute("href");
             var tag = anchor.getAttribute("tag");
-            anchor.textContent = href.replace('./', '').replace('-', ' ');
+            anchor.textContent = href.replace('./', '').replaceAll('-', ' ');
 
             // one extra space between text and button for readability
             var space = document.createElement("span");
