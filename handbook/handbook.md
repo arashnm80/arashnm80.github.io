@@ -28,6 +28,7 @@ permalink: /handbook/
     <li><a href="./ignores-and-removals" tag=""></a></li>
     <li><a href="./reboot" tag="superpower"></a></li>
     <li><a href="./passion" tag=""></a></li>
+    <li><a href="./instinct" tag=""></a></li>
     <li><a href="./multitask" tag=""></a></li>
     <li><a href="./comparison" tag="tool"></a></li>
     <li><a href="./dopamine" tag=""></a></li>
