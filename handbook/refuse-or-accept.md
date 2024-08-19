@@ -1,4 +1,4 @@
-the most valid 2 options are:
+the 2 most valid options are:
 
 - **Leave**
 
