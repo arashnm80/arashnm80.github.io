@@ -1,4 +1,4 @@
-generally it is a powerful system 1 tool
+generally it is a powerful system 1 tool that can achieve big things without even thinking, but:
 
 ### false instinct
 throughout evolution our brain learn to protect us from getting hurt (danger, risk, fear, pain, shame, stress, ...) and develops its protective instincts. although they are meant to serve us but sometimes they backfire and become an obstacle to us.
