@@ -35,6 +35,7 @@ permalink: /handbook/
     <li><a href="./live" tag="passion"></a></li>
     <li><a href="./leave" tag="passion"></a></li>
     <li><a href="./bubble" tag=""></a></li>
+    <li><a href="./get-specific" tag=""></a></li>
     <li><a href="./begin-again" tag=""></a></li>
     <li><a href="./freedom" tag="passion"></a></li>
     <li><a href="./negative-local-maximum" tag=""></a></li>
