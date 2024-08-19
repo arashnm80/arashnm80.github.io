@@ -46,7 +46,7 @@ permalink: /handbook/
     <li><a href="./everything-everywhere-all-at-once" tag="principle"></a></li>
     <li><a href="./shame" tag="obstacle"></a></li>
     <li><a href="./stress" tag="obstacle"></a></li>
-    <li><a href="./believe" tag=""></a></li>
+    <li><a href="./believe" tag="tool"></a></li>
     <li><a href="./lost-chance" tag=""></a></li>
     <li><a href="./destination-and-path" tag=""></a></li>
     <li><a href="./art-of-racing-in-the-rain" tag="superpower"></a></li>
@@ -78,13 +78,13 @@ permalink: /handbook/
     <li><a href="./arbitrage" tag="game-changer"></a></li>
     <li><a href="./leader" tag=""></a></li>
     <li><a href="./move-forward" tag=""></a></li>
+    <li><a href="./try" tag="tool"></a></li>
     <li><a href="./ask" tag="weakness"></a></li>
     <li><a href="./mind-opiums" tag=""></a></li>
     <li><a href="./immerse" tag=""></a></li>
     <li><a href="./smart" tag=""></a></li>
     <li><a href="./darwin" tag="principle"></a></li>
     <li><a href="./wild" tag=""></a></li>
-    <li><a href="./try" tag=""></a></li>
     <li><a href="./right-questions" tag=""></a></li>
     <li><a href="./omniscient" tag="superpower"></a></li>
     <li><a href="./lose" tag=""></a></li>

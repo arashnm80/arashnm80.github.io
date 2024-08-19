@@ -177,6 +177,8 @@ title: Quotes
 
 > i have to choose what do i want
 
+> am i running from sth out of fear or am i running for sth out of passion.
+
 > fuck others
 
 > Long-term games with long-term people.
