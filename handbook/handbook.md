@@ -75,22 +75,22 @@ permalink: /handbook/
     <li><a href="./renewable-energy" tag=""></a></li>
     <li><a href="./cbt" tag=""></a></li>
     <li><a href="./economy" tag=""></a></li>
-    <li><a href="./arbitrage" tag="game-changer"></a></li>
+    <li><a href="./arbitrage" tag="tool"></a></li>
     <li><a href="./leader" tag=""></a></li>
     <li><a href="./move-forward" tag=""></a></li>
     <li><a href="./try" tag="tool"></a></li>
-    <li><a href="./ask" tag="weakness"></a></li>
+    <li><a href="./ask" tag="obstacle"></a></li>
     <li><a href="./mind-opiums" tag=""></a></li>
     <li><a href="./immerse" tag=""></a></li>
     <li><a href="./smart" tag=""></a></li>
     <li><a href="./darwin" tag="principle"></a></li>
     <li><a href="./wild" tag=""></a></li>
+    <li><a href="./leverage" tag="tool"></a></li>
     <li><a href="./right-questions" tag=""></a></li>
     <li><a href="./omniscient" tag="superpower"></a></li>
     <li><a href="./lose" tag=""></a></li>
     <li><a href="./potential" tag=""></a></li>
     <li><a href="./boredom" tag="obstacle"></a></li>
-    <li><a href="./leverage" tag=""></a></li>
     <li><a href="./depression" tag="obstacle"></a></li>
     <li><a href="./patience" tag=""></a></li>
     <li><a href="./rest-and-reinforce" tag=""></a></li>
