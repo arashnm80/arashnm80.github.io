@@ -1,0 +1,1 @@
+get specific, find and focus on the biggest main problem and go for its head.

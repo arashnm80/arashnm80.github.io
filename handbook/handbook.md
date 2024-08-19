@@ -16,23 +16,25 @@ permalink: /handbook/
     <li><a href="./choice" tag="principle"></a></li>
     <li><a href="./action" tag="principle"></a></li>
     <li><a href="./sort" tag="principle"></a></li>
-    <li><a href="./fear" tag="obstacle"></a></li>
+    <li><a href="./fear" tag="challenge"></a></li>
     <li><a href="./fight" tag=""></a></li>
     <li><a href="./plan-a-and-b" tag="principle"></a></li>
     <li><a href="./quality-levels" tag="principle"></a></li>
     <li><a href="./experience" tag=""></a></li>
     <li><a href="./2-battlefields" tag="principle"></a></li>
     <li><a href="./persistency" tag="principle"></a></li>
-    <li><a href="./pain" tag="obstacle"></a></li>
+    <li><a href="./pain" tag="challenge"></a></li>
     <li><a href="./habits-and-routines" tag=""></a></li>
     <li><a href="./ignores-and-removals" tag=""></a></li>
     <li><a href="./reboot" tag="superpower"></a></li>
     <li><a href="./passion" tag=""></a></li>
+    <li><a href="./doubt" tag="challenge"></a></li>
     <li><a href="./instinct" tag=""></a></li>
     <li><a href="./multitask" tag=""></a></li>
     <li><a href="./comparison" tag="tool"></a></li>
     <li><a href="./dopamine" tag=""></a></li>
     <li><a href="./life-factor" tag=""></a></li>
+    <li><a href="./beast" tag=""></a></li>
     <li><a href="./live" tag="passion"></a></li>
     <li><a href="./leave" tag="passion"></a></li>
     <li><a href="./bubble" tag=""></a></li>
@@ -45,10 +47,10 @@ permalink: /handbook/
     <li><a href="./hidden-progress" tag=""></a></li>
     <li><a href="./victim-mentality" tag=""></a></li>
     <li><a href="./everything-everywhere-all-at-once" tag="principle"></a></li>
-    <li><a href="./shame" tag="obstacle"></a></li>
-    <li><a href="./stress" tag="obstacle"></a></li>
+    <li><a href="./shame" tag="challenge"></a></li>
+    <li><a href="./stress" tag="challenge"></a></li>
     <li><a href="./believe" tag="tool"></a></li>
-    <li><a href="./procrastination" tag="obstacle"></a></li>
+    <li><a href="./procrastination" tag="challenge"></a></li>
     <li><a href="./lost-chance" tag=""></a></li>
     <li><a href="./destination-and-path" tag=""></a></li>
     <li><a href="./art-of-racing-in-the-rain" tag="superpower"></a></li>
@@ -80,7 +82,7 @@ permalink: /handbook/
     <li><a href="./leader" tag=""></a></li>
     <li><a href="./move-forward" tag=""></a></li>
     <li><a href="./try" tag="tool"></a></li>
-    <li><a href="./ask" tag="obstacle"></a></li>
+    <li><a href="./ask" tag="challenge"></a></li>
     <li><a href="./mind-opiums" tag=""></a></li>
     <li><a href="./immerse" tag=""></a></li>
     <li><a href="./smart" tag=""></a></li>
@@ -91,8 +93,8 @@ permalink: /handbook/
     <li><a href="./omniscient" tag="superpower"></a></li>
     <li><a href="./lose" tag=""></a></li>
     <li><a href="./potential" tag=""></a></li>
-    <li><a href="./boredom" tag="obstacle"></a></li>
-    <li><a href="./depression" tag="obstacle"></a></li>
+    <li><a href="./boredom" tag="challenge"></a></li>
+    <li><a href="./depression" tag="challenge"></a></li>
     <li><a href="./patience" tag=""></a></li>
     <li><a href="./rest-and-reinforce" tag=""></a></li>
     <li><a href="./elon-musk" tag="character"></a></li>
@@ -111,7 +113,7 @@ permalink: /handbook/
     <li><a href="./sam-altman" tag="character"></a></li>
     <li><a href="./parkinson-law" tag=""></a></li>
     <li><a href="./win-win" tag=""></a></li>
-    <li><a href="./ocd" tag="obstacle"></a></li>
+    <li><a href="./ocd" tag="challenge"></a></li>
     <li><a href="./childhood" tag=""></a></li>
     <li><a href="./40-70" tag=""></a></li>
     <li><a href="./big-picture" tag=""></a></li>
