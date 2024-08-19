@@ -44,6 +44,7 @@ permalink: /handbook/
     <li><a href="./negative-local-maximum" tag=""></a></li>
     <li><a href="./people" tag=""></a></li>
     <li><a href="./90-10" tag=""></a></li>
+    <li><a href="./try" tag="tool"></a></li>
     <li><a href="./hidden-progress" tag=""></a></li>
     <li><a href="./victim-mentality" tag=""></a></li>
     <li><a href="./everything-everywhere-all-at-once" tag="principle"></a></li>
@@ -53,14 +54,13 @@ permalink: /handbook/
     <li><a href="./procrastination" tag="challenge"></a></li>
     <li><a href="./lost-chance" tag=""></a></li>
     <li><a href="./destination-and-path" tag=""></a></li>
+    <li><a href="./overcorrection" tag="tool"></a></li>
     <li><a href="./art-of-racing-in-the-rain" tag="superpower"></a></li>
     <li><a href="./ryan-trahan" tag="character"></a></li>
     <li><a href="./chain-reaction" tag="game-changer"></a></li>
-    <li><a href="./try" tag="tool"></a></li>
     <li><a href="./subconscious" tag=""></a></li>
     <li><a href="./dirac-delta-function" tag=""></a></li>
     <li><a href="./minimalism" tag=""></a></li>
-    <li><a href="./overcorrection" tag="tool"></a></li>
     <li><a href="./domino-effect" tag=""></a></li>
     <li><a href="./near-zero-cost" tag=""></a></li>
     <li><a href="./will" tag=""></a></li>
