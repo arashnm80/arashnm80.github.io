@@ -9,6 +9,7 @@ permalink: /handbook/
     <li><a href="./c'est-ma-vie" tag="core"></a></li>
     <li><a href="./refuse-or-accept" tag="core"></a></li>
     <li><a href="./no-time-for-caution" tag="core"></a></li>
+    <li><a href="./beast" tag=""></a></li>
     <li><a href="./strategy" tag=""></a></li>
     <li><a href="./me" tag="principle"></a></li>
     <li><a href="./i-dentity" tag="principle"></a></li>
@@ -34,7 +35,6 @@ permalink: /handbook/
     <li><a href="./comparison" tag="tool"></a></li>
     <li><a href="./dopamine" tag=""></a></li>
     <li><a href="./life-factor" tag=""></a></li>
-    <li><a href="./beast" tag=""></a></li>
     <li><a href="./live" tag="passion"></a></li>
     <li><a href="./leave" tag="passion"></a></li>
     <li><a href="./bubble" tag=""></a></li>
