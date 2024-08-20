@@ -1,4 +1,4 @@
-the 2 most valid options are:
+since where i am right now is far from living, my 2 most valid options are:
 
 - **Leave**
 
