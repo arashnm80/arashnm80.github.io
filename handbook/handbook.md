@@ -50,6 +50,7 @@ permalink: /handbook/
     <li><a href="./everything-everywhere-all-at-once" tag="principle"></a></li>
     <li><a href="./shame" tag="challenge"></a></li>
     <li><a href="./stress" tag="challenge"></a></li>
+    <li><a href="./fast" tag="attribut"></a></li>
     <li><a href="./believe" tag="tool"></a></li>
     <li><a href="./procrastination" tag="challenge"></a></li>
     <li><a href="./lost-chance" tag=""></a></li>
