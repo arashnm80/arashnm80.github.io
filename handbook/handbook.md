@@ -78,10 +78,12 @@ permalink: /handbook/
     <li><a href="./mrbeast" tag="character"></a></li>
     <li><a href="./renewable-energy" tag=""></a></li>
     <li><a href="./cbt" tag=""></a></li>
+    <li><a href="./40-70" tag=""></a></li>
     <li><a href="./economy" tag=""></a></li>
     <li><a href="./arbitrage" tag="tool"></a></li>
     <li><a href="./leader" tag=""></a></li>
     <li><a href="./move-forward" tag=""></a></li>
+    <li><a href="./childhood" tag=""></a></li>
     <li><a href="./ask" tag="challenge"></a></li>
     <li><a href="./mind-opiums" tag=""></a></li>
     <li><a href="./immerse" tag=""></a></li>
@@ -114,8 +116,6 @@ permalink: /handbook/
     <li><a href="./parkinson-law" tag=""></a></li>
     <li><a href="./win-win" tag=""></a></li>
     <li><a href="./ocd" tag="challenge"></a></li>
-    <li><a href="./childhood" tag=""></a></li>
-    <li><a href="./40-70" tag=""></a></li>
     <li><a href="./big-picture" tag=""></a></li>
     <li><a href="./mental-model" tag=""></a></li>
     <li><a href="./switch-cost" tag=""></a></li>

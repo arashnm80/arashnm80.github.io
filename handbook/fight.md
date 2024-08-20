@@ -38,3 +38,6 @@ listening to a good music even in hell has its joy. best case scenario it will m
 
 ### game
 fighting in the enjoyable fields will turn it into a playing
+
+### have to
+if the only choice for me is to fight, let's do it as best as i can.
