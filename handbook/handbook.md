@@ -82,15 +82,15 @@ permalink: /handbook/
     <li><a href="./40-70" tag=""></a></li>
     <li><a href="./economy" tag=""></a></li>
     <li><a href="./arbitrage" tag="tool"></a></li>
+    <li><a href="./wild" tag="attribut"></a></li>
     <li><a href="./leader" tag=""></a></li>
     <li><a href="./move-forward" tag=""></a></li>
     <li><a href="./childhood" tag=""></a></li>
     <li><a href="./ask" tag="challenge"></a></li>
     <li><a href="./mind-opiums" tag=""></a></li>
     <li><a href="./immerse" tag=""></a></li>
-    <li><a href="./smart" tag=""></a></li>
+    <li><a href="./smart" tag="attribut"></a></li>
     <li><a href="./darwin" tag="principle"></a></li>
-    <li><a href="./wild" tag=""></a></li>
     <li><a href="./leverage" tag="tool"></a></li>
     <li><a href="./right-questions" tag=""></a></li>
     <li><a href="./omniscient" tag="superpower"></a></li>
@@ -98,7 +98,7 @@ permalink: /handbook/
     <li><a href="./potential" tag=""></a></li>
     <li><a href="./boredom" tag="challenge"></a></li>
     <li><a href="./depression" tag="challenge"></a></li>
-    <li><a href="./patience" tag=""></a></li>
+    <li><a href="./patience" tag="attribut"></a></li>
     <li><a href="./rest-and-reinforce" tag=""></a></li>
     <li><a href="./elon-musk" tag="character"></a></li>
     <li><a href="./niksen" tag=""></a></li>
@@ -118,6 +118,7 @@ permalink: /handbook/
     <li><a href="./win-win" tag=""></a></li>
     <li><a href="./ocd" tag="challenge"></a></li>
     <li><a href="./big-picture" tag=""></a></li>
+    <li><a href="./deserve" tag=""></a></li>
     <li><a href="./mental-model" tag=""></a></li>
     <li><a href="./switch-cost" tag=""></a></li>
     <li><a href="./flow" tag=""></a></li>
@@ -125,7 +126,6 @@ permalink: /handbook/
     <li><a href="./what-if" tag=""></a></li>
     <li><a href="./inertia" tag=""></a></li>
     <li><a href="./do-the-right-thing" tag=""></a></li>
-    <li><a href="./deserve" tag=""></a></li>
     <li><a href="./eyes" tag=""></a></li>
     <li><a href="./form-and-content" tag=""></a></li>
     <li><a href="./pride" tag=""></a></li>
