@@ -1,4 +1,4 @@
-**fight is action against opposition.**
+**戦え is action against opposition.**
 
 > The reason to fight is to get rid of it.
 
