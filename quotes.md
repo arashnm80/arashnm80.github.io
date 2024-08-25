@@ -95,6 +95,8 @@ title: Quotes
 
 > It's not about how big an army is, it's about who is the general.
 
+> don't ever go with the flow, be the flow
+
 > A real loser is someone who's so afraid of not winning he doesn't even try.
 
 > If I'm not failing I'm not operating at the edge. if I'm not operating at the edge, I'm not learning as much as I can.
@@ -178,6 +180,8 @@ title: Quotes
 > i have to choose what do i want
 
 > am i running from sth out of fear or am i running for sth out of passion.
+
+> death is the closest thing to peace.
 
 > fuck others
 

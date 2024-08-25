@@ -90,12 +90,12 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./childhood" tag=""></a></li>
     <li><a href="./ask" tag="challenge"></a></li>
     <li><a href="./mind-opiums" tag=""></a></li>
+    <li><a href="./assume" tag="superpower"></a></li>
     <li><a href="./immerse" tag=""></a></li>
     <li><a href="./smart" tag="attribut"></a></li>
     <li><a href="./darwin" tag="principle"></a></li>
     <li><a href="./leverage" tag="tool"></a></li>
     <li><a href="./right-questions" tag=""></a></li>
-    <li><a href="./assume" tag="superpower"></a></li>
     <li><a href="./lose" tag=""></a></li>
     <li><a href="./potential" tag=""></a></li>
     <li><a href="./boredom" tag="challenge"></a></li>
@@ -126,6 +126,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./flow" tag=""></a></li>
     <li><a href="./swing-trading" tag="tool"></a></li>
     <li><a href="./what-if" tag=""></a></li>
+    <li><a href="./peace" tag=""></a></li>
     <li><a href="./inertia" tag=""></a></li>
     <li><a href="./do-the-right-thing" tag=""></a></li>
     <li><a href="./eyes" tag=""></a></li>
@@ -137,6 +138,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./norm" tag=""></a></li>
     <li><a href="./open-source-diary" tag=""></a></li>
     <li><a href="./masturbation" tag=""></a></li>
+    <li><a href="./piss-it" tag="mental-model"></a></li>
     <li><a href="./other" tag=""></a></li>
   </ul>
 </div>
