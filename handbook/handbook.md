@@ -29,7 +29,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./pain" tag="challenge"></a></li>
     <li><a href="./habits-and-routines" tag=""></a></li>
     <li><a href="./ignores-and-removals" tag=""></a></li>
-    <li><a href="./reboot" tag="superpower"></a></li>
+    <li><a href="./reboot" tag="超能力"></a></li>
     <li><a href="./passion" tag=""></a></li>
     <li><a href="./doubt" tag="challenge"></a></li>
     <li><a href="./instinct" tag=""></a></li>
@@ -58,7 +58,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./lost-chance" tag=""></a></li>
     <li><a href="./destination-and-path" tag=""></a></li>
     <li><a href="./overcorrection" tag="tool"></a></li>
-    <li><a href="./art-of-racing-in-the-rain" tag="superpower"></a></li>
+    <li><a href="./art-of-racing-in-the-rain" tag="超能力"></a></li>
     <li><a href="./ryan-trahan" tag="character"></a></li>
     <li><a href="./chain-reaction" tag="game-changer"></a></li>
     <li><a href="./subconscious" tag=""></a></li>
@@ -76,7 +76,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./naval" tag="character"></a></li>
     <li><a href="./portrait-painting" tag=""></a></li>
     <li><a href="./idea-person" tag="game-changer"></a></li>
-    <li><a href="./carnet-mental" tag="superpower"></a></li>
+    <li><a href="./carnet-mental" tag="超能力"></a></li>
     <li><a href="./creativity" tag=""></a></li>
     <li><a href="./mrbeast" tag="character"></a></li>
     <li><a href="./renewable-energy" tag=""></a></li>
@@ -84,13 +84,13 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./40-70" tag=""></a></li>
     <li><a href="./economy" tag=""></a></li>
     <li><a href="./arbitrage" tag="tool"></a></li>
+    <li><a href="./childhood" tag="challenge"></a></li>
     <li><a href="./wild" tag="attribut"></a></li>
     <li><a href="./leader" tag=""></a></li>
     <li><a href="./move-forward" tag=""></a></li>
-    <li><a href="./childhood" tag=""></a></li>
     <li><a href="./ask" tag="challenge"></a></li>
     <li><a href="./mind-opiums" tag=""></a></li>
-    <li><a href="./assume" tag="superpower"></a></li>
+    <li><a href="./assume" tag="超能力"></a></li>
     <li><a href="./immerse" tag=""></a></li>
     <li><a href="./smart" tag="attribut"></a></li>
     <li><a href="./darwin" tag="principle"></a></li>
