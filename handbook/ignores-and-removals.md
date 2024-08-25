@@ -1,3 +1,4 @@
 - statistics
 - track on repeat
 - lower or upper case
+- trailer of movies i'm gonna watch anyway

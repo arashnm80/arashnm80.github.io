@@ -17,6 +17,8 @@ title: Quotes
 
 > If I know the world is gonna collapse tomorrow doesn't mean I can't enjoy today.
 
+> Am I willing to succeed with cost of everybody disliking me?
+
 > Starting is the most important and hardest step.
 
 > 七転び八起き - Nana Korobi Ya Oki
@@ -140,8 +142,6 @@ title: Quotes
 > Would I have chosen to be born or not?
 
 > I just try to live every day as if I've deliberately come back to this one day, to enjoy it, as if it was the full final day of my extraordinary, ordinary life.
-
-> Am I willing to succeed with cost of everybody disliking me?
 
 > think simple and word hard
 

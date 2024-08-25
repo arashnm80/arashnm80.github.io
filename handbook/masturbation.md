@@ -1,0 +1,1 @@
+it's the closest available thing to sex but even it lefts me with feeling of emptiness and not feeling anything near good enough.

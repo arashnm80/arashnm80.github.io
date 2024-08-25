@@ -95,7 +95,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./darwin" tag="principle"></a></li>
     <li><a href="./leverage" tag="tool"></a></li>
     <li><a href="./right-questions" tag=""></a></li>
-    <li><a href="./omniscient" tag="superpower"></a></li>
+    <li><a href="./assume" tag="superpower"></a></li>
     <li><a href="./lose" tag=""></a></li>
     <li><a href="./potential" tag=""></a></li>
     <li><a href="./boredom" tag="challenge"></a></li>
@@ -136,6 +136,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./money" tag=""></a></li>
     <li><a href="./norm" tag=""></a></li>
     <li><a href="./open-source-diary" tag=""></a></li>
+    <li><a href="./masturbation" tag=""></a></li>
     <li><a href="./other" tag=""></a></li>
   </ul>
 </div>
