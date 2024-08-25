@@ -4,6 +4,8 @@ title: Handbook
 permalink: /handbook/
 ---
 
+handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fantasies, ... which none of them really matter.
+
 <div id="all-items">
   <ul>
     <li><a href="./c'est-ma-vie" tag="core"></a></li>
