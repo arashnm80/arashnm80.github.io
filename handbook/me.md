@@ -12,3 +12,10 @@ as long as i can remember i've always been doing things for others as favors, in
 
 ### bullseye
 get closer to the center. care much more about myself than amount i care about my reputation, assets, projects, products, friends, family, ...
+
+### for me
+i'm gonna live and do things for me
+
+> never trust a founder that doesn't use his own product
+
+in fact i'm gonna only create for myself and then if possible, sell it to others too and make money out of it. but the main final goal is to do sth for me.

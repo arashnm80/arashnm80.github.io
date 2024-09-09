@@ -89,8 +89,6 @@ title: Quotes
 
 > Make every bullet count.
 
-> never trust a founder that doesn't use his own product
-
 > It takes 10 years to become an overnight success.
 
 > Wealth is having assets that earn while I sleep.
@@ -102,6 +100,8 @@ title: Quotes
 > A real loser is someone who's so afraid of not winning he doesn't even try.
 
 > If I'm not failing I'm not operating at the edge. if I'm not operating at the edge, I'm not learning as much as I can.
+
+> never trust a founder that doesn't use his own product
 
 > The first principle is that I must not fool myself, and I'm the easiest person to fool.
 
