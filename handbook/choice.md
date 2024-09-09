@@ -48,6 +48,8 @@ Not choosing is a choice itself and most of the time the worst one.
 Everyday I wake up I listen to Adagio and decide whether to leave or to stay and fight one more day.
 
 ### Risk
+**higher risk means bigger reward in exchange for bigger cost. so it's all a tradeoff and i am responsible to choose what i want.**
+
 - mrbeast faking college
 > Any worthwhile venture involves risk.
 
@@ -61,6 +63,8 @@ Risk is the natural product of uncertainty. It's the relationship between sizes 
 
 > 50% chance of winning 1 or 10% chance of winning 5?
 
+**choosing to risk and play for higher reward with bigger risk and pain at least would make me sure that i'm not running away because i'm afraid.**
+
 ### try
 > I'm not sure if it's possible or not but the only way to find out is to try with everything I've got.
 
@@ -68,3 +72,17 @@ i can choose to do many things. they might be possible or impossible, i might be
 
 ### hard choice
 id, ego and super ego aside, we almost always know what is the best choice but we fail to choose it because it's almost always the scariest, hardest and most painful option.
+
+### nigga
+sometimes we have only one choice and as much hard as it is, it's very simple and obvious to see that choice. like when you are a black person in old america and have to work your ass off in cotton fields or you'll be punished by the world.
+
+### reframe
+there are always infinite possible choices and having no choice means to having 1 choice with huge cost-benefit gap in compare with other choices. (it can be comparing +1000 to +1 or -1000 to -1)
+
+### questions
+what does it mean to choose the best choice? what is the best choice? if we know it why we choose sth else? pain? short term best choice vs long term?
+
+### infinity
+there are infinite right and wrong choices on different basises: short term or long term thinking, playing field, goals, needs, assets, thinking coordinates, principles, ...
+
+or is there even any right or wrong?

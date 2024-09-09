@@ -89,6 +89,8 @@ title: Quotes
 
 > Make every bullet count.
 
+> never trust a founder that doesn't use his own product
+
 > It takes 10 years to become an overnight success.
 
 > Wealth is having assets that earn while I sleep.
@@ -137,6 +139,10 @@ title: Quotes
 
 > i only live once.
 
+> time waits for no one
+
+> My time is limited, I'm not gonna waste it living someone else’s life.
+
 > Assess every choice with a single question: "If I time-travel to past, do I repeat it again the same?"
 
 > Do I live my life in such a way that I would be willing to repeat it again and again, forever?
@@ -151,9 +157,9 @@ title: Quotes
 
 > don't runaway from bad to worse
 
-> My time is limited, I'm not gonna waste it living someone else’s life.
+> if sth is stupid don't do it, no matter how small it is
 
-> Everybody in the world is a compass for me. A reminder of where I want to be and where I don't.
+> create stable self-sufficient system and leave them on their own.
 
 > I'm gonna be the change I want to see in the world.
 
@@ -173,8 +179,6 @@ title: Quotes
 
 > Soft as a leaf, strong as a trunk.
 
-> I'm gonna change the world and I'm not gonna ask for permission.
-
 > Can somebody that is totally ok to leave this world right now, have a passion to live?
 
 > i have to choose what do i want
@@ -183,13 +187,15 @@ title: Quotes
 
 > death is the closest thing to peace.
 
-> fuck others
-
 > Long-term games with long-term people.
 
 > Surround myself with people 20% better than me.
 
 > don't care about people more than amount they care about themselves.
+
+> fuck others
+
+> Everybody in the world is a compass for me. A reminder of where I want to be and where I don't.
 
 > Streak is the most important metric for success.
 
@@ -208,6 +214,8 @@ title: Quotes
 > To become great, I should become good first.
 
 > No matter how much I can stretch, in the end I have a limited rope. The challenge is to maximize the area.
+
+> هیچی پرفکت نیست، اینقدر دنبالش نباش اسکل
 
 > Sacrifice 1 perfect to get 4 good-enoughs.
 

@@ -16,15 +16,9 @@ I can define some constant routines to create this situation manually, e.g. :
 
 > don't runaway from bad to worse
 
-## I-dentity
-> My time is limited, I'm not gonna waste it living someone else’s life.
+> if sth is stupid don't do it, no matter how small it is
 
-One creature dies in the water and the other in the air. We are not the same.
-
-### People
-Respect everyone and give a shit about no one, in fact don't even think about anyone. Do what you believe is best not what society enforce on you.
-
-> Everybody in the world is a compass for me. A reminder of where I want to be and where I don't.
+> create stable self-sufficient system and leave them on their own.
 
 ### Character
 > I'm gonna be the change I want to see in the world.
@@ -45,14 +39,11 @@ Respect everyone and give a shit about no one, in fact don't even think about an
 
 > Soft as a leaf, strong as a trunk.
 
-### Rogue
-> I'm gonna change the world and I'm not gonna ask for permission.
-
 ### Too far for Ronaldo to think about it
 https://www.youtube.com/watch?v=tvC2rIMjCUc
 
-### match answer with question
-match the size of my answers to the questions with the size of effort the asker has put into thinking, trying, studying, investigating, ... before asking it from me.
-
 ### most people are NPCs
 https://www.youtube.com/watch?v=69B6WaURHD0
+
+### black screen reflect
+looking at myself in black screen of phone

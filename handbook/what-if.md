@@ -1,8 +1,7 @@
-### last chance
-what if this would be our last chance, dance, kiss, trip, hug, meet, ...
-
 ### wrong
 what if i'm wrong, misunderstood, ignoring sth, mistaking, ...
+
+my fears, worries, problems, ... : what if they are all wrong? what if they are all true? what if some are right and some not?
 
 ### what if i'm wrong?
 i usually think very pessimist about life, LF, pain, passion, hardship, ... **but what if i'm just exaggerating, bringing up excuses, fall in fallacy traps, fall for victim mentality, missing pieces of puzzle due to lack of patience, ... ? what if my expectations are too high and unreal?**

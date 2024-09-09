@@ -1,0 +1,3 @@
+mute and ignore parts of the world that i don't need.
+
+useless news, stupid people, false critisism, ...

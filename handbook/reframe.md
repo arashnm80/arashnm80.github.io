@@ -1,0 +1,2 @@
+### reframe / transformative thinking / change of basis / coordinate transformation
+it's like changing cartesian coordinate system to polar one, 2 systems can be both correct but computing and understanding in one can be much easier.

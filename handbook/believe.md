@@ -18,3 +18,5 @@ Everybody thinks their loneliness/pain/depression/sadness/confusion/... is the b
 for me that doesn't believe in any specific thing, it can get really hard to do things in compare with some absent-minded person who beilieves everything gives him dopamine. so what's the solution? maybe there's no fully concrete solution for it (remember i'm not a beilever🤷‍♂️) but a good countermeasure is trying. my best shot is to try always my best - no matter how fucked up is the situation - so if it's possible, it would happen.
 
 of course it would not be as powerful as will of absent-minded fools who even give their lives for their fantasies but i've gotta do my best.
+
+### placebo & nocebo effect

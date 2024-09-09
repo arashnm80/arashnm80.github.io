@@ -1,0 +1,3 @@
+people give birth to children to see their survival inside their children's lives. they mostly force their belief systems, ambitions, needs, fears, ... into offsprings to create the most resemble copy of themselves. so basically one of them most important chains we should get rid of is the bearing our family desires.
+
+children are also bearing their families problems like poverty, unhappiness, ...
