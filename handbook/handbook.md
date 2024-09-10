@@ -148,6 +148,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./do-the-right-thing" tag=""></a></li>
     <li><a href="./eyes" tag=""></a></li>
     <li><a href="./halfway-conversation" tag="tool"></a></li>
+    <li><a href="./run-away" tag="challenge"></a></li>
     <li><a href="./form-and-content" tag=""></a></li>
     <li><a href="./monitor" tag=""></a></li>
     <li><a href="./amigdel" tag="character"></a></li>
