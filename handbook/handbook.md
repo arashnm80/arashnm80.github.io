@@ -134,6 +134,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./parkinson-law" tag=""></a></li>
     <li><a href="./win-win" tag=""></a></li>
     <li><a href="./big-picture" tag=""></a></li>
+    <li><a href="./masturbation" tag=""></a></li>
     <li><a href="./deserve" tag=""></a></li>
     <li><a href="./attack-on-titan" tag="cinema"></a></li>
     <li><a href="./mental-model" tag=""></a></li>
@@ -152,8 +153,6 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./form-and-content" tag=""></a></li>
     <li><a href="./monitor" tag=""></a></li>
     <li><a href="./friends" tag=""></a></li>
-    <li><a href="./amigdel" tag="character"></a></li>
-    <li><a href="./masturbation" tag=""></a></li>
     <li><a href="./ideas" tag=""></a></li>
     <li><a href="./money" tag=""></a></li>
     <li><a href="./norm" tag=""></a></li>
@@ -161,6 +160,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./piss-it" tag="mental-model"></a></li>
     <li><a href="./observation" tag=""></a></li>
     <li><a href="./jekyll-and-hyde" tag="tool"></a></li>
+    <li><a href="./amigdel" tag="character"></a></li>
     <li><a href="./other" tag=""></a></li>
   </ul>
 </div>
