@@ -28,18 +28,19 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./fear" tag="challenge"></a></li>
     <li><a href="./persistency" tag="principle"></a></li>
     <li><a href="./pain" tag="challenge"></a></li>
-    <li><a href="./passion" tag=""></a></li>
+    <li><a href="./passion" tag="challenge"></a></li>
     <li><a href="./reboot" tag="超能力"></a></li>
     <li><a href="./habits-and-routines" tag=""></a></li>
+    <li><a href="./shame" tag="challenge"></a></li>
     <li><a href="./ignores-and-removals" tag=""></a></li>
-    <li><a href="./doubt" tag="challenge"></a></li>
-    <li><a href="./sadness" tag="challenge"></a></li>
     <li><a href="./instinct" tag=""></a></li>
     <li><a href="./multitask" tag=""></a></li>
     <li><a href="./comparison" tag="tool"></a></li>
     <li><a href="./dopamine" tag=""></a></li>
+    <li><a href="./doubt" tag="challenge"></a></li>
     <li><a href="./reframe" tag="超能力"></a></li>
     <li><a href="./life-factor" tag=""></a></li>
+    <li><a href="./sadness" tag="challenge"></a></li>
     <li><a href="./live" tag="passion"></a></li>
     <li><a href="./leave" tag="passion"></a></li>
     <li><a href="./bubble" tag=""></a></li>
@@ -48,19 +49,18 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./begin-again" tag=""></a></li>
     <li><a href="./freedom" tag="passion"></a></li>
     <li><a href="./negative-local-maximum" tag=""></a></li>
+    <li><a href="./stress" tag="challenge"></a></li>
     <li><a href="./dad" tag="people"></a></li>
     <li><a href="./90-10" tag=""></a></li>
     <li><a href="./try" tag="tool"></a></li>
     <li><a href="./hidden-progress" tag=""></a></li>
     <li><a href="./rogue" tag="personality"></a></li>
     <li><a href="./strong" tag="personality"></a></li>
+    <li><a href="./procrastination" tag="challenge"></a></li>
     <li><a href="./victim-mentality" tag=""></a></li>
     <li><a href="./everything-everywhere-all-at-once" tag="principle"></a></li>
-    <li><a href="./shame" tag="challenge"></a></li>
-    <li><a href="./stress" tag="challenge"></a></li>
     <li><a href="./believe" tag="tool"></a></li>
     <li><a href="./fast" tag="attribut"></a></li>
-    <li><a href="./procrastination" tag="challenge"></a></li>
     <li><a href="./destination-and-path" tag=""></a></li>
     <li><a href="./last-dance" tag=""></a></li>
     <li><a href="./children" tag=""></a></li>
@@ -101,6 +101,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./mind-opiums" tag=""></a></li>
     <li><a href="./assume" tag="超能力"></a></li>
     <li><a href="./immerse" tag=""></a></li>
+    <li><a href="./depression" tag="challenge"></a></li>
     <li><a href="./weakness-as-a-service" tag=""></a></li>
     <li><a href="./smart" tag="attribut"></a></li>
     <li><a href="./darwin" tag="principle"></a></li>
@@ -110,7 +111,6 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./focus" tag=""></a></li>
     <li><a href="./potential" tag=""></a></li>
     <li><a href="./boredom" tag="challenge"></a></li>
-    <li><a href="./depression" tag="challenge"></a></li>
     <li><a href="./patience" tag="attribut"></a></li>
     <li><a href="./rest-and-reinforce" tag=""></a></li>
     <li><a href="./elon-musk" tag="character"></a></li>
@@ -120,6 +120,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./teacher" tag=""></a></li>
     <li><a href="./hedonic-treadmill" tag=""></a></li>
     <li><a href="./words" tag=""></a></li>
+    <li><a href="./ocd" tag="challenge"></a></li>
     <li><a href="./improvise" tag=""></a></li>
     <li><a href="./skill-tree" tag=""></a></li>
     <li><a href="./sale" tag=""></a></li>
@@ -129,28 +130,28 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./paradox-of-choice" tag="book"></a></li>
     <li><a href="./sam-altman" tag="character"></a></li>
     <li><a href="./founder" tag=""></a></li>
+    <li><a href="./obsession" tag="challenge"></a></li>
     <li><a href="./parkinson-law" tag=""></a></li>
     <li><a href="./win-win" tag=""></a></li>
-    <li><a href="./ocd" tag="challenge"></a></li>
     <li><a href="./big-picture" tag=""></a></li>
     <li><a href="./deserve" tag=""></a></li>
     <li><a href="./attack-on-titan" tag="cinema"></a></li>
     <li><a href="./mental-model" tag=""></a></li>
     <li><a href="./mark-rober" tag="character"></a></li>
-    <li><a href="./obsession" tag="challenge"></a></li>
     <li><a href="./switch-cost" tag=""></a></li>
     <li><a href="./flow" tag=""></a></li>
+    <li><a href="./pride" tag="challenge"></a></li>
     <li><a href="./swing-trading" tag="tool"></a></li>
     <li><a href="./what-if" tag=""></a></li>
     <li><a href="./peace" tag=""></a></li>
     <li><a href="./inertia" tag=""></a></li>
-    <li><a href="./pride" tag="challenge"></a></li>
     <li><a href="./do-the-right-thing" tag=""></a></li>
     <li><a href="./eyes" tag=""></a></li>
     <li><a href="./halfway-conversation" tag="tool"></a></li>
     <li><a href="./run-away" tag="challenge"></a></li>
     <li><a href="./form-and-content" tag=""></a></li>
     <li><a href="./monitor" tag=""></a></li>
+    <li><a href="./friends" tag=""></a></li>
     <li><a href="./amigdel" tag="character"></a></li>
     <li><a href="./masturbation" tag=""></a></li>
     <li><a href="./ideas" tag=""></a></li>
