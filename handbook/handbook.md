@@ -159,6 +159,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./open-source-diary" tag=""></a></li>
     <li><a href="./piss-it" tag="mental-model"></a></li>
     <li><a href="./observation" tag=""></a></li>
+    <li><a href="./jekyll-and-hyde" tag="tool"></a></li>
     <li><a href="./other" tag=""></a></li>
   </ul>
 </div>
