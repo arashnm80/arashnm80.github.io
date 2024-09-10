@@ -10,3 +10,4 @@
 - بابا و زهرا یه دیالوگ وحشتناک با هم داشتن: جفتشون داشتن با افتخار پز میدادن و میگفتن بچه های ما هیچ کدوم هیچ وقت اینطوری نبودن که تو خیابون نق بزنن و بگن ما فلان چیز رو میخوایم. بر خلاف بقیه بچه ها اینا خیلی بچه های خوبی بودند. **شاید دلیل اینکه من الان هیچی نمیخوام اینه که تربیت شدم همیشه بچه خوبی باشم و هیچی نخوام.**
 - i always pretend to be asleep when someone walks into my room when i'm in bed. maybe i'm still running away from being judged *why am i not sleep*.
 - i remember always playing fantasy games in my mind when i was a child. playing as jumung and shooting with fantasy arrows, playing as spiderman and shooting fantasy webs, driving fantasy cars, ... . maybe the reason was my loneliness or maybe the harmless infinte realm of fantasy.
+- one reason to starting with foreign musics was to learn english but i think the main core reason is to run away from shame and keep parents out of my business by listening to sth they don't understand
