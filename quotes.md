@@ -9,6 +9,8 @@ title: Quotes
 
 > I'm gonna live my choices through real life actions.
 
+> be very taciturn in talking with words and very loquacious in talking with actions.
+
 > I'm goddamn tired, but inaction changes nothing.
 
 > I choose to be the same person in the best or worst possible situation.

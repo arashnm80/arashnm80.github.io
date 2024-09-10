@@ -18,3 +18,14 @@ in all those past breakdowns i did nothing until all their deadlines ended and i
 and the importance of this *what if* is better understood while i remind myself this fact: ok it's an unwanted bullshit task or let's even call it painful, but in reality it takes 1 to 2 weeks while i've been lingering around for 6 fucking months🤯.
 
 for so many years i have seen myself too good for this world. i've seen the world beneath me and not worthy. but this begs the question: *what any special thing have i done so far to see myself this mighty? any big sacriface? any special fear conquered? ...*
+
+### what if life is simple and normal
+what if i'm a normal person, life is simple, my life (my country, budget, chance, country, ...) is good enough, my friends and family are everything i need, ...?
+
+**what if i'm just making a fuss and bringing excuses to run away from problems?**
+
+### what if life is cursed?
+what if life is a fucked up concept and happiness is impossible? what if we are doomed to endure more pain than joy without having any meaning?
+
+### what if it's a big matrix?
+what if it's all a big conspiracy and everything we believe is an illusion?

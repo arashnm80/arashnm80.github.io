@@ -19,12 +19,13 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./choice" tag="principle"></a></li>
     <li><a href="./action" tag="principle"></a></li>
     <li><a href="./sort" tag="principle"></a></li>
-    <li><a href="./fear" tag="challenge"></a></li>
     <li><a href="./fight" tag=""></a></li>
     <li><a href="./quality-levels" tag="principle"></a></li>
+    <li><a href="./childhood" tag="challenge"></a></li>
     <li><a href="./plan-a-and-b" tag="principle"></a></li>
     <li><a href="./experience" tag=""></a></li>
     <li><a href="./2-battlefields" tag="principle"></a></li>
+    <li><a href="./fear" tag="challenge"></a></li>
     <li><a href="./persistency" tag="principle"></a></li>
     <li><a href="./pain" tag="challenge"></a></li>
     <li><a href="./passion" tag=""></a></li>
@@ -50,7 +51,6 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./dad" tag="people"></a></li>
     <li><a href="./90-10" tag=""></a></li>
     <li><a href="./try" tag="tool"></a></li>
-    <li><a href="./childhood" tag="challenge"></a></li>
     <li><a href="./hidden-progress" tag=""></a></li>
     <li><a href="./rogue" tag="personality"></a></li>
     <li><a href="./strong" tag="personality"></a></li>
@@ -107,6 +107,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./leverage" tag="tool"></a></li>
     <li><a href="./right-questions" tag=""></a></li>
     <li><a href="./lose" tag=""></a></li>
+    <li><a href="./focus" tag=""></a></li>
     <li><a href="./potential" tag=""></a></li>
     <li><a href="./boredom" tag="challenge"></a></li>
     <li><a href="./depression" tag="challenge"></a></li>
@@ -136,6 +137,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./attack-on-titan" tag="cinema"></a></li>
     <li><a href="./mental-model" tag=""></a></li>
     <li><a href="./mark-rober" tag="character"></a></li>
+    <li><a href="./obsession" tag="challenge"></a></li>
     <li><a href="./switch-cost" tag=""></a></li>
     <li><a href="./flow" tag=""></a></li>
     <li><a href="./swing-trading" tag="tool"></a></li>

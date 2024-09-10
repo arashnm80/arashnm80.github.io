@@ -8,6 +8,8 @@ Doing any random action with any size toward any direction is way better than no
 
 > I'm gonna live my choices through real life actions.
 
+> be very taciturn in talking with words and very loquacious in talking with actions.
+
 ### Fight
 
 ### Action Book
