@@ -1,6 +1,6 @@
 ---
 layout: page
-title: theorybook
+title: handbook
 permalink: /handbook/
 ---
 
@@ -162,6 +162,8 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./observation" tag=""></a></li>
     <li><a href="./jekyll-and-hyde" tag="tool"></a></li>
     <li><a href="./amigdel" tag="character"></a></li>
+    <li><a href="./linchpin" tag=""></a></li>
+    <li><a href="./keystone" tag=""></a></li>
     <li><a href="./other" tag=""></a></li>
   </ul>
 </div>

@@ -1,0 +1,3 @@
+A Linchpin describes by Seth:
+
+“These people figure out what to do when there’s no rule book. They delight and challenge their customers and peers. They love their work, pour their best selves into it, and turn each day into a kind of art. Linchpins are the essential building blocks of great organizations. They may not be famous but they’re indispensable. And in today’s world, they get the best jobs and the most freedom.”
