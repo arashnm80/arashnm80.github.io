@@ -11,6 +11,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./c'est-ma-vie" tag="core"></a></li>
     <li><a href="./refuse-or-accept" tag="core"></a></li>
     <li><a href="./no-time-for-caution" tag="core"></a></li>
+    <li><a href="./chosen-passion" tag=""></a></li>
     <li><a href="./beast" tag=""></a></li>
     <li><a href="./strategy" tag=""></a></li>
     <li><a href="./me" tag="principle"></a></li>
@@ -22,10 +23,11 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./fight" tag=""></a></li>
     <li><a href="./quality-levels" tag="principle"></a></li>
     <li><a href="./childhood" tag="challenge"></a></li>
-    <li><a href="./plan-a-and-b" tag="principle"></a></li>
     <li><a href="./experience" tag=""></a></li>
+    <li><a href="./big-picture" tag="personality"></a></li>
     <li><a href="./2-battlefields" tag="principle"></a></li>
     <li><a href="./fear" tag="challenge"></a></li>
+    <li><a href="./plan-a-and-b" tag="principle"></a></li>
     <li><a href="./persistency" tag="principle"></a></li>
     <li><a href="./pain" tag="challenge"></a></li>
     <li><a href="./passion" tag="challenge"></a></li>
@@ -134,7 +136,6 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./obsession" tag="challenge"></a></li>
     <li><a href="./parkinson-law" tag=""></a></li>
     <li><a href="./win-win" tag=""></a></li>
-    <li><a href="./big-picture" tag=""></a></li>
     <li><a href="./masturbation" tag=""></a></li>
     <li><a href="./deserve" tag=""></a></li>
     <li><a href="./attack-on-titan" tag="cinema"></a></li>
@@ -153,7 +154,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./run-away" tag="challenge"></a></li>
     <li><a href="./form-and-content" tag=""></a></li>
     <li><a href="./monitor" tag=""></a></li>
-    <li><a href="./friends" tag=""></a></li>
+    <li><a href="./friendship" tag=""></a></li>
     <li><a href="./ideas" tag=""></a></li>
     <li><a href="./money" tag=""></a></li>
     <li><a href="./norm" tag=""></a></li>

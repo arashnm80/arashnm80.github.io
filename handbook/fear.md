@@ -1,6 +1,6 @@
-Courage is not the absence of fear. Courage is the willingness to act in spite of my fear.
+Courage is not the absence of fear. Courage is the willingness to act in spite of my fear. i should meet confront my fears and fight with them, search them and understand thier origins.
 
-> Big people make big [choices](../newton's-third-law).
+> Big people make big choices.
 
 > Qui ose gagne.
 

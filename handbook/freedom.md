@@ -12,3 +12,6 @@ There are levels of freedom. I'm not totally free and I'm not not totally impris
 I used to live for the perfection itself. I enjoyed to become better. I enjoyed to be the best among other people. But now I understand that it's just been written into my source code by my father. Now that I'm thinking clearly on my own I see that I don't care about it and even if I want to become better at sth I want it to be for the joy of that activity not perfection and improvement in it, like playing soccer just for playing and not giving a damn about results.
 
 The act of working hard and fighting used to was considered a value for me on its own but now I can see the bigger picture, the fact that it's only a tool to get free of working hard and fighting.
+
+### freedom of speech
+**i have the right to express all of myself, fully and without shame. it doesn't matter if no one in the history has ever or would ever see eye to eye to me, i still have the right to be my real self without censoring, feeling wrong.**

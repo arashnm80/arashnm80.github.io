@@ -21,7 +21,7 @@ one thing that is hurting me is the fact that even some of my biggest passions l
 i don't know if i was like this from the first place or changed or forced or metamorphosed but i don't enjoy watching sky, peting animals, eating foods, ... like others.
 
 ### need
-i don't know if it should be called sad or what. someone who doens't need anything can't joy anything. there's no joy of sex for eunuch, there's no joy of eating for sb not hungry, ...
+i don't know if it should be called sad or what. someone who doens't need anything can't joy anything. there's no joy of sex for eunuch, there's no joy of eating for sb not hungry (or eathing meat for someone who is vegerian), ...
 
 ### choose
 > i have to choose what do i want

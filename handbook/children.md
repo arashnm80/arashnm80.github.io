@@ -1,3 +1,5 @@
 people give birth to children to see their survival inside their children's lives. they mostly force their belief systems, ambitions, needs, fears, ... into offsprings to create the most resemble copy of themselves. so basically one of them most important chains we should get rid of is the bearing our family desires.
 
 children are also bearing their families problems like poverty, unhappiness, ...
+
+giving birth to children is one of the shittiest and egotistic possible things in the world. except for maybe 1 to 3% of the people who are rich, happy and in good place all other children are born so their parents won't be alone in their swamps. they decide to have a child so now they would have one more ally in this swamp and since that poor child has no one else he has to love them back and cooperate to find a mutual way to get rid of the swamp.
