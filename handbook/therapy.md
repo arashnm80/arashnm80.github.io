@@ -1,0 +1,3 @@
+if i'm gonna get help from someone it has to be someone who feels what i feel, so would be able to understand me.
+
+i need someone with similar personal problems. a healty person can't relieve a disabled/cancered one. one with great family can't consolate an orphan. rich can't understan poor's struggles and so on ...
