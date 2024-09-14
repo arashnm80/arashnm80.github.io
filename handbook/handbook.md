@@ -114,18 +114,18 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./focus" tag=""></a></li>
     <li><a href="./cut-off" tag="超能力"></a></li>
     <li><a href="./potential" tag=""></a></li>
-    <li><a href="./boredom" tag="challenge"></a></li>
     <li><a href="./patience" tag="attribut"></a></li>
     <li><a href="./rest-and-reinforce" tag=""></a></li>
     <li><a href="./elon-musk" tag="character"></a></li>
     <li><a href="./niksen" tag=""></a></li>
+    <li><a href="./ocd" tag="challenge"></a></li>
     <li><a href="./pieter-levels" tag="character"></a></li>
     <li><a href="./knowledge" tag=""></a></li>
     <li><a href="./teacher" tag=""></a></li>
     <li><a href="./hedonic-treadmill" tag=""></a></li>
     <li><a href="./words" tag=""></a></li>
-    <li><a href="./ocd" tag="challenge"></a></li>
     <li><a href="./improvise" tag=""></a></li>
+    <li><a href="./boredom" tag="challenge"></a></li>
     <li><a href="./skill-tree" tag=""></a></li>
     <li><a href="./sale" tag=""></a></li>
     <li><a href="./jensen-huang" tag="character"></a></li>
@@ -134,7 +134,6 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./paradox-of-choice" tag="book"></a></li>
     <li><a href="./sam-altman" tag="character"></a></li>
     <li><a href="./founder" tag=""></a></li>
-    <li><a href="./obsession" tag="challenge"></a></li>
     <li><a href="./parkinson-law" tag=""></a></li>
     <li><a href="./win-win" tag=""></a></li>
     <li><a href="./masturbation" tag=""></a></li>
