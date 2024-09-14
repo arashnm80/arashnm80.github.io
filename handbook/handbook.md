@@ -24,8 +24,6 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./stress" tag="challenge"></a></li>
     <li><a href="./people" tag=""></a></li>
     <li><a href="./uncertainty" tag="principle"></a></li>
-    <li><a href="./me" tag="principle"></a></li>
-    <li><a href="./i-dentity" tag="principle"></a></li>
     <li><a href="./sort" tag="principle"></a></li>
     <li><a href="./quality-levels" tag="principle"></a></li>
     <li><a href="./freedom" tag="passion"></a></li>

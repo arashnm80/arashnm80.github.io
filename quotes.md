@@ -57,6 +57,8 @@ title: Quotes
 
 > hope is product of self-trust.
 
+> never trust a founder that doesn't use his own product
+
 > lead people who lead people.
 
 > Think out of the box.
@@ -102,8 +104,6 @@ title: Quotes
 > A real loser is someone who's so afraid of not winning he doesn't even try.
 
 > If I'm not failing I'm not operating at the edge. if I'm not operating at the edge, I'm not learning as much as I can.
-
-> never trust a founder that doesn't use his own product
 
 > The first principle is that I must not fool myself, and I'm the easiest person to fool.
 
