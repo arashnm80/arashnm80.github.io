@@ -13,24 +13,6 @@ title: Quotes
 
 > I'm goddamn tired, but inaction changes nothing.
 
-> I choose to be the same person in the best or worst possible situation.
-
-> The scope of one's personality is defined by the magnitude of that problem which is capable of driving a person out of his wits.
-
-> If I know the world is gonna collapse tomorrow doesn't mean I can't enjoy today.
-
-> Am I willing to succeed with cost of everybody disliking me?
-
-> Starting is the most important and hardest step.
-
-> 七転び八起き - Nana Korobi Ya Oki
-
-> The rest of my life starts right now.
-
-> hope is product of self-trust.
-
-> lead people who lead people.
-
 > newton's third law, The only way of getting somewhere is to leave something behind.
 
 > if i choose nothing, i will get nothing.
@@ -58,6 +40,24 @@ title: Quotes
 > 50% chance of winning 1 or 10% chance of winning 5?
 
 > I'm not sure if it's possible or not but the only way to find out is to try with everything I've got.
+
+> I choose to be the same person in the best or worst possible situation.
+
+> The scope of one's personality is defined by the magnitude of that problem which is capable of driving a person out of his wits.
+
+> If I know the world is gonna collapse tomorrow doesn't mean I can't enjoy today.
+
+> Am I willing to succeed with cost of everybody disliking me?
+
+> Starting is the most important and hardest step.
+
+> 七転び八起き - Nana Korobi Ya Oki
+
+> The rest of my life starts right now.
+
+> hope is product of self-trust.
+
+> lead people who lead people.
 
 > Think out of the box.
 

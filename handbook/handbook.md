@@ -11,6 +11,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./c'est-ma-vie" tag="core"></a></li>
     <li><a href="./stay-advance-leave" tag="core"></a></li>
     <li><a href="./no-time-for-caution" tag="core"></a></li>
+    <li><a href="./all-must-choose" tag="principle"></a></li>
     <li><a href="./passion" tag="challenge"></a></li>
     <li><a href="./strategy" tag=""></a></li>
     <li><a href="./action" tag="principle"></a></li>
@@ -20,7 +21,6 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./me" tag="principle"></a></li>
     <li><a href="./i-dentity" tag="principle"></a></li>
     <li><a href="./uncertainty" tag="principle"></a></li>
-    <li><a href="./choice" tag="principle"></a></li>
     <li><a href="./sort" tag="principle"></a></li>
     <li><a href="./fight" tag=""></a></li>
     <li><a href="./quality-levels" tag="principle"></a></li>
