@@ -27,10 +27,10 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./sort" tag="principle"></a></li>
     <li><a href="./quality-levels" tag="principle"></a></li>
     <li><a href="./freedom" tag="passion"></a></li>
-    <li><a href="./ride-or-die" tag="hack"></a></li>
-    <li><a href="./big-picture" tag="hack"></a></li>
-    <li><a href="./2-battlefields" tag="hack"></a></li>
-    <li><a href="./plan-a-and-b" tag="hack"></a></li>
+    <li><a href="./ride-or-die" tag="notion"></a></li>
+    <li><a href="./big-picture" tag="notion"></a></li>
+    <li><a href="./2-battlefields" tag="notion"></a></li>
+    <li><a href="./plan-a-and-b" tag="notion"></a></li>
     <li><a href="./reboot" tag="超能力"></a></li>
     <li><a href="./experience" tag=""></a></li>
     <li><a href="./persistency" tag="principle"></a></li>
@@ -170,6 +170,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./memories" tag=""></a></li>
     <li><a href="./therapy" tag=""></a></li>
     <li><a href="./human" tag=""></a></li>
+    <li><a href="./accept" tag=""></a></li>
     <li><a href="./other" tag=""></a></li>
   </ul>
 </div>
