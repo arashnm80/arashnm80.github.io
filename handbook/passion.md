@@ -43,3 +43,6 @@ there are some moments that there isn't anything you can give me to make me feel
 
 ### children
 kids are passion bursts. hosna and kasra don't understand shit from korosh and I games, yet they enjoy them way more than us.
+
+### deprivation
+maybe we crave for what we don't have. i never truly had freedom in my life so i crave for it most of all. reminds of how they say *married man craves to be alone and single man craves to be in a relationship*
