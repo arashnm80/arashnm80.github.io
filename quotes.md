@@ -61,8 +61,6 @@ title: Quotes
 
 > lead people who lead people.
 
-> Think out of the box.
-
 > شاید ما افسرده نیستیم و فقط فرسوده ایم
 
 > We accept the life/love/job we think we deserve.

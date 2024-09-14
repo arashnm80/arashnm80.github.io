@@ -1,3 +1,2 @@
-> Think out of the box.
-
+- creativity
 - let ideas soak in mind and grow over time

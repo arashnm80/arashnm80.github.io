@@ -31,6 +31,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./big-picture" tag="notion"></a></li>
     <li><a href="./2-battlefields" tag="notion"></a></li>
     <li><a href="./plan-a-and-b" tag="notion"></a></li>
+    <li><a href="./pursuit-of-unknown" tag="超能力"></a></li>
     <li><a href="./reboot" tag="超能力"></a></li>
     <li><a href="./experience" tag=""></a></li>
     <li><a href="./persistency" tag="principle"></a></li>
@@ -69,6 +70,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./ryan-trahan" tag="character"></a></li>
     <li><a href="./chain-reaction" tag="game-changer"></a></li>
     <li><a href="./subconscious" tag=""></a></li>
+    <li><a href="./think-out-of-the-box" tag="notion"></a></li>
     <li><a href="./dirac-delta-function" tag=""></a></li>
     <li><a href="./lost-chance" tag=""></a></li>
     <li><a href="./minimalism" tag=""></a></li>
@@ -88,7 +90,6 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./portrait-painting" tag=""></a></li>
     <li><a href="./idea-person" tag="game-changer"></a></li>
     <li><a href="./carnet-mental" tag="超能力"></a></li>
-    <li><a href="./creativity" tag=""></a></li>
     <li><a href="./mrbeast" tag="character"></a></li>
     <li><a href="./renewable-energy" tag=""></a></li>
     <li><a href="./cbt" tag=""></a></li>
