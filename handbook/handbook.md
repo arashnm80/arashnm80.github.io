@@ -109,11 +109,11 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./smart" tag="attribut"></a></li>
     <li><a href="./darwin" tag="principle"></a></li>
     <li><a href="./leverage" tag="tool"></a></li>
+    <li><a href="./potential" tag=""></a></li>
     <li><a href="./right-questions" tag=""></a></li>
     <li><a href="./lose" tag=""></a></li>
     <li><a href="./focus" tag=""></a></li>
     <li><a href="./cut-off" tag="超能力"></a></li>
-    <li><a href="./potential" tag=""></a></li>
     <li><a href="./patience" tag="attribut"></a></li>
     <li><a href="./rest-and-reinforce" tag=""></a></li>
     <li><a href="./elon-musk" tag="character"></a></li>
