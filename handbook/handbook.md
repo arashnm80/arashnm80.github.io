@@ -29,6 +29,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./2-battlefields" tag="principle"></a></li>
     <li><a href="./fear" tag="challenge"></a></li>
     <li><a href="./plan-a-and-b" tag="principle"></a></li>
+    <li><a href="./ride-or-die" tag="personality"></a></li>
     <li><a href="./persistency" tag="principle"></a></li>
     <li><a href="./pain" tag="challenge"></a></li>
     <li><a href="./reboot" tag="超能力"></a></li>
