@@ -29,13 +29,13 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./sort" tag="principle"></a></li>
     <li><a href="./quality-levels" tag="principle"></a></li>
     <li><a href="./freedom" tag="passion"></a></li>
-    <li><a href="./big-picture" tag="personality"></a></li>
-    <li><a href="./experience" tag=""></a></li>
-    <li><a href="./2-battlefields" tag="principle"></a></li>
-    <li><a href="./plan-a-and-b" tag="principle"></a></li>
-    <li><a href="./ride-or-die" tag="personality"></a></li>
-    <li><a href="./persistency" tag="principle"></a></li>
+    <li><a href="./ride-or-die" tag="hack"></a></li>
+    <li><a href="./big-picture" tag="hack"></a></li>
+    <li><a href="./2-battlefields" tag="hack"></a></li>
+    <li><a href="./plan-a-and-b" tag="hack"></a></li>
     <li><a href="./reboot" tag="超能力"></a></li>
+    <li><a href="./experience" tag=""></a></li>
+    <li><a href="./persistency" tag="principle"></a></li>
     <li><a href="./habits-and-routines" tag=""></a></li>
     <li><a href="./ignores-and-removals" tag=""></a></li>
     <li><a href="./instinct" tag=""></a></li>
