@@ -314,6 +314,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
         border: 1px solid #ccc;
         background-color: transparent;
         cursor: pointer;
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
     }
 </style>
 
