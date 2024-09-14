@@ -9,10 +9,10 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
 <div id="all-items">
   <ul>
     <li><a href="./c'est-ma-vie" tag="core"></a></li>
-    <li><a href="./refuse-or-accept" tag="core"></a></li>
+    <li><a href="./stay-advance-leave" tag="core"></a></li>
     <li><a href="./no-time-for-caution" tag="core"></a></li>
-    <li><a href="./chosen-passion" tag=""></a></li>
-    <li><a href="./beast" tag=""></a></li>
+    <li><a href="./chosen-passion" tag="personality"></a></li>
+    <li><a href="./beast" tag="personality"></a></li>
     <li><a href="./strategy" tag=""></a></li>
     <li><a href="./me" tag="principle"></a></li>
     <li><a href="./i-dentity" tag="principle"></a></li>
@@ -20,11 +20,11 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./choice" tag="principle"></a></li>
     <li><a href="./action" tag="principle"></a></li>
     <li><a href="./sort" tag="principle"></a></li>
+    <li><a href="./childhood" tag="challenge"></a></li>
     <li><a href="./fight" tag=""></a></li>
     <li><a href="./quality-levels" tag="principle"></a></li>
-    <li><a href="./childhood" tag="challenge"></a></li>
-    <li><a href="./experience" tag=""></a></li>
     <li><a href="./big-picture" tag="personality"></a></li>
+    <li><a href="./experience" tag=""></a></li>
     <li><a href="./2-battlefields" tag="principle"></a></li>
     <li><a href="./fear" tag="challenge"></a></li>
     <li><a href="./plan-a-and-b" tag="principle"></a></li>
@@ -65,7 +65,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./fast" tag="attribut"></a></li>
     <li><a href="./destination-and-path" tag=""></a></li>
     <li><a href="./last-dance" tag=""></a></li>
-    <li><a href="./children" tag=""></a></li>
+    <li><a href="./parents-and-children" tag=""></a></li>
     <li><a href="./overcorrection" tag="tool"></a></li>
     <li><a href="./art-of-racing-in-the-rain" tag="超能力"></a></li>
     <li><a href="./ryan-trahan" tag="character"></a></li>
@@ -112,6 +112,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./right-questions" tag=""></a></li>
     <li><a href="./lose" tag=""></a></li>
     <li><a href="./focus" tag=""></a></li>
+    <li><a href="./cut-off" tag="超能力"></a></li>
     <li><a href="./potential" tag=""></a></li>
     <li><a href="./boredom" tag="challenge"></a></li>
     <li><a href="./patience" tag="attribut"></a></li>
@@ -143,6 +144,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./mark-rober" tag="character"></a></li>
     <li><a href="./switch-cost" tag=""></a></li>
     <li><a href="./flow" tag=""></a></li>
+    <li><a href="./love" tag=""></a></li>
     <li><a href="./pride" tag="challenge"></a></li>
     <li><a href="./swing-trading" tag="tool"></a></li>
     <li><a href="./what-if" tag=""></a></li>
@@ -165,6 +167,10 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./amigdel" tag="character"></a></li>
     <li><a href="./linchpin" tag=""></a></li>
     <li><a href="./keystone" tag=""></a></li>
+    <li><a href="./analogies" tag=""></a></li>
+    <li><a href="./radicalism" tag="mental-model"></a></li>
+    <li><a href="./relationship" tag=""></a></li>
+    <li><a href="./memories" tag=""></a></li>
     <li><a href="./other" tag=""></a></li>
   </ul>
 </div>

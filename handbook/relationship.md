@@ -1,0 +1,1 @@
+being too self-sufficient make it hard for me to have relationships. if other people need each other 50% i only need others 10%. so for finding stable relationship i have to find people with same properties of mine.

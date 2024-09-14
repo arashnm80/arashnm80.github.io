@@ -221,9 +221,9 @@ title: Quotes
 
 > Sacrifice 1 perfect to get 4 good-enoughs.
 
-> I'm born righ now in this situation, with this knowledge and experience, so what am I gonna do now?
-
 > no matter i think and feel 99 or 1, I have to choose and act 100.
+
+> I'm born righ now in this situation, with this knowledge and experience, so what am I gonna do now?
 
 > Any change is a mean to produce energy.
 

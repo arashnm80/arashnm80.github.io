@@ -1,4 +1,6 @@
 ### island analogy
+i'm in a small stinky island in the middle of ocean with very low facilities. there is a small narrow possibility to find some island or continent with better conditions but for earning that one should leave his current negative local maximum and swim in harsh condition of dangerous open waters among sharks and other hardships. otherwise he has to stay in this stinky situation or leave it by ending his life. 
+
 ![negative-local-maximum-island-analogy](../../assets/negative-local-maximum-island-analogy.jpg)
 I'm on a small stinky island with limited resources only enough to stay alive. As far as my eyes can see there is just ocean. I have mainly 3 options:
 1. to end my life and refuse it

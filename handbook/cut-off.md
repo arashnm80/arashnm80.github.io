@@ -1,0 +1,1 @@
+stop doing/watching the stupid/bad/weak movie/choice/conversation/relationship as soon as you realize it.

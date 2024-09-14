@@ -1,0 +1,2 @@
+### gif contest
+it created the biggest bond of brotherhood between me and korosh. i understand now how much walking in the same path with the common goal and experiences (joy/pain/laugh/tiredness/...) can unite people and make them closer to each other.

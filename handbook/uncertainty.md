@@ -11,6 +11,9 @@ In fact probabilities with very high number in our mind are called certainty, wh
 ### Probability
 Everything in this world has a probability. If I wait to become certain about everything, I can decide about nothing. The key is to be constantly moving based on my current best guess, while constantly reevaluating possibilities and probabilities on the move.
 
+#### ignored probability (light yagami)
+there are times we fail or sth bad happens to us and this is our reponse: **but this shouldn't have happened! this is impossible! i had thought about every small detail!** well no, cause you can see that it is actually happened.
+
 ### Randomness
 Does true random exist or is it just lack of information?
 

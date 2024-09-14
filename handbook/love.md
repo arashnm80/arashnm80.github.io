@@ -1,0 +1,1 @@
+observation: feeling love of friends or watching romance movies reduces my lust. it's like they are connected in a common path in deep down of my mind or hormones.
