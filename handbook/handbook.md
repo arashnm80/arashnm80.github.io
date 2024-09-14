@@ -172,6 +172,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./relationship" tag=""></a></li>
     <li><a href="./memories" tag=""></a></li>
     <li><a href="./therapy" tag=""></a></li>
+    <li><a href="./human" tag=""></a></li>
     <li><a href="./other" tag=""></a></li>
   </ul>
 </div>
