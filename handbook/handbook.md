@@ -18,10 +18,11 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./fight" tag=""></a></li>
     <li><a href="./beast" tag="personality"></a></li>
     <li><a href="./childhood" tag="challenge"></a></li>
+    <li><a href="./pain" tag="challenge"></a></li>
     <li><a href="./fear" tag="challenge"></a></li>
     <li><a href="./shame" tag="challenge"></a></li>
-    <li><a href="./pain" tag="challenge"></a></li>
     <li><a href="./stress" tag="challenge"></a></li>
+    <li><a href="./people" tag=""></a></li>
     <li><a href="./uncertainty" tag="principle"></a></li>
     <li><a href="./me" tag="principle"></a></li>
     <li><a href="./i-dentity" tag="principle"></a></li>
@@ -48,7 +49,6 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./live" tag="passion"></a></li>
     <li><a href="./leave" tag="passion"></a></li>
     <li><a href="./bubble" tag=""></a></li>
-    <li><a href="./people" tag=""></a></li>
     <li><a href="./get-specific" tag=""></a></li>
     <li><a href="./begin-again" tag=""></a></li>
     <li><a href="./negative-local-maximum" tag=""></a></li>
