@@ -32,3 +32,5 @@ Courage is not the absence of fear. Courage is the willingness to act in spite o
 
 ### Dive in the pool
 
+### asking people
+i'm terrified of asking people. what if they don't like me? say no? refuse me? give me frowns? judge me? and shit like this i guess. i run away from it many times and it makes me stressed and anxious. i should confront that fear, change myself, go in deep and discover its origins.
