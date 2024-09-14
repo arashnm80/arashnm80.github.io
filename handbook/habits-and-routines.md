@@ -8,3 +8,4 @@
 - keep phone at eye level
 - watching videos 1.5 or 2x whenever necessary
 - organizing my notes at end of every day
+- daily *no time for caution* decision making
