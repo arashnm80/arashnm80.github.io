@@ -24,3 +24,6 @@ if i've studied sth 100 hours, one person should've spend at least study it 10 h
 
 ### help
 **i can help a lot of people and i do it many times. there are a lot of people who are willing to help me too, but none of them can and it's very sad.**
+
+### care about me
+i don't have to solve all the problems in the world. **if a task sucks let the suckers do it.**
