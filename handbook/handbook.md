@@ -307,27 +307,12 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
 
 </script>
 
-<!-- <style>
-    .btn {
-        border-radius: 10px;
-        border: 1px solid #ccc;
-        background-color: transparent;
-        cursor: pointer;
-    }
-</style> -->
-
 <style>
     .btn {
         border-radius: 10px;
         border: 1px solid #ccc;
         background-color: transparent;
         cursor: pointer;
-        color: white; /* Set text color */
-        text-shadow: 
-            -1px -1px 0 #000, /* Top-left */
-            1px -1px 0 #000,  /* Top-right */
-            -1px 1px 0 #000,  /* Bottom-left */
-            1px 1px 0 #000;   /* Bottom-right */
     }
 </style>
 
