@@ -7,6 +7,7 @@ so this maximizing doesn't mean to be smartest, richest, most famous, most power
 - it might mean to have sex with more of the most beautiful models in the world or spend simple romance life with a simple ordinary girl.
 - it might mean to stay in this beautiful world and try to increase my happiness or might mean to leave this ugly world and end my pain.
 - it might mean to eat healthiest possible foods to enjoy getting fit and healty or might mean to eat total junk foods to enjoy their taste and dopamine.
+- it might mean to enjoy  running for becoming better and being the best or might mean to enjoy sufficing and staying where i am right now.
 
 no matter which one of above items i choose, they both are all fine defendable goals from their perspective.
 
