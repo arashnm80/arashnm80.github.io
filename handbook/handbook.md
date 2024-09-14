@@ -15,27 +15,28 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./passion" tag="challenge"></a></li>
     <li><a href="./strategy" tag=""></a></li>
     <li><a href="./action" tag="principle"></a></li>
-    <li><a href="./freedom" tag="passion"></a></li>
+    <li><a href="./fight" tag=""></a></li>
     <li><a href="./beast" tag="personality"></a></li>
     <li><a href="./childhood" tag="challenge"></a></li>
+    <li><a href="./fear" tag="challenge"></a></li>
+    <li><a href="./shame" tag="challenge"></a></li>
+    <li><a href="./pain" tag="challenge"></a></li>
+    <li><a href="./stress" tag="challenge"></a></li>
+    <li><a href="./uncertainty" tag="principle"></a></li>
     <li><a href="./me" tag="principle"></a></li>
     <li><a href="./i-dentity" tag="principle"></a></li>
-    <li><a href="./uncertainty" tag="principle"></a></li>
     <li><a href="./sort" tag="principle"></a></li>
-    <li><a href="./fight" tag=""></a></li>
     <li><a href="./quality-levels" tag="principle"></a></li>
+    <li><a href="./freedom" tag="passion"></a></li>
     <li><a href="./big-picture" tag="personality"></a></li>
     <li><a href="./experience" tag=""></a></li>
     <li><a href="./2-battlefields" tag="principle"></a></li>
-    <li><a href="./fear" tag="challenge"></a></li>
     <li><a href="./plan-a-and-b" tag="principle"></a></li>
     <li><a href="./ride-or-die" tag="personality"></a></li>
     <li><a href="./persistency" tag="principle"></a></li>
-    <li><a href="./pain" tag="challenge"></a></li>
     <li><a href="./reboot" tag="超能力"></a></li>
     <li><a href="./habits-and-routines" tag=""></a></li>
     <li><a href="./ignores-and-removals" tag=""></a></li>
-    <li><a href="./shame" tag="challenge"></a></li>
     <li><a href="./instinct" tag=""></a></li>
     <li><a href="./multitask" tag=""></a></li>
     <li><a href="./comparison" tag="tool"></a></li>
@@ -51,7 +52,6 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./get-specific" tag=""></a></li>
     <li><a href="./begin-again" tag=""></a></li>
     <li><a href="./negative-local-maximum" tag=""></a></li>
-    <li><a href="./stress" tag="challenge"></a></li>
     <li><a href="./dad" tag="people"></a></li>
     <li><a href="./90-10" tag=""></a></li>
     <li><a href="./try" tag="tool"></a></li>
