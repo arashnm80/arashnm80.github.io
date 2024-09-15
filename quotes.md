@@ -5,6 +5,8 @@ title: Quotes
 
 > 90% of all outcomes are derived from 10% of causes.
 
+> we seek the truth and we endure the consequences
+
 > Talk is cheap, show me the code.
 
 > I'm gonna live my choices through real life actions.
