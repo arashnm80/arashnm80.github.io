@@ -20,6 +20,11 @@ Too many days, months and years of my life have passed and too few are left. I h
 ### now
 whatever you gonna do, just do it fucking right now. i'm fed up with *nexts*. next year, month, week, day, hour, minute, try, call, chance, person, ...
 
+### action or decision
+spend my life in one these 2:
+- doing real stuff in **action**
+- choose my next course of actions in 4:06 **no time for caution**
+
 ### Time Travel
 *live everyday like it's the last day of your life*, well that sentence is bullshit because if I know today is the last day I spend all of it for sex, food, movies, hobbies, ... while in reality you can't live like this everyday. so the correct version of it would be *live everyday as if you've come back to it from last day of your life* so it would mean as you've come back to fix and change things, to choose the best choice. if that day is a work day choose the best work choice, if it's a hobby day choose the best entertainments, ...
 

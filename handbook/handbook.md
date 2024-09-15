@@ -27,7 +27,6 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./sort" tag="principle"></a></li>
     <li><a href="./quality-levels" tag="principle"></a></li>
     <li><a href="./freedom" tag="passion"></a></li>
-    <li><a href="./ride-or-die" tag="notion"></a></li>
     <li><a href="./big-picture" tag="notion"></a></li>
     <li><a href="./2-battlefields" tag="notion"></a></li>
     <li><a href="./plan-a-and-b" tag="notion"></a></li>
