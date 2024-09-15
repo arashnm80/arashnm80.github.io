@@ -9,7 +9,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
 <div id="all-items">
   <ul>
     <li><a href="./c'est-ma-vie" tag="core"></a></li>
-    <li><a href="./stay-advance-leave" tag="core"></a></li>
+    <li><a href="./leave-or-total-war-for-narrow-possibility-to-live" tag="core"></a></li>
     <li><a href="./no-time-for-caution" tag="core"></a></li>
     <li><a href="./all-must-choose" tag="principle"></a></li>
     <li><a href="./passion" tag="challenge"></a></li>
@@ -37,7 +37,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./habits-and-routines" tag=""></a></li>
     <li><a href="./ignores-and-removals" tag=""></a></li>
     <li><a href="./instinct" tag=""></a></li>
-    <li><a href="./multitask" tag=""></a></li>
+    <li><a href="./multitask" tag="game-changer"></a></li>
     <li><a href="./comparison" tag="tool"></a></li>
     <li><a href="./dopamine" tag=""></a></li>
     <li><a href="./doubt" tag="challenge"></a></li>
@@ -100,10 +100,10 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./woody-allen" tag="character"></a></li>
     <li><a href="./ask" tag="challenge"></a></li>
     <li><a href="./mind-opiums" tag=""></a></li>
+    <li><a href="./weakness-as-a-service" tag=""></a></li>
     <li><a href="./assume" tag="超能力"></a></li>
     <li><a href="./immerse" tag=""></a></li>
     <li><a href="./depression" tag="challenge"></a></li>
-    <li><a href="./weakness-as-a-service" tag=""></a></li>
     <li><a href="./smart" tag="attribut"></a></li>
     <li><a href="./darwin" tag="principle"></a></li>
     <li><a href="./leverage" tag="tool"></a></li>

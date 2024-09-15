@@ -1,5 +1,5 @@
 ### chosen passion
-**maximize my happiness**
+**maximize my happiness** - i want to live
 
 by maximizing myself i mean **maximizing my natural happiness** (mathematically called LF) (to-do: a bug is that when we enjoy watching sad movie or reviewing a beautiful but sad memory).
 

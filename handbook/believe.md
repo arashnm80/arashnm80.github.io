@@ -20,3 +20,8 @@ for me that doesn't believe in any specific thing, it can get really hard to do 
 of course it would not be as powerful as will of absent-minded fools who even give their lives for their fantasies but i've gotta do my best.
 
 ### placebo & nocebo effect
+
+### inception
+
+### convince
+if you have to cinvince yourself for it, there's  sth wrong about it. (to live, to love, ...)
