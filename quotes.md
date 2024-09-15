@@ -167,12 +167,6 @@ title: Quotes
 
 > Soft as a leaf, strong as a trunk.
 
-> Can somebody that is totally ok to leave this world right now, have a passion to live?
-
-> i have to choose what do i want
-
-> am i running from sth out of fear or am i running for sth out of passion.
-
 > death is the closest thing to peace.
 
 > Long-term games with long-term people.
@@ -262,4 +256,10 @@ title: Quotes
 > When injustice becomes law, rebellion becomes duty.
 
 > Make every bullet count.
+
+> Can somebody that is totally ok to leave this world right now, have a passion to live?
+
+> i have to choose what do i want
+
+> am i running from sth out of fear or am i running for sth out of passion.
 
