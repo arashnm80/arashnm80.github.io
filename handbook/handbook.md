@@ -137,6 +137,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./masturbation" tag=""></a></li>
     <li><a href="./deserve" tag=""></a></li>
     <li><a href="./attack-on-titan" tag="cinema"></a></li>
+    <li><a href="./accept" tag="principle"></a></li>
     <li><a href="./mental-model" tag=""></a></li>
     <li><a href="./mark-rober" tag="character"></a></li>
     <li><a href="./switch-cost" tag=""></a></li>
@@ -170,7 +171,6 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./memories" tag=""></a></li>
     <li><a href="./therapy" tag=""></a></li>
     <li><a href="./human" tag=""></a></li>
-    <li><a href="./accept" tag=""></a></li>
     <li><a href="./other" tag=""></a></li>
   </ul>
 </div>
