@@ -1,10 +1,10 @@
 ---
 layout: page
-title: handbook
+title: crapbook
 permalink: /handbook/
 ---
 
-handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fantasies, ... which none of them really matter.
+crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fantasies, ... which none of them really matter.
 
 <div id="all-items">
   <ul>
@@ -15,7 +15,7 @@ handbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./passion" tag="challenge"></a></li>
     <li><a href="./strategy" tag=""></a></li>
     <li><a href="./action" tag="principle"></a></li>
-    <li><a href="./fight" tag=""></a></li>
+    <li><a href="./戦え" tag=""></a></li>
     <li><a href="./beast" tag="personality"></a></li>
     <li><a href="./childhood" tag="challenge"></a></li>
     <li><a href="./pain" tag="challenge"></a></li>

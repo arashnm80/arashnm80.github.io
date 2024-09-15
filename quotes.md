@@ -79,18 +79,6 @@ title: Quotes
 
 > Qui ose gagne.
 
-> The reason to fight is to get rid of it.
-
-> How many fights do I have in myself?
-
-> I'm gonna bruteforce my way to success.
-
-> I'm gonna work hard on what interests me the most in the most undisciplined, irreverent and original manner possible.
-
-> When injustice becomes law, rebellion becomes duty.
-
-> Make every bullet count.
-
 > It takes 10 years to become an overnight success.
 
 > Wealth is having assets that earn while I sleep.
@@ -262,4 +250,16 @@ title: Quotes
 > If there are no more good movies to watch anymore, it's time for me to become a director and create my own masterpieces.
 
 > I'm gonna find a way or make one.
+
+> The reason to fight is to get rid of it.
+
+> How many fights do I have in myself?
+
+> I'm gonna bruteforce my way to success.
+
+> I'm gonna work hard on what interests me the most in the most undisciplined, irreverent and original manner possible.
+
+> When injustice becomes law, rebellion becomes duty.
+
+> Make every bullet count.
 
