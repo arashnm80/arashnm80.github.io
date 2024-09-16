@@ -137,6 +137,10 @@ title: Quotes
 
 > My time is limited, I'm not gonna waste it living someone else’s life.
 
+> Don't wait for the perfect moment, take the moment and make it perfect
+
+> Move fast and break things
+
 > Assess every choice with a single question: "If I time-travel to past, do I repeat it again the same?"
 
 > Do I live my life in such a way that I would be willing to repeat it again and again, forever?

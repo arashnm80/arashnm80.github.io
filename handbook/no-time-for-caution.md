@@ -20,6 +20,10 @@ Too many days, months and years of my life have passed and too few are left. I h
 
 > My time is limited, I'm not gonna waste it living someone else’s life.
 
+> Don't wait for the perfect moment, take the moment and make it perfect
+
+> Move fast and break things
+
 ### now
 whatever you gonna do, just do it fucking right now. i'm fed up with *nexts*. next year, month, week, day, hour, minute, try, call, chance, person, ...
 
