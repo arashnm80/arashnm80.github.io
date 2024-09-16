@@ -125,6 +125,8 @@ title: Quotes
 
 > It's always late to start, tomorrow much later than today.
 
+> time is the ultimate currency in life
+
 > This life, this year, this year, this second
 
 > I won't get rich by renting out my time.

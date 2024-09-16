@@ -1,11 +1,13 @@
-**Time is the most precious and ultimate currency of life.**  
-**whatever I'm gonna do with my life, I have to do it right now.**
+**Time is the most precious asset of my life.**  
+**handle uncertainty in 4:06 and dive in action**
 
 Too many days, months and years of my life have passed and too few are left. I have to start acting right now and think about parameters and improvements over time later.
 
 > Time's running out like a cup of coffee, so whatever I have to do it right fu*king now.
 
 > It's always late to start, tomorrow much later than today.
+
+> time is the ultimate currency in life
 
 > This life, this year, this year, this second
 ![this-life-this-day-this-day-this-second](../../assets/this-life-this-day-this-day-this-second.jpg)
@@ -25,6 +27,7 @@ whatever you gonna do, just do it fucking right now. i'm fed up with *nexts*. ne
 spend my life in one these 2:
 - doing real stuff in **action**
 - choose my next course of actions in 4:06 **no time for caution**
+performing once per day looks good.
 
 p.s. doing nothing is action of peace (rest, sleep, music, movie, ...)
 
