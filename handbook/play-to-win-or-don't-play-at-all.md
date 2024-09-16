@@ -1,5 +1,5 @@
 **life is hell, but there might be a black swan chance to create or find an oasais.**  
-**so leave or or total-war for narrow possibility to live**
+**so leave or or total-war for narrow possibility to live.**
 
 ### stay-advance-leave
 there are generally 3 main choices ahead of me
