@@ -27,3 +27,6 @@ if i've studied sth 100 hours, one person should've spend at least study it 10 h
 
 ### care about me
 i don't have to solve all the problems in the world. **if a task sucks let the suckers do it.**
+
+### false contingency
+as long as i can remember i've always been doing things for others as favors, in hope that someday i might need them too so they would repay my doings. but the fact is that in 95% of occasions i never found that need and the day they reciprocate for me almost never came (or they reciprocated me but it has never been something i would really need or sth with same value of what i've done for them). so if this is the situation: **"if you don't need them, don't do favors for them or charge them for it"**
