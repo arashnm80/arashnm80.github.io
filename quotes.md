@@ -63,6 +63,8 @@ title: Quotes
 
 > lead people who lead people.
 
+> i'm the monster they created
+
 > شاید ما افسرده نیستیم و فقط فرسوده ایم
 
 > We accept the life/love/job we think we deserve.
