@@ -40,6 +40,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./ignores-and-removals" tag=""></a></li>
     <li><a href="./instinct" tag=""></a></li>
     <li><a href="./multitask" tag="game-changer"></a></li>
+    <li><a href="./begin-again" tag="challenge"></a></li>
     <li><a href="./comparison" tag="tool"></a></li>
     <li><a href="./dopamine" tag=""></a></li>
     <li><a href="./doubt" tag="challenge"></a></li>
@@ -49,7 +50,6 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./leave" tag="passion"></a></li>
     <li><a href="./bubble" tag=""></a></li>
     <li><a href="./get-specific" tag=""></a></li>
-    <li><a href="./begin-again" tag="challenge"></a></li>
     <li><a href="./negative-local-maximum" tag=""></a></li>
     <li><a href="./dad" tag="people"></a></li>
     <li><a href="./90-10" tag=""></a></li>
