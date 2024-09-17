@@ -11,13 +11,14 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./c'est-ma-vie" tag="core"></a></li>
     <li><a href="./play-to-win-or-don't-play-at-all" tag="core"></a></li>
     <li><a href="./no-time-for-caution" tag="core"></a></li>
-    <li><a href="./the-climb" tag="strategy"></a></li>
     <li><a href="./all-must-choose" tag="principle"></a></li>
+    <li><a href="./live" tag="passion"></a></li>
+    <li><a href="./the-climb" tag="strategy"></a></li>
+    <li><a href="./action" tag="principle"></a></li>
+    <li><a href="./beast" tag="personality"></a></li>
     <li><a href="./生き甲斐" tag="challenge"></a></li>
     <li><a href="./strategy" tag=""></a></li>
-    <li><a href="./action" tag="principle"></a></li>
     <li><a href="./戦え" tag=""></a></li>
-    <li><a href="./beast" tag="personality"></a></li>
     <li><a href="./childhood" tag="challenge"></a></li>
     <li><a href="./pain" tag="challenge"></a></li>
     <li><a href="./fear" tag="challenge"></a></li>
@@ -45,7 +46,6 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./reframe" tag="超能力"></a></li>
     <li><a href="./life-factor" tag=""></a></li>
     <li><a href="./sadness" tag="challenge"></a></li>
-    <li><a href="./live" tag="passion"></a></li>
     <li><a href="./leave" tag="passion"></a></li>
     <li><a href="./bubble" tag=""></a></li>
     <li><a href="./get-specific" tag=""></a></li>
