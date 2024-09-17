@@ -1,0 +1,1 @@
+don't judge myself for what has happened in the past, do it for what i'm doing now.

@@ -88,7 +88,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./fuck" tag=""></a></li>
     <li><a href="./system-1-and-2" tag=""></a></li>
     <li><a href="./naval" tag="character"></a></li>
-    <li><a href="./portrait-painting" tag=""></a></li>
+    <li><a href="./portrait-painting" tag="notion"></a></li>
     <li><a href="./idea-person" tag="game-changer"></a></li>
     <li><a href="./carnet-mental" tag="超能力"></a></li>
     <li><a href="./mrbeast" tag="character"></a></li>
@@ -109,6 +109,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./smart" tag="attribut"></a></li>
     <li><a href="./darwin" tag="principle"></a></li>
     <li><a href="./leverage" tag="tool"></a></li>
+    <li><a href="./judge" tag="challenge"></a></li>
     <li><a href="./potential" tag=""></a></li>
     <li><a href="./right-questions" tag=""></a></li>
     <li><a href="./lose" tag=""></a></li>
