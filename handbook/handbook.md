@@ -11,8 +11,8 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./c'est-ma-vie" tag="core"></a></li>
     <li><a href="./play-to-win-or-don't-play-at-all" tag="core"></a></li>
     <li><a href="./no-time-for-caution" tag="core"></a></li>
-    <li><a href="./all-must-choose" tag="principle"></a></li>
     <li><a href="./action" tag="principle"></a></li>
+    <li><a href="./all-must-choose" tag="principle"></a></li>
     <li><a href="./live" tag="passion"></a></li>
     <li><a href="./the-climb" tag="strategy"></a></li>
     <li><a href="./beast" tag="personality"></a></li>
