@@ -54,6 +54,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./dad" tag="people"></a></li>
     <li><a href="./90-10" tag=""></a></li>
     <li><a href="./try" tag="tool"></a></li>
+    <li><a href="./shit" tag=""></a></li>
     <li><a href="./hidden-progress" tag=""></a></li>
     <li><a href="./rogue" tag="personality"></a></li>
     <li><a href="./strong" tag="personality"></a></li>

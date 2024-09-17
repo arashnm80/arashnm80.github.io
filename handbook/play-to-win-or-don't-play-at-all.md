@@ -2,9 +2,8 @@
 **but there might be a black swan chance to create or find an oasais.**  
 **so leave or or as long as you're alive, total-war for narrow possibility to live**
 
-there's always huge chance of failure, pain, break, fall, ...
-what are you gonna do about? nag and cry?
-either simply walk away and leave or stay and as long as you're alive give em hell.
+life is a bitch and always assaults you with a gigantic shitpile of failure, pain, break, fall, ...
+what are you gonna do about it? are you going to cry in bathroom or fight back and give em hell?
 
 ### stay-advance-leave
 there are generally 3 main choices ahead of me

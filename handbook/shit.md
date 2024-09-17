@@ -1,0 +1,7 @@
+- pain
+- sadness
+- depression
+- loneliness
+- anger
+- stress
+- 
