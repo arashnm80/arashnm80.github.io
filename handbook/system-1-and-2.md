@@ -1,1 +1,1 @@
-Plan with system 2 and execute with system 1.
+think, Plan, analyze with system 2 and execute with system 1.

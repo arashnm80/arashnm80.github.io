@@ -79,6 +79,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./skin-in-the-game" tag=""></a></li>
     <li><a href="./move-on" tag="超能力"></a></li>
     <li><a href="./domino-effect" tag=""></a></li>
+    <li><a href="./system-1-and-2" tag="notion"></a></li>
     <li><a href="./near-zero-cost" tag=""></a></li>
     <li><a href="./will" tag=""></a></li>
     <li><a href="./regret" tag=""></a></li>
@@ -86,7 +87,6 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./arbitrage" tag="tool"></a></li>
     <li><a href="./narrow-way-through" tag=""></a></li>
     <li><a href="./fuck" tag=""></a></li>
-    <li><a href="./system-1-and-2" tag=""></a></li>
     <li><a href="./naval" tag="character"></a></li>
     <li><a href="./portrait-painting" tag="notion"></a></li>
     <li><a href="./idea-person" tag="game-changer"></a></li>
