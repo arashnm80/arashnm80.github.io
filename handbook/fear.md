@@ -1,4 +1,6 @@
-Courage is not the absence of fear. Courage is the willingness to act in spite of my fear. i should meet confront my fears and fight with them, search them and understand thier origins.
+Courage is not the absence of fear. Courage is the willingness to act in spite of my fear, willingness to walk through my fears. i should meet confront my fears and fight with them, search them and understand thier origins.
+
+fear of getting hurt, losing, pain, being ridiculed, ...
 
 > Big people make big choices.
 
