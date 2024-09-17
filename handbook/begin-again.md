@@ -5,3 +5,5 @@ Be someone who's always starting right now.
 > 七転び八起き - Nana Korobi Ya Oki
 
 > The rest of my life starts right now.
+
+inertia: that it's always very hard to start.
