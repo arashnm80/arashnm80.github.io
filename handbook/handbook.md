@@ -87,6 +87,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./arbitrage" tag="tool"></a></li>
     <li><a href="./narrow-way-through" tag=""></a></li>
     <li><a href="./fuck" tag=""></a></li>
+    <li><a href="./rock-paper-scissors" tag="mental-model"></a></li>
     <li><a href="./naval" tag="character"></a></li>
     <li><a href="./portrait-painting" tag="notion"></a></li>
     <li><a href="./idea-person" tag="game-changer"></a></li>
@@ -100,6 +101,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./leader" tag=""></a></li>
     <li><a href="./move-forward" tag=""></a></li>
     <li><a href="./woody-allen" tag="character"></a></li>
+    <li><a href="./matt-damon" tag="character"></a></li>
     <li><a href="./ask" tag="challenge"></a></li>
     <li><a href="./mind-opiums" tag=""></a></li>
     <li><a href="./weakness-as-a-service" tag=""></a></li>
@@ -176,6 +178,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./therapy" tag=""></a></li>
     <li><a href="./human" tag=""></a></li>
     <li><a href="./agile" tag=""></a></li>
+    <li><a href="./playground" tag=""></a></li>
     <li><a href="./other" tag=""></a></li>
   </ul>
 </div>
