@@ -1,0 +1,2 @@
+### sru final project done by ali
+i made a fuss about it for more than a year but what ali did? he did it under a week while doing many other things for himself and other friends at the same time. he used ai for more than 90% of it and felt no pressure. while i was obsessive and trying to make perfection out of some bullshit meaningless university project that no one cares about, he took it easy and just got over with it.

@@ -75,6 +75,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./dirac-delta-function" tag=""></a></li>
     <li><a href="./lost-chance" tag=""></a></li>
     <li><a href="./minimalism" tag=""></a></li>
+    <li><a href="./take-it-easy" tag="mental-model"></a></li>
     <li><a href="./mute" tag="超能力"></a></li>
     <li><a href="./skin-in-the-game" tag=""></a></li>
     <li><a href="./move-on" tag="超能力"></a></li>
