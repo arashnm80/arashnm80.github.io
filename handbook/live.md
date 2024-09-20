@@ -24,6 +24,9 @@ In other terms it means to be **free**, healthy, wealthy and have time to choose
   - sea
   - pool
 - spend time with family and friends
+  - play frisbee with zahra
+  - massage with patrick
+  - play and catch with korosh
 - workout
 - eat
   - cashew

@@ -64,6 +64,8 @@ Risk is the natural product of uncertainty. It's the relationship between sizes 
 > 50% chance of winning 1 or 10% chance of winning 5?
 
 **choosing to risk and play for higher reward with bigger risk and pain at least would make me sure that i'm not running away because i'm afraid.**
+#### risk of making a mistake vs. risk of doing nothing
+https://t.me/myharmonicmind/13159
 
 ### try
 > I'm not sure if it's possible or not but the only way to find out is to try with everything I've got.

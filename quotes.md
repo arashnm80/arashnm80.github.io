@@ -221,6 +221,8 @@ title: Quotes
 
 > I always want it to be a project that, if successful, will make the rest of my career look like a footnote.
 
+> elementry school beat me, high school crushed me and university nearly killed me, and yet here i am.
+
 > Am I ashamed becuase I'm not who I want to be or because I'm not what society says I have to be?
 
 > Don't be sorry, be better.

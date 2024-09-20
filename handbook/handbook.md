@@ -90,9 +90,9 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./rock-paper-scissors" tag="mental-model"></a></li>
     <li><a href="./naval" tag="character"></a></li>
     <li><a href="./portrait-painting" tag="notion"></a></li>
+    <li><a href="./mrbeast" tag="character"></a></li>
     <li><a href="./idea-person" tag="game-changer"></a></li>
     <li><a href="./carnet-mental" tag="超能力"></a></li>
-    <li><a href="./mrbeast" tag="character"></a></li>
     <li><a href="./renewable-energy" tag=""></a></li>
     <li><a href="./cbt" tag=""></a></li>
     <li><a href="./40-70" tag=""></a></li>
@@ -179,6 +179,8 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./human" tag=""></a></li>
     <li><a href="./agile" tag=""></a></li>
     <li><a href="./playground" tag=""></a></li>
+    <li><a href="./stuck-gear" tag=""></a></li>
+    <li><a href="./school-and-university" tag=""></a></li>
     <li><a href="./other" tag=""></a></li>
   </ul>
 </div>

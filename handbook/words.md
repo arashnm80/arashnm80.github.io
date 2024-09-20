@@ -1,7 +1,3 @@
----
-title: Words
----
-
 - goal, passion, motivation, fire, flame, enthusiasm
 - Audacious, wild, rule-breaker, genre-defying, defiant, Vanguard, courageous, bold, adventurer
 - assertive, Confident
@@ -23,3 +19,4 @@ title: Words
 - knack
 - blitz
 - a little smart and hardworking as hell
+- let it rip

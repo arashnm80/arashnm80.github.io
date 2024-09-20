@@ -36,3 +36,6 @@ fear of getting hurt, losing, pain, being ridiculed, ...
 
 ### asking people
 i'm terrified of asking people. what if they don't like me? say no? refuse me? give me frowns? judge me? and shit like this i guess. i run away from it many times and it makes me stressed and anxious. i should confront that fear, change myself, go in deep and discover its origins.
+
+### teacher
+the reason i choose sru and teacher job was sheer fear. i was terrified that if i don't be occupied in a consistent stable job i'm gonna starve without money. and guess what, that fear costed me a million other things i found out that consistency was the most horrible swamp. as nnt says *The three most harmful addictions are heroin, carbohydrates, and a monthly salary.*
