@@ -142,12 +142,13 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./attack-on-titan" tag="cinema"></a></li>
     <li><a href="./accept" tag="principle"></a></li>
     <li><a href="./mental-model" tag=""></a></li>
-    <li><a href="./mark-rober" tag="character"></a></li>
+    <li><a href="./cr7" tag="character"></a></li>
     <li><a href="./switch-cost" tag=""></a></li>
     <li><a href="./flow" tag=""></a></li>
     <li><a href="./run-away" tag="challenge"></a></li>
     <li><a href="./love" tag=""></a></li>
     <li><a href="./swing-trading" tag="tool"></a></li>
+    <li><a href="./mark-rober" tag="character"></a></li>
     <li><a href="./what-if" tag=""></a></li>
     <li><a href="./pride" tag="challenge"></a></li>
     <li><a href="./peace" tag=""></a></li>
