@@ -1,3 +1,4 @@
+**choose what do you want**
 **limitation, exchange, sacrifice, uncertainty, probability, gamble, risk, fuck, judgement call, try**
 
 everything is a choice. We are constantly choosing every second of our life and even when we are doing nothing it's a choice itself. (Dubiety: Of course I know that we might have many options, few options or no option at all. I don't convince myself in mind opium way to believe there are always options for us. But generally speaking and not thinking strict: we are constantly choosing.)

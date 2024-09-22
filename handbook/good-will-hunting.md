@@ -1,0 +1,1 @@
+“You don't know about real loss, 'cause it only occurs when you've loved something more than you love yourself. And I doubt you've ever dared to love anybody that much.” 
