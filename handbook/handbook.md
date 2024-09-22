@@ -9,15 +9,16 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
 <div id="all-items">
   <ul>
     <li><a href="./c'est-ma-vie" tag="core"></a></li>
-    <li><a href="./play-to-win-or-don't-play-at-all" tag="core"></a></li>
-    <li><a href="./no-time-for-caution" tag="core"></a></li>
-    <li><a href="./action" tag="principle"></a></li>
-    <li><a href="./all-must-choose" tag="principle"></a></li>
+    <li><a href="./play-to-win-or-don't-play-at-all" tag="principle"></a></li>
+    <li><a href="./no-time-for-caution" tag="principle"></a></li>
+    <li><a href="./action" tag=""></a></li>
+    <li><a href="./all-must-choose" tag=""></a></li>
     <li><a href="./live" tag="passion"></a></li>
     <li><a href="./the-climb" tag="strategy"></a></li>
     <li><a href="./beast" tag="personality"></a></li>
     <li><a href="./生き甲斐" tag="challenge"></a></li>
     <li><a href="./strategy" tag=""></a></li>
+    <li><a href="./uncertainty" tag=""></a></li>
     <li><a href="./戦え" tag=""></a></li>
     <li><a href="./childhood" tag="challenge"></a></li>
     <li><a href="./pain" tag="challenge"></a></li>
@@ -25,9 +26,8 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./shame" tag="challenge"></a></li>
     <li><a href="./stress" tag="challenge"></a></li>
     <li><a href="./people" tag=""></a></li>
-    <li><a href="./uncertainty" tag="principle"></a></li>
-    <li><a href="./sort" tag="principle"></a></li>
-    <li><a href="./quality-levels" tag="principle"></a></li>
+    <li><a href="./sort" tag=""></a></li>
+    <li><a href="./quality-levels" tag=""></a></li>
     <li><a href="./freedom" tag="passion"></a></li>
     <li><a href="./big-picture" tag="notion"></a></li>
     <li><a href="./simple-picture" tag="notion"></a></li>
@@ -36,7 +36,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./pursuit-of-unknown" tag="超能力"></a></li>
     <li><a href="./reboot" tag="超能力"></a></li>
     <li><a href="./experience" tag=""></a></li>
-    <li><a href="./persistency" tag="principle"></a></li>
+    <li><a href="./persistency" tag=""></a></li>
     <li><a href="./habits-and-routines" tag=""></a></li>
     <li><a href="./ignores-and-removals" tag=""></a></li>
     <li><a href="./instinct" tag=""></a></li>
@@ -61,7 +61,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./strong" tag="personality"></a></li>
     <li><a href="./procrastination" tag="challenge"></a></li>
     <li><a href="./victim-mentality" tag=""></a></li>
-    <li><a href="./everything-everywhere-all-at-once" tag="principle"></a></li>
+    <li><a href="./everything-everywhere-all-at-once" tag=""></a></li>
     <li><a href="./believe" tag="tool"></a></li>
     <li><a href="./fast" tag="attribut"></a></li>
     <li><a href="./destination-and-path" tag=""></a></li>
@@ -111,7 +111,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./immerse" tag=""></a></li>
     <li><a href="./depression" tag="challenge"></a></li>
     <li><a href="./smart" tag="attribut"></a></li>
-    <li><a href="./darwin" tag="principle"></a></li>
+    <li><a href="./darwin" tag=""></a></li>
     <li><a href="./leverage" tag="tool"></a></li>
     <li><a href="./judge" tag="challenge"></a></li>
     <li><a href="./potential" tag=""></a></li>
@@ -144,7 +144,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./masturbation" tag=""></a></li>
     <li><a href="./deserve" tag=""></a></li>
     <li><a href="./attack-on-titan" tag="cinema"></a></li>
-    <li><a href="./accept" tag="principle"></a></li>
+    <li><a href="./accept" tag=""></a></li>
     <li><a href="./mental-model" tag=""></a></li>
     <li><a href="./cr7" tag="character"></a></li>
     <li><a href="./switch-cost" tag=""></a></li>

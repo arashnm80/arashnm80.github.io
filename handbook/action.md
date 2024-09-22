@@ -12,6 +12,9 @@ Doing any random action with any size toward any direction is way better than no
 
 ### Fight
 
+### rest
+doing nothing is inaction but resting to gain energy for later is not.
+
 ### Action Book
 Only write and take note of titles and key points. The main contents should be written as my actions in real life.
 

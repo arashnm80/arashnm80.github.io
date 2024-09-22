@@ -1,5 +1,5 @@
-### current best guess
-**No one actually knows what the hell they're doing. Everyone is just working off their current best guess. question is: what are my current best guesses and am i living up to them?**
+**No one actually knows what the hell they're doing. Everyone is just working off their current best guess.**  
+**what is my current best guess and am i living up to it?**
 
 ### certainty
 does true certain exist or is it just lack of counterexamples?
