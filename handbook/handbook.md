@@ -30,6 +30,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./quality-levels" tag="principle"></a></li>
     <li><a href="./freedom" tag="passion"></a></li>
     <li><a href="./big-picture" tag="notion"></a></li>
+    <li><a href="./simple-picture" tag="notion"></a></li>
     <li><a href="./2-battlefields" tag="notion"></a></li>
     <li><a href="./plan-a-and-b" tag="notion"></a></li>
     <li><a href="./pursuit-of-unknown" tag="超能力"></a></li>

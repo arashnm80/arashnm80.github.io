@@ -1,0 +1,1 @@
+simple picture: money -> freedom -> live
