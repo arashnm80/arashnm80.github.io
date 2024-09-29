@@ -10,7 +10,8 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
   <ul>
     <li><a href="./c'est-ma-vie" tag="core"></a></li>
     <li><a href="./play-to-win-or-don't-play-at-all" tag="core"></a></li>
-    <li><a href="./no-time-for-caution" tag="core"></a></li>
+    <li><a href="./no-time-for-caution" gvbtag="core"></a></li>
+    <li><a href="./戦え" tag=""></a></li>
     <li><a href="./action" tag=""></a></li>
     <li><a href="./all-must-choose" tag=""></a></li>
     <li><a href="./live" tag="passion"></a></li>
@@ -19,7 +20,6 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./生き甲斐" tag="challenge"></a></li>
     <li><a href="./strategy" tag=""></a></li>
     <li><a href="./uncertainty" tag=""></a></li>
-    <li><a href="./戦え" tag=""></a></li>
     <li><a href="./childhood" tag="challenge"></a></li>
     <li><a href="./pain" tag="challenge"></a></li>
     <li><a href="./fear" tag="challenge"></a></li>
@@ -58,6 +58,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./shit" tag=""></a></li>
     <li><a href="./hidden-progress" tag=""></a></li>
     <li><a href="./rogue" tag="personality"></a></li>
+    <li><a href="./gall's-law" tag=""></a></li>
     <li><a href="./strong" tag="personality"></a></li>
     <li><a href="./procrastination" tag="challenge"></a></li>
     <li><a href="./victim-mentality" tag=""></a></li>

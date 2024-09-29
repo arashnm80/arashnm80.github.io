@@ -78,3 +78,7 @@ At the same time **try** to:
 ---
 1. dive right into cold water
 1. immerse slowly cm by cm
+
+---
+1. turn shitty products into awesome ones
+1. learn to sell sitty products for good prices

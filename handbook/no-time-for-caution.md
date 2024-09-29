@@ -1,4 +1,4 @@
-**every second counts**  
+**every goddamn second counts**  
 **make the best guess in 4:06 and leap into action**
 
 Too many days, months and years of my life have passed and too few are left. I have to start acting right now and think about parameters and improvements over time later.
