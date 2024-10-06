@@ -35,3 +35,7 @@ i'm gonna live and do things for me
 in fact i'm gonna only create for myself and then if possible, sell it to others too and make money out of it. but the main final goal is to do sth for me.
 
 **if i'm gonna make youtube videos it should be for me. like teaching users in a video how to buy and use a product i've created.**
+
+**Do you actually want it? Or do you want other people to see that you have it?**
+
+> everybody only gives shit about himself. my only defference is being self-aware.

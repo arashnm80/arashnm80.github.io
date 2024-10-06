@@ -49,3 +49,4 @@ In other terms it means to be **free**, healthy, wealthy and have time to choose
   - soccer
   - freesbee
   - swim
+- pet

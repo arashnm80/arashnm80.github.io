@@ -1,1 +1,0 @@
-in the same way that i fight to get rid of fighting, i would like very much to live a peaceful slow life. but since there's no time for caution and i'm in war era i have to be very agile and finish every task as fast as possible.

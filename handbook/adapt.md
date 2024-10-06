@@ -1,0 +1,1 @@
+- living in an organized structral world has its own merits but if you live in chaos of some place like iran, there are many loopholes that can be used in our advantage.

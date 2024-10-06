@@ -18,9 +18,6 @@ doing nothing is inaction but resting to gain energy for later is not.
 ### Action Book
 Only write and take note of titles and key points. The main contents should be written as my actions in real life.
 
-### Real Work
-- **Porn vs. セックス: instead of enjoying watching other people's memories do it yourself and enjoy creating your own beautiful memories.**
-
 ### KIA
 killed in action. for most of my life this i have this thought: *i've never wanted wanted to be born*. so if i'm gonna stay and not leave yet, i want to give them hell and be KIA.
 

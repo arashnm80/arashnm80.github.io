@@ -6,12 +6,16 @@
 
 I choose not to think about people.
 
+> I much prefer the sharpest criticism of a single intelligent man to the thoughtless approval of the masses.
+
 ### don't give a shit
 > fuck others
 
 Respect everyone and give a shit about no one, in fact don't even think about anyone. Do what you believe is best not what society enforce on you.
 
 > Everybody in the world is a compass for me. A reminder of where I want to be and where I don't.
+
+i might be right or wrong, but either way, the key point is not to give a shit about others
 
 ### source
 every person, best or worst, is a source to learn what to do or what not to do.

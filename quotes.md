@@ -59,7 +59,11 @@ title: Quotes
 
 > hope is product of self-trust.
 
+> Millions long for immortality who don't know what to do with themselves on a rainy Sunday afternoon.
+
 > never trust a founder that doesn't use his own product
+
+> everybody only gives shit about himself. my only defference is being self-aware.
 
 > lead people who lead people.
 
@@ -100,6 +104,8 @@ title: Quotes
 > I'm not going to fool myself, and I'm the easiest person to fool.
 
 > It might be a labyrinth but the big picture is very simple.
+
+> if you can't make money out of a penny, you won't do it from a unicorn company.
 
 > The only way is to move forward.
 
@@ -184,6 +190,8 @@ title: Quotes
 > Surround myself with people 20% better than me.
 
 > don't care about people more than amount they care about themselves.
+
+> I much prefer the sharpest criticism of a single intelligent man to the thoughtless approval of the masses.
 
 > fuck others
 

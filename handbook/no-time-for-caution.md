@@ -1,4 +1,4 @@
-**every goddamn second counts**  
+**tick tock motherfucker, every goddamn second counts**  
 **make the best guess in 4:06 and leap into action**
 
 Too many days, months and years of my life have passed and too few are left. I have to start acting right now and think about parameters and improvements over time later.
@@ -48,3 +48,5 @@ p.s. doing nothing is action of peace (rest, sleep, music, movie, ...)
 
 ### Make every second count
 Either I sleep, work, sex, watch movie, exercise, play, fight, ... I should use every second for sth worthwhile.
+
+- if you be smart enough, you won't let your time to be wasted under any circumstances. (like doing push ups when sajad is gone)

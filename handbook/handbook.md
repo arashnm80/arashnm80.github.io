@@ -64,7 +64,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./victim-mentality" tag=""></a></li>
     <li><a href="./everything-everywhere-all-at-once" tag=""></a></li>
     <li><a href="./believe" tag="tool"></a></li>
-    <li><a href="./fast" tag="attribut"></a></li>
+    <li><a href="./agile" tag="attribut"></a></li>
     <li><a href="./destination-and-path" tag=""></a></li>
     <li><a href="./last-dance" tag=""></a></li>
     <li><a href="./parents-and-children" tag=""></a></li>
@@ -147,6 +147,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./attack-on-titan" tag="cinema"></a></li>
     <li><a href="./accept" tag=""></a></li>
     <li><a href="./mental-model" tag=""></a></li>
+    <li><a href="./porn-vs-sex" tag=""></a></li>
     <li><a href="./cr7" tag="character"></a></li>
     <li><a href="./switch-cost" tag=""></a></li>
     <li><a href="./flow" tag=""></a></li>
@@ -181,13 +182,15 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./memories" tag=""></a></li>
     <li><a href="./therapy" tag=""></a></li>
     <li><a href="./human" tag=""></a></li>
-    <li><a href="./agile" tag=""></a></li>
+    <li><a href="./adapt" tag=""></a></li>
+    <li><a href="./learn-and-discover" tag=""></a></li>
     <li><a href="./playground" tag=""></a></li>
     <li><a href="./stuck-gear" tag=""></a></li>
     <li><a href="./school-and-university" tag=""></a></li>
     <li><a href="./jewish-lightning" tag="tool"></a></li>
     <li><a href="./existential" tag="challenge"></a></li>
     <li><a href="./good-will-hunting" tag="cinema"></a></li>
+    <li><a href="./meaning" tag=""></a></li>
     <li><a href="./other" tag=""></a></li>
   </ul>
 </div>
