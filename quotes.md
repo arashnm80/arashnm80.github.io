@@ -267,8 +267,6 @@ title: Quotes
 
 > I'm gonna find a way or make one.
 
-> The reason to fight is to get rid of it.
-
 > How many fights do I have in myself?
 
 > I'm gonna bruteforce my way to success.
