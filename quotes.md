@@ -147,6 +147,8 @@ title: Quotes
 
 > Move fast and break things
 
+> i can't risk my time on luxury certainty and perfection
+
 > Assess every choice with a single question: "If I time-travel to past, do I repeat it again the same?"
 
 > Do I live my life in such a way that I would be willing to repeat it again and again, forever?

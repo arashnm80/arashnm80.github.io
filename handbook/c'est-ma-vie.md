@@ -22,6 +22,7 @@ where am i/ am i not?
 what am i doing/not doing?
 what am i saying/not saying?
 
+### what do i owe to myself?
 
 ## i-dentity
 ### uniqueness

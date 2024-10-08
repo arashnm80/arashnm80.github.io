@@ -17,6 +17,9 @@ Respect everyone and give a shit about no one, in fact don't even think about an
 
 i might be right or wrong, but either way, the key point is not to give a shit about others
 
+### knowledge
+people don't need to know what i know.
+
 ### source
 every person, best or worst, is a source to learn what to do or what not to do.
 

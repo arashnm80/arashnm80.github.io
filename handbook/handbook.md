@@ -193,6 +193,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./existential" tag="challenge"></a></li>
     <li><a href="./good-will-hunting" tag="cinema"></a></li>
     <li><a href="./meaning" tag=""></a></li>
+    <li><a href="./sleep" tag=""></a></li>
     <li><a href="./other" tag=""></a></li>
   </ul>
 </div>
