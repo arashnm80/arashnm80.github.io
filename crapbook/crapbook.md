@@ -1,7 +1,7 @@
 ---
 layout: page
 title: crapbook
-permalink: /handbook/
+permalink: /crapbook/
 ---
 
 crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fantasies, ... which none of them really matter.

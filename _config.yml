@@ -66,17 +66,17 @@ header_pages:
   - works.md
   - posts.md
   - donate.md
-  # - handbook/handbook.md
+  # - crapbook/crapbook.md
 paginate: 5
 paginate_path: "/posts/page:num/"
 defaults:
   - scope:
-      path: "handbook" # Adjust the path to your folder
+      path: "crapbook" # Adjust the path to your folder
       type: "pages"               # The type can be "pages" or "posts"
     values:
-      layout: "custom_handbook_page_layout"              # The layout you want to apply
+      layout: "custom_crapbook_page_layout"              # The layout you want to apply
   # - scope:
-  #     path: "handbook" # Adjust the path to your folder
+  #     path: "crapbook" # Adjust the path to your folder
   #     type: "pages"               # The type can be "pages" or "posts"
   #   values:
   #     layout: "page"              # The layout you want to apply

@@ -4,7 +4,7 @@ const path = require('path');
 const fileTitle = "---\nlayout: page\ntitle: Quotes\n---\n\n"
 
 // Directory containing markdown files
-const directoryPath = path.join(__dirname, 'handbook');
+const directoryPath = path.join(__dirname, 'crapbook');
 
 // Output file
 const outputFilePath = path.join(__dirname, 'quotes.md');
