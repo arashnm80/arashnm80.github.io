@@ -9,11 +9,11 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
 <div id="all-items">
   <ul>
     <li><a href="./c'est-ma-vie" tag="core" track="0r3ORGlp6TvNLxYJH1A7G8"></a></li>
-    <li><a href="./play-to-win-or-don't-play-at-all" tag="core" track=""></a></li>
-    <li><a href="./no-time-for-caution" tag="core" track=""></a></li>
-    <li><a href="./戦え" tag="" track=""></a></li>
+    <li><a href="./play-to-win-or-don't-play-at-all" tag="core" track="541TCnvcbXttNljdygRqIa"></a></li>
+    <li><a href="./no-time-for-caution" tag="core" track="5aaXqH8rgKZxg61HjECldi"></a></li>
+    <li><a href="./戦え" tag="" track="7uF1nTuJRGUlZzODPcmPva"></a></li>
     <li><a href="./action" tag="" track=""></a></li>
-    <li><a href="./all-must-choose" tag="" track=""></a></li>
+    <li><a href="./all-must-choose" tag="" track="71g5Rk5G0FAj0Y1hcfjaXq"></a></li>
     <li><a href="./live" tag="passion" track=""></a></li>
     <li><a href="./the-climb" tag="strategy" track=""></a></li>
     <li><a href="./beast" tag="personality" track=""></a></li>

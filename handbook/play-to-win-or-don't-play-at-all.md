@@ -8,8 +8,6 @@ what am i gonna do about it? am i going to freak out, break down in my stress an
 in an idealistic world, would i have liked/wanted to be like this? to endure this much pain and sacrifice in fighting? FUCK NO.
 but if this is my best option and the less shittiest one among all the shitty possibilities, i have/want to give my 100 to be that person.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/541TCnvcbXttNljdygRqIa?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 ### stay-advance-leave
 there are generally 3 main choices ahead of me
 
