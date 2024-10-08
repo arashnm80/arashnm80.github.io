@@ -20,7 +20,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./生き甲斐" tag="challenge" track=""></a></li>
     <li><a href="./strategy" tag="" track=""></a></li>
     <li><a href="./uncertainty" tag="" track=""></a></li>
-    <li><a href="./childhood" tag="challenge" track=""></a></li>
+    <li><a href="./childhood" tag="challenge" track="2v3Ezj7MnwBe3s1VRaUcDt"></a></li>
     <li><a href="./pain" tag="challenge" track="1lgdOtupb4An8BlLfWDlgl"></a></li>
     <li><a href="./fear" tag="challenge" track=""></a></li>
     <li><a href="./shame" tag="challenge" track=""></a></li>
