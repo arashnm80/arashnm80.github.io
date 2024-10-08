@@ -12,16 +12,16 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./play-to-win-or-don't-play-at-all" tag="core" track="541TCnvcbXttNljdygRqIa"></a></li>
     <li><a href="./no-time-for-caution" tag="core" track="5aaXqH8rgKZxg61HjECldi"></a></li>
     <li><a href="./戦え" tag="" track="7uF1nTuJRGUlZzODPcmPva"></a></li>
-    <li><a href="./action" tag="" track=""></a></li>
+    <li><a href="./action" tag="" track="2Xtsv7BUMrNodQWH2JPOc0"></a></li>
     <li><a href="./all-must-choose" tag="" track="71g5Rk5G0FAj0Y1hcfjaXq"></a></li>
-    <li><a href="./live" tag="passion" track=""></a></li>
+    <li><a href="./live" tag="passion" track="291U1H10Sy0l4IuCYTBzT5"></a></li>
     <li><a href="./the-climb" tag="strategy" track=""></a></li>
     <li><a href="./beast" tag="personality" track=""></a></li>
     <li><a href="./生き甲斐" tag="challenge" track=""></a></li>
     <li><a href="./strategy" tag="" track=""></a></li>
     <li><a href="./uncertainty" tag="" track=""></a></li>
     <li><a href="./childhood" tag="challenge" track=""></a></li>
-    <li><a href="./pain" tag="challenge" track=""></a></li>
+    <li><a href="./pain" tag="challenge" track="1lgdOtupb4An8BlLfWDlgl"></a></li>
     <li><a href="./fear" tag="challenge" track=""></a></li>
     <li><a href="./shame" tag="challenge" track=""></a></li>
     <li><a href="./stress" tag="challenge" track=""></a></li>
@@ -47,8 +47,8 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./doubt" tag="challenge" track=""></a></li>
     <li><a href="./reframe" tag="超能力" track=""></a></li>
     <li><a href="./life-factor" tag="" track=""></a></li>
-    <li><a href="./sadness" tag="challenge" track=""></a></li>
-    <li><a href="./leave" tag="passion" track=""></a></li>
+    <li><a href="./sadness" tag="challenge" track="5pj5aUI2t5D0o9GkniUVDI"></a></li>
+    <li><a href="./leave" tag="passion" track="7ISIqewgqoRByGPWOsWUF1"></a></li>
     <li><a href="./bubble" tag="" track=""></a></li>
     <li><a href="./get-specific" tag="" track=""></a></li>
     <li><a href="./negative-local-maximum" tag="" track=""></a></li>
@@ -158,7 +158,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
     <li><a href="./mark-rober" tag="character" track=""></a></li>
     <li><a href="./what-if" tag="" track=""></a></li>
     <li><a href="./pride" tag="challenge" track=""></a></li>
-    <li><a href="./peace" tag="" track=""></a></li>
+    <li><a href="./peace" tag="" track="1c3GkbZBnyrQ1cm4TGHFrK"></a></li>
     <li><a href="./inertia" tag="" track=""></a></li>
     <li><a href="./do-the-right-thing" tag="" track=""></a></li>
     <li><a href="./eyes" tag="" track=""></a></li>
