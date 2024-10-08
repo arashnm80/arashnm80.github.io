@@ -8,7 +8,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
 
 <div id="all-items">
   <ul>
-    <li><a href="./c'est-ma-vie" tag="core" track=""></a></li>
+    <li><a href="./c'est-ma-vie" tag="core" track="0r3ORGlp6TvNLxYJH1A7G8"></a></li>
     <li><a href="./play-to-win-or-don't-play-at-all" tag="core" track=""></a></li>
     <li><a href="./no-time-for-caution" tag="core" track=""></a></li>
     <li><a href="./戦え" tag="" track=""></a></li>
