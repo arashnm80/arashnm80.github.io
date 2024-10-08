@@ -9,11 +9,20 @@ const directoryPath = path.join(__dirname, 'handbook');
 // Output file
 const outputFilePath = path.join(__dirname, 'quotes.md');
 
+// ANSI escape codes for colors
+const RED = '\x1b[31m';
+const RESET = '\x1b[0m';
+
+// Function to log errors in red
+const logError = (message) => {
+    console.error(`${RED}${message}${RESET}`);
+};
+
 // Function to extract quotes from markdown files
 const extractQuotes = (directory, outputFile) => {
     fs.readdir(directory, (err, files) => {
         if (err) {
-            return console.error('Unable to scan directory:', err);
+            return logError('Unable to scan directory: ' + err);
         }
 
         let quotes = '';
@@ -22,6 +31,7 @@ const extractQuotes = (directory, outputFile) => {
         files.forEach((file) => {
             const filePath = path.join(directory, file);
             const ext = path.extname(file);
+
             if (ext === '.md') {
                 const data = fs.readFileSync(filePath, 'utf8');
 
@@ -34,9 +44,9 @@ const extractQuotes = (directory, outputFile) => {
                     }
                 });
             } else if (ext !== '' && ext !== '.md') {
-                console.error(`Error: File with unsupported extension found: ${file}`);
+                logError(`Error: File with unsupported extension found: ${file}`);
             } else if (ext === '') {
-                console.error(`Error: File without extension found: ${file}`);
+                logError(`Error: File without extension found: ${file}`);
             }
         });
 
