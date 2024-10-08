@@ -8,193 +8,193 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
 
 <div id="all-items">
   <ul>
-    <li><a href="./c'est-ma-vie" tag="core"></a></li>
-    <li><a href="./play-to-win-or-don't-play-at-all" tag="core"></a></li>
-    <li><a href="./no-time-for-caution" tag="core"></a></li>
-    <li><a href="./戦え" tag=""></a></li>
-    <li><a href="./action" tag=""></a></li>
-    <li><a href="./all-must-choose" tag=""></a></li>
-    <li><a href="./live" tag="passion"></a></li>
-    <li><a href="./the-climb" tag="strategy"></a></li>
-    <li><a href="./beast" tag="personality"></a></li>
-    <li><a href="./生き甲斐" tag="challenge"></a></li>
-    <li><a href="./strategy" tag=""></a></li>
-    <li><a href="./uncertainty" tag=""></a></li>
-    <li><a href="./childhood" tag="challenge"></a></li>
-    <li><a href="./pain" tag="challenge"></a></li>
-    <li><a href="./fear" tag="challenge"></a></li>
-    <li><a href="./shame" tag="challenge"></a></li>
-    <li><a href="./stress" tag="challenge"></a></li>
-    <li><a href="./people" tag=""></a></li>
-    <li><a href="./sort" tag=""></a></li>
-    <li><a href="./quality-levels" tag=""></a></li>
-    <li><a href="./freedom" tag="passion"></a></li>
-    <li><a href="./big-picture" tag="notion"></a></li>
-    <li><a href="./simple-picture" tag="notion"></a></li>
-    <li><a href="./2-battlefields" tag="notion"></a></li>
-    <li><a href="./plan-a-and-b" tag="notion"></a></li>
-    <li><a href="./pursuit-of-unknown" tag="超能力"></a></li>
-    <li><a href="./reboot" tag="超能力"></a></li>
-    <li><a href="./experience" tag=""></a></li>
-    <li><a href="./persistency" tag=""></a></li>
-    <li><a href="./habits-and-routines" tag=""></a></li>
-    <li><a href="./ignores-and-removals" tag=""></a></li>
-    <li><a href="./instinct" tag=""></a></li>
-    <li><a href="./multitask" tag="game-changer"></a></li>
-    <li><a href="./begin-again" tag="challenge"></a></li>
-    <li><a href="./comparison" tag="tool"></a></li>
-    <li><a href="./dopamine" tag=""></a></li>
-    <li><a href="./doubt" tag="challenge"></a></li>
-    <li><a href="./reframe" tag="超能力"></a></li>
-    <li><a href="./life-factor" tag=""></a></li>
-    <li><a href="./sadness" tag="challenge"></a></li>
-    <li><a href="./leave" tag="passion"></a></li>
-    <li><a href="./bubble" tag=""></a></li>
-    <li><a href="./get-specific" tag=""></a></li>
-    <li><a href="./negative-local-maximum" tag=""></a></li>
-    <li><a href="./dad" tag="people"></a></li>
-    <li><a href="./90-10" tag=""></a></li>
-    <li><a href="./try" tag="tool"></a></li>
-    <li><a href="./shit" tag=""></a></li>
-    <li><a href="./hidden-progress" tag=""></a></li>
-    <li><a href="./rogue" tag="personality"></a></li>
-    <li><a href="./gall's-law" tag=""></a></li>
-    <li><a href="./strong" tag="personality"></a></li>
-    <li><a href="./procrastination" tag="challenge"></a></li>
-    <li><a href="./victim-mentality" tag=""></a></li>
-    <li><a href="./everything-everywhere-all-at-once" tag=""></a></li>
-    <li><a href="./believe" tag="tool"></a></li>
-    <li><a href="./agile" tag="attribut"></a></li>
-    <li><a href="./destination-and-path" tag=""></a></li>
-    <li><a href="./last-dance" tag=""></a></li>
-    <li><a href="./parents-and-children" tag=""></a></li>
-    <li><a href="./overcorrection" tag="tool"></a></li>
-    <li><a href="./art-of-racing-in-the-rain" tag="超能力"></a></li>
-    <li><a href="./ryan-trahan" tag="character"></a></li>
-    <li><a href="./chain-reaction" tag="game-changer"></a></li>
-    <li><a href="./subconscious" tag=""></a></li>
-    <li><a href="./think-out-of-the-box" tag="notion"></a></li>
-    <li><a href="./dirac-delta-function" tag=""></a></li>
-    <li><a href="./lost-chance" tag=""></a></li>
-    <li><a href="./minimalism" tag=""></a></li>
-    <li><a href="./take-it-easy" tag="mental-model"></a></li>
-    <li><a href="./mute" tag="超能力"></a></li>
-    <li><a href="./skin-in-the-game" tag=""></a></li>
-    <li><a href="./move-on" tag="超能力"></a></li>
-    <li><a href="./domino-effect" tag=""></a></li>
-    <li><a href="./system-1-and-2" tag="notion"></a></li>
-    <li><a href="./near-zero-cost" tag=""></a></li>
-    <li><a href="./will" tag=""></a></li>
-    <li><a href="./regret" tag=""></a></li>
-    <li><a href="./hobby-as-a-service" tag="game-changer"></a></li>
-    <li><a href="./arbitrage" tag="tool"></a></li>
-    <li><a href="./narrow-way-through" tag=""></a></li>
-    <li><a href="./fuck" tag=""></a></li>
-    <li><a href="./rock-paper-scissors" tag="mental-model"></a></li>
-    <li><a href="./naval" tag="character"></a></li>
-    <li><a href="./portrait-painting" tag="notion"></a></li>
-    <li><a href="./mrbeast" tag="character"></a></li>
-    <li><a href="./idea-person" tag="game-changer"></a></li>
-    <li><a href="./carnet-mental" tag="超能力"></a></li>
-    <li><a href="./renewable-energy" tag=""></a></li>
-    <li><a href="./cbt" tag=""></a></li>
-    <li><a href="./40-70" tag=""></a></li>
-    <li><a href="./economy" tag=""></a></li>
-    <li><a href="./wild" tag="attribut"></a></li>
-    <li><a href="./leader" tag=""></a></li>
-    <li><a href="./move-forward" tag=""></a></li>
-    <li><a href="./woody-allen" tag="character"></a></li>
-    <li><a href="./matt-damon" tag="character"></a></li>
-    <li><a href="./ask" tag="challenge"></a></li>
-    <li><a href="./mind-opiums" tag=""></a></li>
-    <li><a href="./weakness-as-a-service" tag=""></a></li>
-    <li><a href="./assume" tag="超能力"></a></li>
-    <li><a href="./immerse" tag=""></a></li>
-    <li><a href="./depression" tag="challenge"></a></li>
-    <li><a href="./smart" tag="attribut"></a></li>
-    <li><a href="./darwin" tag=""></a></li>
-    <li><a href="./leverage" tag="tool"></a></li>
-    <li><a href="./judge" tag="challenge"></a></li>
-    <li><a href="./potential" tag=""></a></li>
-    <li><a href="./right-questions" tag=""></a></li>
-    <li><a href="./lose" tag=""></a></li>
-    <li><a href="./focus" tag=""></a></li>
-    <li><a href="./cut-off" tag="超能力"></a></li>
-    <li><a href="./patience" tag="attribut"></a></li>
-    <li><a href="./rest-and-reinforce" tag=""></a></li>
-    <li><a href="./elon-musk" tag="character"></a></li>
-    <li><a href="./niksen" tag=""></a></li>
-    <li><a href="./ocd" tag="challenge"></a></li>
-    <li><a href="./pieter-levels" tag="character"></a></li>
-    <li><a href="./knowledge" tag=""></a></li>
-    <li><a href="./teacher" tag=""></a></li>
-    <li><a href="./hedonic-treadmill" tag=""></a></li>
-    <li><a href="./words" tag=""></a></li>
-    <li><a href="./improvise" tag=""></a></li>
-    <li><a href="./boredom" tag="challenge"></a></li>
-    <li><a href="./skill-tree" tag=""></a></li>
-    <li><a href="./sale" tag=""></a></li>
-    <li><a href="./jensen-huang" tag="character"></a></li>
-    <li><a href="./pain-as-a-service" tag=""></a></li>
-    <li><a href="./evolution" tag=""></a></li>
-    <li><a href="./paradox-of-choice" tag="book"></a></li>
-    <li><a href="./sam-altman" tag="character"></a></li>
-    <li><a href="./founder" tag=""></a></li>
-    <li><a href="./parkinson-law" tag=""></a></li>
-    <li><a href="./win-win" tag=""></a></li>
-    <li><a href="./masturbation" tag=""></a></li>
-    <li><a href="./deserve" tag=""></a></li>
-    <li><a href="./attack-on-titan" tag="cinema"></a></li>
-    <li><a href="./accept" tag=""></a></li>
-    <li><a href="./overthink" tag="challenge"></a></li>
-    <li><a href="./mental-model" tag=""></a></li>
-    <li><a href="./porn-vs-sex" tag=""></a></li>
-    <li><a href="./cr7" tag="character"></a></li>
-    <li><a href="./switch-cost" tag=""></a></li>
-    <li><a href="./flow" tag=""></a></li>
-    <li><a href="./run-away" tag="challenge"></a></li>
-    <li><a href="./love" tag=""></a></li>
-    <li><a href="./swing-trading" tag="tool"></a></li>
-    <li><a href="./mark-rober" tag="character"></a></li>
-    <li><a href="./what-if" tag=""></a></li>
-    <li><a href="./pride" tag="challenge"></a></li>
-    <li><a href="./peace" tag=""></a></li>
-    <li><a href="./inertia" tag=""></a></li>
-    <li><a href="./do-the-right-thing" tag=""></a></li>
-    <li><a href="./eyes" tag=""></a></li>
-    <li><a href="./halfway-conversation" tag="tool"></a></li>
-    <li><a href="./form-and-content" tag=""></a></li>
-    <li><a href="./monitor" tag=""></a></li>
-    <li><a href="./friendship" tag=""></a></li>
-    <li><a href="./ideas" tag=""></a></li>
-    <li><a href="./money" tag=""></a></li>
-    <li><a href="./norm" tag=""></a></li>
-    <li><a href="./open-source-diary" tag=""></a></li>
-    <li><a href="./piss-it" tag="mental-model"></a></li>
-    <li><a href="./observation" tag=""></a></li>
-    <li><a href="./jekyll-and-hyde" tag="tool"></a></li>
-    <li><a href="./amigdel" tag="character"></a></li>
-    <li><a href="./linchpin" tag=""></a></li>
-    <li><a href="./bear" tag="cinema"></a></li>
-    <li><a href="./keystone" tag=""></a></li>
-    <li><a href="./analogies" tag=""></a></li>
-    <li><a href="./radicalism" tag="mental-model"></a></li>
-    <li><a href="./relationship" tag=""></a></li>
-    <li><a href="./memories" tag=""></a></li>
-    <li><a href="./idea" tag=""></a></li>
-    <li><a href="./therapy" tag=""></a></li>
-    <li><a href="./human" tag=""></a></li>
-    <li><a href="./adapt" tag=""></a></li>
-    <li><a href="./learn-and-discover" tag=""></a></li>
-    <li><a href="./playground" tag=""></a></li>
-    <li><a href="./stuck-gear" tag=""></a></li>
-    <li><a href="./school-and-university" tag=""></a></li>
-    <li><a href="./jewish-lightning" tag="tool"></a></li>
-    <li><a href="./existential" tag="challenge"></a></li>
-    <li><a href="./good-will-hunting" tag="cinema"></a></li>
-    <li><a href="./meaning" tag=""></a></li>
-    <li><a href="./sleep" tag=""></a></li>
-    <li><a href="./other" tag=""></a></li>
+    <li><a href="./c'est-ma-vie" tag="core" track=""></a></li>
+    <li><a href="./play-to-win-or-don't-play-at-all" tag="core" track=""></a></li>
+    <li><a href="./no-time-for-caution" tag="core" track=""></a></li>
+    <li><a href="./戦え" tag="" track=""></a></li>
+    <li><a href="./action" tag="" track=""></a></li>
+    <li><a href="./all-must-choose" tag="" track=""></a></li>
+    <li><a href="./live" tag="passion" track=""></a></li>
+    <li><a href="./the-climb" tag="strategy" track=""></a></li>
+    <li><a href="./beast" tag="personality" track=""></a></li>
+    <li><a href="./生き甲斐" tag="challenge" track=""></a></li>
+    <li><a href="./strategy" tag="" track=""></a></li>
+    <li><a href="./uncertainty" tag="" track=""></a></li>
+    <li><a href="./childhood" tag="challenge" track=""></a></li>
+    <li><a href="./pain" tag="challenge" track=""></a></li>
+    <li><a href="./fear" tag="challenge" track=""></a></li>
+    <li><a href="./shame" tag="challenge" track=""></a></li>
+    <li><a href="./stress" tag="challenge" track=""></a></li>
+    <li><a href="./people" tag="" track=""></a></li>
+    <li><a href="./sort" tag="" track=""></a></li>
+    <li><a href="./quality-levels" tag="" track=""></a></li>
+    <li><a href="./freedom" tag="passion" track=""></a></li>
+    <li><a href="./big-picture" tag="notion" track=""></a></li>
+    <li><a href="./simple-picture" tag="notion" track=""></a></li>
+    <li><a href="./2-battlefields" tag="notion" track=""></a></li>
+    <li><a href="./plan-a-and-b" tag="notion" track=""></a></li>
+    <li><a href="./pursuit-of-unknown" tag="超能力" track=""></a></li>
+    <li><a href="./reboot" tag="超能力" track=""></a></li>
+    <li><a href="./experience" tag="" track=""></a></li>
+    <li><a href="./persistency" tag="" track=""></a></li>
+    <li><a href="./habits-and-routines" tag="" track=""></a></li>
+    <li><a href="./ignores-and-removals" tag="" track=""></a></li>
+    <li><a href="./instinct" tag="" track=""></a></li>
+    <li><a href="./multitask" tag="game-changer" track=""></a></li>
+    <li><a href="./begin-again" tag="challenge" track=""></a></li>
+    <li><a href="./comparison" tag="tool" track=""></a></li>
+    <li><a href="./dopamine" tag="" track=""></a></li>
+    <li><a href="./doubt" tag="challenge" track=""></a></li>
+    <li><a href="./reframe" tag="超能力" track=""></a></li>
+    <li><a href="./life-factor" tag="" track=""></a></li>
+    <li><a href="./sadness" tag="challenge" track=""></a></li>
+    <li><a href="./leave" tag="passion" track=""></a></li>
+    <li><a href="./bubble" tag="" track=""></a></li>
+    <li><a href="./get-specific" tag="" track=""></a></li>
+    <li><a href="./negative-local-maximum" tag="" track=""></a></li>
+    <li><a href="./dad" tag="people" track=""></a></li>
+    <li><a href="./90-10" tag="" track=""></a></li>
+    <li><a href="./try" tag="tool" track=""></a></li>
+    <li><a href="./shit" tag="" track=""></a></li>
+    <li><a href="./hidden-progress" tag="" track=""></a></li>
+    <li><a href="./rogue" tag="personality" track=""></a></li>
+    <li><a href="./gall's-law" tag="" track=""></a></li>
+    <li><a href="./strong" tag="personality" track=""></a></li>
+    <li><a href="./procrastination" tag="challenge" track=""></a></li>
+    <li><a href="./victim-mentality" tag="" track=""></a></li>
+    <li><a href="./everything-everywhere-all-at-once" tag="" track=""></a></li>
+    <li><a href="./believe" tag="tool" track=""></a></li>
+    <li><a href="./agile" tag="attribut" track=""></a></li>
+    <li><a href="./destination-and-path" tag="" track=""></a></li>
+    <li><a href="./last-dance" tag="" track=""></a></li>
+    <li><a href="./parents-and-children" tag="" track=""></a></li>
+    <li><a href="./overcorrection" tag="tool" track=""></a></li>
+    <li><a href="./art-of-racing-in-the-rain" tag="超能力" track=""></a></li>
+    <li><a href="./ryan-trahan" tag="character" track=""></a></li>
+    <li><a href="./chain-reaction" tag="game-changer" track=""></a></li>
+    <li><a href="./subconscious" tag="" track=""></a></li>
+    <li><a href="./think-out-of-the-box" tag="notion" track=""></a></li>
+    <li><a href="./dirac-delta-function" tag="" track=""></a></li>
+    <li><a href="./lost-chance" tag="" track=""></a></li>
+    <li><a href="./minimalism" tag="" track=""></a></li>
+    <li><a href="./take-it-easy" tag="mental-model" track=""></a></li>
+    <li><a href="./mute" tag="超能力" track=""></a></li>
+    <li><a href="./skin-in-the-game" tag="" track=""></a></li>
+    <li><a href="./move-on" tag="超能力" track=""></a></li>
+    <li><a href="./domino-effect" tag="" track=""></a></li>
+    <li><a href="./system-1-and-2" tag="notion" track=""></a></li>
+    <li><a href="./near-zero-cost" tag="" track=""></a></li>
+    <li><a href="./will" tag="" track=""></a></li>
+    <li><a href="./regret" tag="" track=""></a></li>
+    <li><a href="./hobby-as-a-service" tag="game-changer" track=""></a></li>
+    <li><a href="./arbitrage" tag="tool" track=""></a></li>
+    <li><a href="./narrow-way-through" tag="" track=""></a></li>
+    <li><a href="./fuck" tag="" track=""></a></li>
+    <li><a href="./rock-paper-scissors" tag="mental-model" track=""></a></li>
+    <li><a href="./naval" tag="character" track=""></a></li>
+    <li><a href="./portrait-painting" tag="notion" track=""></a></li>
+    <li><a href="./mrbeast" tag="character" track=""></a></li>
+    <li><a href="./idea-person" tag="game-changer" track=""></a></li>
+    <li><a href="./carnet-mental" tag="超能力" track=""></a></li>
+    <li><a href="./renewable-energy" tag="" track=""></a></li>
+    <li><a href="./cbt" tag="" track=""></a></li>
+    <li><a href="./40-70" tag="" track=""></a></li>
+    <li><a href="./economy" tag="" track=""></a></li>
+    <li><a href="./wild" tag="attribut" track=""></a></li>
+    <li><a href="./leader" tag="" track=""></a></li>
+    <li><a href="./move-forward" tag="" track=""></a></li>
+    <li><a href="./woody-allen" tag="character" track=""></a></li>
+    <li><a href="./matt-damon" tag="character" track=""></a></li>
+    <li><a href="./ask" tag="challenge" track=""></a></li>
+    <li><a href="./mind-opiums" tag="" track=""></a></li>
+    <li><a href="./weakness-as-a-service" tag="" track=""></a></li>
+    <li><a href="./assume" tag="超能力" track=""></a></li>
+    <li><a href="./immerse" tag="" track=""></a></li>
+    <li><a href="./depression" tag="challenge" track=""></a></li>
+    <li><a href="./smart" tag="attribut" track=""></a></li>
+    <li><a href="./darwin" tag="" track=""></a></li>
+    <li><a href="./leverage" tag="tool" track=""></a></li>
+    <li><a href="./judge" tag="challenge" track=""></a></li>
+    <li><a href="./potential" tag="" track=""></a></li>
+    <li><a href="./right-questions" tag="" track=""></a></li>
+    <li><a href="./lose" tag="" track=""></a></li>
+    <li><a href="./focus" tag="" track=""></a></li>
+    <li><a href="./cut-off" tag="超能力" track=""></a></li>
+    <li><a href="./patience" tag="attribut" track=""></a></li>
+    <li><a href="./rest-and-reinforce" tag="" track=""></a></li>
+    <li><a href="./elon-musk" tag="character" track=""></a></li>
+    <li><a href="./niksen" tag="" track=""></a></li>
+    <li><a href="./ocd" tag="challenge" track=""></a></li>
+    <li><a href="./pieter-levels" tag="character" track=""></a></li>
+    <li><a href="./knowledge" tag="" track=""></a></li>
+    <li><a href="./teacher" tag="" track=""></a></li>
+    <li><a href="./hedonic-treadmill" tag="" track=""></a></li>
+    <li><a href="./words" tag="" track=""></a></li>
+    <li><a href="./improvise" tag="" track=""></a></li>
+    <li><a href="./boredom" tag="challenge" track=""></a></li>
+    <li><a href="./skill-tree" tag="" track=""></a></li>
+    <li><a href="./sale" tag="" track=""></a></li>
+    <li><a href="./jensen-huang" tag="character" track=""></a></li>
+    <li><a href="./pain-as-a-service" tag="" track=""></a></li>
+    <li><a href="./evolution" tag="" track=""></a></li>
+    <li><a href="./paradox-of-choice" tag="book" track=""></a></li>
+    <li><a href="./sam-altman" tag="character" track=""></a></li>
+    <li><a href="./founder" tag="" track=""></a></li>
+    <li><a href="./parkinson-law" tag="" track=""></a></li>
+    <li><a href="./win-win" tag="" track=""></a></li>
+    <li><a href="./masturbation" tag="" track=""></a></li>
+    <li><a href="./deserve" tag="" track=""></a></li>
+    <li><a href="./attack-on-titan" tag="cinema" track=""></a></li>
+    <li><a href="./accept" tag="" track=""></a></li>
+    <li><a href="./overthink" tag="challenge" track=""></a></li>
+    <li><a href="./mental-model" tag="" track=""></a></li>
+    <li><a href="./porn-vs-sex" tag="" track=""></a></li>
+    <li><a href="./cr7" tag="character" track=""></a></li>
+    <li><a href="./switch-cost" tag="" track=""></a></li>
+    <li><a href="./flow" tag="" track=""></a></li>
+    <li><a href="./run-away" tag="challenge" track=""></a></li>
+    <li><a href="./love" tag="" track=""></a></li>
+    <li><a href="./swing-trading" tag="tool" track=""></a></li>
+    <li><a href="./mark-rober" tag="character" track=""></a></li>
+    <li><a href="./what-if" tag="" track=""></a></li>
+    <li><a href="./pride" tag="challenge" track=""></a></li>
+    <li><a href="./peace" tag="" track=""></a></li>
+    <li><a href="./inertia" tag="" track=""></a></li>
+    <li><a href="./do-the-right-thing" tag="" track=""></a></li>
+    <li><a href="./eyes" tag="" track=""></a></li>
+    <li><a href="./halfway-conversation" tag="tool" track=""></a></li>
+    <li><a href="./form-and-content" tag="" track=""></a></li>
+    <li><a href="./monitor" tag="" track=""></a></li>
+    <li><a href="./friendship" tag="" track=""></a></li>
+    <li><a href="./ideas" tag="" track=""></a></li>
+    <li><a href="./money" tag="" track=""></a></li>
+    <li><a href="./norm" tag="" track=""></a></li>
+    <li><a href="./open-source-diary" tag="" track=""></a></li>
+    <li><a href="./piss-it" tag="mental-model" track=""></a></li>
+    <li><a href="./observation" tag="" track=""></a></li>
+    <li><a href="./jekyll-and-hyde" tag="tool" track=""></a></li>
+    <li><a href="./amigdel" tag="character" track=""></a></li>
+    <li><a href="./linchpin" tag="" track=""></a></li>
+    <li><a href="./bear" tag="cinema" track=""></a></li>
+    <li><a href="./keystone" tag="" track=""></a></li>
+    <li><a href="./analogies" tag="" track=""></a></li>
+    <li><a href="./radicalism" tag="mental-model" track=""></a></li>
+    <li><a href="./relationship" tag="" track=""></a></li>
+    <li><a href="./memories" tag="" track=""></a></li>
+    <li><a href="./idea" tag="" track=""></a></li>
+    <li><a href="./therapy" tag="" track=""></a></li>
+    <li><a href="./human" tag="" track=""></a></li>
+    <li><a href="./adapt" tag="" track=""></a></li>
+    <li><a href="./learn-and-discover" tag="" track=""></a></li>
+    <li><a href="./playground" tag="" track=""></a></li>
+    <li><a href="./stuck-gear" tag="" track=""></a></li>
+    <li><a href="./school-and-university" tag="" track=""></a></li>
+    <li><a href="./jewish-lightning" tag="tool" track=""></a></li>
+    <li><a href="./existential" tag="challenge" track=""></a></li>
+    <li><a href="./good-will-hunting" tag="cinema" track=""></a></li>
+    <li><a href="./meaning" tag="" track=""></a></li>
+    <li><a href="./sleep" tag="" track=""></a></li>
+    <li><a href="./other" tag="" track=""></a></li>
   </ul>
 </div>
 
@@ -267,6 +267,17 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fan
             var anchor = item.querySelector('a');
             var href = anchor.getAttribute("href");
             var tag = anchor.getAttribute("tag");
+            var track = anchor.getAttribute("track");
+
+            anchor.addEventListener('click', function() {
+                // Store track ID in localStorage
+                if (track) {
+                    localStorage.setItem('currentTrack', track);
+                } else {
+                    localStorage.removeItem('currentTrack'); // Clear track if none
+                }
+            });
+
             anchor.textContent = href.replace('./', '').replaceAll('-', ' ');
 
             // one extra space between text and button for readability

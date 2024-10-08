@@ -9,7 +9,27 @@ layout: page
     <h1 class="post-title">{{ page_title }}</h1>
 </header>
 
+<div id="spotify-iframe-container"></div>
+
 {{ content }}
 
 <br>
 <p align="right"><a href="../">🔙 handbook</a></p>
+
+<script>
+    // Retrieve track ID from localStorage
+    const trackId = localStorage.getItem('currentTrack');
+    if (trackId) {
+        const iframeContainer = document.getElementById('spotify-iframe-container');
+        const iframe = document.createElement('iframe');
+        iframe.style.borderRadius = '12px';
+        iframe.src = `https://open.spotify.com/embed/track/${trackId}?utm_source=generator`;
+        iframe.width = '100%';
+        iframe.height = '152';
+        iframe.frameBorder = '0';
+        iframe.allow = 'autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture';
+        iframe.loading = 'lazy';
+        
+        iframeContainer.appendChild(iframe);
+    }
+</script>

@@ -3,6 +3,8 @@
 
 everything is a choice. We are constantly choosing every second of our life and even when we are doing nothing it's a choice itself. (Dubiety: Of course I know that we might have many options, few options or no option at all. I don't convince myself in mind opium way to believe there are always options for us. But generally speaking and not thinking strict: we are constantly choosing.)
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/71g5Rk5G0FAj0Y1hcfjaXq?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 > newton's third law, The only way of getting somewhere is to leave something behind.
 
 > if i choose nothing, i will get nothing.
