@@ -284,6 +284,14 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, feelings, wri
             var space = document.createElement("span");
             space.textContent = " ";
             item.appendChild(space);
+
+            // if there's a track add an icon
+            if (track){
+                var musicIcon = document.createElement("a");
+                musicIcon.href = `https://open.spotify.com/track/${track}`
+                musicIcon.textContent = "🎵"
+                item.appendChild(musicIcon)
+            }
             
             // If there's a tag, create the button element
             if (tag) {
