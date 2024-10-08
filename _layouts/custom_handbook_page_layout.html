@@ -2,11 +2,19 @@
 layout: page
 ---
 {% assign page_title = page.title | default: page.url | split: '/' | last | replace: '-', ' ' %}
-<head>
+
+<!-- <head>
     <title>{{ page_title }}</title>
 </head>
 <header class="post-header">
     <h1 class="post-title">{{ page_title }}</h1>
+</header> -->
+
+<head></head>
+    <title id="dynamic-title">{{ page_title }}</title>
+</head>
+<header class="post-header">
+    <h1 id="page-title">{{ page_title }}</h1>
 </header>
 
 <div id="spotify-iframe-container"></div>
@@ -17,6 +25,18 @@ layout: page
 <p align="right"><a href="../">🔙 handbook</a></p>
 
 <script>
+    // make non-english title readable (instead of showing character codes)
+        // Get the encoded title from the server-side rendered title
+        const encodedTitle = document.getElementById('page-title').textContent;
+
+        // Decode the title to make it readable
+        const decodedTitle = decodeURIComponent(encodedTitle.trim());
+
+        // Update the page title in the header and browser tab
+        document.getElementById('page-title').textContent = decodedTitle;
+        document.getElementById('dynamic-title').textContent = decodedTitle;
+
+
     // Retrieve track ID from localStorage
     const trackId = localStorage.getItem('currentTrack');
     if (trackId) {
