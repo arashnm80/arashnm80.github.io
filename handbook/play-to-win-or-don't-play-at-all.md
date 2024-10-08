@@ -2,7 +2,7 @@
 **but there might be a black swan chance to find or create an oasis.**  
 **so leave or or total-war for narrow possibility to live**
 
-life is a bitch and it always assaults you with a gigantic shitpile of pain, failure and heartbreak.
+life is a bitch and it always assaults us with a gigantic shitpile of pain, failure and heartbreak.
 what am i gonna do about it? am i going to freak out, break down in my stress and cry in bathroom? or am i gonna stay calm and fight back like hell?
 
 in an idealistic world, would i have liked/wanted to be like this? to endure this much pain and sacrifice in fighting? FUCK NO.
