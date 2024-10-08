@@ -183,6 +183,8 @@ title: Quotes
 
 > Soft as a leaf, strong as a trunk.
 
+> we suffer more in imagination than in reality.
+
 > death is the closest thing to peace.
 
 > Long-term games with long-term people.
