@@ -4,7 +4,7 @@ title: crapbook
 permalink: /crapbook/
 ---
 
-crapbook is the 1st layer consisting of ideas, theories, thoughts, writings, fantasies, ... which none of them really matter.
+crapbook is the 1st layer consisting of ideas, theories, thoughts, feelings, writings, fantasies, ... which are all bullshit and none of them matters. the only thing that counts is my [actions](../actionbook).
 
 <div id="all-items">
   <ul>
