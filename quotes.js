@@ -20,8 +20,9 @@ const extractQuotes = (directory, outputFile) => {
         quotes += fileTitle;
 
         files.forEach((file) => {
-            if (path.extname(file) === '.md') {
-                const filePath = path.join(directory, file);
+            const filePath = path.join(directory, file);
+            const ext = path.extname(file);
+            if (ext === '.md') {
                 const data = fs.readFileSync(filePath, 'utf8');
 
                 const lines = data.split('\n');
@@ -32,6 +33,10 @@ const extractQuotes = (directory, outputFile) => {
                         quotes += line + '\n\n';
                     }
                 });
+            } else if (ext !== '' && ext !== '.md') {
+                console.error(`Error: File with unsupported extension found: ${file}`);
+            } else if (ext === '') {
+                console.error(`Error: File without extension found: ${file}`);
             }
         });
 
