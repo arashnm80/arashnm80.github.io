@@ -85,7 +85,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, feelings, wri
     <li><a href="./system-1-and-2" tag="notion" track=""></a></li>
     <li><a href="./near-zero-cost" tag="" track=""></a></li>
     <li><a href="./will" tag="" track=""></a></li>
-    <li><a href="./regret" tag="" track=""></a></li>
+    <li><a href="./regret" tag="" track="5YLYgvlpbz64nmqF5E0kXo"></a></li>
     <li><a href="./hobby-as-a-service" tag="game-changer" track=""></a></li>
     <li><a href="./arbitrage" tag="tool" track=""></a></li>
     <li><a href="./narrow-way-through" tag="" track=""></a></li>
