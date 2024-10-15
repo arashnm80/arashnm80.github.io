@@ -64,7 +64,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, feelings, wri
     <li><a href="./victim-mentality" tag="" track=""></a></li>
     <li><a href="./everything-everywhere-all-at-once" tag="" track=""></a></li>
     <li><a href="./believe" tag="tool" track=""></a></li>
-    <li><a href="./agile" tag="attribut" track=""></a></li>
+    <li><a href="./agile" tag="attribut" track="1N7LRc9YuyMjWKEkrmlogM"></a></li>
     <li><a href="./destination-and-path" tag="" track=""></a></li>
     <li><a href="./last-dance" tag="" track=""></a></li>
     <li><a href="./parents-and-children" tag="" track=""></a></li>
@@ -147,6 +147,7 @@ crapbook is the 1st layer consisting of ideas, theories, thoughts, feelings, wri
     <li><a href="./attack-on-titan" tag="cinema" track=""></a></li>
     <li><a href="./accept" tag="" track=""></a></li>
     <li><a href="./overthink" tag="challenge" track=""></a></li>
+    <li><a href="./pavel-durov" tag="character" track=""></a></li>
     <li><a href="./mental-model" tag="" track=""></a></li>
     <li><a href="./porn-vs-sex" tag="" track=""></a></li>
     <li><a href="./cr7" tag="character" track=""></a></li>

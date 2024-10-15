@@ -18,6 +18,9 @@ doing nothing is inaction but resting to gain energy for later is not.
 ### Action Book
 Only write and take note of titles and key points. The main contents should be written as my actions in real life.
 
+### plan next steps of actions in dead times
+i need to find out what my next step is on taxi/bathroom/shower/dinner and spend my time behind pc just for implementing them in action.
+
 ### KIA
 killed in action. for most of my life this i have this thought: *i've never wanted wanted to be born*. so if i'm gonna stay and not leave yet, i want to give them hell and be KIA.
 
