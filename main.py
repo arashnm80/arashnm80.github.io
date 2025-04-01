@@ -1,5 +1,6 @@
 import os
 import markdown
+import shutil
 
 def convert_md_to_html(md_content, title):
     html_content = markdown.markdown(md_content)
@@ -24,6 +25,10 @@ def convert_md_to_html(md_content, title):
     return template
 
 def generate_blog(input_folder='posts', output_folder='public'):
+    # Delete the folder if it exists
+    if os.path.exists(output_folder):
+        shutil.rmtree(output_folder)  # Removes folder and all contents
+    # Recreate the folder
     os.makedirs(output_folder, exist_ok=True)
     for filename in os.listdir(input_folder):
         if filename.endswith('.md'):
