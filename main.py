@@ -1,6 +1,7 @@
 import os
 import markdown
 import shutil
+import re
 
 def convert_md_to_html(md_content, title):
     html_content = markdown.markdown(md_content)
