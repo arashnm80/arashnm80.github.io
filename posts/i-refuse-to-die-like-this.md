@@ -8,5 +8,5 @@ i refuse to die without caring about myself.
 
 i refuse to die like this.
 
-سلام. حالت چطوره؟
+سلام. حالت چطوره؟  
 سلام Arash حالت چطوره؟
