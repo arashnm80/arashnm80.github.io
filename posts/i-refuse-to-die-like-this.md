@@ -9,7 +9,7 @@ i refuse to die without making repetitive mistakes.
 
 i refuse to die like this.
   
-
-
+  
+  
   
 hi
