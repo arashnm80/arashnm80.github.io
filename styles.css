@@ -9,12 +9,7 @@
     font-display: swap;
 }
 
-* {
-    font-family: 'Vazirmatn RD';
-}
-
 body {
-    font-family: Arial, sans-serif;
     max-width: 700px;
     margin: 40px auto;
     padding: 20px;
@@ -58,4 +53,8 @@ button {
 }
 button:hover {
     background: #eaeaea;
+}
+
+* {
+    font-family: 'Vazirmatn RD';
 }
