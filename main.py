@@ -3,7 +3,7 @@ import markdown
 import shutil
 
 def convert_md_to_html(md_content, title):
-    html_content = markdown.markdown(md_content)
+    html_content = markdown.markdown(md_content, extensions=['nl2br'])
     template = f"""<!DOCTYPE html>
 <html lang='en'>
 <head>
