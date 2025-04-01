@@ -1,2 +1,1 @@
-# arashnm80.github.io
-public website
+# my public blog
