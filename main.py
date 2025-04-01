@@ -1,14 +1,8 @@
 import os
 import markdown
-from bs4 import BeautifulSoup
 
 def convert_md_to_html(md_content, title):
     html_content = markdown.markdown(md_content)
-    soup = BeautifulSoup(html_content, 'html.parser')
-    # Add dir="auto" to specific elements
-    for tag in soup.find_all(['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'blockquote']):
-        tag['dir'] = 'auto'
-
     template = f"""<!DOCTYPE html>
 <html lang='en'>
 <head>
@@ -24,7 +18,7 @@ def convert_md_to_html(md_content, title):
     </style>
 </head>
 <body>
-    {soup}
+    {html_content}
 </body>
 </html>"""
     return template
@@ -37,6 +31,10 @@ def generate_blog(input_folder='posts', output_folder='public'):
                 md_content = f.read()
                 title = filename.replace('.md', '').replace('-', ' ')
                 html_content = convert_md_to_html(md_content, title)
+                # Add dir="auto" to relevant tags
+                for tag in ['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']:
+                    html_content = html_content.replace(f'<{tag}>', f'<{tag} dir="auto">')
+                    html_content = html_content.replace(f'<{tag} ', f'<{tag} dir="auto" ')
             output_file = os.path.join(output_folder, filename.replace('.md', '.html'))
             with open(output_file, 'w', encoding='utf-8') as f:
                 f.write(html_content)
