@@ -51,7 +51,7 @@
 
             const randomIndex = Math.floor(Math.random() * pages.length);
             const selectedPage = pages[randomIndex].trim();
-            const pagePath = `public/${selectedPage}`;
+            const pagePath = `/${selectedPage}`;
             const pageTitle = selectedPage.slice(0, -5); // Remove the last 5 characters ('.html')
             
             linkDiv.innerHTML = `Link: <a href="${pagePath}" target="_blank">${pageTitle}</a>`;
