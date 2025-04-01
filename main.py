@@ -37,8 +37,12 @@ def generate_blog(input_folder='posts', output_folder='public'):
                 md_content = f.read()
                 title = filename.replace('.md', '').replace('-', ' ')
                 html_content = convert_md_to_html(md_content, title)
+                # URL regex pattern
+                url_pattern = r'(https?://[^\s<>"]+|www\.[^\s<>"]+)'
+                # Replace URLs with hyperlinks
+                html_content = re.sub(url_pattern, r'<a href="\1" target="_blank">\1</a>', html_content)
                 # Add dir="auto" to relevant tags
-                for tag in ['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']:
+                for tag in ['p', 'a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']:
                     html_content = html_content.replace(f'<{tag}>', f'<{tag} dir="auto">')
                     html_content = html_content.replace(f'<{tag} ', f'<{tag} dir="auto" ')
             output_file = os.path.join(output_folder, filename.replace('.md', '.html'))
