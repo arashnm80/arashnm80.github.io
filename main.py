@@ -12,15 +12,6 @@ def convert_md_to_html(md_content, title):
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
     <title>{title}</title>
     <link rel="stylesheet" href="styles.css">
-    <style>
-        body {{ font-family: Arial, sans-serif; max-width: 700px; margin: 40px auto; padding: 20px; line-height: 1.6; }}
-        h1, h2, h3 {{ color: #333; }}
-        a {{ color: #0066cc; }}
-        pre {{ background: #f4f4f4; padding: 10px; }}
-        code {{ font-family: monospace; }}
-        img {{ max-width: 100%; }}
-        * {{font-family: 'Vazirmatn RD';}}
-    </style>
 </head>
 <body>
     {html_content}

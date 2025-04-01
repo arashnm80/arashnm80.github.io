@@ -8,3 +8,38 @@
     font-style: normal;
     font-display: swap;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+h1,
+h2,
+h3 {
+    color: #333;
+}
+
+a {
+    color: #0066cc;
+}
+
+pre {
+    background: #f4f4f4;
+    padding: 10px;
+}
+
+code {
+    font-family: monospace;
+}
+
+img {
+    max-width: 100%;
+}
+
+* {
+    font-family: 'Vazirmatn RD';
+}
