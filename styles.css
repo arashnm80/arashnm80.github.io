@@ -9,6 +9,10 @@
     font-display: swap;
 }
 
+* {
+    font-family: 'Vazirmatn RD';
+}
+
 body {
     font-family: Arial, sans-serif;
     max-width: 700px;
@@ -25,6 +29,10 @@ h3 {
 
 a {
     color: #0066cc;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
 }
 
 pre {
@@ -40,6 +48,14 @@ img {
     max-width: 100%;
 }
 
-* {
-    font-family: 'Vazirmatn RD';
+button {
+    background: #f4f4f4;
+    border: 1px solid #ddd;
+    padding: 8px 16px;
+    font-family: inherit;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+button:hover {
+    background: #eaeaea;
 }
