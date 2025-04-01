@@ -1,8 +1,14 @@
 import os
 import markdown
+from bs4 import BeautifulSoup
 
 def convert_md_to_html(md_content, title):
     html_content = markdown.markdown(md_content)
+    soup = BeautifulSoup(html_content, 'html.parser')
+    # Add dir="auto" to specific elements
+    for tag in soup.find_all(['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'li', 'blockquote']):
+        tag['dir'] = 'auto'
+
     template = f"""<!DOCTYPE html>
 <html lang='en'>
 <head>
@@ -18,7 +24,7 @@ def convert_md_to_html(md_content, title):
     </style>
 </head>
 <body>
-    {html_content}
+    {soup}
 </body>
 </html>"""
     return template
