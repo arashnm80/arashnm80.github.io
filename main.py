@@ -44,5 +44,30 @@ def generate_blog(input_folder='posts', output_folder='public'):
                 f.write(html_content)
     print(f'Generated {len(os.listdir(output_folder))} HTML files.')
 
+def generate_pages_list(output_file="pages_list.txt"):
+    # Specify the folder path
+    folder_path = "public"
+    
+    # Get all files in the folder
+    try:
+        files = os.listdir(folder_path)
+    except FileNotFoundError:
+        print(f"Error: Folder '{folder_path}' not found.")
+        return
+    except PermissionError:
+        print(f"Error: Permission denied when accessing '{folder_path}'.")
+        return
+    
+    # Filter out directories (optional, remove if you want directories too)
+    files = [f for f in files if os.path.isfile(os.path.join(folder_path, f))]
+    
+    # Write to output file
+    with open(output_file, "w") as f:
+        for file_name in files:
+            f.write(file_name + "\n")
+    
+    print(f"Successfully saved {len(files)} file names to {output_file}")
+
 if __name__ == '__main__':
     generate_blog()
+    generate_pages_list()
