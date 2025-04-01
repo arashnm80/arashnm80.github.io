@@ -1,4 +1,5 @@
 # i refuse to die like this
+![](../assets/i-refuse-to-die-like-this.jpg)
 i refuse to die without trying.  
 i refuse to die without fighting.  
 i refuse to die without being brave.  
