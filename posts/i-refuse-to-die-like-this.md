@@ -7,3 +7,6 @@ i refuse to die without using my time.
 i refuse to die without caring about myself.  
 
 i refuse to die like this.
+
+سلام. حالت چطوره؟
+سلام Arash حالت چطوره؟
