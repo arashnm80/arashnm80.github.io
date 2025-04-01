@@ -64,6 +64,16 @@
             
             linkDiv.innerHTML = `Currently viewing: <a href="${pagePath}" target="_blank">${selectedPage}</a>`;
             iframe.src = pagePath;
+
+            // After load, inject styles
+            iframe.onload = function() {
+                const styleContent = Array.from(document.querySelectorAll('style')).map(style => style.innerHTML).join('\n');
+                const linkContent = Array.from(document.querySelectorAll('link[rel="stylesheet"]')).map(link => {
+                    return `<link rel="stylesheet" href="${link.href}">`;
+                }).join('\n');
+                
+                iframe.contentDocument.head.innerHTML += styleContent + linkContent;
+            };
         }
 
         // Load a random page when the page first loads
