@@ -18,6 +18,7 @@ def convert_md_to_html(md_content, title):
         pre {{ background: #f4f4f4; padding: 10px; }}
         code {{ font-family: monospace; }}
         img {{ max-width: 100%; }}
+        * {{font-family: 'Vazirmatn RD';}}
     </style>
 </head>
 <body>
