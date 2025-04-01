@@ -11,6 +11,7 @@ def convert_md_to_html(md_content, title):
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
     <title>{title}</title>
+    <link rel="stylesheet" href="styles.css">
     <style>
         body {{ font-family: Arial, sans-serif; max-width: 700px; margin: 40px auto; padding: 20px; line-height: 1.6; }}
         h1, h2, h3 {{ color: #333; }}
