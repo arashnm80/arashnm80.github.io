@@ -19,10 +19,7 @@ def convert_md_to_html(md_content, title):
 </html>"""
     return template
 
-def generate_blog(input_folder='posts', output_folder='public'):
-    # Delete the folder if it exists
-    if os.path.exists(output_folder):
-        shutil.rmtree(output_folder)  # Removes folder and all contents
+def generate_blog(input_folders='posts', output_folder='public'):
     # Recreate the folder
     os.makedirs(output_folder, exist_ok=True)
     for filename in os.listdir(input_folder):
@@ -69,7 +66,13 @@ def generate_pages_list(output_file="pages_list.txt"):
     print(f"Successfully saved {len(files)} file names to {output_file}")
 
 if __name__ == '__main__':
+    # Delete the output folder if it exists
+    if os.path.exists('public'):
+        shutil.rmtree('public')  # Removes folder and all contents
+
+    # generate pages
     generate_blog("posts")
     generate_blog("weeks")
-    
+
+    # for shuffle
     generate_pages_list()
