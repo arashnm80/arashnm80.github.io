@@ -44,7 +44,6 @@ def generate_blog(input_folder='posts', output_folder='public'):
 def generate_pages_list(output_file="pages_list.txt"):
     # Specify the folder path
     folder_path = "public"
-    
     # Get all files in the folder
     try:
         files = os.listdir(folder_path)
