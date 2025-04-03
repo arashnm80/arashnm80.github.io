@@ -1,16 +1,1 @@
-problem.html
-daniel-kahneman.html
-justification-for-losing.html
-go-for-the-head.html
-index.html
-c'est-ma-vie.html
-i-refuse-to-die-like-this.html
-lesswrong.html
-character.html
-play-to-win-or-don't-play-at-all.html
-action.html
-choice.html
-no-time-for-caution.html
-lose.html
-gall-law.html
-system-1-and-2.html
+week-1253.html

@@ -69,5 +69,7 @@ def generate_pages_list(output_file="pages_list.txt"):
     print(f"Successfully saved {len(files)} file names to {output_file}")
 
 if __name__ == '__main__':
-    generate_blog()
+    generate_blog("posts")
+    generate_blog("weeks")
+    
     generate_pages_list()
