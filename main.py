@@ -19,7 +19,7 @@ def convert_md_to_html(md_content, title):
 </html>"""
     return template
 
-def generate_blog(input_folders='posts', output_folder='public'):
+def generate_blog(input_folder='posts', output_folder='public'):
     # Recreate the folder
     os.makedirs(output_folder, exist_ok=True)
     for filename in os.listdir(input_folder):
