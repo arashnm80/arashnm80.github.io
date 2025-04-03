@@ -71,8 +71,8 @@ if __name__ == '__main__':
         shutil.rmtree('public')  # Removes folder and all contents
 
     # generate pages
-    generate_blog("posts")
-    generate_blog("weeks")
+    generate_blog("posts", "public")
+    generate_blog("weeks", "public")
 
     # for shuffle
     generate_pages_list()
