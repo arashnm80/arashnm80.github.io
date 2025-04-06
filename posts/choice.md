@@ -2,3 +2,4 @@
 - uncertaincy
 - probability
 - gamble
+- sacrifice

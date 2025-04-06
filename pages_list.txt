@@ -15,4 +15,5 @@ what-did-you-get-done-this-week.html
 no-time-for-caution.html
 lose.html
 gall-law.html
+every-idea-is-taken.html
 system-1-and-2.html
