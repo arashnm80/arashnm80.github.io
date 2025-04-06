@@ -17,12 +17,12 @@ def convert_md_to_html(md_content, title):
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-C32LDMX65L"></script>
     <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+    function gtag(){{dataLayer.push(arguments);}}
     gtag('js', new Date());
 
     gtag('config', 'G-C32LDMX65L');
     </script>
-    
+
 </head>
 <body>
     {html_content}
