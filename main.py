@@ -52,6 +52,8 @@ def generate_blog(input_folder='posts', output_folder='public'):
                 for tag in ['p', 'a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']:
                     html_content = html_content.replace(f'<{tag}>', f'<{tag} dir="auto">')
                     html_content = html_content.replace(f'<{tag} ', f'<{tag} dir="auto" ')
+                # put google analytics in the head
+                html_content = html_content.replace("{{{google_anylitics}}}", google_anylitics)
             output_file = os.path.join(output_folder, filename.replace('.md', '.html'))
             with open(output_file, 'w', encoding='utf-8') as f:
                 f.write(html_content)
