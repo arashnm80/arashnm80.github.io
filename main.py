@@ -3,6 +3,19 @@ import markdown
 import shutil
 import re
 
+google_anylitics = \
+'''
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C32LDMX65L"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){{dataLayer.push(arguments);}}
+gtag('js', new Date());
+
+gtag('config', 'G-C32LDMX65L');
+</script>
+'''
+
 def convert_md_to_html(md_content, title):
     html_content = markdown.markdown(md_content)
     template = f"""<!DOCTYPE html>
@@ -12,23 +25,15 @@ def convert_md_to_html(md_content, title):
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
     <title>{title}</title>
     <link rel="stylesheet" href="styles.css">
-
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-C32LDMX65L"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){{dataLayer.push(arguments);}}
-    gtag('js', new Date());
-
-    gtag('config', 'G-C32LDMX65L');
-    </script>
-
+    {{{{google_anylitics}}}}
 </head>
 <body>
     {html_content}
 </body>
 </html>"""
+    print(template)
     return template
+
 
 def generate_blog(input_folder='posts', output_folder='public'):
     # Recreate the folder
