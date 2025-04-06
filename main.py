@@ -25,7 +25,7 @@ def convert_md_to_html(md_content, title):
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
     <title>{title}</title>
     <link rel="stylesheet" href="styles.css">
-    {{{{google_anylitics}}}}
+    {{{{{{google_anylitics}}}}}}
 </head>
 <body>
     {html_content}
