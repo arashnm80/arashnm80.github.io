@@ -8,11 +8,11 @@ google_anylitics = \
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-C32LDMX65L"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){{dataLayer.push(arguments);}}
-    gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){{dataLayer.push(arguments);}}
+        gtag('js', new Date());
 
-    gtag('config', 'G-C32LDMX65L');
+        gtag('config', 'G-C32LDMX65L');
     </script>
 '''
 
@@ -31,7 +31,6 @@ def convert_md_to_html(md_content, title):
     {html_content}
 </body>
 </html>"""
-    print(template)
     return template
 
 
