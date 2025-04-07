@@ -6,6 +6,7 @@ go-for-the-head.html
 index.html
 c'est-ma-vie.html
 i-refuse-to-die-like-this.html
+unstoppable.html
 lesswrong.html
 character.html
 play-to-win-or-don't-play-at-all.html
