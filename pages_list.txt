@@ -1,5 +1,6 @@
 problem.html
 daniel-kahneman.html
+week-1254.html
 justification-for-losing.html
 week-1253.html
 go-for-the-head.html
