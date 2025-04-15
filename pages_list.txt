@@ -18,4 +18,5 @@ no-time-for-caution.html
 system-1-and-2.html
 every-idea-is-taken.html
 justification-for-losing.html
+sacrifice.html
 week-1253.html

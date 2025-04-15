@@ -3,4 +3,4 @@
 - probability
 - gamble
 - sacrifice
-- go for the [head](./go-for-the-head)
+- the right choice is always the [hardest](./go-for-the-head) one.
