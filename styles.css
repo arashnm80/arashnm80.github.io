@@ -63,4 +63,5 @@ button:hover {
 
 * {
     font-family: 'Vazirmatn RD';
+    border-radius: 5px;
 }
