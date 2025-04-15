@@ -47,6 +47,7 @@ img {
     max-width: 100%;  /* Ensures image doesn't exceed parent width */
     height: auto;     /* Maintains aspect ratio */
     object-fit: contain; /* Ensures image fits inside without cropping */
+    display: block; /* Ensures no extra space below the image */
   }
 
 button {
