@@ -17,6 +17,7 @@ index.html
 c'est-ma-vie.html
 no-time-for-caution.html
 system-1-and-2.html
+week-1255.html
 every-idea-is-taken.html
 justification-for-losing.html
 sacrifice.html
