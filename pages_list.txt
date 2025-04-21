@@ -3,6 +3,7 @@ problem.html
 character.html
 lose.html
 go-for-the-head.html
+idea-knowledge-action.html
 gall-law.html
 daniel-kahneman.html
 what-did-you-get-done-this-week.html
