@@ -2,5 +2,6 @@
 - uncertaincy
 - probability
 - gamble
+- risk
 - sacrifice
-- the right choice is always the [hardest](./go-for-the-head) one.
+> right choice is the [hardest](./go-for-the-head) one.

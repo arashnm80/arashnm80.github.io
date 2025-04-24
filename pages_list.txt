@@ -11,6 +11,7 @@ what-did-you-get-done-this-week.html
 i-refuse-to-die-like-this.html
 action.html
 play-to-win-or-don't-play-at-all.html
+uncertainty.html
 unstoppable.html
 priority.html
 choice.html
@@ -22,7 +23,6 @@ pain.html
 index.html
 c'est-ma-vie.html
 no-time-for-caution.html
-randomness.html
 system-1-and-2.html
 week-1255.html
 darwin.html
