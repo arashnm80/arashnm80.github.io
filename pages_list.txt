@@ -1,5 +1,6 @@
 week-1254.html
 problem.html
+dice.html
 character.html
 lose.html
 flame.html
@@ -14,6 +15,7 @@ play-to-win-or-don't-play-at-all.html
 unstoppable.html
 priority.html
 choice.html
+fight.html
 lesswrong.html
 week-1256.html
 beast.html
@@ -23,6 +25,7 @@ c'est-ma-vie.html
 no-time-for-caution.html
 system-1-and-2.html
 week-1255.html
+darwin.html
 askeladd.html
 every-idea-is-taken.html
 justification-for-losing.html
