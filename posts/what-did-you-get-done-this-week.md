@@ -10,3 +10,5 @@ how many eurika moments did you have this week?
 how many new skills did you unlock this week?
 how many times did you face your fears this week?
 what didn't you get done this week?
+what things did you pay attention to this week?
+how much did you listen to your body this week?
