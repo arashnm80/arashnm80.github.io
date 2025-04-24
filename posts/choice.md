@@ -4,5 +4,6 @@
 - gamble
 - risk
 - sacrifice
+- priority
 
-> right choice is the [hardest](./go-for-the-head) one.
+> right choice is the hardest one.

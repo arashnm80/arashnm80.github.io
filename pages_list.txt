@@ -5,10 +5,12 @@ lose.html
 flame.html
 go-for-the-head.html
 idea-knowledge-action.html
+experience.html
 gall-law.html
 daniel-kahneman.html
 what-did-you-get-done-this-week.html
 i-refuse-to-die-like-this.html
+learn.html
 action.html
 play-to-win-or-don't-play-at-all.html
 uncertainty.html
