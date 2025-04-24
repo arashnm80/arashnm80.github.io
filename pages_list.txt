@@ -14,6 +14,7 @@ unstoppable.html
 priority.html
 choice.html
 lesswrong.html
+week-1256.html
 beast.html
 index.html
 c'est-ma-vie.html
