@@ -2,6 +2,7 @@ week-1254.html
 problem.html
 character.html
 lose.html
+flame.html
 go-for-the-head.html
 idea-knowledge-action.html
 gall-law.html
@@ -16,6 +17,7 @@ choice.html
 lesswrong.html
 week-1256.html
 beast.html
+pain.html
 index.html
 c'est-ma-vie.html
 no-time-for-caution.html
