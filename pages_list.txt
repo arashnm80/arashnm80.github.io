@@ -1,6 +1,5 @@
 week-1254.html
 problem.html
-dice.html
 character.html
 lose.html
 flame.html
@@ -23,6 +22,7 @@ pain.html
 index.html
 c'est-ma-vie.html
 no-time-for-caution.html
+randomness.html
 system-1-and-2.html
 week-1255.html
 darwin.html
