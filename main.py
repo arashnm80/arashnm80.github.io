@@ -17,7 +17,9 @@ google_anylitics = \
 '''
 
 def convert_md_to_html(md_content, title):
-    html_content = markdown2.markdown(md_content, extras=["break-on-newline"])
+    # html_content = markdown2.markdown(md_content, extras=["break-on-newline"])
+    html_content = markdown2.markdown(md_content, extras=["break-on-newline",
+                                                          "fenced-code-blocks"])
     template = f"""<!DOCTYPE html>
 <html lang='en'>
 <head>
