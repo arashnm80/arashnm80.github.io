@@ -25,6 +25,7 @@ beast.html
 pain.html
 index.html
 c'est-ma-vie.html
+week-1257.html
 no-time-for-caution.html
 system-1-and-2.html
 week-1255.html
