@@ -1,2 +1,3 @@
+# beast
 how to become a beast?
-start every day with the most brutal task you can find.
+start every day with the most brutal task on the list.
