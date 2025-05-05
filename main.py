@@ -49,47 +49,20 @@ def generate_blog(input_folder='posts', output_folder='public'):
                 md_content = f.read()
                 title = filename.replace('.md', '').replace('-', ' ')
 
-                # First convert raw URLs to markdown links (so markdown2 will handle them)
-                # This matches URLs not already in markdown link format
-                url_pattern = r'(?<!\]\()(https?://[^\s<>"]+|www\.[^\s<>"]+)'
-                md_content = re.sub(url_pattern, r'[\1](\1)', md_content)
-                
-                # Now convert to HTML (markdown2 will handle both types correctly)
+                # First convert to HTML (let markdown2 handle markdown links)
                 html_content = convert_md_to_html(md_content, title)
                 
-                # # Add target="_blank" to all links
-                # html_content = html_content.replace('<a href="', '<a target="_blank" href="')
-
-
-
-                # html_content = convert_md_to_html(md_content, title)
-
+                # Now convert only raw URLs that aren't already in <a> tags
+                def convert_raw_urls(html):
+                    # Pattern to match URLs not inside <a> tags
+                    url_pattern = r'(?<!<a\s[^>]*href=["\'])(?<!\[)(https?://[^\s<>"]+|www\.[^\s<>"]+)(?!["\']\s*>)'
+                    return re.sub(
+                        url_pattern,
+                        lambda m: f'<a href="{m.group(0)}" target="_blank">{m.group(0)}</a>',
+                        html
+                    )
                 
-
-                # # URL regex pattern
-                # url_pattern = r'(https?://[^\s<>"]+|www\.[^\s<>"]+)'
-                # # Replace URLs with hyperlinks
-                # html_content = re.sub(url_pattern, r'<a href="\1" target="_blank">\1</a>', html_content)
-                
-                # # URL regex pattern that only matches URLs not already in <a> tags
-                # url_pattern = r'(?<!href=")(https?://[^\s<>"]+|www\.[^\s<>"]+)'
-                # # Replace URLs with hyperlinks
-                # html_content = re.sub(url_pattern, r'<a href="\1" target="_blank">\1</a>', html_content)
-
-                # # URL pattern that matches raw URLs but skips URLs inside <a> tags
-                # url_pattern = r'(?<!["\'])(https?://[^\s<>"]+|www\.[^\s<>"]+)(?!["\'])'
-                
-                # # Replacement function that checks context
-                # def url_replacer(match):
-                #     url = match.group(0)
-                #     # Get the surrounding 50 characters for context check
-                #     context = html_content[max(0, match.start()-50):match.end()+50]
-                #     # Don't replace if URL is already in an href
-                #     if 'href="' + url in context or "href='" + url in context:
-                #         return url
-                #     return f'<a href="{url}" target="_blank">{url}</a>'
-                
-                # html_content = re.sub(url_pattern, url_replacer, html_content)
+                html_content = convert_raw_urls(html_content)
 
                 
                 # Add dir="auto" to relevant tags
