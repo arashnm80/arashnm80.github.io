@@ -17,6 +17,10 @@ google_anylitics = \
 '''
 
 def convert_md_to_html(md_content, title):
+    # Convertir les URLs nues en liens cliquables avant de passer par markdown2
+    url_pattern = r'(https?://[^\s<>"]+|www\.[^\s<>"]+)'
+    md_content = re.sub(url_pattern, r'<\1>', md_content)
+    
     html_content = markdown2.markdown(md_content, extras=[
         "fenced-code-blocks",
         "break-on-newline",
@@ -55,10 +59,10 @@ def generate_blog(input_folder='posts', output_folder='public'):
                 # # Replace URLs with hyperlinks
                 # html_content = re.sub(url_pattern, r'<a href="\1" target="_blank">\1</a>', html_content)
                 
-                # URL regex pattern that only matches URLs not already in <a> tags
-                url_pattern = r'(?<!href=")(https?://[^\s<>"]+|www\.[^\s<>"]+)'
-                # Replace URLs with hyperlinks
-                html_content = re.sub(url_pattern, r'<a href="\1" target="_blank">\1</a>', html_content)
+                # # URL regex pattern that only matches URLs not already in <a> tags
+                # url_pattern = r'(?<!href=")(https?://[^\s<>"]+|www\.[^\s<>"]+)'
+                # # Replace URLs with hyperlinks
+                # html_content = re.sub(url_pattern, r'<a href="\1" target="_blank">\1</a>', html_content)
                 
                 # Add dir="auto" to relevant tags
                 for tag in ['p', 'a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']:
