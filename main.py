@@ -60,16 +60,20 @@ def generate_blog(input_folder='posts', output_folder='public'):
                 # # Replace URLs with hyperlinks
                 # html_content = re.sub(url_pattern, r'<a href="\1" target="_blank">\1</a>', html_content)
 
-                # Improved URL replacement that won't touch existing <a> tags
-                def replace_url(match):
+                # URL pattern that matches raw URLs but skips URLs inside <a> tags
+                url_pattern = r'(?<!["\'])(https?://[^\s<>"]+|www\.[^\s<>"]+)(?!["\'])'
+                
+                # Replacement function that checks context
+                def url_replacer(match):
                     url = match.group(0)
-                    # Skip if this URL is already inside an href attribute
-                    if re.search(r'<a\s[^>]*href=["\'][^"\']*' + re.escape(url), html_content):
+                    # Get the surrounding 50 characters for context check
+                    context = html_content[max(0, match.start()-50):match.end()+50]
+                    # Don't replace if URL is already in an href
+                    if 'href="' + url in context or "href='" + url in context:
                         return url
                     return f'<a href="{url}" target="_blank">{url}</a>'
                 
-                url_pattern = r'(https?://[^\s<>"]+|www\.[^\s<>"]+)'
-                html_content = re.sub(url_pattern, replace_url, html_content)
+                html_content = re.sub(url_pattern, url_replacer, html_content)
 
                 
                 # Add dir="auto" to relevant tags
