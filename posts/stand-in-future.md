@@ -10,3 +10,5 @@ i think i should ask myself what kind of products i can start building today and
 the point is to be the *first mover* at some possible futures.
 
 link: https://www.youtube.com/watch?v=477qF6QNSvc
+
+youtube [link](https://www.youtube.com/watch?v=477qF6QNSvc)
