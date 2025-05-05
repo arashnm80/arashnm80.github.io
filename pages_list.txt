@@ -1,4 +1,5 @@
 week-1254.html
+first-impression.html
 problem.html
 character.html
 lose.html
@@ -28,9 +29,11 @@ c'est-ma-vie.html
 week-1257.html
 no-time-for-caution.html
 system-1-and-2.html
+stand-in-future.html
 week-1255.html
 darwin.html
 nothing-can-waste-my-time.html
+opportunity.html
 askeladd.html
 every-idea-is-taken.html
 justification-for-losing.html
