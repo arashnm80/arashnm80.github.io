@@ -8,3 +8,5 @@ the same applies to unreal engine. [tim sweeney](https://www.youtube.com/watch?v
 i think i should ask myself what kind of products i can start building today and finish/publish later at some point when the world is ready? instead of chasing trends, i should ask myself where can i stand that a trend comes to me at some point?
 
 the point is to be the *first mover* at some possible futures.
+
+link: https://www.youtube.com/watch?v=477qF6QNSvc
