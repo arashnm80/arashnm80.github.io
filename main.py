@@ -48,7 +48,23 @@ def generate_blog(input_folder='posts', output_folder='public'):
             with open(os.path.join(input_folder, filename), 'r', encoding='utf-8') as f:
                 md_content = f.read()
                 title = filename.replace('.md', '').replace('-', ' ')
+
+                # First convert raw URLs to markdown links (so markdown2 will handle them)
+                # This matches URLs not already in markdown link format
+                url_pattern = r'(?<!\]\()(https?://[^\s<>"]+|www\.[^\s<>"]+)'
+                md_content = re.sub(url_pattern, r'[\1](\1)', md_content)
+                
+                # Now convert to HTML (markdown2 will handle both types correctly)
                 html_content = convert_md_to_html(md_content, title)
+                
+                # # Add target="_blank" to all links
+                # html_content = html_content.replace('<a href="', '<a target="_blank" href="')
+
+
+
+                # html_content = convert_md_to_html(md_content, title)
+
+                
 
                 # # URL regex pattern
                 # url_pattern = r'(https?://[^\s<>"]+|www\.[^\s<>"]+)'
@@ -60,20 +76,20 @@ def generate_blog(input_folder='posts', output_folder='public'):
                 # # Replace URLs with hyperlinks
                 # html_content = re.sub(url_pattern, r'<a href="\1" target="_blank">\1</a>', html_content)
 
-                # URL pattern that matches raw URLs but skips URLs inside <a> tags
-                url_pattern = r'(?<!["\'])(https?://[^\s<>"]+|www\.[^\s<>"]+)(?!["\'])'
+                # # URL pattern that matches raw URLs but skips URLs inside <a> tags
+                # url_pattern = r'(?<!["\'])(https?://[^\s<>"]+|www\.[^\s<>"]+)(?!["\'])'
                 
-                # Replacement function that checks context
-                def url_replacer(match):
-                    url = match.group(0)
-                    # Get the surrounding 50 characters for context check
-                    context = html_content[max(0, match.start()-50):match.end()+50]
-                    # Don't replace if URL is already in an href
-                    if 'href="' + url in context or "href='" + url in context:
-                        return url
-                    return f'<a href="{url}" target="_blank">{url}</a>'
+                # # Replacement function that checks context
+                # def url_replacer(match):
+                #     url = match.group(0)
+                #     # Get the surrounding 50 characters for context check
+                #     context = html_content[max(0, match.start()-50):match.end()+50]
+                #     # Don't replace if URL is already in an href
+                #     if 'href="' + url in context or "href='" + url in context:
+                #         return url
+                #     return f'<a href="{url}" target="_blank">{url}</a>'
                 
-                html_content = re.sub(url_pattern, url_replacer, html_content)
+                # html_content = re.sub(url_pattern, url_replacer, html_content)
 
                 
                 # Add dir="auto" to relevant tags
