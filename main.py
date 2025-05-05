@@ -54,13 +54,28 @@ def generate_blog(input_folder='posts', output_folder='public'):
                 
                 # Now convert only raw URLs that aren't already in <a> tags
                 def convert_raw_urls(html):
-                    # Pattern to match URLs not inside <a> tags
-                    url_pattern = r'(?<!<a\s[^>]*href=["\'])(?<!\[)(https?://[^\s<>"]+|www\.[^\s<>"]+)(?!["\']\s*>)'
-                    return re.sub(
-                        url_pattern,
-                        lambda m: f'<a href="{m.group(0)}" target="_blank">{m.group(0)}</a>',
-                        html
-                    )
+                    # Split HTML into parts that are inside <a> tags and parts that aren't
+                    parts = []
+                    last_end = 0
+                    for match in re.finditer(r'<a\b[^>]*>.*?</a>', html, re.DOTALL):
+                        # Add text before the <a> tag
+                        parts.append(html[last_end:match.start()])
+                        # Add the <a> tag itself (unchanged)
+                        parts.append(match.group(0))
+                        last_end = match.end()
+                    # Add remaining text after last <a> tag
+                    parts.append(html[last_end:])
+                    
+                    # Only convert URLs in non-<a> parts
+                    url_pattern = r'(https?://[^\s<>"]+|www\.[^\s<>"]+)'
+                    for i in range(len(parts)):
+                        if not parts[i].startswith('<a'):
+                            parts[i] = re.sub(
+                                url_pattern,
+                                lambda m: f'<a href="{m.group(0)}" target="_blank">{m.group(0)}</a>',
+                                parts[i]
+                            )
+                    return ''.join(parts)
                 
                 html_content = convert_raw_urls(html_content)
 
