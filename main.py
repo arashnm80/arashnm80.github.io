@@ -31,7 +31,7 @@ def convert_md_to_html(md_content, title):
 
     # Extraire la première image <img src="...">
     match_img = re.search(r'<img[^>]+src="([^">]+)"', html_content)
-    image_url = match_img.group(1) if match_img else '../assets/arashnm80.png'
+    image_url = match_img.group(1) if match_img else '../assets/arashnm80.jpg'
 
     template = f"""<!DOCTYPE html>
 <html lang='en'>
