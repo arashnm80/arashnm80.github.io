@@ -41,6 +41,7 @@ def convert_md_to_html(md_content, title):
     <title>{title}</title>
     
     <!-- seo -->
+    <meta property="og:site_name" content="Arash Nemat Zadeh">
     <meta property="og:title" content="{title}">
     <meta property="og:image" content="{image_url}">
     <meta name="twitter:title" content="{title}">
