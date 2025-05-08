@@ -17,6 +17,10 @@ google_anylitics = \
 '''
 
 def convert_md_to_html(md_content, title):
+    # Trouver le premier H1 Markdown
+    match = re.search(r'^# (.+)', md_content, re.MULTILINE)
+    title = match.group(1).strip() if match else title
+
     html_content = markdown2.markdown(md_content, extras=[
         "fenced-code-blocks",
         "break-on-newline",
@@ -24,12 +28,36 @@ def convert_md_to_html(md_content, title):
         "strike",
         "header-ids"
     ])
+    
+    # Extraire la première description depuis <p>
+    match_desc = re.search(r'<p>(.*?)</p>', html_content, re.DOTALL)
+    description = match_desc.group(1).strip() if match_desc else ''
+
+    # Nettoyage basique de la description pour éviter les balises HTML
+    description = re.sub(r'<.*?>', '', description)
+    description = description.replace('\n', ' ').strip()
+    if len(description) > 160:
+        description = description[:157] + "..."
+
+    # Extraire la première image <img src="...">
+    match_img = re.search(r'<img[^>]+src="([^">]+)"', html_content)
+    image_url = match_img.group(1) if match_img else ''
+
     template = f"""<!DOCTYPE html>
 <html lang='en'>
 <head>
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
     <title>{title}</title>
+    
+    <!-- seo -->
+    <meta property="og:title" content="{title}">
+    <meta property="og:description" content="{description}">
+    <meta property="og:image" content="{image_url}">
+    <meta name="twitter:title" content="{title}">
+    <meta name="twitter:description" content="{description}">
+    <meta name="twitter:image" content="{image_url}">
+
     <link rel="stylesheet" href="styles.css">
     {{{{{{google_anylitics}}}}}}
 </head>
