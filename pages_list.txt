@@ -8,6 +8,7 @@ go-for-the-head.html
 idea-knowledge-action.html
 experience.html
 gall-law.html
+week-1258.html
 daniel-kahneman.html
 dauntless-shield.html
 what-did-you-get-done-this-week.html
