@@ -85,15 +85,15 @@ def generate_blog(input_folder='posts', output_folder='public'):
                 next_link = ""
 
                 if i > 0:
-                    prev_file = md_files[i - 1].replace('.md', '.html')
-                    prev_link = f'<a href="{prev_file}" class="nav-button">← Semaine précédente</a>'
+                    prev_file = md_files[i - 1].replace('.md', '')
+                    prev_link = f'<a href="{prev_file}">← previous week</a>'
 
                 if i < len(md_files) - 1:
-                    next_file = md_files[i + 1].replace('.md', '.html')
-                    next_link = f'<a href="{next_file}" class="nav-button">Semaine suivante →</a>'
+                    next_file = md_files[i + 1].replace('.md', '')
+                    next_link = f'<a href="{next_file}">next week →</a>'
 
                 nav_html = f'''
-                <div class="week-nav" style="margin-top: 2em; display: flex; justify-content: space-between;">
+                <div style="display: flex; justify-content: space-between;">
                     <div>{prev_link}</div>
                     <div>{next_link}</div>
                 </div>
