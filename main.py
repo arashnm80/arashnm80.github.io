@@ -90,7 +90,7 @@ def generate_blog(input_folder='posts', output_folder='public'):
 
                 if i < len(md_files) - 1:
                     next_file = md_files[i + 1].replace('.md', '')
-                    next_link = f'<button onclick="window.location.href="/{next_file}">next week →</button>'
+                    next_link = f'<button onclick="window.location.href=\'{next_file}\'">next week →</button>'
                     
 
                 nav_html = f'''
