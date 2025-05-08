@@ -41,55 +41,74 @@ def convert_md_to_html(md_content, title):
 
 
 def generate_blog(input_folder='posts', output_folder='public'):
-    # Recreate the folder
     os.makedirs(output_folder, exist_ok=True)
-    for filename in os.listdir(input_folder):
-        if filename.endswith('.md'):
-            with open(os.path.join(input_folder, filename), 'r', encoding='utf-8') as f:
-                md_content = f.read()
-                title = filename.replace('.md', '').replace('-', ' ')
 
-                # First convert to HTML (let markdown2 handle markdown links)
-                html_content = convert_md_to_html(md_content, title)
-                
-                # Now convert only raw URLs that aren't already in <a> tags
-                def convert_raw_urls(html):
-                    # Split HTML into parts that are inside <a> tags and parts that aren't
-                    parts = []
-                    last_end = 0
-                    for match in re.finditer(r'<a\b[^>]*>.*?</a>', html, re.DOTALL):
-                        # Add text before the <a> tag
-                        parts.append(html[last_end:match.start()])
-                        # Add the <a> tag itself (unchanged)
-                        parts.append(match.group(0))
-                        last_end = match.end()
-                    # Add remaining text after last <a> tag
-                    parts.append(html[last_end:])
-                    
-                    # Only convert URLs in non-<a> parts
-                    url_pattern = r'(https?://[^\s<>"]+|www\.[^\s<>"]+)'
-                    for i in range(len(parts)):
-                        if not parts[i].startswith('<a'):
-                            parts[i] = re.sub(
-                                url_pattern,
-                                lambda m: f'<a href="{m.group(0)}" target="_blank">{m.group(0)}</a>',
-                                parts[i]
-                            )
-                    return ''.join(parts)
-                
-                html_content = convert_raw_urls(html_content)
+    # Liste des fichiers .md uniquement
+    md_files = [f for f in os.listdir(input_folder) if f.endswith('.md')]
+    md_files.sort()  # Assure un ordre croissant (week-1254 -> week-1258)
 
-                
-                # Add dir="auto" to relevant tags
-                for tag in ['p', 'a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']:
-                    html_content = html_content.replace(f'<{tag}>', f'<{tag} dir="auto">')
-                    html_content = html_content.replace(f'<{tag} ', f'<{tag} dir="auto" ')
-                # put google analytics in the head
-                html_content = html_content.replace("{{{google_anylitics}}}", google_anylitics)
+    for i, filename in enumerate(md_files):
+        with open(os.path.join(input_folder, filename), 'r', encoding='utf-8') as f:
+            md_content = f.read()
+            title = filename.replace('.md', '').replace('-', ' ')
+            html_content = convert_md_to_html(md_content, title)
+
+            # Conversion des URL brutes
+            def convert_raw_urls(html):
+                parts = []
+                last_end = 0
+                for match in re.finditer(r'<a\b[^>]*>.*?</a>', html, re.DOTALL):
+                    parts.append(html[last_end:match.start()])
+                    parts.append(match.group(0))
+                    last_end = match.end()
+                parts.append(html[last_end:])
+                url_pattern = r'(https?://[^\s<>"]+|www\.[^\s<>"]+)'
+                for j in range(len(parts)):
+                    if not parts[j].startswith('<a'):
+                        parts[j] = re.sub(
+                            url_pattern,
+                            lambda m: f'<a href="{m.group(0)}" target="_blank">{m.group(0)}</a>',
+                            parts[j]
+                        )
+                return ''.join(parts)
+
+            html_content = convert_raw_urls(html_content)
+
+            # Ajout de dir="auto"
+            for tag in ['p', 'a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']:
+                html_content = html_content.replace(f'<{tag}>', f'<{tag} dir="auto">')
+                html_content = html_content.replace(f'<{tag} ', f'<{tag} dir="auto" ')
+
+            # Lien précédent/suivant pour les semaines
+            if input_folder == "weeks":
+                prev_link = ""
+                next_link = ""
+
+                if i > 0:
+                    prev_file = md_files[i - 1].replace('.md', '.html')
+                    prev_link = f'<a href="{prev_file}" class="nav-button">← Semaine précédente</a>'
+
+                if i < len(md_files) - 1:
+                    next_file = md_files[i + 1].replace('.md', '.html')
+                    next_link = f'<a href="{next_file}" class="nav-button">Semaine suivante →</a>'
+
+                nav_html = f'''
+                <div class="week-nav" style="margin-top: 2em; display: flex; justify-content: space-between;">
+                    <div>{prev_link}</div>
+                    <div>{next_link}</div>
+                </div>
+                '''
+                html_content = html_content.replace('</body>', f'{nav_html}\n</body>')
+
+            # Intégrer Google Analytics
+            html_content = html_content.replace("{{{google_anylitics}}}", google_anylitics)
+
+            # Sauvegarde du fichier
             output_file = os.path.join(output_folder, filename.replace('.md', '.html'))
             with open(output_file, 'w', encoding='utf-8') as f:
                 f.write(html_content)
-    print(f'Generated {len(os.listdir(output_folder))} HTML files.')
+
+    print(f'Generated {len(md_files)} HTML files from {input_folder}.')
 
 def generate_pages_list(output_file="pages_list.txt"):
     # Specify the folder path
