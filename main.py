@@ -86,7 +86,7 @@ def generate_blog(input_folder='posts', output_folder='public'):
 
                 if i > 0:
                     prev_file = md_files[i - 1].replace('.md', '')
-                    prev_link = f'<a href="{prev_file}">← previous week</a>'
+                    prev_link = f'<button onclick="window.location.href=\'{prev_file}\'">next week →</button>'
 
                 if i < len(md_files) - 1:
                     next_file = md_files[i + 1].replace('.md', '')
