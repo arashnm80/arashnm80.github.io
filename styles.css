@@ -44,7 +44,7 @@ code {
     font-family: monospace;
 }
 
-img {
+img, iframe[src*="youtube.com"] {
     max-width: 100%;
     /* Ensures image doesn't exceed parent width */
     height: auto;
