@@ -1,0 +1,1 @@
+“There's an old joke - um... two elderly women are at a Catskill mountain resort, and one of 'em says, "Boy, the food at this place is really terrible." The other one says, "Yeah, I know; and such small portions." Well, that's essentially how I feel about life - full of loneliness, and misery, and suffering, and unhappiness, and it's all over much too quickly.” 

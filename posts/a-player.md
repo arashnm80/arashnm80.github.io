@@ -7,6 +7,7 @@ likes new challenges.
 disagrees and commits.
 has agency. works on the problems he's seeing even if he's not told to.
 doesn't care if is in majority or minority. tells his true opinions.
+only an a-player can lead a-players.
 
 ## steve jobs
 <iframe src="https://www.youtube.com/embed/wTgQ2PBiz-g?si=QVyeJ2oADd3sc9tL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
