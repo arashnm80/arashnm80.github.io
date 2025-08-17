@@ -11,3 +11,5 @@ maybe sth similar to what ryan trahan did. he just walked down the streets and e
 similarly i just need to constantly exchange one thing with a another (better???) thing. night time with sleep, sleep with morning time, morning time with running in park, running in park with hunger, hunger with food, food with dopamine, dopamine with code, code with money, money with time, and so on...
 
 i just need to make good micro decisions. maybe after enough iterations, they end up big creations.
+
+another one is about ai destroying jobs. many people will lose their jobs and that's inevitable. another microprinciple can be to just **gain a skill others don't have**. know more languages than others, gain better social skills than others, have a healthier body than others and so on ... in the long term if anybody is going to be replaced you would be the last one.

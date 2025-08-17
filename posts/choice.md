@@ -6,7 +6,7 @@ each choice comes with **uncertainty**. we are never sure about consequences of 
 
 our **resources** are our **wealth** (time/health/money/people/kowledge/feelings/impressions/skills/qualities/...) and every choice is an **exchange** and trade-off between them. we get wealthier by **arbitrage** (ryan trahan). some of the resources are limited and irreplaceable, they need to be spend wisely. some are infinte or can be used forever (though overusing them can cause their value to drop). some can be leveraged.
 
-the **right choice** is always the hardest one, even when it's not. when we choose the hardest, we **prove to ourselves** that we are able to choose anything else too. **overcorrection** frees us from our doubts. the man that has been far-left and far-right, can stand anywhere he wants.
+the **right choice** is always the hardest one, even when it's not. when we choose the hardest, we **prove to ourselves** that we are able to choose anything else too. **overcorrection** frees us from our doubts. the man that has been far-left and far-right, can stand anywhere he wants. right choice is the one you would've made if you have **time traveled** to this point from the future.
 
 we can only see the consequences of the paths we have taken. most of the others remain **uknown** to us. life can only be understood backwards, but it must be lived forwards.
 

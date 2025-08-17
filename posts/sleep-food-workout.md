@@ -1,0 +1,2 @@
+# sleep, food, workout
+i think setting a healthy routine for these is the highest priority that should be taken care of before anything else. without them it would be like driving a car while you're drunk. you won't know how to drive or where to drive and you'll end up smashing yourself or others in an accident. my body needs detox. my mind needs clarity and dopamine. and those three are the foundation of it. they enable us to walk toward the next steps.

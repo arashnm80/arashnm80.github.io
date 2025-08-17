@@ -1,0 +1,2 @@
+# hidden progress
+it's like sovling programming contest question. even if you've fixed 99 bugs out of 100, it won't work. or digging a well to reach water 20 meters deep, even if you've gone 19 meters you'll gain nothing. it takes 10 years to become an overnight success.
