@@ -22,6 +22,6 @@ in these games when you want to compare players with each other, you look at the
 
 so back to my definition of perfection. the problem in our lives is that we tend to forget this big picture. we get obsessed with one side of our life's hexagon and lose the other sides. we aim for perfection in limited box of one aspect (university, relationships, money, work, health, ...) and make ourselves miserable. then blame the notion of perfectionism, while true perfectionsim has been to think out of the box of a single aspect in the first place.
 
-these boxes and hexagons happen to exist in every sub-aspect of our lives too. i see it as a fractal. for example programming has its hexagon of frontend, backend, algorithm, ... it's a notion or a point of view to look at any goal.
+these boxes and hexagons happen to exist in every sub-aspect of our lives too. i see it as a fractal. for example programming has its hexagon of frontend, backend, algorithm, ... in linguistics we have grammar, listening, speaking, ... in relationships we have our partner, family, frineds, ... and so on.
 
 **i beileve that the healthiest attitude is to apply the perfectionism eaqually to all aspects of our life as a whole. it would mean to satisfy in each aspect after a certain good-enough point and sacrifice rest of it to be able to go for the others.**
