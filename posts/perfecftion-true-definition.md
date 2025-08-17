@@ -1,5 +1,6 @@
 # true definition of perfection
-![pes hexagon](https://camo.githubusercontent.com/cfaa1a2c6df4cbfe1741b3fe7565705110bc2dc65699114fe3f5f33b34416fc2/68747470733a2f2f6934362e73657276696d672e636f6d2f752f6634362f31362f37362f39372f32312f706573365f3234332e6a7067)
+
+![pes-hexagon](../assets/pes-hexagon.jpg)
 
 i see lots of people that complain about perfectionism these days. i hear a lot that it's a toxic mindset and how being a perfectionist is making us miserable. my friends say it's preventing them from enjoying their lives. ()
 
