@@ -57,12 +57,75 @@ def convert_md_to_html(md_content, title):
     return template
 
 
+def read_markdown_files(input_folder):
+    """Read markdown files from the specified folder."""
+    md_files = [f for f in os.listdir(input_folder) if f.endswith('.md')]
+    md_files.sort()
+    return md_files
+
+
+def convert_raw_urls(html):
+    """Convert raw URLs in the HTML content to clickable links, ignoring those within iframe tags."""
+    parts = []
+    last_end = 0
+    # Regex to find iframe tags
+    iframe_pattern = re.compile(r'<iframe\b[^>]*>.*?</iframe>', re.DOTALL)
+    for match in re.finditer(r'<a\b[^>]*>.*?</a>|<iframe\b[^>]*>.*?</iframe>', html, re.DOTALL):
+        parts.append(html[last_end:match.start()])
+        parts.append(match.group(0))
+        last_end = match.end()
+    parts.append(html[last_end:])
+    url_pattern = r'(https?://[^\s<>"]+|www\.[^\s<>"]+)'
+    for j in range(len(parts)):
+        if not parts[j].startswith('<a') and not parts[j].startswith('<iframe'):
+            parts[j] = re.sub(
+                url_pattern,
+                lambda m: f'<a href="{m.group(0)}" target="_blank">{m.group(0)}</a>',
+                parts[j]
+            )
+    return ''.join(parts)
+
+
+def add_dir_auto(html_content):
+    """Add dir="auto" to specific HTML tags."""
+    for tag in ['p', 'a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']:
+        html_content = html_content.replace(f'<{tag}>', f'<{tag} dir="auto">')
+        html_content = html_content.replace(f'<{tag} ', f'<{tag} dir="auto" ')
+    return html_content
+
+
+def add_navigation_links(html_content, md_files, i):
+    """Add previous and next navigation links for weekly posts."""
+    prev_link = ""
+    next_link = ""
+
+    if i > 0:
+        prev_file = md_files[i - 1].replace('.md', '')
+        prev_link = f'<button onclick="window.location.href=\'{prev_file}\'">← previous</button>'
+
+    if i < len(md_files) - 1:
+        next_file = md_files[i + 1].replace('.md', '')
+        next_link = f'<button onclick="window.location.href=\'{next_file}\'">next →</button>'
+
+    nav_html = f'''
+    <div style="display: flex; justify-content: space-between;">
+        <div>{prev_link}</div>
+        <div>{next_link}</div>
+    </div>
+    '''
+    return html_content.replace('</body>', f'{nav_html}\n</body>')
+
+
+def save_html_file(output_folder, filename, html_content):
+    """Save the HTML content to a file."""
+    output_file = os.path.join(output_folder, filename.replace('.md', '.html'))
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write(html_content)
+
+
 def generate_blog(input_folder='posts', output_folder='public'):
     os.makedirs(output_folder, exist_ok=True)
-
-    # Liste des fichiers .md uniquement
-    md_files = [f for f in os.listdir(input_folder) if f.endswith('.md')]
-    md_files.sort()  # Assure un ordre croissant (week-1254 -> week-1258)
+    md_files = read_markdown_files(input_folder)
 
     for i, filename in enumerate(md_files):
         with open(os.path.join(input_folder, filename), 'r', encoding='utf-8') as f:
@@ -70,61 +133,15 @@ def generate_blog(input_folder='posts', output_folder='public'):
             title = filename.replace('.md', '').replace('-', ' ')
             html_content = convert_md_to_html(md_content, title)
 
-            # Conversion des URL brutes
-            def convert_raw_urls(html):
-                parts = []
-                last_end = 0
-                for match in re.finditer(r'<a\b[^>]*>.*?</a>', html, re.DOTALL):
-                    parts.append(html[last_end:match.start()])
-                    parts.append(match.group(0))
-                    last_end = match.end()
-                parts.append(html[last_end:])
-                url_pattern = r'(https?://[^\s<>"]+|www\.[^\s<>"]+)'
-                for j in range(len(parts)):
-                    if not parts[j].startswith('<a'):
-                        parts[j] = re.sub(
-                            url_pattern,
-                            lambda m: f'<a href="{m.group(0)}" target="_blank">{m.group(0)}</a>',
-                            parts[j]
-                        )
-                return ''.join(parts)
-
             html_content = convert_raw_urls(html_content)
+            html_content = add_dir_auto(html_content)
 
-            # Ajout de dir="auto"
-            for tag in ['p', 'a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']:
-                html_content = html_content.replace(f'<{tag}>', f'<{tag} dir="auto">')
-                html_content = html_content.replace(f'<{tag} ', f'<{tag} dir="auto" ')
-
-            # Lien précédent/suivant pour les semaines
             if input_folder == "weeks":
-                prev_link = ""
-                next_link = ""
+                html_content = add_navigation_links(html_content, md_files, i)
 
-                if i > 0:
-                    prev_file = md_files[i - 1].replace('.md', '')
-                    prev_link = f'<button onclick="window.location.href=\'{prev_file}\'">← previous week</button>'
-
-                if i < len(md_files) - 1:
-                    next_file = md_files[i + 1].replace('.md', '')
-                    next_link = f'<button onclick="window.location.href=\'{next_file}\'">next week →</button>'
-                    
-
-                nav_html = f'''
-                <div style="display: flex; justify-content: space-between;">
-                    <div>{prev_link}</div>
-                    <div>{next_link}</div>
-                </div>
-                '''
-                html_content = html_content.replace('</body>', f'{nav_html}\n</body>')
-
-            # Intégrer Google Analytics
             html_content = html_content.replace("{{{google_anylitics}}}", google_anylitics)
 
-            # Sauvegarde du fichier
-            output_file = os.path.join(output_folder, filename.replace('.md', '.html'))
-            with open(output_file, 'w', encoding='utf-8') as f:
-                f.write(html_content)
+            save_html_file(output_folder, filename, html_content)
 
     print(f'Generated {len(md_files)} HTML files from {input_folder}.')
 
@@ -151,6 +168,40 @@ def generate_pages_list(output_file="pages_list.txt"):
     
     print(f"Successfully saved {len(files)} file names to {output_file}")
 
+def generate_sitemap(pages_list_file="pages_list.txt", sitemap_file="sitemap.xml"):
+    """Generate a sitemap.xml file based on the pages listed in pages_list.txt."""
+    try:
+        with open(pages_list_file, "r") as f:
+            pages = f.readlines()
+    except FileNotFoundError:
+        print(f"Error: File '{pages_list_file}' not found.")
+        return
+
+    # Base URL for the sitemap
+    base_url = "https://www.arashnm80.com/"
+
+    # Start the XML structure
+    sitemap_content = """<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+"""
+
+    # Add each page to the sitemap
+    for page in pages:
+        page = page.strip()
+        # Remove .html extension
+        if page.endswith('.html'):
+            page = page[:-5]
+        sitemap_content += f"  <url>\n    <loc>{base_url}{page}</loc>\n  </url>\n"
+
+    # Close the XML structure
+    sitemap_content += "</urlset>"
+
+    # Write the sitemap to a file
+    with open(sitemap_file, "w") as f:
+        f.write(sitemap_content)
+
+    print(f"Sitemap generated and saved to {sitemap_file}.")
+
 if __name__ == '__main__':
     # Delete the output folder if it exists
     if os.path.exists('public'):
@@ -162,3 +213,6 @@ if __name__ == '__main__':
 
     # for shuffle
     generate_pages_list()
+
+    # Call the function to generate the sitemap
+    generate_sitemap()
