@@ -15,6 +15,7 @@ gall-law.html
 week-1258.html
 a-player.html
 daniel-kahneman.html
+zen.html
 choice-to-be-born.html
 dauntless-shield.html
 what-did-you-get-done-this-week.html
@@ -33,6 +34,7 @@ fight.html
 lesswrong.html
 micro-principle.html
 week-1256.html
+week-1278.html
 week-1277.html
 beast.html
 pain.html
