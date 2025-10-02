@@ -103,6 +103,14 @@ blockquote p {
     margin-bottom: 0;
 }
 
+p:has(+ blockquote) {
+    margin-bottom: 0.5em;
+}
+
+blockquote + p {
+    margin-top: 0.5em;
+}
+
 /* Inline code (`like this`) */
 code {
     background-color: #f5f5f5;
@@ -159,11 +167,3 @@ tr:hover {
     background: #f1f1f1;
 }
 
-/* Adjust paragraph margins near blockquotes */
-p:has(+ blockquote) {
-    margin-bottom: 0.5em;
-}
-
-blockquote + p {
-    margin-top: 0.5em;
-}
