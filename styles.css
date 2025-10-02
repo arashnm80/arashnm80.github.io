@@ -158,3 +158,12 @@ tr:nth-child(even) {
 tr:hover {
     background: #f1f1f1;
 }
+
+/* Adjust paragraph margins near blockquotes */
+p + blockquote {
+    margin-top: 0.5em;
+}
+
+blockquote + p {
+    margin-top: 0.5em;
+}
