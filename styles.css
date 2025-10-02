@@ -160,8 +160,8 @@ tr:hover {
 }
 
 /* Adjust paragraph margins near blockquotes */
-p + blockquote {
-    margin-top: 0.5em;
+p:has(+ blockquote) {
+    margin-bottom: 0.5em;
 }
 
 blockquote + p {
