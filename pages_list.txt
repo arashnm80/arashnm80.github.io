@@ -22,6 +22,7 @@ what-did-you-get-done-this-week.html
 i-refuse-to-die-like-this.html
 learn.html
 hidden-progress.html
+week-1280.html
 zoom-out.html
 sleep-food-workout.html
 action.html
