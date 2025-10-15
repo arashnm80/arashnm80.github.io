@@ -169,7 +169,6 @@ tr:hover {
 
 .anchor-link {
     position: absolute;
-    left: -28px;
     top: 50%;
     transform: translateY(-50%);
     opacity: 0.6;
@@ -184,5 +183,17 @@ h2, h3 {
 h2:hover .anchor-link,
 h3:hover .anchor-link {
     opacity: 1;
+}
+
+h2:dir(ltr) .anchor-link,
+h3:dir(ltr) .anchor-link {
+    left: -28px;
+    right: auto;
+}
+
+h2:dir(rtl) .anchor-link,
+h3:dir(rtl) .anchor-link {
+    right: -28px;
+    left: auto;
 }
 
