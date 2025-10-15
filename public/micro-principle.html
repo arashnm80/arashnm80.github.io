@@ -43,5 +43,18 @@ we can simply tell them to check theirs with the person in front of them and if 
 
 <p dir="auto" dir="auto">another one is about ai destroying jobs. many people will lose their jobs and that's inevitable. another microprinciple can be to just <strong>gain a skill others don't have</strong>. know more languages than others, gain better social skills than others, have a healthier body than others and so on ... in the long term if anybody is going to be replaced you would be the last one.</p>
 
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('.anchor-link').forEach(function(anchor) {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                var url = window.location.origin + window.location.pathname + anchor.getAttribute('href');
+                if (navigator.clipboard) {
+                    navigator.clipboard.writeText(url);
+                }
+            });
+        });
+    });
+    </script>
 </body>
 </html>

@@ -31,5 +31,18 @@
 <p dir="auto" dir="auto">how to become a beast?<br />
 start every day with the most brutal task on the list.</p>
 
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('.anchor-link').forEach(function(anchor) {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                var url = window.location.origin + window.location.pathname + anchor.getAttribute('href');
+                if (navigator.clipboard) {
+                    navigator.clipboard.writeText(url);
+                }
+            });
+        });
+    });
+    </script>
 </body>
 </html>

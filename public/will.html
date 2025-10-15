@@ -32,5 +32,18 @@
 
 <p dir="auto" dir="auto">it's like the choice in dark knight rises: death or exile. we are free to choose to die or work like hell to find a little peace, until we die.</p>
 
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('.anchor-link').forEach(function(anchor) {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                var url = window.location.origin + window.location.pathname + anchor.getAttribute('href');
+                if (navigator.clipboard) {
+                    navigator.clipboard.writeText(url);
+                }
+            });
+        });
+    });
+    </script>
 </body>
 </html>

@@ -33,5 +33,18 @@ everybody is slave to sth.<br />
 we crave for what we don't have.<br />
 we are what we crave for.</p>
 
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('.anchor-link').forEach(function(anchor) {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                var url = window.location.origin + window.location.pathname + anchor.getAttribute('href');
+                if (navigator.clipboard) {
+                    navigator.clipboard.writeText(url);
+                }
+            });
+        });
+    });
+    </script>
 </body>
 </html>

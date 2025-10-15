@@ -41,5 +41,18 @@ maybe it's not me and it's the lack of dopamine that's talking.<br />
 maybe a little rain or fine piece of music can turn me into another man.<br />
 maybe i'm being a little obsessive cry baby that can't afford to endure some pain in order to get things i want.</p>
 
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('.anchor-link').forEach(function(anchor) {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                var url = window.location.origin + window.location.pathname + anchor.getAttribute('href');
+                if (navigator.clipboard) {
+                    navigator.clipboard.writeText(url);
+                }
+            });
+        });
+    });
+    </script>
 </body>
 </html>

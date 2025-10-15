@@ -40,5 +40,18 @@ in orther to make it stick in our genes and give it an evolutional value, we had
 
 <p dir="auto" dir="auto">so what we do? create these win-win social games and after that simply brainwash ourselves to forget why they have been created in the first place. we tell ourselves fairy tales about love and other mind-opiums.</p>
 
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('.anchor-link').forEach(function(anchor) {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                var url = window.location.origin + window.location.pathname + anchor.getAttribute('href');
+                if (navigator.clipboard) {
+                    navigator.clipboard.writeText(url);
+                }
+            });
+        });
+    });
+    </script>
 </body>
 </html>

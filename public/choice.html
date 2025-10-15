@@ -43,5 +43,18 @@ everything in life is a <strong>choice</strong>. choosing doesn't exist in mind 
 
 <p dir="auto" dir="auto">i <strong>want</strong> sth, does is mean that i'm able to choose it? what happens when i can't choose. does it mean there's sth else that i want more than this or does it mean that i don't want this enough? can i <strong>change</strong> myself and what i want? is there <strong>free will</strong> or everything is written on stone? are we able to predict the future with certainty if we'd be able to simulate and calculate all the atoms inside a person and his outside world?</p>
 
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('.anchor-link').forEach(function(anchor) {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                var url = window.location.origin + window.location.pathname + anchor.getAttribute('href');
+                if (navigator.clipboard) {
+                    navigator.clipboard.writeText(url);
+                }
+            });
+        });
+    });
+    </script>
 </body>
 </html>

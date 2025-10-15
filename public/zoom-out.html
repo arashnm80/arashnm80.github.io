@@ -42,5 +42,18 @@ or how to create a happy life?</p>
 <p dir="auto" dir="auto">in order to ask the right question we need to zoom out, think out of the box and see the bigger picture.<br />
 each time we go one step backwards, we are able to see more alternative paths and sometimes we even find out we have been asking the wrong questions.</p>
 
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('.anchor-link').forEach(function(anchor) {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                var url = window.location.origin + window.location.pathname + anchor.getAttribute('href');
+                if (navigator.clipboard) {
+                    navigator.clipboard.writeText(url);
+                }
+            });
+        });
+    });
+    </script>
 </body>
 </html>

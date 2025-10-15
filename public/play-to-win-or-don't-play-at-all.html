@@ -33,5 +33,18 @@ choosing to stay alive inevitably means to endure huge amount of pain. do it if 
 there might be a black swan <a dir="auto" href="uncertainty.md">chance</a> to find or create an oasis.<br />
 leave or or <a dir="auto" href="./fight">total-war</a> for narrow possibility to live.</p>
 
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('.anchor-link').forEach(function(anchor) {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                var url = window.location.origin + window.location.pathname + anchor.getAttribute('href');
+                if (navigator.clipboard) {
+                    navigator.clipboard.writeText(url);
+                }
+            });
+        });
+    });
+    </script>
 </body>
 </html>

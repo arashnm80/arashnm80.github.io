@@ -32,5 +32,18 @@
 
 <p dir="auto" dir="auto">source: <a dir="auto" href="https://www.lesswrong.com/s/d922gAtBM8JNzkKKJ/p/R9uj2T9NZd4ta3hrG" target="_blank">https://www.lesswrong.com/s/d922gAtBM8JNzkKKJ/p/R9uj2T9NZd4ta3hrG</a></p>
 
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('.anchor-link').forEach(function(anchor) {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                var url = window.location.origin + window.location.pathname + anchor.getAttribute('href');
+                if (navigator.clipboard) {
+                    navigator.clipboard.writeText(url);
+                }
+            });
+        });
+    });
+    </script>
 </body>
 </html>

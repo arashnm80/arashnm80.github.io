@@ -32,5 +32,18 @@
 but either way, in the end, this is my life.<br />
 so what do i <a dir="auto" href="./want">want</a> to <a dir="auto" href="./action">do</a> with it and <a dir="auto" href="./character">who</a> do i <a dir="auto" href="./choice">choose</a> to be <a dir="auto" href="./no-time-for-caution">now</a>?</p>
 
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('.anchor-link').forEach(function(anchor) {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                var url = window.location.origin + window.location.pathname + anchor.getAttribute('href');
+                if (navigator.clipboard) {
+                    navigator.clipboard.writeText(url);
+                }
+            });
+        });
+    });
+    </script>
 </body>
 </html>

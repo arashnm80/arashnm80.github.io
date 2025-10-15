@@ -42,5 +42,18 @@
 
 <p dir="auto" dir="auto">youtube link: <a dir="auto" href="https://www.youtube.com/watch?v=477qF6QNSvc" target="_blank">https://www.youtube.com/watch?v=477qF6QNSvc</a></p>
 
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('.anchor-link').forEach(function(anchor) {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                var url = window.location.origin + window.location.pathname + anchor.getAttribute('href');
+                if (navigator.clipboard) {
+                    navigator.clipboard.writeText(url);
+                }
+            });
+        });
+    });
+    </script>
 </body>
 </html>

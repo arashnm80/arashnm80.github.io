@@ -30,5 +30,18 @@
 
 <p dir="auto" dir="auto">highest priority at any moment is to attack the biggest/hardest/shittiest problem. the one that you hate/fear most. if you can do that, you can do anything else too.</p>
 
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('.anchor-link').forEach(function(anchor) {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                var url = window.location.origin + window.location.pathname + anchor.getAttribute('href');
+                if (navigator.clipboard) {
+                    navigator.clipboard.writeText(url);
+                }
+            });
+        });
+    });
+    </script>
 </body>
 </html>

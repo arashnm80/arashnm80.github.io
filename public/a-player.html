@@ -53,5 +53,18 @@ A-Players are obsessive, learn from mistakes, coachable, intelligent, don’t ma
 
 <p dir="auto" dir="auto">C-Players are just average employees. They don’t suck, but they aren’t exceptional at what they do. They just exist, do whatever, and get a paycheck. They aren’t obsessive and learning. C-Players are poisonous and should be transitioned to a different company IMMEDIATELY. (It’s okay, we give everyone severance — they’ll be fine.)</p>
 
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('.anchor-link').forEach(function(anchor) {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                var url = window.location.origin + window.location.pathname + anchor.getAttribute('href');
+                if (navigator.clipboard) {
+                    navigator.clipboard.writeText(url);
+                }
+            });
+        });
+    });
+    </script>
 </body>
 </html>

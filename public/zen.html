@@ -118,5 +118,18 @@ It's often better than anything I could've said because they have more context t
 
 <p dir="auto" dir="auto">if you are not sure what project/idea/business to persue, just start with persistence wtih a random thing. choose a simple random idea like learning one new word every day or sending one cold email for advertisement of sth every day or whatever. then fix it in your life and keep it under every circumstance. when you are sad, depressed, tired, have a hadache, ... then try to substitute one piece of it with something more useful. something with more benefit or revenue or more exponential. for example share the new word you're learning or send the cold email for a more challenging but powerful product, ... repeat this atomic loop to infinity. the point is to start with imperfection right away and improve it bit by bit through our persistence.</p>
 
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('.anchor-link').forEach(function(anchor) {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                var url = window.location.origin + window.location.pathname + anchor.getAttribute('href');
+                if (navigator.clipboard) {
+                    navigator.clipboard.writeText(url);
+                }
+            });
+        });
+    });
+    </script>
 </body>
 </html>
