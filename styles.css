@@ -167,6 +167,8 @@ tr:hover {
     background: #f1f1f1;
 }
 
+/* anchorlink settings - start */
+
 .anchor-link {
     position: absolute;
     top: 50%;
@@ -177,7 +179,7 @@ tr:hover {
 }
 
 h2, h3 {
-    position: relative;
+    position: relative; /* relative h2 and h3 for ancholink icon */
 }
 
 h2:hover .anchor-link,
@@ -199,7 +201,8 @@ h3:dir(rtl) .anchor-link {
 
 @media (max-width: 700px) {
     .anchor-link {
-        display: none;
+        display: none; /* hide anchorlink in phones */
     }
 }
 
+/* anchorlink settings - end */
