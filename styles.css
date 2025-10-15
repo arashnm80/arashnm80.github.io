@@ -167,3 +167,22 @@ tr:hover {
     background: #f1f1f1;
 }
 
+.anchor-link {
+    position: absolute;
+    left: -28px;
+    top: 50%;
+    transform: translateY(-50%);
+    opacity: 0.6;
+    transition: opacity 0.2s;
+    text-decoration: none;
+}
+
+h2, h3 {
+    position: relative;
+}
+
+h2:hover .anchor-link,
+h3:hover .anchor-link {
+    opacity: 1;
+}
+
