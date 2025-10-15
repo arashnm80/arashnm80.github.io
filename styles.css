@@ -197,3 +197,9 @@ h3:dir(rtl) .anchor-link {
     left: auto;
 }
 
+@media (max-width: 700px) {
+    .anchor-link {
+        display: none;
+    }
+}
+
