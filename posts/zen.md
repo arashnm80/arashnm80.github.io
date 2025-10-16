@@ -1,4 +1,4 @@
-# zen of arash
+# zen
 some ideas (from myself or others) that i think help the overall result of our work-life balance. the list is subject to change and some of them might contradict with each other. they are just different tactics and everyone can choose his own favorable tactics. sometimes you can win by playing attacking and sometimes by being defensive. also i'm not an expert in them. i'm even so terrible in some of them. but they are the tips i believe can improve our performance in life. effect of each one might be very small and down to 0.01% or 0.001%, but with applying enough of them, some meaningful numbers might appear. some of texts here might be ambiguous but that's fine, i'm going to take easy and complete them over time. if you had any feedback, i'm reachable @Arashnm80.
 
 ## good sleep

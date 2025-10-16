@@ -6,4 +6,4 @@ it's not who i am underneath, but what i do that defines me. every action is a c
 ## play to win or don't play at all
 every [week](/weeks) that i'm still breathing, means that i'm not choosing death over life yet. there is no middle ground and when you play, you don't play by half measures. so LEAVE; or stay and battle for narrow possiblity to LIVE.
 ## no time for caution
-a minute or a century more in this world, niksen or working like hell, do it in way that you'd be willing to do it all over again.
+the right time is now. a minute or a century more in this world, niksen or working like hell, do it in way that you'd be willing to do it all over again.
