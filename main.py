@@ -65,19 +65,18 @@ def read_markdown_files(input_folder):
 
 
 def convert_raw_urls(html):
-    """Convert raw URLs in the HTML content to clickable links, ignoring those within iframe tags."""
+    """Convert raw URLs in the HTML content to clickable links, ignoring those within iframe, meta, and img tags."""
     parts = []
     last_end = 0
-    # Regex to find iframe tags
-    iframe_pattern = re.compile(r'<iframe\b[^>]*>.*?</iframe>', re.DOTALL)
-    for match in re.finditer(r'<a\b[^>]*>.*?</a>|<iframe\b[^>]*>.*?</iframe>', html, re.DOTALL):
+    # Regex to find iframe, anchor, meta, and img tags
+    for match in re.finditer(r'<a\b[^>]*>.*?</a>|<iframe\b[^>]*>.*?</iframe>|<meta\b[^>]*>|<img\b[^>]*>', html, re.DOTALL):
         parts.append(html[last_end:match.start()])
         parts.append(match.group(0))
         last_end = match.end()
     parts.append(html[last_end:])
     url_pattern = r'(https?://[^\s<>"]+|www\.[^\s<>"]+)'
     for j in range(len(parts)):
-        if not parts[j].startswith('<a') and not parts[j].startswith('<iframe'):
+        if not parts[j].startswith('<a') and not parts[j].startswith('<iframe') and not parts[j].startswith('<meta') and not parts[j].startswith('<img'):
             parts[j] = re.sub(
                 url_pattern,
                 lambda m: f'<a href="{m.group(0)}" target="_blank">{m.group(0)}</a>',
