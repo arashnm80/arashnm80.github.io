@@ -57,6 +57,7 @@ darwin.html
 week-1275.html
 nothing-can-waste-my-time.html
 opportunity.html
+weeks.html
 askeladd.html
 donate.html
 every-idea-is-taken.html
