@@ -6,4 +6,4 @@ desires do not matter, only actions. every action is a choice and every choice i
 ### play to win or don't play at all
 each week that i'm still breathing, means i'm not choosing death over life yet. and you don't play by half measures. leave; or stay and battle for narrow possiblity to live.
 ### no time for caution
-a minute or a century, do it in way that you'd be willing to do it all over again. peaceful niksen time is not wasted time but time spent on anti-values is.
+a minute or a century more in this world, niksen or working like hell, do it in way that you'd be willing to do it all over again.
