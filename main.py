@@ -2,6 +2,7 @@ import os
 import markdown2
 import shutil
 import re
+from weeks import generate_weeks_md
 
 google_anylitics = \
 '''
@@ -238,9 +239,13 @@ if __name__ == '__main__':
     if os.path.exists('public'):
         shutil.rmtree('public')  # Removes folder and all contents
 
+    # generate weeks.md
+    generate_weeks_md()
+
     # generate pages
     generate_blog("posts", "public")
     generate_blog("weeks", "public")
+    generate_blog("custom-pages", "public")
 
     # for shuffle
     generate_pages_list()
