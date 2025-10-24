@@ -1,0 +1,3 @@
+# cfar
+
+There are similar opportunities for arbitrage in our own personal “currency markets.” Most of us are inconsistent in how we prioritize time, money, energy, social effort, and other resources—we overspend in some areas and underspend in others, effectively “narbitraging” ourselves. By targeting those inconsistencies and shifting resources around, we can create extra value even without adding anything new to the system.

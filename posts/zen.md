@@ -1,17 +1,23 @@
 # zen
-some ideas (from myself or others) that i think help the overall result of our work-life balance. the list is subject to change and some of them might contradict with each other. they are just different tactics and everyone can choose his own favorable tactics. sometimes you can win by playing attacking and sometimes by being defensive. also i'm not an expert in them. i'm even so terrible in some of them. but they are the tips i believe can improve our performance in life. effect of each one might be very small and down to 0.01% or 0.001%, but with applying enough of them, some meaningful numbers might appear. some of texts here might be ambiguous but that's fine, i'm going to take easy and complete them over time. if you had any feedback, i'm reachable @Arashnm80.
 
 ## maslow's rock bottom
 i need to take care of my body. maybe this world doesn't suck that much and all i need is an honest night of sleep, a full stomach and energized body from workout.
+
+## flame
+find, choose or build a passion.
+as durov said, you can't wait for it to emerge out of nowhere and then you use it to build your life. you have to start doing things and it will appear in the middle of doing things.
+
+## gall law
+i can't create a complex system like homo sapien all of a sudden out of nowhere. i need to start with a single cell and evolve it bit by bit over time. the same is true for a company, application, routine, relationship or any other complex system.
+
+## atomic loop
+if you are not sure what project/idea/business to persue, just start with persistence wtih a random thing. choose a simple random idea like learning one new word every day or sending one cold email for advertisement of sth every day or whatever. then fix it in your life and keep it under every circumstance. when you are sad, depressed, tired, have a hadache, ... then try to substitute one piece of it with something more useful. something with more benefit or revenue or more exponential. for example share the new word you're learning or send the cold email for a more challenging but powerful product, ... repeat this atomic loop to infinity. the point is to start with imperfection right away and improve it bit by bit through our persistence.
 
 ## cold shower
 dopamine burst
 
 ## non zero week / streak
 it doesn't matter what is the maximum amount of time/energy i can spend for a goal. what really matters is to not letting the minimum of it to reach zero in any week. even when i'm sick or tired or depressed or super busy, take a tiny baby step toward that goal. if it's not possible, means i should lower the number of goals i'm focusing on or means that i'm not giving yourself enough hobbies and joys to get recharged again.
-
-## gall law
-i can't create a complex system like homo sapien all of a sudden out of nowhere. i need to start with a single cell and evolve it bit by bit over time. the same is true for a company, application, routine, relationship or any other complex system.
 
 ## chill
 you can't push yourself to the end of your body limits every day. it doesn't work in long term and you'll eventually burn out. you gotta listen to your body. give it time. attack each task when it's right time for both of you.
@@ -69,5 +75,7 @@ It's often better than anything I could've said because they have more context t
 ## last resort
 you need a last resort. someone to be able to call and talk to at any momnet. some activity that doing it gives you peace at any momnet. some music/movie/book that helps you get your shit together at any moment.
 
-## start with persistence
-if you are not sure what project/idea/business to persue, just start with persistence wtih a random thing. choose a simple random idea like learning one new word every day or sending one cold email for advertisement of sth every day or whatever. then fix it in your life and keep it under every circumstance. when you are sad, depressed, tired, have a hadache, ... then try to substitute one piece of it with something more useful. something with more benefit or revenue or more exponential. for example share the new word you're learning or send the cold email for a more challenging but powerful product, ... repeat this atomic loop to infinity. the point is to start with imperfection right away and improve it bit by bit through our persistence.
+## life is a exchange
+money has no benefit on its own. what we actually buy with it is the thing matters.
+our asset in life that works like money is time. we can trade it with hobby, work, study, relationships, etc.
+some of our trades are long and some are short positions. in trading we make money out of arbitrage. selling assets that are not too valuable for us but they are for others. buying things that others don't care about or have too much, but we crave for.

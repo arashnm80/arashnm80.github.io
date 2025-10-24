@@ -1,6 +1,7 @@
 week-1254.html
 perfection-true-definition.html
 week-1281.html
+murphyjitsu.html
 first-impression.html
 problem.html
 character.html
@@ -39,6 +40,7 @@ week-1256.html
 week-1278.html
 week-1277.html
 week-1279.html
+week-1282.html
 beast.html
 pain.html
 differential-diagnosis.html
@@ -48,6 +50,7 @@ will.html
 c'est-ma-vie.html
 week-1257.html
 week-1259.html
+cfar.html
 week-1274.html
 fixer.html
 no-time-for-caution.html
