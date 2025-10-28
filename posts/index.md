@@ -10,7 +10,5 @@ it's not who i am underneath, but what i do that defines me. every action is a c
 ## play to win or don't play at all
 every [week](/weeks) that i'm still breathing, means that i'm not choosing death over life yet. there is no middle ground. when you play, you don't play by half measures. so LEAVE; or stay and battle for narrow possiblity to LIVE.
 ## no time for caution
-the right time is now.
-the most important moment of my life is now.
-the moment which i make the biggest decision of my life is now.
+the most climactic moment of my life, is right now. not as a good sounding quote, but as a primal truth to believe inside my bloods. if i'm at the highest point of my graph, it can be by me not getting arrogant and complacent. and if i'm at the lowest state and rock bottom of my life, it can be by not forgetting my values and choosing to start again.
 whether i stay one more minute or one more century in this world, whether i'm doing nothing and enjoying the peace of niksen or i'm working like hell to end the wars, i'm gonna do it in way that i'd be willing to do it all over again.
