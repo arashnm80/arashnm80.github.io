@@ -29,6 +29,7 @@ zoom-out.html
 sleep-food-workout.html
 action.html
 play-to-win-or-don't-play-at-all.html
+week-1283.html
 uncertainty.html
 unstoppable.html
 priority.html
