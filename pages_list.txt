@@ -71,3 +71,4 @@ justification-for-losing.html
 sacrifice.html
 week-1253.html
 week-1276.html
+week-1284.html
