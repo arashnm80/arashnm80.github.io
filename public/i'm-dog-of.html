@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>چیز هایی که سگشونم :)</title>
+    
+    <!-- seo -->
+    <meta property="og:site_name" content="Arash Nemat Zadeh">
+    <meta property="og:title" content="چیز هایی که سگشونم :)">
+    <meta property="og:image" content="../assets/arashnm80.jpg">
+    <meta name="twitter:title" content="چیز هایی که سگشونم :)">
+    <meta name="twitter:image" content="../assets/arashnm80.jpg">
+
+    <link rel="stylesheet" href="styles.css">
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-C32LDMX65L"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){{dataLayer.push(arguments);}}
+        gtag('js', new Date());
+
+        gtag('config', 'G-C32LDMX65L');
+    </script>
+
+</head>
+<body>
+    <h1 dir="auto" id="چیز-هایی-که-سگشونم">چیز هایی که سگشونم :)</h1>
+
+<ul>
+<li>rain</li>
+<li>cashew</li>
+<li>walking in park at sundown</li>
+<li>listening to credits song to the very end</li>
+</ul>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('.anchor-link').forEach(function(anchor) {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                var url = window.location.origin + window.location.pathname + anchor.getAttribute('href');
+                if (navigator.clipboard) {
+                    navigator.clipboard.writeText(url);
+                }
+            });
+        });
+    });
+    </script>
+</body>
+</html>
