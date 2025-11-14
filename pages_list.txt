@@ -37,6 +37,7 @@ priority.html
 choice.html
 fight.html
 lesswrong.html
+effort-for-keeping-plants-alive.html
 micro-principle.html
 week-1256.html
 week-1278.html
