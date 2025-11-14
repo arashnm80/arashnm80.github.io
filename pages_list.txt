@@ -8,6 +8,7 @@ character.html
 fool.html
 lose.html
 want.html
+week-1252.html
 woody-allen.html
 flame.html
 go-for-the-head.html
