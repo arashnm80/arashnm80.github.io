@@ -1,5 +1,11 @@
 # zen
 
+## all must choose
+it's not who i am underneath, but what i do that defines me. every action is a choice and every choice is a sacrifice; sacrifice of what could have been in all other possible parallel universes where i choose the different options. that's the newton's third law, in order to get somewhere, we have to leave sth behind. we have to prioritize one thing over infinite others. there is never enough time/energy/resources for trying/perfecting everything and i have to choose wisely to minimize my accumulated regret. big people make big choices and those who can't sacrifice anything, will earn nothing.
+
+## don't make the same mistake twice
+experience isn't the amount of times i've been around the sun. it's change. it's learning the patterns and rewriting my neurons. it's walking out of my comfort zone in order to discover more.
+
 ## maslow's rock bottom
 i need to take care of my body. maybe this world doesn't suck that much and all i need is an honest night of sleep, a full stomach and energized body from workout.
 
