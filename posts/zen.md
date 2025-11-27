@@ -6,12 +6,15 @@ it's not who i am underneath, but what i do that defines me. every action is a c
 ## don't make the same mistake twice
 experience isn't the amount of times i've been around the sun. it's change. it's learning the patterns and rewriting my neurons. it's walking out of my comfort zone in order to discover more.
 
+## not to feel bad about feeling bad
+there are many times that i'm down or not in good mood or can't work. there are waves of depression and tiredness that hit me once in a while. maybe i can't help it and they happen any way, but i can keep myself calm about it. i can accept them and just wait in peace until they pass and i start over again.
+
 ## maslow's rock bottom
 i need to take care of my body. maybe this world doesn't suck that much and all i need is an honest night of sleep, a full stomach and energized body from workout.
 
 ## flame
 find, choose or build a passion.
-as durov said, you can't wait for it to emerge out of nowhere and then you use it to build your life. you have to start doing things and it will appear in the middle of doing things.
+as durov said, i can't wait for it to emerge out of nowhere and then use it to build my life. i have to start doing things and it will appear in the middle of doing things.
 
 ## gall law
 i can't create a complex system like homo sapien all of a sudden out of nowhere. i need to start with a single cell and evolve it bit by bit over time. the same is true for a company, application, routine, relationship or any other complex system.

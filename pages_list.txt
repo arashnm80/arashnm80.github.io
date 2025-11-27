@@ -8,6 +8,7 @@ problem.html
 character.html
 fool.html
 lose.html
+week-1287.html
 want.html
 week-1252.html
 woody-allen.html
