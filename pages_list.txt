@@ -53,6 +53,7 @@ differential-diagnosis.html
 index.html
 week-1260.html
 will.html
+week-1288.html
 c'est-ma-vie.html
 week-1257.html
 week-1259.html
