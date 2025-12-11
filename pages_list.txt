@@ -5,6 +5,7 @@ week-1281.html
 murphyjitsu.html
 first-impression.html
 problem.html
+week-1289.html
 character.html
 fool.html
 lose.html
