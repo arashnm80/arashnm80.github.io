@@ -65,6 +65,7 @@ no-time-for-caution.html
 system-1-and-2.html
 stand-in-future.html
 week-1255.html
+week-1290.html
 darwin.html
 week-1275.html
 nothing-can-waste-my-time.html
