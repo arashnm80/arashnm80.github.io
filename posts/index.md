@@ -7,7 +7,7 @@ i am the highest priority, main character and main product of my life.
 **so what am i going to do with it and who do i choose to be now?**
 
 ## play to win or don't play at all
-each [week](/weeks) that i'm still breathing, means that i haven't chosen to leave yet. if i'm sacrificing my death and postponing it one more week, it should be for a life worth living. there is no middle ground, when you play you don't play by half measures. i have to choose and then fully commit. **so leave it; or drive it like you stole it.**
+[each week](/weeks) that i'm still breathing, means that i haven't chosen to leave yet. if i'm sacrificing my death and postponing it one more week, it should be for a life worth living. there is no middle ground, when you play you don't play by half measures. i have to choose and then fully commit. **so leave it; or drive it like you stole it.**
 
 ## no time for caution
 the most climactic moment of my life, is right now. not as a good sounding quote, but as a primal truth running in my veins. if i'm at the peak of me, it can be by not getting arrogant and complacent. and if i'm at the nadir and rock bottom of my life, it can be by not forgetting my values and choosing to start over again.
