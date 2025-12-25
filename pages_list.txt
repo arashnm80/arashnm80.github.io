@@ -43,6 +43,7 @@ fight.html
 lesswrong.html
 effort-for-keeping-plants-alive.html
 micro-principle.html
+week-1291.html
 week-1256.html
 week-1278.html
 week-1277.html
