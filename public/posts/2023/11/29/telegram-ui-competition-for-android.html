@@ -1,44 +1,231 @@
----
-layout: post
-title:  "Telegram UI Competition for Android"
-categories: posts
-excerpt_separator: <!--more-->
----
-Telegram is hosting a competition for Android developers to implement a new animation for deleting messages. \
-![Telegram UI Competition for Android](https://github.com/arashnm80/arashnm80.github.io/assets/20334281/aad45df0-50bc-4bb7-b551-f14e26ae8f40)
-
-
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>telegram-ui-competition-for-android</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">telegram-ui-competition-for-android</h1>
+</header>
+<p>Telegram is hosting a competition for Android developers to implement
+a new animation for deleting messages.<br />
+<img
+src="https://github.com/arashnm80/arashnm80.github.io/assets/20334281/aad45df0-50bc-4bb7-b551-f14e26ae8f40"
+alt="Telegram UI Competition for Android" /></p>
 <!--more-->
-
-**Prize fund**: Up to $30,000 \
-**Deadline**: 23:59 on December 7th (Dubai time) \
-**Who can participate**: Everyone \
-**Results**: December 15th, 2023
-
-
-### The Task: 
-Implement a new animation flow for deleting messages into [Telegram for Android](https://github.com/DrKLO/Telegram) similar to the [provided demo](https://t.me/contest/351) (the demo is a recording of a beta feature on Telegram for iOS). Your solution should support all entity types for both incoming and outgoing messages across all types of chats and channels. 
-
-The most preferable outcome is likely to be achieved by taking the component [SpoilerEffect2.java](https://github.com/DrKLO/Telegram/blob/220f6b4d73793c57ba6f9023b8d38d171f342a7e/TMessagesProj/src/main/java/org/telegram/ui/Components/spoilers/SpoilerEffect2.java) as a reference. However, you may opt for your own approach as long as **no third-party UI frameworks** are used.
-
-### Evaluation Criteria:
-The primary criteria for determining a winner will be the app's **stability and performance** while replicating the provided demo **as closely as possible** (the animation in general, also the particle flow and dispersion). 
-
-Your app **must be free** of **significant flaws** *(including crashes, visual glitches, noticeable element blinking, layout errors, and more).*
-
-### Devices:
-During the evaluation stage, submissions will be tested on a broad range of devices and Android versions (Android 7-13) not limited to the mentioned below: \
-• Samsung Galaxy (A12, A32, A51, S22 Ultra) \
-• Xiaomi Redmi (9, 9A, Note 8 Pro, Note 11) \
-• POCO (X3 Pro) \
-• Oppo (A54).
-
-> [Telegram for Android](https://github.com/DrKLO/Telegram) utilizes performance classification with `SharedConfig.getDevicePerformanceClass()` – each device is defined as HIGH, AVERAGE or LOW. In order for your app to qualify for a reward, your solution must work flawlessly on HIGH and AVERAGE devices. Introducing a proper implementation for LOW devices will be considered a bonus.
-
-### Submissions:
-Contestants will be able to submit their entries to [@ContestBot](https://t.me/ContestBot) later. We will further clarify the submission instructions closer to the deadline.
-
-**P.S. Winners may be offered a chance to explore further cooperation opportunities with Telegram.**
-
-### Related links
-- post in official telegram contests channel: [https://t.me/contest/350](https://t.me/contest/350)
+<p><strong>Prize fund</strong>: Up to $30,000<br />
+<strong>Deadline</strong>: 23:59 on December 7th (Dubai time)<br />
+<strong>Who can participate</strong>: Everyone<br />
+<strong>Results</strong>: December 15th, 2023</p>
+<h3 id="the-task">The Task:</h3>
+<p>Implement a new animation flow for deleting messages into <a
+href="https://github.com/DrKLO/Telegram">Telegram for Android</a>
+similar to the <a href="https://t.me/contest/351">provided demo</a> (the
+demo is a recording of a beta feature on Telegram for iOS). Your
+solution should support all entity types for both incoming and outgoing
+messages across all types of chats and channels.</p>
+<p>The most preferable outcome is likely to be achieved by taking the
+component <a
+href="https://github.com/DrKLO/Telegram/blob/220f6b4d73793c57ba6f9023b8d38d171f342a7e/TMessagesProj/src/main/java/org/telegram/ui/Components/spoilers/SpoilerEffect2.java">SpoilerEffect2.java</a>
+as a reference. However, you may opt for your own approach as long as
+<strong>no third-party UI frameworks</strong> are used.</p>
+<h3 id="evaluation-criteria">Evaluation Criteria:</h3>
+<p>The primary criteria for determining a winner will be the app’s
+<strong>stability and performance</strong> while replicating the
+provided demo <strong>as closely as possible</strong> (the animation in
+general, also the particle flow and dispersion).</p>
+<p>Your app <strong>must be free</strong> of <strong>significant
+flaws</strong> <em>(including crashes, visual glitches, noticeable
+element blinking, layout errors, and more).</em></p>
+<h3 id="devices">Devices:</h3>
+<p>During the evaluation stage, submissions will be tested on a broad
+range of devices and Android versions (Android 7-13) not limited to the
+mentioned below:<br />
+• Samsung Galaxy (A12, A32, A51, S22 Ultra)<br />
+• Xiaomi Redmi (9, 9A, Note 8 Pro, Note 11)<br />
+• POCO (X3 Pro)<br />
+• Oppo (A54).</p>
+<blockquote>
+<p><a href="https://github.com/DrKLO/Telegram">Telegram for Android</a>
+utilizes performance classification with
+<code>SharedConfig.getDevicePerformanceClass()</code> – each device is
+defined as HIGH, AVERAGE or LOW. In order for your app to qualify for a
+reward, your solution must work flawlessly on HIGH and AVERAGE devices.
+Introducing a proper implementation for LOW devices will be considered a
+bonus.</p>
+</blockquote>
+<h3 id="submissions">Submissions:</h3>
+<p>Contestants will be able to submit their entries to <a
+href="https://t.me/ContestBot"><span class="citation"
+data-cites="ContestBot">@ContestBot</span></a> later. We will further
+clarify the submission instructions closer to the deadline.</p>
+<p><strong>P.S. Winners may be offered a chance to explore further
+cooperation opportunities with Telegram.</strong></p>
+<h3 id="related-links">Related links</h3>
+<ul>
+<li>post in official telegram contests channel: <a
+href="https://t.me/contest/350">https://t.me/contest/350</a></li>
+</ul>
+</body>
+</html>
