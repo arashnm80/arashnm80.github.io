@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>serverless-telegram-bot-with-database-channel</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">serverless-telegram-bot-with-database-channel</h1>
+</header>
+<p>In this video I teach you how to create a telegram bot without
+programming and buying servers. We just use a cloudflare worker to
+answer users based on contents of a database channel.</p>
+<figure>
+<img
+src="https://github.com/arashnm80/arashnm80.github.io/assets/20334281/5c281ec4-94ac-44fc-8cdd-cc433a045aff"
+alt="Serverless Telegram Bot With Database Channel" />
+<figcaption aria-hidden="true">Serverless Telegram Bot With Database
+Channel</figcaption>
+</figure>
+<!--more-->
+<h2 id="steps">Steps</h2>
+<ul>
+<li>create an account in <a
+href="https://www.cloudflare.com/">cloudflare.com</a>. Don’t worry it’s
+free.</li>
+<li>Go to <code>your dashboard in cloudflare</code> &gt;
+<code>Workers &amp; Pages</code> &gt; <code>Create application</code>
+&gt; <code>Create Worker</code> &gt; choose any name and click on
+<code>Deploy</code></li>
+<li>Click on <code>Edit code</code></li>
+<li>Delete the default codes and paste my codes from <strong><a
+href="https://github.com/arashnm80/worker-telegram-bot-with-database-channel/blob/main/worker.js">this
+file</a></strong> instead</li>
+<li>Create a new bot in telegram via <a
+href="https://t.me/BotFather"><span class="citation"
+data-cites="BotFather">@BotFather</span></a>. Get the
+<code>HTTP API</code> from BotFather and paste it in <code>TOKEN</code>
+value of worker’s code.</li>
+<li>Create a database channel for yourself and make your bot an admin of
+it. Put the channel’s username with beginning <code>@</code> in the
+<code>databaseChannel</code> value of the worker’s code.</li>
+<li>Write some random text made up from letters and numbers in the
+<code>SECRET</code> value of worker’s code. this secret’s job is to make
+your bot safe.</li>
+<li>Finally edit the <code>commands</code> in worker’s code like the
+given template. commands can be with or without slashes and in any
+language. In front of each command write a number which is the message
+Id of the response in your database channel. (If you don’t know Id of a
+message you can simply copy the link of message and the check it, the
+last number after slash is the message Id)</li>
+<li>If it’s the first time that you are running the bot add
+<code>registerWebhook</code> to the end of worker address and click on
+<code>send</code>. after that point, every time that you decide to edit
+commands a simple <code>Save and Deploy</code> will be sufficient.</li>
+</ul>
+<h2 id="my-video-guide-in-youtube">My video guide in youtube</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mE3yc4STGL8?si=cK0v5VI-QQJvwOMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
+</body>
+</html>

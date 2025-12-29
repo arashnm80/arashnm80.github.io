@@ -2,6 +2,7 @@ import os
 import markdown2
 import shutil
 import re
+from pathlib import Path
 from weeks import generate_weeks_md
 
 google_anylitics = \
@@ -234,6 +235,11 @@ def generate_sitemap(pages_list_file="pages_list.txt", sitemap_file="sitemap.xml
 
     print(f"Sitemap generated and saved to {sitemap_file}.")
 
+def copy_old_posts():
+    src = Path('old_posts')
+    dst = Path('public/posts')
+    shutil.copytree(src, dst)
+
 if __name__ == '__main__':
     # Delete the output folder if it exists
     if os.path.exists('public'):
@@ -252,3 +258,7 @@ if __name__ == '__main__':
 
     # Call the function to generate the sitemap
     generate_sitemap()
+
+    # copy old jekyll blog posts to public/posts
+    # i didn't optimized it for sitemap or templates
+    copy_old_posts()
