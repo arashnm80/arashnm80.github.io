@@ -7,6 +7,7 @@ first-impression.html
 problem.html
 week-1289.html
 character.html
+week-1292.html
 fool.html
 lose.html
 week-1287.html
