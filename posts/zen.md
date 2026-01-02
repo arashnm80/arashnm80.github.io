@@ -1,2 +1,2 @@
 # zen
-i am writing this page from the perspective of arash in future or arash in other parallel universes. (who knows!?)
+this page is written from the perspective of current arash or another version of me in future or some other alternate reality. (who knows!)
