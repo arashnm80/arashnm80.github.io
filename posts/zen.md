@@ -3,6 +3,9 @@ this page is a combination of reality and fiction. it is written from the perspe
 
 ---
 
+### gall's law
+
+
 ### first person view
 it's fine to compare myself with the others once in a while. it might give me some good ideas.
 but i mainly compare myself only with myself. i think about the person i've been in the past, the person i am right now and the person i want to be in the future.
