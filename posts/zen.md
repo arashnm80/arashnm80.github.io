@@ -1,5 +1,5 @@
 # zen
-this page is a combination of reality and fiction. it is written from the perspective of different versions of me in multiverse.
+i choose to write in first person present indicative, but who knows what's a dream and what's reality?
 
 ---
 
