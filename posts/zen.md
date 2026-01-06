@@ -3,8 +3,8 @@ i choose to write in first person present indicative, but who knows what's a dre
 
 ---
 
-### gall's law
-
+### gall's law / portrait painting
+building any system is like painting a portrait. i don't start from a upper left corner to the lower right one and paint all the details. i paint it in layers.
 
 ### first person view
 it's fine to compare myself with the others once in a while. it might give me some good ideas.
