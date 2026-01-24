@@ -48,6 +48,8 @@ week-1291.html
 week-1256.html
 week-1278.html
 week-1277.html
+week-1294.html
+week-1293.html
 week-1279.html
 week-1282.html
 beast.html
@@ -68,6 +70,7 @@ system-1-and-2.html
 stand-in-future.html
 week-1255.html
 week-1290.html
+week-1295.html
 darwin.html
 week-1275.html
 nothing-can-waste-my-time.html
