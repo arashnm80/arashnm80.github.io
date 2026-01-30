@@ -1,4 +1,5 @@
 # weeks
+- [week-1296](week-1296)
 - [week-1295](week-1295)
 - [week-1294](week-1294)
 - [week-1293](week-1293)

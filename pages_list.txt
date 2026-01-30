@@ -56,6 +56,7 @@ beast.html
 pain.html
 differential-diagnosis.html
 index.html
+week-1296.html
 week-1260.html
 will.html
 week-1288.html
