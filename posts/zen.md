@@ -1,13 +1,28 @@
 # zen
-i choose to write in first person present indicative, but who knows what's a dream and what's reality?
 
----
+## face it
+accept the reality.
+accept that this is my life and i'm the only one responsible for it.
+accept who i am.
+accept where i don't have a choice or free will.
+accept what i have to do.
+acknowledge myself.
+acknowledge my body.
+acknowledge my feelings and desires.
+acknowledge my powers.
+acknowledge my limitations, fears, mistakes and failures.
+acknowledge where i do have options and free will.
 
-### gall's law / portrait painting
-building any system is like painting a portrait. i don't start from a upper left corner to the lower right one and paint all the details. i paint it in layers.
+## choose & commit
+choose what i want from the life, and then go all in for it.
+there is no middle ground.
+play to win or don't play at all.
+either choose to take this life and do my best for a decent living.
+or choose to leave it and do my best for a peaceful departure.
 
-### first person view
-it's fine to compare myself with the others once in a while. it might give me some good ideas.
-but i mainly compare myself only with myself. i think about the person i've been in the past, the person i am right now and the person i want to be in the future.
-i can't look at myself from the third person view. i can't judge myself with standards of others. every person is unique and has their own values, interests, talents, priorities and lived experience.
-i don't waste my energy blaming the world, society and my parents. they might be blameworthy, but who cares? putting them on a trial does me no good. it doesn't matter what has happened so far that has led me here. the only thing that matters is that what would i choose to do now.
+## no time for caution
+choose to be in a way that i'd be willing to come back to this moment and be this all over again.
+
+## pain
+pain is the reason we push forward.
+choose the type of pain i want.
