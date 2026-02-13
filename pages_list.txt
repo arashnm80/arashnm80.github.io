@@ -33,6 +33,7 @@ hidden-progress.html
 week-1280.html
 zoom-out.html
 sleep-food-workout.html
+week-1298.html
 action.html
 play-to-win-or-don't-play-at-all.html
 week-1283.html
