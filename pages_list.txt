@@ -3,7 +3,6 @@ week-1286.html
 perfection-true-definition.html
 week-1281.html
 murphyjitsu.html
-development-rules.html
 first-impression.html
 problem.html
 week-1289.html
@@ -34,6 +33,7 @@ learn.html
 hidden-progress.html
 week-1280.html
 week-1299.html
+development-rules-for-ai-agents.html
 zoom-out.html
 sleep-food-workout.html
 week-1298.html
