@@ -3,6 +3,7 @@ week-1286.html
 perfection-true-definition.html
 week-1281.html
 murphyjitsu.html
+development-rules.html
 first-impression.html
 problem.html
 week-1289.html
