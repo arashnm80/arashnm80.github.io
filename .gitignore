@@ -1,3 +1,5 @@
 venv/
 .vscode/
 __pycache__/
+# symlink to the original in private-book; a dangling link breaks the Pages upload
+posts/development-rules.md

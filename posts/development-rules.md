@@ -1,1 +1,0 @@
-../../private-book/development-rules/development-rules.md
