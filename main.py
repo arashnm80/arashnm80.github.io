@@ -2,6 +2,8 @@ import os
 import markdown2
 import shutil
 import re
+import subprocess
+from datetime import date
 from pathlib import Path
 from weeks import generate_weeks_md
 
@@ -154,6 +156,30 @@ def save_html_file(output_folder, filename, html_content):
         f.write(html_content)
 
 
+def get_last_commit_date(md_path):
+    """Return the date of the latest git commit that touched this file.
+
+    Follows symbolic links, because some posts are links to files in another
+    repository. A file with no commit yet (or no git history available) counts
+    as updated today.
+    """
+    real_path = os.path.realpath(md_path)
+    result = subprocess.run(
+        ["git", "-C", os.path.dirname(real_path), "log", "-1", "--format=%cs", "--", real_path],
+        capture_output=True, text=True,
+    )
+    commit_date = result.stdout.strip()
+    return date.fromisoformat(commit_date) if commit_date else date.today()
+
+
+def add_last_update(html_content, last_update):
+    """Show "Last update: <date>" right under the post's first heading."""
+    label = f'<p style="opacity: 0.6; font-size: 0.9em;">Last update: {last_update.isoformat()}</p>'
+    if '</h1>' in html_content:
+        return html_content.replace('</h1>', f'</h1>\n{label}', 1)
+    return label + html_content
+
+
 def generate_blog(input_folder='posts', output_folder='public'):
     os.makedirs(output_folder, exist_ok=True)
     md_files = read_markdown_files(input_folder)
@@ -163,6 +189,10 @@ def generate_blog(input_folder='posts', output_folder='public'):
             md_content = f.read()
             title = filename.replace('.md', '').replace('-', ' ')
             html_content = convert_md_to_html(md_content, title)
+
+            if input_folder == "posts" and filename != "index.md":
+                last_update = get_last_commit_date(os.path.join(input_folder, filename))
+                html_content = add_last_update(html_content, last_update)
 
             html_content = convert_raw_urls(html_content)
             html_content = add_dir_auto(html_content)
