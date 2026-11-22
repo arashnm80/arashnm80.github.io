@@ -41,6 +41,7 @@ action.html
 play-to-win-or-don't-play-at-all.html
 week-1283.html
 uncertainty.html
+rules-for-ai-agents.html
 unstoppable.html
 week-1285.html
 priority.html
