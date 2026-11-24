@@ -61,20 +61,20 @@ At the same time **try** to:
 2. have good metaphors and analogy for every concept.
 
 ---
-1. be able to finish any task with any given tool.
-2. use all the possible tools in the universe together to finish any task.
+1. be able to finish a task with any given tool.
+2. find all the new possible tools
 
 ---
 1. be able to sacrifice and pay the costs for things that are worth it
-2. find better strategies to sacrifice less
+2. find better strategies for doing the same thing withoug sacrificing
 
 ---
 1. follow the passions i already have
 2. search to discover more passions
 
 ---
-1. improvise and choose the best in current moment without any plan
-2. forcast, predict and plan more steps ahead
+1. forcast, predict and plan more steps ahead
+2. improvise and choose the best in current moment without any plan
 
 ---
 1. dive right into cold water
@@ -90,7 +90,7 @@ At the same time **try** to:
 
 ---
 1. mine all the possible joy from teaching like i have to teach for the rest of my life
-2. get rid of teacher job and become free from having to teach ever again
+2. get rid of teacher job and become free from having to teach
 
 ---
 1. control the class when everything is fucked (lesson is bullshit, students are rogue, i haven't prepared anything)
@@ -98,7 +98,7 @@ At the same time **try** to:
 
 ---
 1. improve anything in your sight.
-2. look at more important things.
+2. turn my sight to more important things.
 
 ---
 1. be able to re-invent the wheel
