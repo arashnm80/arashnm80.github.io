@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>Rules for AI Agents: Documentation</title>
+    
+    <!-- seo -->
+    <meta property="og:site_name" content="Arash Nemat Zadeh">
+    <meta property="og:title" content="Rules for AI Agents: Documentation">
+    <meta property="og:image" content="../assets/arashnm80.jpg">
+    <meta name="twitter:title" content="Rules for AI Agents: Documentation">
+    <meta name="twitter:image" content="../assets/arashnm80.jpg">
+
+    <link rel="stylesheet" href="/styles.css">
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-C32LDMX65L"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){{dataLayer.push(arguments);}}
+        gtag('js', new Date());
+
+        gtag('config', 'G-C32LDMX65L');
+    </script>
+
+</head>
+<body>
+    <h1 dir="auto" id="rules-for-ai-agents-documentation">Rules for AI Agents: Documentation</h1>
+<p dir="auto" style="opacity: 0.6; font-size: 0.9em;">Last update: 2026-11-28</p>
+
+<h2 dir="auto" id="how-to-use-this-document"><a href="#how-to-use-this-document" class="anchor-link" aria-label="Anchor link"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" style="vertical-align:middle;fill:gray;"><path d="M13.2218 3.32234C15.3697 1.17445 18.8521 1.17445 21 3.32234C23.1479 5.47022 23.1479 8.95263 21 11.1005L17.4645 14.636C15.3166 16.7839 11.8342 16.7839 9.6863 14.636C9.48752 14.4373 9.30713 14.2271 9.14514 14.0075C8.90318 13.6796 8.97098 13.2301 9.25914 12.9419C9.73221 12.4688 10.5662 12.6561 11.0245 13.1435C11.0494 13.1699 11.0747 13.196 11.1005 13.2218C12.4673 14.5887 14.6834 14.5887 16.0503 13.2218L19.5858 9.6863C20.9526 8.31947 20.9526 6.10339 19.5858 4.73655C18.219 3.36972 16.0029 3.36972 14.636 4.73655L13.5754 5.79721C13.1849 6.18774 12.5517 6.18774 12.1612 5.79721C11.7706 5.40669 11.7706 4.77352 12.1612 4.383L13.2218 3.32234Z"/><path d="M6.85787 9.6863C8.90184 7.64233 12.2261 7.60094 14.3494 9.42268C14.7319 9.75083 14.7008 10.3287 14.3444 10.685C13.9253 11.1041 13.2317 11.0404 12.7416 10.707C11.398 9.79292 9.48593 9.88667 8.27209 11.1005L4.73655 14.636C3.36972 16.0029 3.36972 18.219 4.73655 19.5858C6.10339 20.9526 8.31947 20.9526 9.6863 19.5858L10.747 18.5251C11.1375 18.1346 11.7706 18.1346 12.1612 18.5251C12.5517 18.9157 12.5517 19.5488 12.1612 19.9394L11.1005 21C8.95263 23.1479 5.47022 23.1479 3.32234 21C1.17445 18.8521 1.17445 15.3697 3.32234 13.2218L6.85787 9.6863Z"/></svg></a>How to use this document</h2>
+
+<p dir="auto" dir="auto">These rules say how AI agents write and organize technical documentation in any project. They extend the general <a dir="auto" href="https://arashnm80.com/ai-rules/development">development rules</a> (R1 to R5), mainly R2 (document as you go), R4 (human readability) and R5 (long-term maintainability). When the two conflict, the general rules win. A project may add its own rules on top (for example, which tracker and docs site it uses); it may not lower these.</p>
+
+<p dir="auto" dir="auto">Two words used below: the <strong>docs home</strong> is the one place documentation lives (a docs repository or a <code>docs/</code> folder), and the <strong>tracker</strong> is the issue tracker (Linear, Jira, GitHub Issues). Cite rules as D1, D2 and so on.</p>
+
+<h2 dir="auto" id="d1-one-docs-home-organized-by-purpose"><a href="#d1-one-docs-home-organized-by-purpose" class="anchor-link" aria-label="Anchor link"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" style="vertical-align:middle;fill:gray;"><path d="M13.2218 3.32234C15.3697 1.17445 18.8521 1.17445 21 3.32234C23.1479 5.47022 23.1479 8.95263 21 11.1005L17.4645 14.636C15.3166 16.7839 11.8342 16.7839 9.6863 14.636C9.48752 14.4373 9.30713 14.2271 9.14514 14.0075C8.90318 13.6796 8.97098 13.2301 9.25914 12.9419C9.73221 12.4688 10.5662 12.6561 11.0245 13.1435C11.0494 13.1699 11.0747 13.196 11.1005 13.2218C12.4673 14.5887 14.6834 14.5887 16.0503 13.2218L19.5858 9.6863C20.9526 8.31947 20.9526 6.10339 19.5858 4.73655C18.219 3.36972 16.0029 3.36972 14.636 4.73655L13.5754 5.79721C13.1849 6.18774 12.5517 6.18774 12.1612 5.79721C11.7706 5.40669 11.7706 4.77352 12.1612 4.383L13.2218 3.32234Z"/><path d="M6.85787 9.6863C8.90184 7.64233 12.2261 7.60094 14.3494 9.42268C14.7319 9.75083 14.7008 10.3287 14.3444 10.685C13.9253 11.1041 13.2317 11.0404 12.7416 10.707C11.398 9.79292 9.48593 9.88667 8.27209 11.1005L4.73655 14.636C3.36972 16.0029 3.36972 18.219 4.73655 19.5858C6.10339 20.9526 8.31947 20.9526 9.6863 19.5858L10.747 18.5251C11.1375 18.1346 11.7706 18.1346 12.1612 18.5251C12.5517 18.9157 12.5517 19.5488 12.1612 19.9394L11.1005 21C8.95263 23.1479 5.47022 23.1479 3.32234 21C1.17445 18.8521 1.17445 15.3697 3.32234 13.2218L6.85787 9.6863Z"/></svg></a>D1. One docs home, organized by purpose</h2>
+
+<p dir="auto" dir="auto"><strong>Rule.</strong> Keep all technical documentation in one docs home, in folders by purpose, with an index page and navigation that reach every page.</p>
+
+<p dir="auto" dir="auto"><strong>Rules for agents</strong></p>
+
+<ol>
+<li>Default layout: <code>projects/&lt;repo&gt;/</code> (one repository), <code>projects/workspace/</code> (knowledge that spans repositories, including the glossary and the server inventory), <code>issues/open/</code> and <code>issues/done/</code> (task folders, D2), <code>decisions/</code> (D8), <code>api/</code> (API specs or collections), <code>templates/</code>, and <code>skills/</code> and <code>rules/</code> for agents.</li>
+<li>Keep the index and navigation in sync with the files in the same change that adds, removes, renames or moves a page. Generate navigation from the folder tree when the tooling allows it.</li>
+<li>One fact lives in one place. Link to it instead of copying it.</li>
+</ol>
+
+<p dir="auto" dir="auto"><strong>Red flags:</strong> a page nothing links to; a broken link; two pages that state the same fact differently.</p>
+
+<h2 dir="auto" id="d2-task-folders-follow-the-task-lifecycle"><a href="#d2-task-folders-follow-the-task-lifecycle" class="anchor-link" aria-label="Anchor link"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" style="vertical-align:middle;fill:gray;"><path d="M13.2218 3.32234C15.3697 1.17445 18.8521 1.17445 21 3.32234C23.1479 5.47022 23.1479 8.95263 21 11.1005L17.4645 14.636C15.3166 16.7839 11.8342 16.7839 9.6863 14.636C9.48752 14.4373 9.30713 14.2271 9.14514 14.0075C8.90318 13.6796 8.97098 13.2301 9.25914 12.9419C9.73221 12.4688 10.5662 12.6561 11.0245 13.1435C11.0494 13.1699 11.0747 13.196 11.1005 13.2218C12.4673 14.5887 14.6834 14.5887 16.0503 13.2218L19.5858 9.6863C20.9526 8.31947 20.9526 6.10339 19.5858 4.73655C18.219 3.36972 16.0029 3.36972 14.636 4.73655L13.5754 5.79721C13.1849 6.18774 12.5517 6.18774 12.1612 5.79721C11.7706 5.40669 11.7706 4.77352 12.1612 4.383L13.2218 3.32234Z"/><path d="M6.85787 9.6863C8.90184 7.64233 12.2261 7.60094 14.3494 9.42268C14.7319 9.75083 14.7008 10.3287 14.3444 10.685C13.9253 11.1041 13.2317 11.0404 12.7416 10.707C11.398 9.79292 9.48593 9.88667 8.27209 11.1005L4.73655 14.636C3.36972 16.0029 3.36972 18.219 4.73655 19.5858C6.10339 20.9526 8.31947 20.9526 9.6863 19.5858L10.747 18.5251C11.1375 18.1346 11.7706 18.1346 12.1612 18.5251C12.5517 18.9157 12.5517 19.5488 12.1612 19.9394L11.1005 21C8.95263 23.1479 5.47022 23.1479 3.32234 21C1.17445 18.8521 1.17445 15.3697 3.32234 13.2218L6.85787 9.6863Z"/></svg></a>D2. Task folders follow the task lifecycle</h2>
+
+<p dir="auto" dir="auto"><strong>Rule.</strong> Every task gets one folder holding its whole written record, and the folder moves from open to done when the task ships.</p>
+
+<p dir="auto" dir="auto"><strong>Rules for agents</strong></p>
+
+<ol>
+<li>Name it <code>&lt;ISSUE-ID&gt;-&lt;slug&gt;</code> for a tracker issue, otherwise <code>YYYY-MM-DD-&lt;slug&gt;</code>, with a lowercase kebab-case slug. Check that no folder for that issue exists yet.</li>
+<li>Files, each only when needed, started from <code>templates/</code>: <code>draft.md</code> (before work, one screen), <code>breakdown.md</code> (big tasks: subtasks A, B, C split per R1, each with scope, "done when", dependencies), <code>plan.md</code> (before code), <code>doc.md</code> (during and after work, D4).</li>
+<li>A big task gets one subfolder per subtask with its own <code>plan.md</code> and <code>doc.md</code>. The parent <code>doc.md</code> is an index table plus the final state (what was merged and deployed).</li>
+<li>When the task ships: finish <code>doc.md</code>, update the living pages (D5), move the folder to done, update the index, close the issue.</li>
+</ol>
+
+<p dir="auto" dir="auto"><strong>Red flags:</strong> one task in both open and done; two folders for one issue; a shipped task still under open; a task file that matches no template.</p>
+
+<h2 dir="auto" id="d3-every-document-stands-alone"><a href="#d3-every-document-stands-alone" class="anchor-link" aria-label="Anchor link"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" style="vertical-align:middle;fill:gray;"><path d="M13.2218 3.32234C15.3697 1.17445 18.8521 1.17445 21 3.32234C23.1479 5.47022 23.1479 8.95263 21 11.1005L17.4645 14.636C15.3166 16.7839 11.8342 16.7839 9.6863 14.636C9.48752 14.4373 9.30713 14.2271 9.14514 14.0075C8.90318 13.6796 8.97098 13.2301 9.25914 12.9419C9.73221 12.4688 10.5662 12.6561 11.0245 13.1435C11.0494 13.1699 11.0747 13.196 11.1005 13.2218C12.4673 14.5887 14.6834 14.5887 16.0503 13.2218L19.5858 9.6863C20.9526 8.31947 20.9526 6.10339 19.5858 4.73655C18.219 3.36972 16.0029 3.36972 14.636 4.73655L13.5754 5.79721C13.1849 6.18774 12.5517 6.18774 12.1612 5.79721C11.7706 5.40669 11.7706 4.77352 12.1612 4.383L13.2218 3.32234Z"/><path d="M6.85787 9.6863C8.90184 7.64233 12.2261 7.60094 14.3494 9.42268C14.7319 9.75083 14.7008 10.3287 14.3444 10.685C13.9253 11.1041 13.2317 11.0404 12.7416 10.707C11.398 9.79292 9.48593 9.88667 8.27209 11.1005L4.73655 14.636C3.36972 16.0029 3.36972 18.219 4.73655 19.5858C6.10339 20.9526 8.31947 20.9526 9.6863 19.5858L10.747 18.5251C11.1375 18.1346 11.7706 18.1346 12.1612 18.5251C12.5517 18.9157 12.5517 19.5488 12.1612 19.9394L11.1005 21C8.95263 23.1479 5.47022 23.1479 3.32234 21C1.17445 18.8521 1.17445 15.3697 3.32234 13.2218L6.85787 9.6863Z"/></svg></a>D3. Every document stands alone</h2>
+
+<p dir="auto" dir="auto"><strong>Rule.</strong> A reader with no chat history and no tracker access can understand, continue or reproduce the work from the docs alone.</p>
+
+<p dir="auto" dir="auto"><strong>Rules for agents</strong></p>
+
+<ol>
+<li>Copy the exact requirements (title, description, acceptance criteria, key comments) from the tracker once, into the task's first document. Later documents link to that copy instead of repeating it. Still link to the issue.</li>
+<li>Start every document with a title (<code>&lt;ISSUE-ID&gt; — &lt;title&gt;</code>), and links to its parent task, its plan and the issue.</li>
+</ol>
+
+<p dir="auto" dir="auto"><strong>Red flags:</strong> "see the ticket" as the only explanation; requirements pasted into several files that now disagree.</p>
+
+<h2 dir="auto" id="d4-docmd-is-a-runbook-of-the-final-version"><a href="#d4-docmd-is-a-runbook-of-the-final-version" class="anchor-link" aria-label="Anchor link"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" style="vertical-align:middle;fill:gray;"><path d="M13.2218 3.32234C15.3697 1.17445 18.8521 1.17445 21 3.32234C23.1479 5.47022 23.1479 8.95263 21 11.1005L17.4645 14.636C15.3166 16.7839 11.8342 16.7839 9.6863 14.636C9.48752 14.4373 9.30713 14.2271 9.14514 14.0075C8.90318 13.6796 8.97098 13.2301 9.25914 12.9419C9.73221 12.4688 10.5662 12.6561 11.0245 13.1435C11.0494 13.1699 11.0747 13.196 11.1005 13.2218C12.4673 14.5887 14.6834 14.5887 16.0503 13.2218L19.5858 9.6863C20.9526 8.31947 20.9526 6.10339 19.5858 4.73655C18.219 3.36972 16.0029 3.36972 14.636 4.73655L13.5754 5.79721C13.1849 6.18774 12.5517 6.18774 12.1612 5.79721C11.7706 5.40669 11.7706 4.77352 12.1612 4.383L13.2218 3.32234Z"/><path d="M6.85787 9.6863C8.90184 7.64233 12.2261 7.60094 14.3494 9.42268C14.7319 9.75083 14.7008 10.3287 14.3444 10.685C13.9253 11.1041 13.2317 11.0404 12.7416 10.707C11.398 9.79292 9.48593 9.88667 8.27209 11.1005L4.73655 14.636C3.36972 16.0029 3.36972 18.219 4.73655 19.5858C6.10339 20.9526 8.31947 20.9526 9.6863 19.5858L10.747 18.5251C11.1375 18.1346 11.7706 18.1346 12.1612 18.5251C12.5517 18.9157 12.5517 19.5488 12.1612 19.9394L11.1005 21C8.95263 23.1479 5.47022 23.1479 3.32234 21C1.17445 18.8521 1.17445 15.3697 3.32234 13.2218L6.85787 9.6863Z"/></svg></a>D4. doc.md is a runbook of the final version</h2>
+
+<p dir="auto" dir="auto"><strong>Rule.</strong> <code>doc.md</code> records what was actually done, so another person can reproduce, operate or undo it. It shows only the final, working version; git keeps the history.</p>
+
+<p dir="auto" dir="auto"><strong>Rules for agents</strong></p>
+
+<ol>
+<li>Past tense, with the exact commands, configs, paths, versions, branches and commit hashes. Leave out facts anyone can look up.</li>
+<li>For a service, deploy or server change, include how to start, stop, update, verify and troubleshoot it.</li>
+<li>Record where the work differed from the plan and why. Don't narrate failed attempts; delete replaced approaches, and leave a one-line pointer in any doc that still describes the old one.</li>
+<li>End with the result: how it was verified, and its known limits (R2.7). Update it after each step, not only at the end (R2.3).</li>
+</ol>
+
+<p dir="auto" dir="auto"><strong>Red flags:</strong> "configured the server" with no command; "first we tried X"; future tense in a finished doc.</p>
+
+<h2 dir="auto" id="d5-living-pages-describe-the-system-as-it-is-now"><a href="#d5-living-pages-describe-the-system-as-it-is-now" class="anchor-link" aria-label="Anchor link"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" style="vertical-align:middle;fill:gray;"><path d="M13.2218 3.32234C15.3697 1.17445 18.8521 1.17445 21 3.32234C23.1479 5.47022 23.1479 8.95263 21 11.1005L17.4645 14.636C15.3166 16.7839 11.8342 16.7839 9.6863 14.636C9.48752 14.4373 9.30713 14.2271 9.14514 14.0075C8.90318 13.6796 8.97098 13.2301 9.25914 12.9419C9.73221 12.4688 10.5662 12.6561 11.0245 13.1435C11.0494 13.1699 11.0747 13.196 11.1005 13.2218C12.4673 14.5887 14.6834 14.5887 16.0503 13.2218L19.5858 9.6863C20.9526 8.31947 20.9526 6.10339 19.5858 4.73655C18.219 3.36972 16.0029 3.36972 14.636 4.73655L13.5754 5.79721C13.1849 6.18774 12.5517 6.18774 12.1612 5.79721C11.7706 5.40669 11.7706 4.77352 12.1612 4.383L13.2218 3.32234Z"/><path d="M6.85787 9.6863C8.90184 7.64233 12.2261 7.60094 14.3494 9.42268C14.7319 9.75083 14.7008 10.3287 14.3444 10.685C13.9253 11.1041 13.2317 11.0404 12.7416 10.707C11.398 9.79292 9.48593 9.88667 8.27209 11.1005L4.73655 14.636C3.36972 16.0029 3.36972 18.219 4.73655 19.5858C6.10339 20.9526 8.31947 20.9526 9.6863 19.5858L10.747 18.5251C11.1375 18.1346 11.7706 18.1346 12.1612 18.5251C12.5517 18.9157 12.5517 19.5488 12.1612 19.9394L11.1005 21C8.95263 23.1479 5.47022 23.1479 3.32234 21C1.17445 18.8521 1.17445 15.3697 3.32234 13.2218L6.85787 9.6863Z"/></svg></a>D5. Living pages describe the system as it is now</h2>
+
+<p dir="auto" dir="auto"><strong>Rule.</strong> Task records say what happened; living pages say how the system works today. Every lasting fact ends up on a living page, so nobody has to replay old tasks to understand the system.</p>
+
+<p dir="auto" dir="auto"><strong>Rules for agents</strong></p>
+
+<ol>
+<li>Give each living page one job: tutorial (learn), how-to (do one task), reference (look up facts) or explanation (understand why). Don't mix them on one page.</li>
+<li>When a task changes how something works, update or create the living page in the same task, and link it from the task's <code>doc.md</code>.</li>
+<li>Put an owner and a <code>Last reviewed: YYYY-MM-DD</code> line under the title of each living page. Update the date whenever you check the page against reality.</li>
+<li>Generate reference (API specs, config lists) from the code when possible, instead of writing it by hand.</li>
+</ol>
+
+<p dir="auto" dir="auto"><strong>Red flags:</strong> "read tasks A to O to see how payments work"; a living page older than the code it describes; a page that is half tutorial, half reference.</p>
+
+<h2 dir="auto" id="d6-code-commits-and-docs-are-linked"><a href="#d6-code-commits-and-docs-are-linked" class="anchor-link" aria-label="Anchor link"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" style="vertical-align:middle;fill:gray;"><path d="M13.2218 3.32234C15.3697 1.17445 18.8521 1.17445 21 3.32234C23.1479 5.47022 23.1479 8.95263 21 11.1005L17.4645 14.636C15.3166 16.7839 11.8342 16.7839 9.6863 14.636C9.48752 14.4373 9.30713 14.2271 9.14514 14.0075C8.90318 13.6796 8.97098 13.2301 9.25914 12.9419C9.73221 12.4688 10.5662 12.6561 11.0245 13.1435C11.0494 13.1699 11.0747 13.196 11.1005 13.2218C12.4673 14.5887 14.6834 14.5887 16.0503 13.2218L19.5858 9.6863C20.9526 8.31947 20.9526 6.10339 19.5858 4.73655C18.219 3.36972 16.0029 3.36972 14.636 4.73655L13.5754 5.79721C13.1849 6.18774 12.5517 6.18774 12.1612 5.79721C11.7706 5.40669 11.7706 4.77352 12.1612 4.383L13.2218 3.32234Z"/><path d="M6.85787 9.6863C8.90184 7.64233 12.2261 7.60094 14.3494 9.42268C14.7319 9.75083 14.7008 10.3287 14.3444 10.685C13.9253 11.1041 13.2317 11.0404 12.7416 10.707C11.398 9.79292 9.48593 9.88667 8.27209 11.1005L4.73655 14.636C3.36972 16.0029 3.36972 18.219 4.73655 19.5858C6.10339 20.9526 8.31947 20.9526 9.6863 19.5858L10.747 18.5251C11.1375 18.1346 11.7706 18.1346 12.1612 18.5251C12.5517 18.9157 12.5517 19.5488 12.1612 19.9394L11.1005 21C8.95263 23.1479 5.47022 23.1479 3.32234 21C1.17445 18.8521 1.17445 15.3697 3.32234 13.2218L6.85787 9.6863Z"/></svg></a>D6. Code commits and docs are linked</h2>
+
+<p dir="auto" dir="auto"><strong>Rule.</strong> Every code change is traceable from its docs, and docs change in the same task as the code they describe.</p>
+
+<p dir="auto" dir="auto"><strong>Rules for agents</strong></p>
+
+<ol>
+<li>Commit the code first. Then add a commit table to <code>doc.md</code> (repository and branch, short and full hash, message, files), and commit the docs once.</li>
+<li>Stage only files that belong to the task.</li>
+<li>In the same task, update every doc the change affects: living pages, API specs, setup guides.</li>
+<li>Write docs commit messages as <code>docs: &lt;verb&gt; &lt;what&gt;</code>.</li>
+</ol>
+
+<p dir="auto" dir="auto"><strong>Red flags:</strong> a shipped change with no hash in its doc; an API change with an outdated spec; a docs commit titled "update".</p>
+
+<h2 dir="auto" id="d7-problem-first-short-and-scannable"><a href="#d7-problem-first-short-and-scannable" class="anchor-link" aria-label="Anchor link"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" style="vertical-align:middle;fill:gray;"><path d="M13.2218 3.32234C15.3697 1.17445 18.8521 1.17445 21 3.32234C23.1479 5.47022 23.1479 8.95263 21 11.1005L17.4645 14.636C15.3166 16.7839 11.8342 16.7839 9.6863 14.636C9.48752 14.4373 9.30713 14.2271 9.14514 14.0075C8.90318 13.6796 8.97098 13.2301 9.25914 12.9419C9.73221 12.4688 10.5662 12.6561 11.0245 13.1435C11.0494 13.1699 11.0747 13.196 11.1005 13.2218C12.4673 14.5887 14.6834 14.5887 16.0503 13.2218L19.5858 9.6863C20.9526 8.31947 20.9526 6.10339 19.5858 4.73655C18.219 3.36972 16.0029 3.36972 14.636 4.73655L13.5754 5.79721C13.1849 6.18774 12.5517 6.18774 12.1612 5.79721C11.7706 5.40669 11.7706 4.77352 12.1612 4.383L13.2218 3.32234Z"/><path d="M6.85787 9.6863C8.90184 7.64233 12.2261 7.60094 14.3494 9.42268C14.7319 9.75083 14.7008 10.3287 14.3444 10.685C13.9253 11.1041 13.2317 11.0404 12.7416 10.707C11.398 9.79292 9.48593 9.88667 8.27209 11.1005L4.73655 14.636C3.36972 16.0029 3.36972 18.219 4.73655 19.5858C6.10339 20.9526 8.31947 20.9526 9.6863 19.5858L10.747 18.5251C11.1375 18.1346 11.7706 18.1346 12.1612 18.5251C12.5517 18.9157 12.5517 19.5488 12.1612 19.9394L11.1005 21C8.95263 23.1479 5.47022 23.1479 3.32234 21C1.17445 18.8521 1.17445 15.3697 3.32234 13.2218L6.85787 9.6863Z"/></svg></a>D7. Problem first, short and scannable</h2>
+
+<p dir="auto" dir="auto"><strong>Rule.</strong> Readers scan before they read. Plans, drafts and issues open with the problem; records and answers open with a summary. Structure carries the rest.</p>
+
+<p dir="auto" dir="auto"><strong>Rules for agents</strong></p>
+
+<ol>
+<li>Right after the title of a plan, draft or issue, state the problem in plain language: what happens today, who it affects, what is missing. Requirements and steps come after.</li>
+<li>Use tables for structured facts, numbered steps for procedures, and copy-ready code blocks for every command.</li>
+<li>Keep drafts and progress notes to about one screen. Use plain words (R4), and define each domain term once in the glossary.</li>
+</ol>
+
+<p dir="auto" dir="auto"><strong>Red flags:</strong> a plan that opens with steps; a wall of prose where a table fits; a command inside a sentence.</p>
+
+<h2 dir="auto" id="d8-decisions-and-incidents-keep-their-reasons"><a href="#d8-decisions-and-incidents-keep-their-reasons" class="anchor-link" aria-label="Anchor link"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" style="vertical-align:middle;fill:gray;"><path d="M13.2218 3.32234C15.3697 1.17445 18.8521 1.17445 21 3.32234C23.1479 5.47022 23.1479 8.95263 21 11.1005L17.4645 14.636C15.3166 16.7839 11.8342 16.7839 9.6863 14.636C9.48752 14.4373 9.30713 14.2271 9.14514 14.0075C8.90318 13.6796 8.97098 13.2301 9.25914 12.9419C9.73221 12.4688 10.5662 12.6561 11.0245 13.1435C11.0494 13.1699 11.0747 13.196 11.1005 13.2218C12.4673 14.5887 14.6834 14.5887 16.0503 13.2218L19.5858 9.6863C20.9526 8.31947 20.9526 6.10339 19.5858 4.73655C18.219 3.36972 16.0029 3.36972 14.636 4.73655L13.5754 5.79721C13.1849 6.18774 12.5517 6.18774 12.1612 5.79721C11.7706 5.40669 11.7706 4.77352 12.1612 4.383L13.2218 3.32234Z"/><path d="M6.85787 9.6863C8.90184 7.64233 12.2261 7.60094 14.3494 9.42268C14.7319 9.75083 14.7008 10.3287 14.3444 10.685C13.9253 11.1041 13.2317 11.0404 12.7416 10.707C11.398 9.79292 9.48593 9.88667 8.27209 11.1005L4.73655 14.636C3.36972 16.0029 3.36972 18.219 4.73655 19.5858C6.10339 20.9526 8.31947 20.9526 9.6863 19.5858L10.747 18.5251C11.1375 18.1346 11.7706 18.1346 12.1612 18.5251C12.5517 18.9157 12.5517 19.5488 12.1612 19.9394L11.1005 21C8.95263 23.1479 5.47022 23.1479 3.32234 21C1.17445 18.8521 1.17445 15.3697 3.32234 13.2218L6.85787 9.6863Z"/></svg></a>D8. Decisions and incidents keep their reasons</h2>
+
+<p dir="auto" dir="auto"><strong>Rule.</strong> The final-version rule removes failed attempts, not reasons. Lasting decisions and production incidents get records that keep the why.</p>
+
+<p dir="auto" dir="auto"><strong>Rules for agents</strong></p>
+
+<ol>
+<li>Record each decision that is costly to reverse (architecture, vendor, data model, security) as an ADR (architecture decision record): <code>decisions/NNNN-&lt;slug&gt;.md</code> with context, options considered, decision, consequences. Never rewrite an accepted ADR; supersede it with a new one and link both ways.</li>
+<li>For a production incident, <code>doc.md</code> also covers impact, timeline, root cause and follow-up actions, without blame. Each follow-up becomes a tracker issue or a task folder.</li>
+</ol>
+
+<p dir="auto" dir="auto"><strong>Red flags:</strong> nobody knows why a choice was made; the same incident happens twice; a postmortem that names a person as the cause.</p>
+
+<h2 dir="auto" id="d9-no-secrets-or-personal-data-in-docs"><a href="#d9-no-secrets-or-personal-data-in-docs" class="anchor-link" aria-label="Anchor link"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" style="vertical-align:middle;fill:gray;"><path d="M13.2218 3.32234C15.3697 1.17445 18.8521 1.17445 21 3.32234C23.1479 5.47022 23.1479 8.95263 21 11.1005L17.4645 14.636C15.3166 16.7839 11.8342 16.7839 9.6863 14.636C9.48752 14.4373 9.30713 14.2271 9.14514 14.0075C8.90318 13.6796 8.97098 13.2301 9.25914 12.9419C9.73221 12.4688 10.5662 12.6561 11.0245 13.1435C11.0494 13.1699 11.0747 13.196 11.1005 13.2218C12.4673 14.5887 14.6834 14.5887 16.0503 13.2218L19.5858 9.6863C20.9526 8.31947 20.9526 6.10339 19.5858 4.73655C18.219 3.36972 16.0029 3.36972 14.636 4.73655L13.5754 5.79721C13.1849 6.18774 12.5517 6.18774 12.1612 5.79721C11.7706 5.40669 11.7706 4.77352 12.1612 4.383L13.2218 3.32234Z"/><path d="M6.85787 9.6863C8.90184 7.64233 12.2261 7.60094 14.3494 9.42268C14.7319 9.75083 14.7008 10.3287 14.3444 10.685C13.9253 11.1041 13.2317 11.0404 12.7416 10.707C11.398 9.79292 9.48593 9.88667 8.27209 11.1005L4.73655 14.636C3.36972 16.0029 3.36972 18.219 4.73655 19.5858C6.10339 20.9526 8.31947 20.9526 9.6863 19.5858L10.747 18.5251C11.1375 18.1346 11.7706 18.1346 12.1612 18.5251C12.5517 18.9157 12.5517 19.5488 12.1612 19.9394L11.1005 21C8.95263 23.1479 5.47022 23.1479 3.32234 21C1.17445 18.8521 1.17445 15.3697 3.32234 13.2218L6.85787 9.6863Z"/></svg></a>D9. No secrets or personal data in docs</h2>
+
+<p dir="auto" dir="auto"><strong>Rule.</strong> Documentation gets copied, published and indexed. It holds no secrets and no personal data.</p>
+
+<p dir="auto" dir="auto"><strong>Rules for agents</strong></p>
+
+<ol>
+<li>Write where a secret lives (an <code>.env</code> path, a secret manager entry), never its value.</li>
+<li>Refer to customers by internal ID, never by name, phone number or email. Staff contact details go only in the one access-control page.</li>
+<li>Keep server addresses in the server inventory page and refer to servers by name elsewhere.</li>
+</ol>
+
+<p dir="auto" dir="auto"><strong>Red flags:</strong> a password, token or key value; a customer's phone number; an IP address repeated across task docs.</p>
+
+<h2 dir="auto" id="d10-checks-enforce-the-rules-and-the-bar-only-rises"><a href="#d10-checks-enforce-the-rules-and-the-bar-only-rises" class="anchor-link" aria-label="Anchor link"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" style="vertical-align:middle;fill:gray;"><path d="M13.2218 3.32234C15.3697 1.17445 18.8521 1.17445 21 3.32234C23.1479 5.47022 23.1479 8.95263 21 11.1005L17.4645 14.636C15.3166 16.7839 11.8342 16.7839 9.6863 14.636C9.48752 14.4373 9.30713 14.2271 9.14514 14.0075C8.90318 13.6796 8.97098 13.2301 9.25914 12.9419C9.73221 12.4688 10.5662 12.6561 11.0245 13.1435C11.0494 13.1699 11.0747 13.196 11.1005 13.2218C12.4673 14.5887 14.6834 14.5887 16.0503 13.2218L19.5858 9.6863C20.9526 8.31947 20.9526 6.10339 19.5858 4.73655C18.219 3.36972 16.0029 3.36972 14.636 4.73655L13.5754 5.79721C13.1849 6.18774 12.5517 6.18774 12.1612 5.79721C11.7706 5.40669 11.7706 4.77352 12.1612 4.383L13.2218 3.32234Z"/><path d="M6.85787 9.6863C8.90184 7.64233 12.2261 7.60094 14.3494 9.42268C14.7319 9.75083 14.7008 10.3287 14.3444 10.685C13.9253 11.1041 13.2317 11.0404 12.7416 10.707C11.398 9.79292 9.48593 9.88667 8.27209 11.1005L4.73655 14.636C3.36972 16.0029 3.36972 18.219 4.73655 19.5858C6.10339 20.9526 8.31947 20.9526 9.6863 19.5858L10.747 18.5251C11.1375 18.1346 11.7706 18.1346 12.1612 18.5251C12.5517 18.9157 12.5517 19.5488 12.1612 19.9394L11.1005 21C8.95263 23.1479 5.47022 23.1479 3.32234 21C1.17445 18.8521 1.17445 15.3697 3.32234 13.2218L6.85787 9.6863Z"/></svg></a>D10. Checks enforce the rules, and the bar only rises</h2>
+
+<p dir="auto" dir="auto"><strong>Rule.</strong> What can be checked by a machine is checked on every change, and the documentation gets more standard over time, never less.</p>
+
+<p dir="auto" dir="auto"><strong>Rules for agents</strong></p>
+
+<ol>
+<li>Run the docs checks before committing: site build or validate, broken links, pages missing from navigation, secret scan. Fix the doc, never weaken the check.</li>
+<li>Every new page meets the current rules. When you edit an old page, bring the part you touch up to the current rules (Boy Scout rule); list larger cleanups as tasks instead.</li>
+<li>When a rule is missing, unclear or keeps getting broken, propose a rule or a new check in your summary. The owner decides; agents don't change the rules themselves.</li>
+</ol>
+
+<p dir="auto" dir="auto"><strong>Red flags:</strong> a check disabled to make a commit pass; new pages copying an outdated pattern; the same review comment made twice with no rule added.</p>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('.anchor-link').forEach(function(anchor) {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                var url = window.location.origin + window.location.pathname + anchor.getAttribute('href');
+                if (navigator.clipboard) {
+                    navigator.clipboard.writeText(url);
+                }
+            });
+        });
+    });
+    </script>
+</body>
+</html>

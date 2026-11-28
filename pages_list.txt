@@ -96,3 +96,7 @@ week-1253.html
 i'm-dog-of.html
 week-1276.html
 week-1284.html
+ai-rules/development.html
+ai-rules/documentation.html
+ai-rules/index.html
+ai-rules/qa.html

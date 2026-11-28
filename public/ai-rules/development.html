@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>Rules for AI Agents: Development</title>
+    
+    <!-- seo -->
+    <meta property="og:site_name" content="Arash Nemat Zadeh">
+    <meta property="og:title" content="Rules for AI Agents: Development">
+    <meta property="og:image" content="../assets/arashnm80.jpg">
+    <meta name="twitter:title" content="Rules for AI Agents: Development">
+    <meta name="twitter:image" content="../assets/arashnm80.jpg">
+
+    <link rel="stylesheet" href="/styles.css">
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-C32LDMX65L"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){{dataLayer.push(arguments);}}
+        gtag('js', new Date());
+
+        gtag('config', 'G-C32LDMX65L');
+    </script>
+
+</head>
+<body>
+    <h1 dir="auto" id="rules-for-ai-agents-development">Rules for AI Agents: Development</h1>
+<p dir="auto" style="opacity: 0.6; font-size: 0.9em;">Last update: 2026-11-28</p>
+
+<h2 dir="auto" id="how-to-use-this-document"><a href="#how-to-use-this-document" class="anchor-link" aria-label="Anchor link"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" style="vertical-align:middle;fill:gray;"><path d="M13.2218 3.32234C15.3697 1.17445 18.8521 1.17445 21 3.32234C23.1479 5.47022 23.1479 8.95263 21 11.1005L17.4645 14.636C15.3166 16.7839 11.8342 16.7839 9.6863 14.636C9.48752 14.4373 9.30713 14.2271 9.14514 14.0075C8.90318 13.6796 8.97098 13.2301 9.25914 12.9419C9.73221 12.4688 10.5662 12.6561 11.0245 13.1435C11.0494 13.1699 11.0747 13.196 11.1005 13.2218C12.4673 14.5887 14.6834 14.5887 16.0503 13.2218L19.5858 9.6863C20.9526 8.31947 20.9526 6.10339 19.5858 4.73655C18.219 3.36972 16.0029 3.36972 14.636 4.73655L13.5754 5.79721C13.1849 6.18774 12.5517 6.18774 12.1612 5.79721C11.7706 5.40669 11.7706 4.77352 12.1612 4.383L13.2218 3.32234Z"/><path d="M6.85787 9.6863C8.90184 7.64233 12.2261 7.60094 14.3494 9.42268C14.7319 9.75083 14.7008 10.3287 14.3444 10.685C13.9253 11.1041 13.2317 11.0404 12.7416 10.707C11.398 9.79292 9.48593 9.88667 8.27209 11.1005L4.73655 14.636C3.36972 16.0029 3.36972 18.219 4.73655 19.5858C6.10339 20.9526 8.31947 20.9526 9.6863 19.5858L10.747 18.5251C11.1375 18.1346 11.7706 18.1346 12.1612 18.5251C12.5517 18.9157 12.5517 19.5488 12.1612 19.9394L11.1005 21C8.95263 23.1479 5.47022 23.1479 3.32234 21C1.17445 18.8521 1.17445 15.3697 3.32234 13.2218L6.85787 9.6863Z"/></svg></a>How to use this document</h2>
+
+<p dir="auto" dir="auto">This is the single source of truth for how AI agents write code in my projects. Every rule here binds every AI agent. (Rules for humans live in a separate document.)</p>
+
+<ol>
+<li>Read this whole document before planning or writing code.</li>
+<li>Apply every rule. When a task conflicts with a rule, stop and say which rule it conflicts with, then wait for a decision.</li>
+<li>When you plan, cite the rule numbers that shaped the plan (for example, "split per R1").</li>
+<li>Never edit this document unless explicitly asked.</li>
+</ol>
+
+<p dir="auto" dir="auto"><strong>Priority:</strong> R1 matters most, then R2, R3, R4 and R5 in that order, then the small principles. When rules conflict, the higher one wins.</p>
+
+<h2 dir="auto" id="r1-galls-law-grow-complex-systems-from-simple-ones-that-work"><a href="#r1-galls-law-grow-complex-systems-from-simple-ones-that-work" class="anchor-link" aria-label="Anchor link"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" style="vertical-align:middle;fill:gray;"><path d="M13.2218 3.32234C15.3697 1.17445 18.8521 1.17445 21 3.32234C23.1479 5.47022 23.1479 8.95263 21 11.1005L17.4645 14.636C15.3166 16.7839 11.8342 16.7839 9.6863 14.636C9.48752 14.4373 9.30713 14.2271 9.14514 14.0075C8.90318 13.6796 8.97098 13.2301 9.25914 12.9419C9.73221 12.4688 10.5662 12.6561 11.0245 13.1435C11.0494 13.1699 11.0747 13.196 11.1005 13.2218C12.4673 14.5887 14.6834 14.5887 16.0503 13.2218L19.5858 9.6863C20.9526 8.31947 20.9526 6.10339 19.5858 4.73655C18.219 3.36972 16.0029 3.36972 14.636 4.73655L13.5754 5.79721C13.1849 6.18774 12.5517 6.18774 12.1612 5.79721C11.7706 5.40669 11.7706 4.77352 12.1612 4.383L13.2218 3.32234Z"/><path d="M6.85787 9.6863C8.90184 7.64233 12.2261 7.60094 14.3494 9.42268C14.7319 9.75083 14.7008 10.3287 14.3444 10.685C13.9253 11.1041 13.2317 11.0404 12.7416 10.707C11.398 9.79292 9.48593 9.88667 8.27209 11.1005L4.73655 14.636C3.36972 16.0029 3.36972 18.219 4.73655 19.5858C6.10339 20.9526 8.31947 20.9526 9.6863 19.5858L10.747 18.5251C11.1375 18.1346 11.7706 18.1346 12.1612 18.5251C12.5517 18.9157 12.5517 19.5488 12.1612 19.9394L11.1005 21C8.95263 23.1479 5.47022 23.1479 3.32234 21C1.17445 18.8521 1.17445 15.3697 3.32234 13.2218L6.85787 9.6863Z"/></svg></a>R1. Gall's Law: grow complex systems from simple ones that work</h2>
+
+<p dir="auto" dir="auto"><strong>Rule.</strong> Never build a complex system from scratch. Build the smallest version that works end to end, verify it, then evolve it one step at a time.</p>
+
+<p dir="auto" dir="auto"><strong>Why.</strong> A complex system designed from scratch has too many untested interactions to debug, and it cannot be patched into working (John Gall, <em>Systemantics</em>). A working simple system makes every failure traceable to the last step.</p>
+
+<p dir="auto" dir="auto"><strong>Rules for agents</strong></p>
+
+<ol>
+<li>Start with the smallest working slice: it runs end to end, does one real thing and is verified. Stubs and empty modules don't count.</li>
+<li>Each step adds one capability and ends working and verified. Don't start the next step on an unverified one; fix or revert a broken step first.</li>
+<li>Extend a working system, don't rewrite it. Add abstractions, config or frameworks only for a current need.</li>
+<li>Plan as: Step 0 (the simplest working version), then ordered increments, each with a runnable "done when" check. Detail only the next one.</li>
+<li>Slice by working behavior, never by layer. A subtask that can't be verified alone is too big: split it.</li>
+</ol>
+
+<p dir="auto" dir="auto"><strong>Red flags:</strong> nothing runnable until the last step; a "foundation" phase with no behavior; more than one new moving part in a step.</p>
+
+<h2 dir="auto" id="r2-document-as-you-go-keep-every-task-resumable"><a href="#r2-document-as-you-go-keep-every-task-resumable" class="anchor-link" aria-label="Anchor link"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" style="vertical-align:middle;fill:gray;"><path d="M13.2218 3.32234C15.3697 1.17445 18.8521 1.17445 21 3.32234C23.1479 5.47022 23.1479 8.95263 21 11.1005L17.4645 14.636C15.3166 16.7839 11.8342 16.7839 9.6863 14.636C9.48752 14.4373 9.30713 14.2271 9.14514 14.0075C8.90318 13.6796 8.97098 13.2301 9.25914 12.9419C9.73221 12.4688 10.5662 12.6561 11.0245 13.1435C11.0494 13.1699 11.0747 13.196 11.1005 13.2218C12.4673 14.5887 14.6834 14.5887 16.0503 13.2218L19.5858 9.6863C20.9526 8.31947 20.9526 6.10339 19.5858 4.73655C18.219 3.36972 16.0029 3.36972 14.636 4.73655L13.5754 5.79721C13.1849 6.18774 12.5517 6.18774 12.1612 5.79721C11.7706 5.40669 11.7706 4.77352 12.1612 4.383L13.2218 3.32234Z"/><path d="M6.85787 9.6863C8.90184 7.64233 12.2261 7.60094 14.3494 9.42268C14.7319 9.75083 14.7008 10.3287 14.3444 10.685C13.9253 11.1041 13.2317 11.0404 12.7416 10.707C11.398 9.79292 9.48593 9.88667 8.27209 11.1005L4.73655 14.636C3.36972 16.0029 3.36972 18.219 4.73655 19.5858C6.10339 20.9526 8.31947 20.9526 9.6863 19.5858L10.747 18.5251C11.1375 18.1346 11.7706 18.1346 12.1612 18.5251C12.5517 18.9157 12.5517 19.5488 12.1612 19.9394L11.1005 21C8.95263 23.1479 5.47022 23.1479 3.32234 21C1.17445 18.8521 1.17445 15.3697 3.32234 13.2218L6.85787 9.6863Z"/></svg></a>R2. Document as you go: keep every task resumable</h2>
+
+<p dir="auto" dir="auto"><strong>Rule.</strong> Agent work gets interrupted all the time: laptop off, token limit, lost connection, a new idea, a change of direction. So agents document continuously, and any agent or model can resume from the notes alone, without me re-explaining anything.</p>
+
+<p dir="auto" dir="auto"><strong>Rules for agents</strong></p>
+
+<ol>
+<li>Before starting a task, create one progress file for it in the project (for example <code>PROGRESS.md</code>). One file per task, not many.</li>
+<li>It holds: the task as I gave it, a checklist (done, in progress, next), the files checked or changed, key decisions and why, open problems, and the next step.</li>
+<li>Update it after every completed step, not at the end. Write it so a fresh agent with no chat history can continue.</li>
+<li>Keep it right-sized: enough for a successor to resume, nothing more. No repetition, no play-by-play, no pasted code or logs (point to the file). Aim for one screen; fold finished items into one line each.</li>
+<li>When I change direction, record the change and why, and mark the replaced items as dropped.</li>
+<li>When resuming, read the progress file first, check it against the real files, then continue.</li>
+<li>Use the same standard for documenting code bases, tasks, issues and features. When one is finished, leave a short record: what was done, why, how to verify it, known limits.</li>
+</ol>
+
+<p dir="auto" dir="auto"><strong>Red flags:</strong> no progress file; notes written only at the end; a successor would have to ask me what happened; a file nobody can read in a minute or two.</p>
+
+<h2 dir="auto" id="r3-pareto-8020-do-the-vital-few-first"><a href="#r3-pareto-8020-do-the-vital-few-first" class="anchor-link" aria-label="Anchor link"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" style="vertical-align:middle;fill:gray;"><path d="M13.2218 3.32234C15.3697 1.17445 18.8521 1.17445 21 3.32234C23.1479 5.47022 23.1479 8.95263 21 11.1005L17.4645 14.636C15.3166 16.7839 11.8342 16.7839 9.6863 14.636C9.48752 14.4373 9.30713 14.2271 9.14514 14.0075C8.90318 13.6796 8.97098 13.2301 9.25914 12.9419C9.73221 12.4688 10.5662 12.6561 11.0245 13.1435C11.0494 13.1699 11.0747 13.196 11.1005 13.2218C12.4673 14.5887 14.6834 14.5887 16.0503 13.2218L19.5858 9.6863C20.9526 8.31947 20.9526 6.10339 19.5858 4.73655C18.219 3.36972 16.0029 3.36972 14.636 4.73655L13.5754 5.79721C13.1849 6.18774 12.5517 6.18774 12.1612 5.79721C11.7706 5.40669 11.7706 4.77352 12.1612 4.383L13.2218 3.32234Z"/><path d="M6.85787 9.6863C8.90184 7.64233 12.2261 7.60094 14.3494 9.42268C14.7319 9.75083 14.7008 10.3287 14.3444 10.685C13.9253 11.1041 13.2317 11.0404 12.7416 10.707C11.398 9.79292 9.48593 9.88667 8.27209 11.1005L4.73655 14.636C3.36972 16.0029 3.36972 18.219 4.73655 19.5858C6.10339 20.9526 8.31947 20.9526 9.6863 19.5858L10.747 18.5251C11.1375 18.1346 11.7706 18.1346 12.1612 18.5251C12.5517 18.9157 12.5517 19.5488 12.1612 19.9394L11.1005 21C8.95263 23.1479 5.47022 23.1479 3.32234 21C1.17445 18.8521 1.17445 15.3697 3.32234 13.2218L6.85787 9.6863Z"/></svg></a>R3. Pareto (80/20): do the vital few first</h2>
+
+<p dir="auto" dir="auto"><strong>Rule.</strong> Roughly 20% of the items drive roughly 80% of the impact. Before working through a set of items, find that 20% and do it first.</p>
+
+<p dir="auto" dir="auto"><strong>Rules for agents</strong></p>
+
+<ol>
+<li>Survey first: list every candidate (files, packages, bugs, tasks) before fixing any. Keep the survey cheap; it is not a project of its own.</li>
+<li>Rank by impact (severity, exposure, cost of failure), not by discovery order or file path. State the criteria you used.</li>
+<li>Work the top of the ranking first. After each batch, re-check what impact remains, and stop or ask when the rest adds little.</li>
+<li>Don't walk items one by one (file by file, package by package) unless that order is also the impact order.</li>
+<li>Report what you deferred and why.</li>
+</ol>
+
+<p dir="auto" dir="auto"><strong>Example.</strong> Fixing vulnerabilities: scan the whole project, rank the findings by severity and exposure, fix the critical few first. Don't open each file or package in turn and fix whatever turns up.</p>
+
+<p dir="auto" dir="auto"><strong>Red flags:</strong> no ranking exists; low-severity or cosmetic items fixed while critical ones remain; "I'll just go alphabetically".</p>
+
+<h2 dir="auto" id="r4-clean-code-and-human-readability-write-for-people-first"><a href="#r4-clean-code-and-human-readability-write-for-people-first" class="anchor-link" aria-label="Anchor link"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" style="vertical-align:middle;fill:gray;"><path d="M13.2218 3.32234C15.3697 1.17445 18.8521 1.17445 21 3.32234C23.1479 5.47022 23.1479 8.95263 21 11.1005L17.4645 14.636C15.3166 16.7839 11.8342 16.7839 9.6863 14.636C9.48752 14.4373 9.30713 14.2271 9.14514 14.0075C8.90318 13.6796 8.97098 13.2301 9.25914 12.9419C9.73221 12.4688 10.5662 12.6561 11.0245 13.1435C11.0494 13.1699 11.0747 13.196 11.1005 13.2218C12.4673 14.5887 14.6834 14.5887 16.0503 13.2218L19.5858 9.6863C20.9526 8.31947 20.9526 6.10339 19.5858 4.73655C18.219 3.36972 16.0029 3.36972 14.636 4.73655L13.5754 5.79721C13.1849 6.18774 12.5517 6.18774 12.1612 5.79721C11.7706 5.40669 11.7706 4.77352 12.1612 4.383L13.2218 3.32234Z"/><path d="M6.85787 9.6863C8.90184 7.64233 12.2261 7.60094 14.3494 9.42268C14.7319 9.75083 14.7008 10.3287 14.3444 10.685C13.9253 11.1041 13.2317 11.0404 12.7416 10.707C11.398 9.79292 9.48593 9.88667 8.27209 11.1005L4.73655 14.636C3.36972 16.0029 3.36972 18.219 4.73655 19.5858C6.10339 20.9526 8.31947 20.9526 9.6863 19.5858L10.747 18.5251C11.1375 18.1346 11.7706 18.1346 12.1612 18.5251C12.5517 18.9157 12.5517 19.5488 12.1612 19.9394L11.1005 21C8.95263 23.1479 5.47022 23.1479 3.32234 21C1.17445 18.8521 1.17445 15.3697 3.32234 13.2218L6.85787 9.6863Z"/></svg></a>R4. Clean code and human readability: write for people first</h2>
+
+<p dir="auto" dir="auto"><strong>Rule.</strong> Every file (code, docs, configs, commit messages) must follow clean code principles and be easy for a human to read, in clear natural language. AI readability comes for free; human readability does not, so protect that one. Clean code principles are a living baseline: today that means Robert C. Martin's <em>Clean Code</em>, and the baseline may change as the field and AI tools evolve.</p>
+
+<p dir="auto" dir="auto"><strong>Rules for agents</strong></p>
+
+<ol>
+<li>Write for the next human reader, who has no context. If a person would need an explanation to follow it, rewrite it.</li>
+<li>Use plain, specific words. Name things for what they are or do. Define any acronym or jargon the first time it appears.</li>
+<li>Apply the baseline principles (<em>Clean Code</em>): intention-revealing names, small functions that do one thing, no duplicated logic, explicit error handling, comments only where the code can't speak for itself.</li>
+<li>Prefer obvious code over clever code. If a trick is unavoidable, add a short comment saying what it does and why. Comments and docs explain why, not what.</li>
+<li>Never format a file for machines at the cost of people (dense one-liners, cryptic abbreviations, prompt-style shorthand). Instead, write normally; agents handle plain text fine.</li>
+<li>Follow the baseline as written. If you think a principle is outdated or a better practice exists, say so in your plan and keep following the baseline until I update it here.</li>
+</ol>
+
+<p dir="auto" dir="auto"><strong>Red flags:</strong> you needed to re-read a passage to follow it; names like <code>data2</code>, <code>tmp</code>, <code>handleStuff</code>; a function that does several things; copy-pasted logic; a comment that repeats its code; a document only an agent could parse.</p>
+
+<h2 dir="auto" id="r5-long-term-maintainability-build-for-a-team-and-for-the-long-run"><a href="#r5-long-term-maintainability-build-for-a-team-and-for-the-long-run" class="anchor-link" aria-label="Anchor link"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" style="vertical-align:middle;fill:gray;"><path d="M13.2218 3.32234C15.3697 1.17445 18.8521 1.17445 21 3.32234C23.1479 5.47022 23.1479 8.95263 21 11.1005L17.4645 14.636C15.3166 16.7839 11.8342 16.7839 9.6863 14.636C9.48752 14.4373 9.30713 14.2271 9.14514 14.0075C8.90318 13.6796 8.97098 13.2301 9.25914 12.9419C9.73221 12.4688 10.5662 12.6561 11.0245 13.1435C11.0494 13.1699 11.0747 13.196 11.1005 13.2218C12.4673 14.5887 14.6834 14.5887 16.0503 13.2218L19.5858 9.6863C20.9526 8.31947 20.9526 6.10339 19.5858 4.73655C18.219 3.36972 16.0029 3.36972 14.636 4.73655L13.5754 5.79721C13.1849 6.18774 12.5517 6.18774 12.1612 5.79721C11.7706 5.40669 11.7706 4.77352 12.1612 4.383L13.2218 3.32234Z"/><path d="M6.85787 9.6863C8.90184 7.64233 12.2261 7.60094 14.3494 9.42268C14.7319 9.75083 14.7008 10.3287 14.3444 10.685C13.9253 11.1041 13.2317 11.0404 12.7416 10.707C11.398 9.79292 9.48593 9.88667 8.27209 11.1005L4.73655 14.636C3.36972 16.0029 3.36972 18.219 4.73655 19.5858C6.10339 20.9526 8.31947 20.9526 9.6863 19.5858L10.747 18.5251C11.1375 18.1346 11.7706 18.1346 12.1612 18.5251C12.5517 18.9157 12.5517 19.5488 12.1612 19.9394L11.1005 21C8.95263 23.1479 5.47022 23.1479 3.32234 21C1.17445 18.8521 1.17445 15.3697 3.32234 13.2218L6.85787 9.6863Z"/></svg></a>R5. Long-term maintainability: build for a team and for the long run</h2>
+
+<p dir="auto" dir="auto"><strong>Rule.</strong> Design every codebase and its logic so a team of developers, not one person, can maintain it for a very long time: add features, remove features and change them, without the code decaying into spaghetti. Use best practices and standard structure from the start, so quality survives every later change.</p>
+
+<p dir="auto" dir="auto"><strong>Rules for agents</strong></p>
+
+<ol>
+<li>Use the standard structure and conventions of the language and framework. No private layouts that only you understand.</li>
+<li>Give every module one clear responsibility and a small, explicit interface. Keep dependencies one-way, never circular.</li>
+<li>Make every change small: prefer the one that modifies and adds the fewest lines, and keep each feature's code in one place so removing it means deleting that place. Never trade standard structure or best practice for fewer lines.</li>
+<li>Isolate external services, libraries and configuration behind one boundary each, so they can be replaced without touching the rest.</li>
+<li>Make it easy for a newcomer: how to run, test, build and deploy is written down (per R2.7), and tests cover the places where change is risky.</li>
+<li>Don't leave shortcuts that become permanent (hidden global state, magic values, undocumented setup). If one is unavoidable, record it with the reason as known debt.</li>
+<li>R5 is the goal, R1 is the path: reach this design through small verified steps (smallest working version first, then one increment per commit), never in one big task.</li>
+</ol>
+
+<p dir="auto" dir="auto"><strong>Red flags:</strong> only one person can explain a part; changing one feature breaks unrelated ones; a feature can't be deleted without touching many files; circular dependencies; setup steps that live in someone's head; "temporary" hacks that outlive their week.</p>
+
+<h2 dir="auto" id="small-principles"><a href="#small-principles" class="anchor-link" aria-label="Anchor link"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" style="vertical-align:middle;fill:gray;"><path d="M13.2218 3.32234C15.3697 1.17445 18.8521 1.17445 21 3.32234C23.1479 5.47022 23.1479 8.95263 21 11.1005L17.4645 14.636C15.3166 16.7839 11.8342 16.7839 9.6863 14.636C9.48752 14.4373 9.30713 14.2271 9.14514 14.0075C8.90318 13.6796 8.97098 13.2301 9.25914 12.9419C9.73221 12.4688 10.5662 12.6561 11.0245 13.1435C11.0494 13.1699 11.0747 13.196 11.1005 13.2218C12.4673 14.5887 14.6834 14.5887 16.0503 13.2218L19.5858 9.6863C20.9526 8.31947 20.9526 6.10339 19.5858 4.73655C18.219 3.36972 16.0029 3.36972 14.636 4.73655L13.5754 5.79721C13.1849 6.18774 12.5517 6.18774 12.1612 5.79721C11.7706 5.40669 11.7706 4.77352 12.1612 4.383L13.2218 3.32234Z"/><path d="M6.85787 9.6863C8.90184 7.64233 12.2261 7.60094 14.3494 9.42268C14.7319 9.75083 14.7008 10.3287 14.3444 10.685C13.9253 11.1041 13.2317 11.0404 12.7416 10.707C11.398 9.79292 9.48593 9.88667 8.27209 11.1005L4.73655 14.636C3.36972 16.0029 3.36972 18.219 4.73655 19.5858C6.10339 20.9526 8.31947 20.9526 9.6863 19.5858L10.747 18.5251C11.1375 18.1346 11.7706 18.1346 12.1612 18.5251C12.5517 18.9157 12.5517 19.5488 12.1612 19.9394L11.1005 21C8.95263 23.1479 5.47022 23.1479 3.32234 21C1.17445 18.8521 1.17445 15.3697 3.32234 13.2218L6.85787 9.6863Z"/></svg></a>Small principles</h2>
+
+<p dir="auto" dir="auto">Lowest priority, below R1 to R5. One line each.</p>
+
+<ul>
+<li><strong>Boy Scout rule:</strong> leave code better than you found it. If you spot something ugly or against best practice while working on something else, fix it when the fix is simple, cheap and breaks nothing; otherwise mention it in your summary.</li>
+<li><strong>Style consistency:</strong> match the existing style of the codebase (naming, structure, formatting). If you know a better or more standard style, ask me before using it. If I approve, apply the new style from that point on.</li>
+<li><strong>DRY (don't repeat yourself):</strong> avoid duplicated logic; extract shared code into one place.</li>
+<li><strong>KISS (keep it simple):</strong> prefer the simpler solution, as long as it is still best practice and standard.</li>
+</ul>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('.anchor-link').forEach(function(anchor) {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                var url = window.location.origin + window.location.pathname + anchor.getAttribute('href');
+                if (navigator.clipboard) {
+                    navigator.clipboard.writeText(url);
+                }
+            });
+        });
+    });
+    </script>
+</body>
+</html>
