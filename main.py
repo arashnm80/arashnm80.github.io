@@ -51,7 +51,7 @@ def convert_md_to_html(md_content, title):
     <meta name="twitter:title" content="{title}">
     <meta name="twitter:image" content="{image_url}">
 
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="/styles.css">
     {{{{{{google_anylitics}}}}}}
 </head>
 <body>
@@ -190,7 +190,8 @@ def generate_blog(input_folder='posts', output_folder='public'):
             title = filename.replace('.md', '').replace('-', ' ')
             html_content = convert_md_to_html(md_content, title)
 
-            if input_folder == "posts" and filename != "index.md":
+            is_home_page = input_folder == "posts" and filename == "index.md"
+            if input_folder.startswith("posts") and not is_home_page:
                 last_update = get_last_commit_date(os.path.join(input_folder, filename))
                 html_content = add_last_update(html_content, last_update)
 
@@ -208,6 +209,14 @@ def generate_blog(input_folder='posts', output_folder='public'):
 
     print(f'Generated {len(md_files)} HTML files from {input_folder}.')
 
+def generate_post_sections():
+    """Build each subfolder of posts/ (for example posts/ai-rules/) into the same subfolder of public/."""
+    for name in sorted(os.listdir("posts")):
+        section_folder = os.path.join("posts", name)
+        if os.path.isdir(section_folder):
+            generate_blog(section_folder, os.path.join("public", name))
+
+
 def generate_pages_list(output_file="pages_list.txt"):
     # Specify the folder path
     folder_path = "public"
@@ -221,8 +230,13 @@ def generate_pages_list(output_file="pages_list.txt"):
         print(f"Error: Permission denied when accessing '{folder_path}'.")
         return
     
-    # Filter out directories (optional, remove if you want directories too)
-    files = [f for f in files if os.path.isfile(os.path.join(folder_path, f))]
+    # Keep files, and add the pages inside section subfolders (for example ai-rules/qa.html)
+    section_pages = [
+        f"{name}/{page}"
+        for name in sorted(files) if os.path.isdir(os.path.join(folder_path, name))
+        for page in sorted(os.listdir(os.path.join(folder_path, name))) if page.endswith(".html")
+    ]
+    files = [f for f in files if os.path.isfile(os.path.join(folder_path, f))] + section_pages
     
     # Write to output file
     with open(output_file, "w") as f:
@@ -280,6 +294,7 @@ if __name__ == '__main__':
 
     # generate pages
     generate_blog("posts", "public")
+    generate_post_sections()
     generate_blog("weeks", "public")
     generate_blog("custom-pages", "public")
 

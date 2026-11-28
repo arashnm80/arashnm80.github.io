@@ -2,5 +2,4 @@ venv/
 .vscode/
 __pycache__/
 # symlinks to the originals in private-book; a dangling link breaks the Pages upload
-posts/rules-for-ai-agents.md
-posts/rules-for-ai-agents-documentation.md
+posts/ai-rules/
