@@ -49,6 +49,7 @@ priority.html
 choice.html
 fight.html
 lesswrong.html
+rules-for-ai-agents-documentation.html
 effort-for-keeping-plants-alive.html
 micro-principle.html
 week-1291.html
