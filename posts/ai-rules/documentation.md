@@ -2,7 +2,7 @@
 
 ## How to use this document
 
-These rules say how AI agents write and organize technical documentation in any project. They extend the general [development rules](https://arashnm80.com/ai-rules/development) (R1 to R5), mainly R2 (document as you go), R4 (human readability) and R5 (long-term maintainability). When the two conflict, the general rules win. A project may add its own rules on top (for example, which tracker and docs site it uses); it may not lower these.
+These rules say how AI agents write and organize technical documentation in any project. They extend the general [development rules](https://arashnm80.com/ai-rules/development) (R1 to R6), mainly R2 (document as you go), R4 (human readability) and R5 (long-term maintainability). When the two conflict, the general rules win. A project may add its own rules on top (for example, which tracker and docs site it uses); it may not lower these.
 
 Two words used below: the **docs home** is the one place documentation lives (a docs repository or a `docs/` folder), and the **tracker** is the issue tracker (Linear, Jira, GitHub Issues). Cite rules as D1, D2 and so on.
 

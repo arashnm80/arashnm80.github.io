@@ -9,7 +9,7 @@ This is the single source of truth for how AI agents write code in my projects. 
 3. When you plan, cite the rule numbers that shaped the plan (for example, "split per R1").
 4. Never edit this document unless explicitly asked.
 
-**Priority:** R1 matters most, then R2, R3, R4 and R5 in that order, then the small principles. When rules conflict, the higher one wins.
+**Priority:** R1 matters most, then R2, R3, R4, R5 and R6 in that order, then the small principles. When rules conflict, the higher one wins.
 
 ## R1. Gall's Law: grow complex systems from simple ones that work
 
@@ -82,7 +82,7 @@ This is the single source of truth for how AI agents write code in my projects. 
 
 1. Use the standard structure and conventions of the language and framework. No private layouts that only you understand.
 2. Give every module one clear responsibility and a small, explicit interface. Keep dependencies one-way, never circular.
-3. Make every change small: prefer the one that modifies and adds the fewest lines, and keep each feature's code in one place so removing it means deleting that place. Never trade standard structure or best practice for fewer lines.
+3. Keep each feature's code in one place, so removing it means deleting that place. Keep every change and the whole codebase small (per R6), but never trade standard structure or best practice for fewer lines.
 4. Isolate external services, libraries and configuration behind one boundary each, so they can be replaced without touching the rest.
 5. Make it easy for a newcomer: how to run, test, build and deploy is written down (per R2.7), and tests cover the places where change is risky.
 6. Don't leave shortcuts that become permanent (hidden global state, magic values, undocumented setup). If one is unavoidable, record it with the reason as known debt.
@@ -90,11 +90,28 @@ This is the single source of truth for how AI agents write code in my projects. 
 
 **Red flags:** only one person can explain a part; changing one feature breaks unrelated ones; a feature can't be deleted without touching many files; circular dependencies; setup steps that live in someone's head; "temporary" hacks that outlive their week.
 
+## R6. Small codebase: the smallest correct solution wins
+
+**Rule.** Keep the codebase as small as it can be. For every task, choose the smallest solution that is correct and follows best practice. Size never beats correctness or quality: when they conflict, R4 and R5 win.
+
+**Why.** Every line is a line someone must read, test and change for years. A small codebase stays easy to understand and safe to change; a bloated one hides bugs and slows every later task.
+
+**Rules for agents**
+
+1. Reuse before you write: look for what already exists in the codebase, the standard library or a dependency already in use.
+2. Write only what the current task needs. No speculative features, options, layers or "just in case" code (YAGNI: you aren't gonna need it).
+3. Prefer the change that adds and modifies the fewest lines. If your solution is much larger than the problem, stop and look for a simpler one; if none exists, say why in your plan.
+4. Delete as you go: remove dead code, unused files and dependencies, and anything your change made obsolete. Removing code is a valid solution.
+5. Add a dependency only when it saves far more code than it costs to keep. Never pull in a large library for a small job.
+6. Small means less code, not denser code. Never shrink code with clever one-liners, cryptic names, or by skipping error handling, validation or tests; instead, find a simpler design.
+
+**Red flags:** a long diff for a small fix; new code that duplicates what already exists; abstractions, flags or parameters with one caller and no current need; commented-out or unreachable code; a big dependency used for one function.
+
 ## Small principles
 
-Lowest priority, below R1 to R5. One line each.
+Lowest priority, below R1 to R6. One line each.
 
 - **Boy Scout rule:** leave code better than you found it. If you spot something ugly or against best practice while working on something else, fix it when the fix is simple, cheap and breaks nothing; otherwise mention it in your summary.
 - **Style consistency:** match the existing style of the codebase (naming, structure, formatting). If you know a better or more standard style, ask me before using it. If I approve, apply the new style from that point on.
 - **DRY (don't repeat yourself):** avoid duplicated logic; extract shared code into one place.
-- **KISS (keep it simple):** prefer the simpler solution, as long as it is still best practice and standard.
+- **KISS (keep it simple):** prefer the simpler solution, as long as it is still best practice and standard (R6 covers size).
